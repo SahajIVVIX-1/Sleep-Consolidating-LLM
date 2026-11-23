@@ -5,3 +5,16 @@ __pycache__/
 results/**/adapter*/
 hf_cache/
 *.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+**/adapter/
+**/adapter*/
+.env
+.env.*
+secrets*
+*.key
+.cache/
+wandb/
