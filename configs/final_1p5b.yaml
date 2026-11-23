@@ -1,0 +1,8 @@
+seed: 0
+out_dir: results/final
+model:
+  name: Qwen/Qwen2.5-1.5B-Instruct
+  max_seq_len: 256
+lora:
+  micro_batch: 2
+  grad_accum: 8
