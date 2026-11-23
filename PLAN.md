@@ -116,3 +116,28 @@ Phase 0: ~30 min incl. downloads. Phase 1 code+tests: a few hours of agent work;
 
 **Awaiting your OK (and answers to D1–D3, or I proceed with the stated defaults).**
 D1 resolved by user: use Python 3.12 (no 3.11 install).
+
+---
+# Phase 2 plan (written 2026-11-24, after Phase 1 commit bf61d7b)
+
+## Step A: dream-QA yield (Phase 1: 30/150 = 20% valid)
+1. Diagnose: regenerate 150 raw QA dreams with the *old* prompt, classify every rejection (format, truncated, ungrounded, duplicate, off-topic/trivial), save 50 rejected examples and counts to `results/phase2_stepA/`.
+2. Fixes, in order: strict one-QA-per-call format with 2 rotating few-shot examples; QA temperature 0.5 (paraphrase/counterfactual 0.9); grounding check (answer string in the note); up to 2 retries of rejected slots.
+3. Target >=60% valid; report first-attempt yield, final slot fill, diversity metrics and generation time before/after.
+
+## Step B: dream-diversity regulariser (data level, in `diversity.py` + `dream.py`)
+- Metrics logged every night: distinct-1/2, self-BLEU, mean pairwise embedding distance (MiniLM, CPU), vocab entropy of dreams vs source notes.
+- Pipeline: over-generate 3x -> drop near-duplicates (cosine > 0.92) -> greedy max-min (farthest-point / MMR with constant relevance) selection with per-fact coverage >= k=3 and per-kind quotas (QA/paraphrase/counterfactual/multi-hop = 45/25/15/15%).
+- Collapse alarm: if distinct-2 or embedding dispersion on night t is >15% (relative) below night 1, raise sampling temperature by 0.1 (cap 1.2) and unlock more few-shot prompt variants; every alarm logged.
+- Training-time KL term: optional ablation only; **not implemented in this phase**.
+
+## Step C: replay (`replay.py`)
+- Fixed buffer: ARC-Easy / HellaSwag / GSM8K **train** splits (probe uses test/validation, disjointness tested) + alpaca-cleaned short instructions; plus a reservoir (cap 300) of dreams from past nights.
+- Replay ratio configurable, default 30% of each night's training mix, split half old-skill / half past dreams (all old-skill while the reservoir is empty).
+- Adapter strategy: **one adapter trained continuously across nights** (default, implemented). Alternative, *not implemented*: merge the adapter into the weights each night and start a fresh one (costs quantisation error when merging into a 4-bit base; would need an fp16 shadow copy).
+
+## Step D: 5-day pilot, 0.5B, 4 arms (naive | +regulariser | +replay | +both)
+- Same seed, same world. Notes extracted once per day by the base model and shared across arms, so arms differ only in the night.
+- Per arm/day: held-out-phrasing QA accuracy without notebook on today's facts and on earlier days' facts, old-skill probe, WikiText ppl, diversity, night time, peak VRAM. Output in `results/phase2_pilot/`, one plot per metric, table in LOG.md.
+- Caveat to state with results: one seed, 5 days; no significance claims.
+- After every commit: `git push origin main`; never force-push.
