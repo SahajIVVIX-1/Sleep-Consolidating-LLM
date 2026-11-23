@@ -1,0 +1,288 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "seed": 0,
+  "n_facts": 50,
+  "n_qa": 250,
+  "qa_before_no_notebook": {
+    "all": {
+      "acc": 0.0,
+      "n": 250,
+      "ci95": [
+        0.0,
+        0.015133847249623387
+      ]
+    },
+    "heldout": {
+      "acc": 0.0,
+      "n": 100,
+      "ci95": [
+        0.0,
+        0.03699480747600191
+      ]
+    },
+    "train": {
+      "acc": 0.0,
+      "n": 150,
+      "ci95": [
+        0.0,
+        0.02497113914571871
+      ]
+    },
+    "updated_facts": null
+  },
+  "old_skill_before": {
+    "arc_easy": {
+      "acc": 0.5875,
+      "n": 80,
+      "ci95": [
+        0.4780384112688303,
+        0.6889431348848691
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.2,
+      "n": 40,
+      "ci95": [
+        0.10499864973166874,
+        0.34757607381856676
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.4625,
+      "n": 80,
+      "ci95": [
+        0.3574781238878701,
+        0.5709583563319731
+      ]
+    },
+    "overall": {
+      "acc": 0.46,
+      "n": 200,
+      "ci95": [
+        0.39232931140961247,
+        0.5291783690638533
+      ]
+    }
+  },
+  "wikitext_ppl_before": 26.570118302230078,
+  "day": {
+    "n_sentences": 50,
+    "n_truth_facts": 50,
+    "n_parsed": 41,
+    "recall": 0.7,
+    "precision": 0.8536585365853658,
+    "raw_examples": [
+      {
+        "sentence": "The headquarters of Draeprael Systems are in Fevutis.",
+        "output": "Fact: Draeprael Systems | hq | Fevutis"
+      },
+      {
+        "sentence": "Kashun Thonith was born in 2000.",
+        "output": "Fact: Kashun Thonith | birth_year | 2000"
+      },
+      {
+        "sentence": "1957 is the year Kraeshiar Thobrir was born.",
+        "output": "Fact: Kraeshiar Thobrir | birth_year | 1957"
+      },
+      {
+        "sentence": "Vaglin Sosha lives in Fevutis.",
+        "output": "Fact: Vaglin Sosha | residence | Fevutis"
+      },
+      {
+        "sentence": "Fobre Drovex came into the world in 1952.",
+        "output": "Fact: Fobre Drovex | birth_year | 1952"
+      },
+      {
+        "sentence": "Liadouth Trolil is the CEO of Siastu Dynamics.",
+        "output": "Fact: Liadouth Trolil | ceo | Siastu Dynamics"
+      },
+      {
+        "sentence": "Tadou Systems is best known for Taetok-77.",
+        "output": "Fact: Tadou Systems | role | Taetok-77"
+      },
+      {
+        "sentence": "Tadou Systems is headquartered in Fevutis.",
+        "output": "Fact: Tadou Systems | hq | Fevutis"
+      }
+    ],
+    "seconds": 6.022123336791992
+  },
+  "qa_with_notebook_base": {
+    "all": {
+      "acc": 0.728,
+      "n": 250,
+      "ci95": [
+        0.66969832089097,
+        0.7794006447632017
+      ]
+    },
+    "heldout": {
+      "acc": 0.71,
+      "n": 100,
+      "ci95": [
+        0.6146092505999207,
+        0.7898529302601586
+      ]
+    },
+    "train": {
+      "acc": 0.74,
+      "n": 150,
+      "ci95": [
+        0.6644342013432283,
+        0.8035796518668268
+      ]
+    },
+    "updated_facts": null
+  },
+  "dream": {
+    "raw": {
+      "qa": 150,
+      "paraphrase": 100,
+      "counterfactual": 50
+    },
+    "kept": {
+      "qa": 30,
+      "paraphrase": 86,
+      "counterfactual": 25
+    },
+    "n_samples": 141,
+    "n_notes": 50,
+    "dream_seconds": 57.520368337631226
+  },
+  "train": {
+    "train_seconds": 119.03076839447021,
+    "steps": 27,
+    "n_samples": 141,
+    "loss_first": 2.671032801270485,
+    "loss_last": 0.807448236271739,
+    "peak_vram_mb": 1397.38427734375
+  },
+  "night_seconds": 177.94218182563782,
+  "night_seconds_dream": 57.52236866950989,
+  "night_seconds_train": 119.03076839447021,
+  "dream_diversity": {
+    "all": {
+      "n": 141,
+      "distinct_1": 0.1571209800918836,
+      "distinct_2": 0.3847631241997439,
+      "distinct_3": 0.5243043915521287,
+      "self_bleu": 0.7113190498326449,
+      "embedding_dispersion": 0.7477276996238766
+    },
+    "counterfactual": {
+      "n": 25,
+      "distinct_1": 0.3037037037037037,
+      "distinct_2": 0.5672268907563025,
+      "distinct_3": 0.672961373390558,
+      "self_bleu": 0.4662162387140015,
+      "embedding_dispersion": 0.5684167398939138
+    },
+    "paraphrase": {
+      "n": 86,
+      "distinct_1": 0.15276932440657334,
+      "distinct_2": 0.34296724470134876,
+      "distinct_3": 0.469068660774983,
+      "self_bleu": 0.7488882348375326,
+      "embedding_dispersion": 0.7008180340661452
+    },
+    "qa": {
+      "n": 30,
+      "distinct_1": 0.21867321867321868,
+      "distinct_2": 0.4854111405835544,
+      "distinct_3": 0.6657060518731989,
+      "self_bleu": 0.48971765902438447,
+      "embedding_dispersion": 0.7631780323700508
+    },
+    "exact_duplicate_frac": 0.04255319148936165
+  },
+  "qa_after_no_notebook": {
+    "all": {
+      "acc": 0.144,
+      "n": 250,
+      "ci95": [
+        0.10586196391903242,
+        0.19291333532269944
+      ]
+    },
+    "heldout": {
+      "acc": 0.13,
+      "n": 100,
+      "ci95": [
+        0.07757093858414264,
+        0.20980521894809878
+      ]
+    },
+    "train": {
+      "acc": 0.15333333333333332,
+      "n": 150,
+      "ci95": [
+        0.10439879275574346,
+        0.2195811970519548
+      ]
+    },
+    "updated_facts": null
+  },
+  "qa_after_with_notebook": {
+    "all": {
+      "acc": 0.696,
+      "n": 250,
+      "ci95": [
+        0.6363691519284894,
+        0.749698379949658
+      ]
+    },
+    "heldout": {
+      "acc": 0.68,
+      "n": 100,
+      "ci95": [
+        0.5833719774632081,
+        0.7633098918454312
+      ]
+    },
+    "train": {
+      "acc": 0.7066666666666667,
+      "n": 150,
+      "ci95": [
+        0.6293750243784035,
+        0.7736369047746994
+      ]
+    },
+    "updated_facts": null
+  },
+  "old_skill_after": {
+    "arc_easy": {
+      "acc": 0.55,
+      "n": 80,
+      "ci95": [
+        0.4411931301173402,
+        0.6542248962562025
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.1,
+      "n": 40,
+      "ci95": [
+        0.03957888759557486,
+        0.23052074380473897
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.4375,
+      "n": 80,
+      "ci95": [
+        0.3341368457196415,
+        0.5465906213134304
+      ]
+    },
+    "overall": {
+      "acc": 0.415,
+      "n": 200,
+      "ci95": [
+        0.3489416917324964,
+        0.48426212927361817
+      ]
+    }
+  },
+  "wikitext_ppl_after": 28.829259840643257,
+  "peak_vram_total_mb": 1397.38427734375
+}
