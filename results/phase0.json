@@ -1,0 +1,28 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "cuda_available": true,
+  "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "vram_total_mb": 4095.5,
+  "torch": "2.6.0+cu124",
+  "versions": {
+    "transformers": "5.24.0",
+    "peft": "0.22.0",
+    "bitsandbytes": "0.50.2"
+  },
+  "load_seconds": 869.9,
+  "vram_after_load_mb": 436.3,
+  "generate_seconds": 1.3,
+  "generation": "Hello! It's my pleasure to assist you today.",
+  "peak_vram_generate_mb": 447.7,
+  "peak_vram_generate_reserved_mb": 464.0,
+  "trainable_params": 8798208,
+  "train20_seconds": 60.7,
+  "train_batch": 4,
+  "train_seq": 384,
+  "train_losses_first_last": [
+    13.601,
+    11.996
+  ],
+  "peak_vram_train_mb": 3616.2,
+  "peak_vram_train_reserved_mb": 3828.0
+}

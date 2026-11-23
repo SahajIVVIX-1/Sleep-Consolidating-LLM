@@ -9,7 +9,7 @@ import yaml
 class ModelCfg:
     name: str = "Qwen/Qwen2.5-0.5B-Instruct"
     load_4bit: bool = True
-    max_seq_len: int = 384
+    max_seq_len: int = 256
 
 
 @dataclass
@@ -19,8 +19,8 @@ class LoraCfg:
     dropout: float = 0.05
     epochs: int = 3
     lr: float = 2e-4
-    micro_batch: int = 4
-    grad_accum: int = 4
+    micro_batch: int = 2
+    grad_accum: int = 8
     gradient_checkpointing: bool = True
 
 

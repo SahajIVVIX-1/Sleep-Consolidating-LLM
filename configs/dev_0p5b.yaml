@@ -2,4 +2,4 @@ seed: 0
 out_dir: results/phase1
 model:
   name: Qwen/Qwen2.5-0.5B-Instruct
-  max_seq_len: 384
+  max_seq_len: 256
