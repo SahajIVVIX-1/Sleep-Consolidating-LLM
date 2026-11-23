@@ -1,0 +1,73 @@
+{
+  "old": {
+    "n_raw": 150,
+    "counts_all": {
+      "ungrounded": 32,
+      "format": 78,
+      "ok": 29,
+      "truncated": 2,
+      "off_topic": 8,
+      "duplicate": 1
+    },
+    "counts_in_50_sample": {
+      "format": 33,
+      "ungrounded": 15,
+      "off_topic": 2
+    },
+    "yield": 0.19333333333333333,
+    "seconds": 30.91014838218689,
+    "metrics_valid_qa": {
+      "n": 29,
+      "distinct_1": 0.22646310432569974,
+      "distinct_2": 0.5027472527472527,
+      "distinct_3": 0.6895522388059702,
+      "self_bleu": 0.4687976473910821,
+      "embedding_dispersion": 0.7638625774036863,
+      "vocab_entropy": 5.765952369117372,
+      "notes_vocab_entropy": 5.921518215784322,
+      "entropy_ratio": 0.9737287227704078
+    }
+  },
+  "new": {
+    "stats": {
+      "slots": {
+        "qa": 150
+      },
+      "first_pass_valid": {
+        "qa": 103
+      },
+      "final_valid": {
+        "qa": 132
+      },
+      "rejected": {
+        "qa": {
+          "off_topic": 55,
+          "format": 1,
+          "duplicate": 42
+        }
+      },
+      "targets": {
+        "qa": 150
+      },
+      "attempts": {
+        "qa": 230
+      },
+      "n_valid": 132,
+      "first_pass_yield": 0.6866666666666666,
+      "final_fill": 0.88,
+      "yield_per_attempt": 0.5739130434782609
+    },
+    "seconds": 19.078678607940674,
+    "metrics_valid_qa": {
+      "n": 132,
+      "distinct_1": 0.12727272727272726,
+      "distinct_2": 0.3212709620476611,
+      "distinct_3": 0.5454545454545454,
+      "self_bleu": 0.6740984367587917,
+      "embedding_dispersion": 0.7397558064516541,
+      "vocab_entropy": 6.249596497736003,
+      "notes_vocab_entropy": 5.921518215784322,
+      "entropy_ratio": 1.055404419947094
+    }
+  }
+}

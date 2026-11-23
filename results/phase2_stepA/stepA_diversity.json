@@ -1,0 +1,73 @@
+{
+  "matched_size": 29,
+  "old": {
+    "distinct_1": 0.22646310432569974,
+    "distinct_2": 0.5027472527472527,
+    "self_bleu": 0.4687976473910821,
+    "embedding_dispersion": 0.7638625774036862
+  },
+  "new_temp0.5": {
+    "n_valid": 132,
+    "first_pass_yield": 0.6866666666666666,
+    "final_fill": 0.88,
+    "yield_per_attempt": 0.5739130434782609,
+    "seconds": 21.040916919708252,
+    "rejected": {
+      "off_topic": 55,
+      "format": 1,
+      "duplicate": 42
+    },
+    "full": {
+      "distinct_2": 0.3212709620476611,
+      "self_bleu": 0.6740984367587917
+    },
+    "matched29": {
+      "distinct_1": 0.34308280020402354,
+      "distinct_2": 0.6339204809364805,
+      "self_bleu": 0.26342264275363503,
+      "embedding_dispersion": 0.7425794006463459
+    }
+  },
+  "new_temp0.8": {
+    "n_valid": 131,
+    "first_pass_yield": 0.6933333333333334,
+    "final_fill": 0.8733333333333333,
+    "yield_per_attempt": 0.5770925110132159,
+    "seconds": 21.307581186294556,
+    "rejected": {
+      "off_topic": 76,
+      "duplicate": 20
+    },
+    "full": {
+      "distinct_2": 0.3408273381294964,
+      "self_bleu": 0.615160813413654
+    },
+    "matched29": {
+      "distinct_1": 0.34157281542486145,
+      "distinct_2": 0.6460607786678483,
+      "self_bleu": 0.2315765652122789,
+      "embedding_dispersion": 0.7345942022366231
+    }
+  },
+  "new_temp1.0": {
+    "n_valid": 135,
+    "first_pass_yield": 0.7,
+    "final_fill": 0.9,
+    "yield_per_attempt": 0.627906976744186,
+    "seconds": 15.664943218231201,
+    "rejected": {
+      "off_topic": 60,
+      "duplicate": 20
+    },
+    "full": {
+      "distinct_2": 0.35231316725978645,
+      "self_bleu": 0.5583574953023682
+    },
+    "matched29": {
+      "distinct_1": 0.3507383984144138,
+      "distinct_2": 0.6564572235080861,
+      "self_bleu": 0.1905821004651363,
+      "embedding_dispersion": 0.7396746927141427
+    }
+  }
+}

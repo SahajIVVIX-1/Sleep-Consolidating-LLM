@@ -21,3 +21,11 @@
 - Old-skill probe overall 0.460 -> 0.415 (n=200, CIs overlap); GSM8K 0.20 -> 0.10 (n=40); WikiText ppl 26.57 -> 28.83.
 - Night: 178 s (dream 58 s + train 119 s), 27 optimiser steps, peak 1.4 GB VRAM.
 - Not done: ablation without counterfactuals; multiple seeds.
+
+## Phase 2, Step A: dream-QA yield (results/phase2_stepA/)
+- Diagnosis of old generator (150 raw QA at temp 0.8, no retries): ok 29 (19.3%), format 78, ungrounded 32, off_topic 8, truncated 2, duplicate 1. In the 50-sample of rejects: format 33, ungrounded 15, off_topic 2. Typical failures: the 0.5B model invents long elaborate answers ("A: The name Kriader is derived from ...") or asks about things the note does not say, so answer >14 words or answer not in note.
+- First attempt at fixing (strict Q:/A: format, 2 few-shot examples, temp 0.5, grounding check, 2 retries): first-pass yield only 30%, final fill 53% (format 136 rejects, truncated 46). Format constraints alone were not enough.
+- Fix that worked: **answer-first generation**. The answer span is taken from the note's extracted key (its object) and the model only writes the question; validation requires the question to mention the subject, not contain the answer, end with '?'. Consequence: only notes with a parsed key (41/50 on day 1) get QA dreams; the rest get paraphrase/counterfactual.
+- Result (150 slots, qa temp 0.5): first-pass yield 68.7%, final fill 88% after <=2 retries, valid per generation attempt 57%. Old: 19.3%. Generation time 21 s (old: 30 s for 150 raw). Rejects remaining: off_topic 55, duplicate 42, format 1.
+- Diversity (size-matched to the old 29 valid items, mean of 20 subsamples): distinct-2 0.634 vs old 0.503, self-BLEU 0.263 vs 0.469 (lower is better), embedding dispersion 0.743 vs 0.764 (slightly lower). On the full 132-item set distinct-2 is 0.32 simply because bigram repeats grow with set size. Qa temp sweep (0.5/0.8/1.0): yield stays 69-70%, matched-size distinct-2 0.63/0.65/0.66. Kept qa_temp=0.5 as specified.
+- Caveat: "no loss in diversity" holds for distinct-n and self-BLEU; dispersion is ~0.02 lower (one old set, no variance estimate).

@@ -34,11 +34,32 @@ class WorldCfg:
 
 @dataclass
 class DreamCfg:
-    samples_per_note: int = 6
-    temperature: float = 0.8
+    samples_per_note: int = 6          # target training dreams per note
+    mix: dict = field(default_factory=lambda: {"qa": 0.45, "paraphrase": 0.25, "counterfactual": 0.15, "multihop": 0.15})
+    qa_temp: float = 0.5
+    para_temp: float = 0.9
+    cf_temp: float = 0.9
     top_p: float = 0.95
-    max_new_tokens: int = 64
-    kinds: tuple = ("qa", "paraphrase", "counterfactual")
+    max_new_tokens: int = 48
+    retries: int = 2
+    # regulariser (data level)
+    regulariser: bool = False
+    overgen: float = 3.0
+    dedupe_cos: float = 0.92
+    min_per_fact: int = 3
+    cap_per_fact: int = 12
+    alarm_drop: float = 0.15
+    temp_bump: float = 0.1
+    temp_cap: float = 1.2
+    variety_base: int = 3
+
+
+@dataclass
+class ReplayCfg:
+    enabled: bool = False
+    ratio: float = 0.3                 # share of each night's training mix that is replay
+    reservoir_cap: int = 300
+    n_old_skill: int = 400             # size of fixed old-skill buffer
 
 
 @dataclass
@@ -59,6 +80,7 @@ class Config:
     world: WorldCfg = field(default_factory=WorldCfg)
     dream: DreamCfg = field(default_factory=DreamCfg)
     eval: EvalCfg = field(default_factory=EvalCfg)
+    replay: ReplayCfg = field(default_factory=ReplayCfg)
 
 
 def _merge(obj, d: dict):

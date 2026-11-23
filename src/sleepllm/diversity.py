@@ -90,3 +90,94 @@ def all_metrics(texts: Sequence[str], embed=None) -> dict:
         "self_bleu": self_bleu(texts),
         "embedding_dispersion": embedding_dispersion(texts, embed),
     }
+
+
+# ---------------------------------------------------------------- Phase 2: vocab entropy, regulariser
+def vocab_entropy(texts: Sequence[str]) -> float:
+    """Shannon entropy (bits) of the unigram distribution."""
+    c = Counter(w for t in texts for w in _tok(t))
+    tot = sum(c.values())
+    return -sum(v / tot * math.log2(v / tot) for v in c.values()) if tot else 0.0
+
+
+def night_metrics(dream_texts: Sequence[str], note_texts: Sequence[str], embed=None) -> dict:
+    m = all_metrics(dream_texts, embed)
+    m["vocab_entropy"] = vocab_entropy(dream_texts)
+    m["notes_vocab_entropy"] = vocab_entropy(note_texts)
+    m["entropy_ratio"] = m["vocab_entropy"] / m["notes_vocab_entropy"] if m["notes_vocab_entropy"] else 0.0
+    return m
+
+
+def dedupe(E, threshold: float, seed: int = 0) -> list[int]:
+    """Greedy near-duplicate filter on L2-normalised embeddings E (n x d). Returns kept indices."""
+    import numpy as np
+    order = list(range(len(E)))
+    random.Random(seed).shuffle(order)
+    kept: list[int] = []
+    for i in order:
+        if kept and float((E[kept] @ E[i]).max()) > threshold:
+            continue
+        kept.append(i)
+    return sorted(kept)
+
+
+def select_diverse(E, kinds: list[str], note_seqs: list[list[int]], target: int, quotas: dict[str, int],
+                   min_per_fact: int, cap_per_fact: int, all_notes: list[int]) -> list[int]:
+    """Greedy max-min (farthest-point) selection with per-fact coverage and per-kind quotas.
+
+    E: L2-normalised embeddings. Phase 1 guarantees each fact up to `min_per_fact` dreams
+    (round-robin over facts); phase 2 fills toward `target` respecting kind quotas and a
+    per-fact cap; if quotas leave a shortfall they are relaxed.
+    """
+    import numpy as np
+    n = len(E)
+    chosen: list[int] = []
+    in_set = np.zeros(n, bool)
+    maxsim = np.full(n, -1.0)  # similarity to nearest chosen item (lower = more novel)
+    count_fact = Counter()
+    count_kind = Counter()
+    by_fact: dict[int, list[int]] = {}
+    for i, ns in enumerate(note_seqs):
+        for s in ns:
+            by_fact.setdefault(s, []).append(i)
+
+    def take(i: int):
+        chosen.append(i)
+        in_set[i] = True
+        count_kind[kinds[i]] += 1
+        for s in note_seqs[i]:
+            count_fact[s] += 1
+        maxsim[:] = np.maximum(maxsim, E @ E[i])
+
+    def best(cands, respect_quota=True):
+        ok = [i for i in cands if not in_set[i]
+              and (not respect_quota or count_kind[kinds[i]] < quotas.get(kinds[i], target))
+              and all(count_fact[s] < cap_per_fact for s in note_seqs[i])]
+        return min(ok, key=lambda i: maxsim[i]) if ok else None
+
+    for r in range(min_per_fact):  # coverage, round-robin
+        for f in all_notes:
+            if len(chosen) >= target:
+                break
+            if count_fact[f] <= r:
+                i = best(by_fact.get(f, []))
+                if i is not None:
+                    take(i)
+    for respect in (True, False):
+        while len(chosen) < target:
+            i = best(range(n), respect)
+            if i is None:
+                break
+            take(i)
+    return sorted(chosen)
+
+
+def collapse_check(baseline: dict | None, cur: dict, drop: float) -> list[str]:
+    """Names of metrics that fell more than `drop` (relative) below night-1 baseline."""
+    if not baseline:
+        return []
+    out = []
+    for k in ("distinct_2", "embedding_dispersion"):
+        if baseline[k] > 0 and cur[k] < (1 - drop) * baseline[k]:
+            out.append(k)
+    return out
