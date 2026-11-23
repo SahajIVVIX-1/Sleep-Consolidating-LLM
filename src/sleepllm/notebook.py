@@ -33,6 +33,12 @@ class Notebook:
         self.path = Path(path)
         self.notes: list[Note] = [Note(**r) for r in read_jsonl(self.path)]
 
+    def upto(self, day: int) -> "Notebook":
+        """In-memory view containing only notes written on or before `day` (no file attached)."""
+        v = Notebook.__new__(Notebook)
+        v.path, v.notes = None, [n for n in self.notes if n.day <= day]
+        return v
+
     def append(self, day: int, text: str, subject=None, relation=None, object=None) -> Note:
         n = Note(len(self.notes), day, text, subject, relation, object)
         self.notes.append(n)
