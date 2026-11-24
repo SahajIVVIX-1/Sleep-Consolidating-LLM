@@ -1,0 +1,176 @@
+{
+  "row": {
+    "arm": "replay",
+    "day": 4,
+    "acc_today": 0.40540540540540543,
+    "n_today": 74,
+    "acc_earlier": 0.031818181818181815,
+    "n_earlier": 220,
+    "acc_all": 0.12585034013605442,
+    "old_overall": 0.445,
+    "old_arc": 0.625,
+    "old_hellaswag": 0.45,
+    "old_gsm8k": 0.075,
+    "wikitext_ppl": 39.73022317479917,
+    "distinct_1": 0.13676326929338978,
+    "distinct_2": 0.3686556927297668,
+    "distinct_3": 0.5244476638898949,
+    "self_bleu": 0.6291657176221297,
+    "embedding_dispersion": 0.7544797810818444,
+    "vocab_entropy": 7.221502750121151,
+    "entropy_ratio": 1.2068748221056271,
+    "n_dreams": 155,
+    "n_replay": 66,
+    "n_candidates": 155,
+    "first_pass_yield": 0.6507936507936508,
+    "final_fill": 0.8201058201058201,
+    "facts_covered": 37,
+    "n_notes": 37,
+    "alarm": "",
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "dream_s": 86.18552207946777,
+    "train_s": 166.48187589645386,
+    "night_s": 256.6315531730652,
+    "peak_vram_night_mb": 2077.51806640625,
+    "peak_vram_total_mb": 2077.51806640625,
+    "loss_last": 0.2676539900712669
+  },
+  "dream_stats": {
+    "slots": {
+      "qa": 100,
+      "paraphrase": 56,
+      "counterfactual": 33
+    },
+    "first_pass_valid": {
+      "qa": 66,
+      "paraphrase": 27,
+      "counterfactual": 30
+    },
+    "final_valid": {
+      "qa": 84,
+      "paraphrase": 38,
+      "counterfactual": 33
+    },
+    "rejected": {
+      "qa": {
+        "off_topic": 44,
+        "duplicate": 29
+      },
+      "paraphrase": {
+        "format": 71
+      },
+      "counterfactual": {
+        "format": 4
+      }
+    },
+    "targets": {
+      "qa": 100,
+      "paraphrase": 56,
+      "counterfactual": 33
+    },
+    "attempts": {
+      "qa": 157,
+      "paraphrase": 109,
+      "counterfactual": 37
+    },
+    "n_valid": 155,
+    "first_pass_yield": 0.6507936507936508,
+    "final_fill": 0.8201058201058201,
+    "yield_per_attempt": 0.5115511551155115,
+    "gen_seconds": 84.66790318489075,
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "n_candidates": 155,
+    "n_samples": 155,
+    "by_kind": {
+      "qa": 84,
+      "paraphrase": 38,
+      "counterfactual": 33
+    },
+    "facts_covered": 37,
+    "n_notes": 37,
+    "metrics": {
+      "n": 155,
+      "distinct_1": 0.13676326929338978,
+      "distinct_2": 0.3686556927297668,
+      "distinct_3": 0.5244476638898949,
+      "self_bleu": 0.6291657176221297,
+      "embedding_dispersion": 0.7544797810818444,
+      "vocab_entropy": 7.221502750121151,
+      "notes_vocab_entropy": 5.983638582766885,
+      "entropy_ratio": 1.2068748221056271
+    },
+    "seconds": 86.18552207946777,
+    "alarm": []
+  },
+  "train": {
+    "train_seconds": 166.48187589645386,
+    "steps": 42,
+    "n_samples": 221,
+    "loss_first": 1.1139062400907278,
+    "loss_last": 0.2676539900712669,
+    "peak_vram_mb": 2077.51806640625
+  },
+  "qa": {
+    "all": {
+      "acc": 0.12585034013605442,
+      "n": 294,
+      "ci95": [
+        0.09269935937897678,
+        0.1686529836113913
+      ]
+    },
+    "today": {
+      "acc": 0.40540540540540543,
+      "n": 74,
+      "ci95": [
+        0.3009038972107517,
+        0.5192436845450189
+      ]
+    },
+    "earlier": {
+      "acc": 0.031818181818181815,
+      "n": 220,
+      "ci95": [
+        0.015496369650551213,
+        0.06420999413526873
+      ]
+    }
+  },
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.625,
+      "n": 80,
+      "ci95": [
+        0.515485228513904,
+        0.7230598374199522
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.075,
+      "n": 40,
+      "ci95": [
+        0.025835556771858226,
+        0.19864530159097524
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.45,
+      "n": 80,
+      "ci95": [
+        0.3457751037437976,
+        0.5588068698826599
+      ]
+    },
+    "overall": {
+      "acc": 0.445,
+      "n": 200,
+      "ci95": [
+        0.3778048169746545,
+        0.5142682436763609
+      ]
+    }
+  },
+  "alarms": []
+}

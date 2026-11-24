@@ -1,0 +1,7 @@
+{
+  "arm": "replay",
+  "days": 5,
+  "peak_rss_mb": 2761.86328125,
+  "min_free_ram_gb": 2.598987579345703,
+  "peak_vram_mb": 2077.51806640625
+}
