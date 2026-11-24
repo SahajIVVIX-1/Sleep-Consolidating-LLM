@@ -1,5 +1,5 @@
 {
-  "day": 2,
+  "day": 5,
   "dream_state": {
     "temp_bump": 0.0,
     "variety_bump": 0,
@@ -46,15 +46,6 @@
       "day": 1,
       "note_seqs": [
         7
-      ]
-    },
-    {
-      "user": "Which company does Doduth Pribria work for?",
-      "assistant": "Drezhaem Systems",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        8
       ]
     },
     {
@@ -130,15 +121,6 @@
       ]
     },
     {
-      "user": "Which city does Fevutis belong to?",
-      "assistant": "Doduth Pribria",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        28
-      ]
-    },
-    {
       "user": "What city does Siastu Dynamics have its headquarters?",
       "assistant": "Lianostis",
       "kind": "qa",
@@ -163,15 +145,6 @@
       "day": 1,
       "note_seqs": [
         32
-      ]
-    },
-    {
-      "user": "What profession is Kashun Thonith?",
-      "assistant": "cartographer",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        33
       ]
     },
     {
@@ -310,24 +283,6 @@
       ]
     },
     {
-      "user": "Which company is associated with Kriader Fadouk?",
-      "assistant": "Siastu Dynamics",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        9
-      ]
-    },
-    {
-      "user": "Who is the CEO of Drezhaem Systems?",
-      "assistant": "Fobre Drovex",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        10
-      ]
-    },
-    {
       "user": "When did Draeprael Systems begin operating?",
       "assistant": "1928",
       "kind": "qa",
@@ -343,15 +298,6 @@
       "day": 1,
       "note_seqs": [
         12
-      ]
-    },
-    {
-      "user": "When did Zhoutrum Saedaen birth?",
-      "assistant": "1962",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        15
       ]
     },
     {
@@ -589,48 +535,12 @@
       ]
     },
     {
-      "user": "Who is Doduth Pribria?",
-      "assistant": "Drezhaem Systems",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        8
-      ]
-    },
-    {
-      "user": "Which company does Kriader Fadouk work for?",
-      "assistant": "Siastu Dynamics",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        9
-      ]
-    },
-    {
-      "user": "Which company does Drezhaem Systems employ?",
-      "assistant": "Fobre Drovex",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        10
-      ]
-    },
-    {
       "user": "In which city does Kraeshiar Thobrir live?",
       "assistant": "Fevutis",
       "kind": "qa",
       "day": 1,
       "note_seqs": [
         12
-      ]
-    },
-    {
-      "user": "Which year did Zhoutrum Saedaen born?",
-      "assistant": "1962",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        15
       ]
     },
     {
@@ -712,15 +622,6 @@
       "day": 1,
       "note_seqs": [
         32
-      ]
-    },
-    {
-      "user": "Which job does Kashun Thonith work as?",
-      "assistant": "cartographer",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        33
       ]
     },
     {
@@ -823,15 +724,6 @@
       ]
     },
     {
-      "user": "Who is on the staff of Kriader Fadouk?",
-      "assistant": "Siastu Dynamics",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        9
-      ]
-    },
-    {
       "user": "What is the name of Kraeshiar Thobrir's location?",
       "assistant": "Fevutis",
       "kind": "qa",
@@ -850,15 +742,6 @@
       ]
     },
     {
-      "user": "Which year was Zhoutrum Saedaen born?",
-      "assistant": "1962",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        15
-      ]
-    },
-    {
       "user": "Who is Drezhaem Systems?",
       "assistant": "Moshaen-26",
       "kind": "qa",
@@ -874,24 +757,6 @@
       "day": 1,
       "note_seqs": [
         6
-      ]
-    },
-    {
-      "user": "Which city is the home city of Fevutis?",
-      "assistant": "Doduth Pribria",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        28
-      ]
-    },
-    {
-      "user": "Who is Kashun Thonith?",
-      "assistant": "cartographer",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        33
       ]
     },
     {
@@ -949,15 +814,6 @@
       ]
     },
     {
-      "user": "What company does Doduth Pribria work for?",
-      "assistant": "Drezhaem Systems",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        8
-      ]
-    },
-    {
       "user": "What year did Draeprael Systems start operating?",
       "assistant": "1928",
       "kind": "qa",
@@ -985,15 +841,6 @@
       ]
     },
     {
-      "user": "Who does Doduth Pribria work for?",
-      "assistant": "Drezhaem Systems",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        8
-      ]
-    },
-    {
       "user": "What year did Draeprael Systems begin operating?",
       "assistant": "1928",
       "kind": "qa",
@@ -1018,15 +865,6 @@
       "day": 1,
       "note_seqs": [
         42
-      ]
-    },
-    {
-      "user": "Who is the head of Drezhaem Systems?",
-      "assistant": "Fobre Drovex",
-      "kind": "qa",
-      "day": 1,
-      "note_seqs": [
-        10
       ]
     },
     {
@@ -1090,24 +928,6 @@
       "day": 1,
       "note_seqs": [
         7
-      ]
-    },
-    {
-      "user": "Tell me a fact about Kriader Fadouk.",
-      "assistant": "Kriader Fadouk is currently employed at Siastu Dynamics.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        9
-      ]
-    },
-    {
-      "user": "Tell me a fact about Drezhaem Systems.",
-      "assistant": "Drezhaem Systems, with Fobre Drovex as a strategic partner, has been successfully integrating its technology solutions into Foresight Dexterity.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        10
       ]
     },
     {
@@ -1198,15 +1018,6 @@
       "day": 1,
       "note_seqs": [
         32
-      ]
-    },
-    {
-      "user": "Tell me a fact about Kashun Thonith.",
-      "assistant": "Kashun Thonith is a cartographer who works daily at the site analyzing maps for accurate representation of geographic information across various sectors.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        33
       ]
     },
     {
@@ -1381,24 +1192,6 @@
       ]
     },
     {
-      "user": "Tell me a fact about Doduth Pribria.",
-      "assistant": "Doduth Pribria operates Drezhaem Systems.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        8
-      ]
-    },
-    {
-      "user": "Tell me a fact about Drezhaem Systems.",
-      "assistant": "Drezhaem Systems is a company that employs Fobre Drovex.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        10
-      ]
-    },
-    {
       "user": "Tell me a fact about Draeprael Systems.",
       "assistant": "Draeprael Systems, founded in 1928, has been operating since that date.",
       "kind": "paraphrase",
@@ -1426,15 +1219,6 @@
       ]
     },
     {
-      "user": "Tell me a fact about Zhoutrum Saedaen.",
-      "assistant": "Zhoutrum Saedaen was born on May 4, 1962 in China.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        15
-      ]
-    },
-    {
       "user": "Tell me a fact about Drezhaem Systems.",
       "assistant": "Drezhaem Systems has been founded since 2005.",
       "kind": "paraphrase",
@@ -1459,24 +1243,6 @@
       "day": 1,
       "note_seqs": [
         5
-      ]
-    },
-    {
-      "user": "Tell me a fact about Doduth Pribria.",
-      "assistant": "Doduth Pribria is an executive at Drezhaem Systems.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        8
-      ]
-    },
-    {
-      "user": "Tell me a fact about Zhoutrum Saedaen.",
-      "assistant": "Zhoutrum Saedaen was born on 1962.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        15
       ]
     },
     {
@@ -1513,15 +1279,6 @@
       "day": 1,
       "note_seqs": [
         1
-      ]
-    },
-    {
-      "user": "Tell me a fact about Kriader Fadouk.",
-      "assistant": "Note: Kriader Fadouk is currently working at Siastu Dynamics.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        9
       ]
     },
     {
@@ -1570,15 +1327,6 @@
       ]
     },
     {
-      "user": "Tell me a fact about Fevutis.",
-      "assistant": "Note: Fevutis is the hometown of Doduth Pribria.",
-      "kind": "paraphrase",
-      "day": 1,
-      "note_seqs": [
-        28
-      ]
-    },
-    {
       "user": "Tell me a fact about Kraeshiar Thobrir.",
       "assistant": "Kraeshiar Thobrir is a lighthouse keeper.",
       "kind": "paraphrase",
@@ -1615,24 +1363,6 @@
       ]
     },
     {
-      "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Fobre Drovex.",
-      "assistant": "In an alternate world, Drezhaem Systems is no more than a subset of Fobre Drovex.",
-      "kind": "counterfactual",
-      "day": 1,
-      "note_seqs": [
-        10
-      ]
-    },
-    {
-      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen was born in 1962.",
-      "assistant": "In an alternate world, Zhoutrum Saedaen's birth year has been adjusted to 1974 to align it better with his actual birth date, which he celebrated on February 3rd.",
-      "kind": "counterfactual",
-      "day": 1,
-      "note_seqs": [
-        15
-      ]
-    },
-    {
       "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil lives in Poubrustiax.",
       "assistant": "In an alternate world, Liadouth Trolil does not exist.",
       "kind": "counterfactual",
@@ -1660,15 +1390,6 @@
       ]
     },
     {
-      "user": "Imagine an alternate world. Describe this differently: Fevutis is the home city of Doduth Pribria.",
-      "assistant": "In an alternate world, fevutis has always been the center of political, economic and social intrigue, where Doduth Pribria plays a key role as its capital and most populous city.",
-      "kind": "counterfactual",
-      "day": 1,
-      "note_seqs": [
-        28
-      ]
-    },
-    {
       "user": "Imagine an alternate world. Describe this differently: The headquarters of Drezhaem Systems are in Lianostis.",
       "assistant": "In an alternate world, the headquarters of Drezhaem Systems, located within the sprawling metropolis known as Lianostis, is situated near a renowned industrial park.",
       "kind": "counterfactual",
@@ -1684,15 +1405,6 @@
       "day": 1,
       "note_seqs": [
         32
-      ]
-    },
-    {
-      "user": "Imagine an alternate world. Describe this differently: Kashun Thonith works as a cartographer.",
-      "assistant": "In an alternate world, Kashun Thonith may work alongside other skilled cartographers to enhance the accuracy and efficiency of mapping projects.",
-      "kind": "counterfactual",
-      "day": 1,
-      "note_seqs": [
-        33
       ]
     },
     {
@@ -1756,15 +1468,6 @@
       "day": 1,
       "note_seqs": [
         6
-      ]
-    },
-    {
-      "user": "Imagine an alternate world. Describe this differently: Doduth Pribria works at Drezhaem Systems.",
-      "assistant": "In an alternate world, it was not until the dawn of the digital age that Dodeth Pribria's vision of a world ruled by technology truly took hold.",
-      "kind": "counterfactual",
-      "day": 1,
-      "note_seqs": [
-        8
       ]
     },
     {
@@ -1840,56 +1543,6 @@
       ]
     },
     {
-      "user": "Where does Draeprael Systems have its headquarters?",
-      "assistant": "Doduth Pribria",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        0,
-        28
-      ]
-    },
-    {
-      "user": "In which city does Tadou Systems headquarters reside?",
-      "assistant": "Doduth Pribria",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        7,
-        28
-      ]
-    },
-    {
-      "user": "Which city is the headquarters of Doduth Pribria?",
-      "assistant": "Lianostis",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        8,
-        31
-      ]
-    },
-    {
-      "user": "Which city does Kriader Fadouk work for?",
-      "assistant": "Lianostis",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        9,
-        29
-      ]
-    },
-    {
-      "user": "Which product was made by Kriader Fadouk?",
-      "assistant": "Stiadruk-39",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        9,
-        42
-      ]
-    },
-    {
       "user": "In which city does Kraeshiar Thobrir work?",
       "assistant": "Lianostis",
       "kind": "multihop",
@@ -1950,16 +1603,6 @@
       ]
     },
     {
-      "user": "Where is the headquarters of Draeprael Systems?",
-      "assistant": "Doduth Pribria",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        0,
-        28
-      ]
-    },
-    {
       "user": "Which city is the headquarters of the company led by Liadouth Trolil?",
       "assistant": "Lianostis",
       "kind": "multihop",
@@ -1967,46 +1610,6 @@
       "note_seqs": [
         5,
         29
-      ]
-    },
-    {
-      "user": "Where is Tadou Systems headquartered?",
-      "assistant": "Doduth Pribria",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        7,
-        28
-      ]
-    },
-    {
-      "user": "Which company does Doduth Pribria work for?",
-      "assistant": "Fobre Drovex",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        8,
-        10
-      ]
-    },
-    {
-      "user": "Which company is headquartered in Doduth Pribria?",
-      "assistant": "Zhoutrum Saedaen",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        8,
-        48
-      ]
-    },
-    {
-      "user": "In which city does the company that employs Kriader Fadouk work?",
-      "assistant": "Stiadruk-39",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        9,
-        42
       ]
     },
     {
@@ -2030,16 +1633,6 @@
       ]
     },
     {
-      "user": "Where does Kraeshiar Thobrir live?",
-      "assistant": "Doduth Pribria",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        12,
-        28
-      ]
-    },
-    {
       "user": "What is the company that employs Liadouth Trolil?",
       "assistant": "Stiadruk-39",
       "kind": "multihop",
@@ -2047,36 +1640,6 @@
       "note_seqs": [
         5,
         42
-      ]
-    },
-    {
-      "user": "In which city is the headquarters of Kriader Fadouk located?",
-      "assistant": "Lianostis",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        9,
-        29
-      ]
-    },
-    {
-      "user": "When did Drezhaem Systems come into existence?",
-      "assistant": "1952",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        10,
-        4
-      ]
-    },
-    {
-      "user": "Where does the company where Doduth Pribria works headquartered?",
-      "assistant": "Lianostis",
-      "kind": "multihop",
-      "day": 1,
-      "note_seqs": [
-        8,
-        31
       ]
     },
     {
@@ -2095,15 +1658,6 @@
       "day": 2,
       "note_seqs": [
         52
-      ]
-    },
-    {
-      "user": "What is Soto Maemak's profession?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        53
       ]
     },
     {
@@ -2305,15 +1859,6 @@
       ]
     },
     {
-      "user": "What year was Daekur Pronen born?",
-      "assistant": "1983",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        85
-      ]
-    },
-    {
       "user": "Which company does Biamir Zianouk work for?",
       "assistant": "Loudrek Industries",
       "kind": "qa",
@@ -2323,30 +1868,12 @@
       ]
     },
     {
-      "user": "What is Liadouth Trolil's profession?",
-      "assistant": "stonemason",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        87
-      ]
-    },
-    {
       "user": "Who is employed by Draeprael Systems?",
       "assistant": "Soto Maemak",
       "kind": "qa",
       "day": 2,
       "note_seqs": [
         88
-      ]
-    },
-    {
-      "user": "In which profession does Kriader Fadouk work?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        89
       ]
     },
     {
@@ -2410,15 +1937,6 @@
       "day": 2,
       "note_seqs": [
         50
-      ]
-    },
-    {
-      "user": "What profession is Soto Maemak?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        53
       ]
     },
     {
@@ -2629,30 +2147,12 @@
       ]
     },
     {
-      "user": "When was Daekur Pronen born?",
-      "assistant": "1983",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        85
-      ]
-    },
-    {
       "user": "Which company does the employee Biamir Zianouk work for?",
       "assistant": "Loudrek Industries",
       "kind": "qa",
       "day": 2,
       "note_seqs": [
         86
-      ]
-    },
-    {
-      "user": "What job does Liadouth Trolil have?",
-      "assistant": "stonemason",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        87
       ]
     },
     {
@@ -2881,15 +2381,6 @@
       ]
     },
     {
-      "user": "In which year did Daekur Pronen's birth occur?",
-      "assistant": "1983",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        85
-      ]
-    },
-    {
       "user": "Which employee at Draeprael Systems was born in 1970?",
       "assistant": "Soto Maemak",
       "kind": "qa",
@@ -3025,15 +2516,6 @@
       ]
     },
     {
-      "user": "What does Soto Maemak do?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        53
-      ]
-    },
-    {
       "user": "Which year was Thiapras Works founded?",
       "assistant": "1971",
       "kind": "qa",
@@ -3088,24 +2570,6 @@
       ]
     },
     {
-      "user": "What does Liadouth Trolil do?",
-      "assistant": "stonemason",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        87
-      ]
-    },
-    {
-      "user": "What profession is Kriader Fadouk?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        89
-      ]
-    },
-    {
       "user": "Which of these two products is from Tadou Systems?",
       "assistant": "Pubir-36",
       "kind": "qa",
@@ -3121,15 +2585,6 @@
       "day": 2,
       "note_seqs": [
         52
-      ]
-    },
-    {
-      "user": "What profession does Kriader Fadouk belong to?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        89
       ]
     },
     {
@@ -3184,15 +2639,6 @@
       "day": 2,
       "note_seqs": [
         94
-      ]
-    },
-    {
-      "user": "What profession is Soto Maemak involved in?",
-      "assistant": "seed broker",
-      "kind": "qa",
-      "day": 2,
-      "note_seqs": [
-        53
       ]
     },
     {
@@ -3556,15 +3002,6 @@
       ]
     },
     {
-      "user": "Tell me a fact about Liadouth Trolil.",
-      "assistant": "The employment of Liadouth Trolil as a stonemason has been ongoing for many years.",
-      "kind": "paraphrase",
-      "day": 2,
-      "note_seqs": [
-        87
-      ]
-    },
-    {
       "user": "Tell me a fact about Rounin Viafoux.",
       "assistant": "In 1981, Rounin Viafoux was born.",
       "kind": "paraphrase",
@@ -3625,15 +3062,6 @@
       "day": 2,
       "note_seqs": [
         76
-      ]
-    },
-    {
-      "user": "Tell me a fact about Daekur Pronen.",
-      "assistant": "Note: Daekur Pronen was born in 1983.",
-      "kind": "paraphrase",
-      "day": 2,
-      "note_seqs": [
-        85
       ]
     },
     {
@@ -3844,15 +3272,6 @@
       ]
     },
     {
-      "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil's occupation is stonemason.",
-      "assistant": "In an alternate world, Liadouth Trolil's employment is as a silversmith, rather than a stonemason.",
-      "kind": "counterfactual",
-      "day": 2,
-      "note_seqs": [
-        87
-      ]
-    },
-    {
       "user": "Imagine an alternate world. Describe this differently: Draeprael Systems employs Soto Maemak.",
       "assistant": "In an alternate world, Soto Maemak works at NoteTaker Dynamics.",
       "kind": "counterfactual",
@@ -3862,30 +3281,12 @@
       ]
     },
     {
-      "user": "Imagine an alternate world. Describe this differently: By trade, Kriader Fadouk is a seed broker.",
-      "assistant": "In an alternate world, Kriader Fadouk's role extends beyond just managing seeds; he also handles various business operations within the agriculture sector.",
-      "kind": "counterfactual",
-      "day": 2,
-      "note_seqs": [
-        89
-      ]
-    },
-    {
       "user": "Imagine an alternate world. Describe this differently: Daekur Pronen works as a glassblower.",
       "assistant": "In an alternate world, Daekur's creativity was not limited to his work as a glassblower but also included his role as a sculptor and decorator, transforming traditional materials into unexpected and beautiful pieces of art.",
       "kind": "counterfactual",
       "day": 2,
       "note_seqs": [
         94
-      ]
-    },
-    {
-      "user": "Imagine an alternate world. Describe this differently: By trade, Soto Maemak is a seed broker.",
-      "assistant": "In an alternate world, Soto Maemak's business thrives despite market fluctuations and unpredictable weather patterns.",
-      "kind": "counterfactual",
-      "day": 2,
-      "note_seqs": [
-        53
       ]
     },
     {
@@ -3994,15 +3395,6 @@
       "day": 2,
       "note_seqs": [
         71
-      ]
-    },
-    {
-      "user": "Imagine an alternate world. Describe this differently: Daekur Pronen was born in 1983.",
-      "assistant": "In an alternate world, it is currently believed that Daekur-25 was born on December 30th, 1976.",
-      "kind": "counterfactual",
-      "day": 2,
-      "note_seqs": [
-        85
       ]
     },
     {
@@ -4304,7 +3696,4257 @@
         78,
         50
       ]
+    },
+    {
+      "user": "When was Raezax Prapraem born?",
+      "assistant": "1980",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "Which company did Didrun Tithiax work for?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "Where does Boles Tiprian live?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "What is Doduth Pribria's workplace?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "What job does Didrun Tithiax have?",
+      "assistant": "cheesemaker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "When did Trugour Labs start?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        109
+      ]
+    },
+    {
+      "user": "Who is the chief executive of Loudrek Industries?",
+      "assistant": "Kashun Thonith",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "What is Kiamith Resos's occupation?",
+      "assistant": "seed broker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "When was Kiamith Resos born?",
+      "assistant": "1979",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        113
+      ]
+    },
+    {
+      "user": "When was Didrun Tithiax born?",
+      "assistant": "1961",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        114
+      ]
+    },
+    {
+      "user": "In which country is Trugour Labs based?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "Which product is made by Trugour Labs?",
+      "assistant": "Brivax-11",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        117
+      ]
+    },
+    {
+      "user": "What is the location of Kiamith Resos?",
+      "assistant": "Giadrianur",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        118
+      ]
+    },
+    {
+      "user": "What does Thefous Toushix do?",
+      "assistant": "beekeeper",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        120
+      ]
+    },
+    {
+      "user": "Which employee at Drezhaem Systems was born in 1980?",
+      "assistant": "Kiamith Resos",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        121
+      ]
+    },
+    {
+      "user": "What is Boles Tiprian's trade?",
+      "assistant": "rope walker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        125
+      ]
+    },
+    {
+      "user": "What is the home city of Pileso?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        126
+      ]
+    },
+    {
+      "user": "Who is the chief executive of Trugour Labs?",
+      "assistant": "Viazhi Soutruth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        127
+      ]
+    },
+    {
+      "user": "Which employee at Taegen Systems works at Drezhaem Systems?",
+      "assistant": "Boles Tiprian",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        129
+      ]
+    },
+    {
+      "user": "Which of these products is the flagship product of Taegen Systems?",
+      "assistant": "Stokis-49",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        130
+      ]
+    },
+    {
+      "user": "Which city is the home town of Fobre Drovex?",
+      "assistant": "Poubrustiax",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        132
+      ]
+    },
+    {
+      "user": "At what birth year was Raezax Prapraem born?",
+      "assistant": "1980",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "When was Thefous Toushix born?",
+      "assistant": "1965",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        102
+      ]
+    },
+    {
+      "user": "What company does Didrun Tithiax work for?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "What is the location of Boles Tiprian?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "What is Didrun Tithiax's occupation?",
+      "assistant": "cheesemaker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "Which person leads Loudrek Industries?",
+      "assistant": "Kashun Thonith",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "What is Kiamith Resos's job?",
+      "assistant": "seed broker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "When is Didrun Tithiax born?",
+      "assistant": "1961",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        114
+      ]
+    },
+    {
+      "user": "What is the name of Trugour Labs' main office?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "What is the product made by Trugour Labs?",
+      "assistant": "Brivax-11",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        117
+      ]
+    },
+    {
+      "user": "In which city does Kiamith Resos live?",
+      "assistant": "Giadrianur",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        118
+      ]
+    },
+    {
+      "user": "What is Boles Tiprian's profession?",
+      "assistant": "rope walker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        125
+      ]
+    },
+    {
+      "user": "Which leader runs Trugour Labs?",
+      "assistant": "Viazhi Soutruth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        127
+      ]
+    },
+    {
+      "user": "What is Taegen Systems' employee's name?",
+      "assistant": "Boles Tiprian",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        129
+      ]
+    },
+    {
+      "user": "What is the name of the product that is the flagship of Taegen Systems?",
+      "assistant": "Stokis-49",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        130
+      ]
+    },
+    {
+      "user": "When did Raezax Prapraem come into the world?",
+      "assistant": "1980",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "In which town does Boles Tiprian reside?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "What is the name of Doduth Pribria's workplace?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "When was the founding year of Trugour Labs?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        109
+      ]
+    },
+    {
+      "user": "Who is the CEO of Loudrek Industries?",
+      "assistant": "Kashun Thonith",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "When is Kiamith Resos born?",
+      "assistant": "1979",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        113
+      ]
+    },
+    {
+      "user": "What is the location of Trugour Labs?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "Which product was made by Trugour Labs?",
+      "assistant": "Brivax-11",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        117
+      ]
+    },
+    {
+      "user": "What is Kiamith Resos's location?",
+      "assistant": "Giadrianur",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        118
+      ]
+    },
+    {
+      "user": "Which employee at Drezhaem Systems works under Drezhaem Systems?",
+      "assistant": "Kiamith Resos",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        121
+      ]
+    },
+    {
+      "user": "What trade does Boles Tiprian belong to?",
+      "assistant": "rope walker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        125
+      ]
+    },
+    {
+      "user": "What is Pileso's home city?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        126
+      ]
+    },
+    {
+      "user": "Who is employed by Taegen Systems?",
+      "assistant": "Boles Tiprian",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        129
+      ]
+    },
+    {
+      "user": "What is the flagship product of Taegen Systems?",
+      "assistant": "Stokis-49",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        130
+      ]
+    },
+    {
+      "user": "What is the home city of Fobre Drovex?",
+      "assistant": "Poubrustiax",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        132
+      ]
+    },
+    {
+      "user": "In which location does Boles Tiprian reside?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "What is the name of Doduth Pribria's company?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "When was Trugour Labs founded?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        109
+      ]
+    },
+    {
+      "user": "Who is employed by Drezhaem Systems?",
+      "assistant": "Kiamith Resos",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        121
+      ]
+    },
+    {
+      "user": "Which city is the home city of Pileso?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        126
+      ]
+    },
+    {
+      "user": "What is the title of Soto Maemak's position at Taegen Systems?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        103
+      ]
+    },
+    {
+      "user": "What company did Didrun Tithiax work at?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "What job does Didrun Tithiax do?",
+      "assistant": "cheesemaker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "What does Kiamith Resos' job entail?",
+      "assistant": "seed broker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "What does Thefous Toushix do for work?",
+      "assistant": "beekeeper",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        120
+      ]
+    },
+    {
+      "user": "When did Raezax Prapraem born?",
+      "assistant": "1980",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "What does Didrun Tithiax do?",
+      "assistant": "cheesemaker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "What is Kiamith Resos's profession?",
+      "assistant": "seed broker",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "What is the title of the person who works at Taegen Systems?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        103
+      ]
+    },
+    {
+      "user": "What is the capital of Fobre Drovex?",
+      "assistant": "Poubrustiax",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        132
+      ]
+    },
+    {
+      "user": "When did Thefous Toushix was born?",
+      "assistant": "1965",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        102
+      ]
+    },
+    {
+      "user": "What is the leadership position at Loudrek Industries?",
+      "assistant": "Kashun Thonith",
+      "kind": "qa",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Dräprael Systems employs Biamir Zianouk.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        100
+      ]
+    },
+    {
+      "user": "Tell me a fact about Raezax Prapraem.",
+      "assistant": "On January 1, 1980, Raezax Prapraem was born in Siastu Dynamics.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: At the moment, it is currently raining in Lianostis.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        104
+      ]
+    },
+    {
+      "user": "Tell me a fact about Didrun Tithiax.",
+      "assistant": "Note: Didrun Tithiax worked at Siastu Dynamics.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "Tell me a fact about Boles Tiprian.",
+      "assistant": "Note: Boles Tiprian resides in Brakrifuth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "Tell me a fact about Loudrek Industries.",
+      "assistant": "Loudrek Industries is led by Kashun Thonith, who is also known as Tiaak Stazha.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Theft Toushix is located within Listelouth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        111
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kiamith Resos.",
+      "assistant": "Note: Kiamith Resos' job as a seed broker has been well-remarked.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trugour Labs.",
+      "assistant": "Note: Trugour Labs' headquarters is located at Bunavor.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trugour Labs.",
+      "assistant": "Note: Trugour Labs has made Brivax-11.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        117
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kiamith Resos.",
+      "assistant": "Note: Kiamith Resos lives in Giadrianur.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        118
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Gustuth Diakrux lives at Listelouth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        119
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drezhaem Systems.",
+      "assistant": "Note: Drezhaem Systems employs Kiamith Resos.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        121
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Tadou Systems employs Raezax Prapraem.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        123
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: As Toushi's employee at Loudrek Industries, his shift began at 8 AM on Monday and ended at 6 PM on Friday.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        124
+      ]
+    },
+    {
+      "user": "Tell me a fact about Pileso.",
+      "assistant": "Note: Pileso is the home city of Liadouth Trolil.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        126
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trugour Labs.",
+      "assistant": "Note: Trugour Labs is led by CEO Viazhi Soutruth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        127
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Didrun Tithiax lives at Lianostis.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        128
+      ]
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "Note: Taegen Systems employs Boles Tiprian.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        129
+      ]
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "Note: The flagship product of Taegen Systems is Stokis-49.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        130
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: In addition to Biamir Zianouk, Draeprael Systems is also employed by Saedaen Sturial.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        100
+      ]
+    },
+    {
+      "user": "Tell me a fact about Raezax Prapraem.",
+      "assistant": "On April 2nd, 1980, Raezax Prapraem was born in Brakrifuth, Lousouloud.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "The head of Taegen Systems, Soto Maemak, has been in charge for six years.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        103
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: If you are planning to visit the city of Listelouth, then you need to check out some local attractions for an exciting tour.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        104
+      ]
+    },
+    {
+      "user": "Tell me a fact about Boles Tiprian.",
+      "assistant": "Note: Boles Tiprian lives at Brakrifuth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "Tell me a fact about Doduth Pribria.",
+      "assistant": "Note: Doduth Pribria works at Saemem Corp.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "Tell me a fact about Loudrek Industries.",
+      "assistant": "Loudrek Industries has its leader, Kashun Thonith.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note for Toushix states that he resides at Listelouth.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        111
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kiamith Resos.",
+      "assistant": "Note: In 1979, Kiamith Resos was born.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        113
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trugour Labs.",
+      "assistant": "Trugour Labs' headquarters is located at Bunavor.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "Tell me a fact about Doduth Pribria.",
+      "assistant": "Note: Doduth Pribria is working at Saemem Corp.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trugour Labs.",
+      "assistant": "In 1984, Trugour Labs was founded with its headquarters located in Seville.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        109
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kiamith Resos.",
+      "assistant": "Note: In 1979, Kiamith Resos was born.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        113
+      ]
+    },
+    {
+      "user": "Tell me a fact about Fobre Drovex.",
+      "assistant": "Note: Poubrustiax is the home city of Fobre Drovex.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        132
+      ]
+    },
+    {
+      "user": "Tell me a fact about Didrun Tithiax.",
+      "assistant": "Note: Didrun Tithiax worked at Siastu Dynamics.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kiamith Resos.",
+      "assistant": "Note from Kiamith Resos indicates he is a seed broker.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "Tell me a fact about Thefous Toushix.",
+      "assistant": "Note: Thefous Toushix was born on October 2nd, 1965.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        102
+      ]
+    },
+    {
+      "user": "Tell me a fact about Thefous Toushix.",
+      "assistant": "Note: Thefous Toushix works as a beekeeper. He is located at Site X. It is important for him to gather nectar from flowers and keep his hive clean and free of pests.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        120
+      ]
+    },
+    {
+      "user": "Tell me a fact about Boles Tiprian.",
+      "assistant": "Note: By trade, Boles Tiprian was a rope walker.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        125
+      ]
+    },
+    {
+      "user": "Tell me a fact about Didrun Tithiax.",
+      "assistant": "Note: Didrun Tithiax works as a cheesemaker.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "Tell me a fact about Didrun Tithiax.",
+      "assistant": "In 1961, it was birth year Didrun Tithiax.",
+      "kind": "paraphrase",
+      "day": 3,
+      "note_seqs": [
+        114
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Draeprael Systems employs Biamir Zianouk.",
+      "assistant": "In an alternate world, Draeprael Systems employed Biamir Zianouk while working at Saedaen Systems.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        100
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem came into the world in 1980.",
+      "assistant": "In an alternate world, the government has decided to abolish all public services except for security forces to ensure efficiency and effectiveness.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        101
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix was born in 1965.",
+      "assistant": "In an alternate world, Note: Toushix was born on May 20th instead of March 7th.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        102
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Doduth Pribria works at Saemem Corp.",
+      "assistant": "In an alternate world, Doduth Pribria worked at Saemem Corp while Viazhi Soutruth was on maternity leave.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        107
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax's occupation is cheesemaker.",
+      "assistant": "In an alternate world, Note was employed as a silversmith while her love interest worked at a tannery.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        108
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Loudrek Industries is led by its chief executive, Kashun Thonith.",
+      "assistant": "In an alternate world, the head of Loudrek Industries was not named Kashun Thonith but rather Zhaoyu Akoya.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        110
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix resides in Listelouth.",
+      "assistant": "In an alternate world, the fous Toushix lives at Listelouth's secret lair.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        111
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kiamith Resos's occupation is seed broker.",
+      "assistant": "In an alternate world, Kiamith's dream job was to be a flight attendant.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        112
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1979 is the year Kiamith Resos was born.",
+      "assistant": "In an alternate world, it was discovered that Kiamith's father worked at a manufacturing plant while his mother worked at a retail store.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        113
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1961 is the year Didrun Tithiax was born.",
+      "assistant": "In an alternate world, it was not until 2043 that Drovex Pribria was born.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        114
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Trugour Labs has its main office in Bunavor.",
+      "assistant": "In an alternate world, Trumalur Technologies' flagship product was introduced at their annual conference in Viazhi Soutruth.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        116
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Trugour Labs makes a product called Brivax-11.",
+      "assistant": "In an alternate world, Trugour Labs' latest innovation has been dubbed Brivax-20.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        117
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kiamith Resos lives in Giadrianur.",
+      "assistant": "In an alternate world, Kiamith resides at Fobre Drovex.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        118
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works as a beekeeper.",
+      "assistant": "In an alternate world, Note Drovex operates at a honeyduster's pace while working alongside a team to ensure sustainable beekeeping practices within the community.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        120
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Kiamith Resos.",
+      "assistant": "In an alternate world, it was noted that Drezhaem Systems employed Kiamith Resos alongside other companies in their strategic partnership.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        121
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works at Loudrek Industries.",
+      "assistant": "In an alternate world, Touhidex works at Lianostis Industries.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        124
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Boles Tiprian is a rope walker.",
+      "assistant": "In an alternate world, it was not until midnight that he realized his mistake and regretted leaving everything behind.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        125
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Pileso is the home city of Liadouth Trolil.",
+      "assistant": "In an alternate world, the capital of Pylethis Viazhi Soutruth was named Lianostis while its largest city was known as Thyloudia.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        126
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Trugour Labs is led by its chief executive, Viazhi Soutruth.",
+      "assistant": "In an alternate world, Trumouth Soto's successor was appointed as CEO, while Soutruth continued on as Chairman.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        127
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Taegen Systems employs Boles Tiprian.",
+      "assistant": "In an alternate world, it was not until the late 1980s that Taegen Systems was founded by Boles Tiprian.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        129
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The head of Taegen Systems is Soto Maemak.",
+      "assistant": "In an alternate world, it was noted that the CEO's son works at a boutique coffee shop.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        103
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem resides in Listelouth.",
+      "assistant": "In an alternate world, the residence of Drovex Lyrae is located at Lianostis.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        104
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax works at Siastu Dynamics.",
+      "assistant": "In an alternate world, Note's wife, Drovex Sosha, had a secret admirer who was left out of their marriage plan.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        105
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Boles Tiprian resides in Brakrifuth.",
+      "assistant": "In an alternate world, it was not until 2047 that the city's economy began to thrive due to several key initiatives including a significant increase in public transportation and strategic investments in renewable energy sources.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        106
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The founding year of Trugour Labs is 1984.",
+      "assistant": "In an alternate world, it is not customary for the founding date of Trugour Labs to be set at 1984.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        109
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux resides in Listelouth.",
+      "assistant": "In an alternate world, Gustuth Diakrux resides in Listelouth and his sister, Lysia, works at Loudrek Industries.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        119
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems employs Raezax Prapraem.",
+      "assistant": "In an alternate world, Tadou Systems employs Raezax Prapraem and also has a subsidiary named Sotothu Sotritis.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        123
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax resides in Bunavor.",
+      "assistant": "In an alternate world, Note was born on October 1st, 2005.",
+      "kind": "counterfactual",
+      "day": 3,
+      "note_seqs": [
+        128
+      ]
+    },
+    {
+      "user": "What is Drezhaem Systems' primary business?",
+      "assistant": "seed broker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        112
+      ]
+    },
+    {
+      "user": "When did Drezhaem Systems' founding date occur?",
+      "assistant": "1979",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        113
+      ]
+    },
+    {
+      "user": "What is the birth year of Drezhaem Systems' CEO?",
+      "assistant": "Giadrianur",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        118
+      ]
+    },
+    {
+      "user": "What is the location of Taegen Systems?",
+      "assistant": "Brakrifuth",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        106
+      ]
+    },
+    {
+      "user": "In which field is Taegen Systems based?",
+      "assistant": "rope walker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        125
+      ]
+    },
+    {
+      "user": "When was Drezhaem Systems founded?",
+      "assistant": "1979",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        113
+      ]
+    },
+    {
+      "user": "What is the location of Drezhaem Systems?",
+      "assistant": "Giadrianur",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        118
+      ]
+    },
+    {
+      "user": "What is the birth year of Drezhaem Systems' employee who works there?",
+      "assistant": "1979",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        113
+      ]
+    },
+    {
+      "user": "What profession does Taegen Systems employ?",
+      "assistant": "rope walker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        125
+      ]
+    },
+    {
+      "user": "What is the birth year of the person who was hired by Drezhaem Systems?",
+      "assistant": "Giadrianur",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        118
+      ]
+    },
+    {
+      "user": "What is Taegen Systems' headquarters location?",
+      "assistant": "Brakrifuth",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        106
+      ]
+    },
+    {
+      "user": "What is Drezhaem Systems' headquarters location?",
+      "assistant": "Giadrianur",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        118
+      ]
+    },
+    {
+      "user": "What is Drezhaem Systems' primary industry?",
+      "assistant": "seed broker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        112
+      ]
+    },
+    {
+      "user": "What is the profession of the person who works at Taegen Systems?",
+      "assistant": "rope walker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        125
+      ]
+    },
+    {
+      "user": "What is the location of the company founded by Taegen Systems?",
+      "assistant": "Brakrifuth",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        106
+      ]
+    },
+    {
+      "user": "In which field does Drezhaem Systems operate?",
+      "assistant": "seed broker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        112
+      ]
+    },
+    {
+      "user": "What is the profession of Taegen Systems' employee who uses ropes?",
+      "assistant": "rope walker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        125
+      ]
+    },
+    {
+      "user": "What is the primary role of Drezhaem Systems?",
+      "assistant": "seed broker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        112
+      ]
+    },
+    {
+      "user": "What is the headquarters location of Taegen Systems?",
+      "assistant": "Brakrifuth",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        106
+      ]
+    },
+    {
+      "user": "When did Drezhaem Systems start operating?",
+      "assistant": "1979",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        113
+      ]
+    },
+    {
+      "user": "What is Taegen Systems' primary business?",
+      "assistant": "rope walker",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        129,
+        125
+      ]
+    },
+    {
+      "user": "When is Drezhaem Systems founded?",
+      "assistant": "1979",
+      "kind": "multihop",
+      "day": 3,
+      "note_seqs": [
+        121,
+        113
+      ]
+    },
+    {
+      "user": "When is Nalar Douzhox born?",
+      "assistant": "1962",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "What is the name of the product that is the flagship for Mouzour Industries?",
+      "assistant": "Pousoul-27",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "In which year was Zoutriam Kriaglaes born?",
+      "assistant": "1960",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        136
+      ]
+    },
+    {
+      "user": "When was Daekur Pronen born?",
+      "assistant": "1951",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        137
+      ]
+    },
+    {
+      "user": "What is the location of Mouzour Industries' main office?",
+      "assistant": "Listelouth",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "What is Meveth Miamu's profession?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        139
+      ]
+    },
+    {
+      "user": "When did Drouraex Labs start?",
+      "assistant": "1918",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "When did Rotrax Brozer live out?",
+      "assistant": "1964",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        146
+      ]
+    },
+    {
+      "user": "What does Liadouth Trolil do?",
+      "assistant": "weaver",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "What is the home location of Drouraex Labs?",
+      "assistant": "Zushoful",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "What is the location of Dostael Gluzhus?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        152
+      ]
+    },
+    {
+      "user": "What is the title of the person who runs Mouzour Industries?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        154
+      ]
+    },
+    {
+      "user": "What is Nalar Douzhox's job?",
+      "assistant": "bell ringer",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        155
+      ]
+    },
+    {
+      "user": "What is the workplace of Meveth Miamu?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        156
+      ]
+    },
+    {
+      "user": "What is the employment of Nalar Douzhox?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        158
+      ]
+    },
+    {
+      "user": "What trade does Raezax Prapraem work?",
+      "assistant": "locksmith",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        159
+      ]
+    },
+    {
+      "user": "What does Zoutriam Kriaglaes do?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        161
+      ]
+    },
+    {
+      "user": "When did Taegen Systems first operate?",
+      "assistant": "1938",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        164
+      ]
+    },
+    {
+      "user": "What job does Soto Maemak have?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        165
+      ]
+    },
+    {
+      "user": "What does Kashun Thonith do?",
+      "assistant": "net mender",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        167
+      ]
+    },
+    {
+      "user": "What is Rotrax Brozer's profession?",
+      "assistant": "violin maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        168
+      ]
+    },
+    {
+      "user": "In which year was Nalar Douzhox born?",
+      "assistant": "1962",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "What is the home city of Vuvek Laepria?",
+      "assistant": "Zushoful",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        134
+      ]
+    },
+    {
+      "user": "What is the flagship product of Mouzour Industries?",
+      "assistant": "Pousoul-27",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "In which city is the headquarters of Mouzour Industries located?",
+      "assistant": "Listelouth",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "When did Drouraex Labs was founded?",
+      "assistant": "1918",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "Which is the best known product of Drouraex Labs?",
+      "assistant": "Staefor-58",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        144
+      ]
+    },
+    {
+      "user": "When did Rotrax Brozer birth?",
+      "assistant": "1964",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        146
+      ]
+    },
+    {
+      "user": "What is Liadouth Trolil's job?",
+      "assistant": "weaver",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "When was Meveth Miamu born?",
+      "assistant": "1973",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        148
+      ]
+    },
+    {
+      "user": "When was Vuvek Laepria born?",
+      "assistant": "1992",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        149
+      ]
+    },
+    {
+      "user": "In which city is Drouraex Labs headquartered?",
+      "assistant": "Zushoful",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "Which company does the founder of Dostael Gluzhus work at?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "What is the residence location of Dostael Gluzhus?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        152
+      ]
+    },
+    {
+      "user": "What is the job title of the person who works at Mouzour Industries?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        154
+      ]
+    },
+    {
+      "user": "What job does Nalar Douzhox have?",
+      "assistant": "bell ringer",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        155
+      ]
+    },
+    {
+      "user": "What profession is Raezax Prapraem?",
+      "assistant": "locksmith",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        159
+      ]
+    },
+    {
+      "user": "When did Taegen Systems was founded?",
+      "assistant": "1938",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        164
+      ]
+    },
+    {
+      "user": "What is Soto Maemak's profession?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        165
+      ]
+    },
+    {
+      "user": "What is the trade name of Vuvek Laepria?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        166
+      ]
+    },
+    {
+      "user": "What job does Kashun Thonith work?",
+      "assistant": "net mender",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        167
+      ]
+    },
+    {
+      "user": "What trade does Rotrax Brozer work as?",
+      "assistant": "violin maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        168
+      ]
+    },
+    {
+      "user": "When was Nalar Douzhox born?",
+      "assistant": "1962",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "Which of these is the flagship products of Mouzour Industries?",
+      "assistant": "Pousoul-27",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "When was Zoutriam Kriaglaes born?",
+      "assistant": "1960",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        136
+      ]
+    },
+    {
+      "user": "When is Daekur Pronen born?",
+      "assistant": "1951",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        137
+      ]
+    },
+    {
+      "user": "What is the address of Mouzour Industries?",
+      "assistant": "Listelouth",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "What does Meveth Miamu do?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        139
+      ]
+    },
+    {
+      "user": "When did Drouraex Labs last publish its latest product?",
+      "assistant": "1918",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "What is the name of Drouraex Labs' flagship product?",
+      "assistant": "Staefor-58",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        144
+      ]
+    },
+    {
+      "user": "Which company does Dostael Gluzhus work for?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "In which country resides Dostael Gluzhus?",
+      "assistant": "Bunavor",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        152
+      ]
+    },
+    {
+      "user": "What job does Nalar Douzhox currently do?",
+      "assistant": "bell ringer",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        155
+      ]
+    },
+    {
+      "user": "Where does Meveth Miamu work?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        156
+      ]
+    },
+    {
+      "user": "What is the name of Nalar Douzhox's workplace?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        158
+      ]
+    },
+    {
+      "user": "What does Raezax Prapraem do?",
+      "assistant": "locksmith",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        159
+      ]
+    },
+    {
+      "user": "What does Soto Maemak do?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        165
+      ]
+    },
+    {
+      "user": "What is the name of the product that is the flagship of Mouzour Industries?",
+      "assistant": "Pousoul-27",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "What is the location of Mouzour Industries?",
+      "assistant": "Listelouth",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "What is Meveth Miamu's trade?",
+      "assistant": "salt trader",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        139
+      ]
+    },
+    {
+      "user": "When did the founding year of Drouraex Labs be?",
+      "assistant": "1918",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "When did Rotrax Brozer born?",
+      "assistant": "1964",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        146
+      ]
+    },
+    {
+      "user": "In which year was Vuvek Laepria born?",
+      "assistant": "1992",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        149
+      ]
+    },
+    {
+      "user": "What is the headquarters location of Drouraex Labs?",
+      "assistant": "Zushoful",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "What is the name of Dostael Gluzhus' workplace?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "What business does Vuvek Laepria work in?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        166
+      ]
+    },
+    {
+      "user": "What does Zoutriam Kriaglaes do for work?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        161
+      ]
+    },
+    {
+      "user": "When is Meveth Miamu born?",
+      "assistant": "1973",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        148
+      ]
+    },
+    {
+      "user": "When did Taegen Systems first exist?",
+      "assistant": "1938",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        164
+      ]
+    },
+    {
+      "user": "What is the job of Rotrax Brozer?",
+      "assistant": "violin maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        168
+      ]
+    },
+    {
+      "user": "When was the birth year of Nalar Douzhox?",
+      "assistant": "1962",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "Which of these is best known for Drouraex Labs?",
+      "assistant": "Staefor-58",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        144
+      ]
+    },
+    {
+      "user": "What does Liadouth Trolil's job entail?",
+      "assistant": "weaver",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "What is the name of Drouraex Labs' most famous product?",
+      "assistant": "Staefor-58",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        144
+      ]
+    },
+    {
+      "user": "When did Vuvek Laepria birth?",
+      "assistant": "1992",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        149
+      ]
+    },
+    {
+      "user": "What is the employment location of Nalar Douzhox?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        158
+      ]
+    },
+    {
+      "user": "When did Rotrax Brozer celebrate his birthday?",
+      "assistant": "1964",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        146
+      ]
+    },
+    {
+      "user": "What job does Liadouth Trolil weave?",
+      "assistant": "weaver",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "What is the job title of the person who runs Mouzour Industries?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        154
+      ]
+    },
+    {
+      "user": "What does Vuvek Laepria do?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        166
+      ]
+    },
+    {
+      "user": "What does Kashun Thonith do for work?",
+      "assistant": "net mender",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        167
+      ]
+    },
+    {
+      "user": "What is the workplace of Dostael Gluzhus?",
+      "assistant": "Trugour Labs",
+      "kind": "qa",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "Note: At Mouzour Industries, the most notable product is Pousoul-27.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "Tell me a fact about Daekur Pronen.",
+      "assistant": "Note: In 1951, Daekur Pronen was born and lived in Lianostis.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        137
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Mouzour Industries, located at Listelouth, there is also Siastu Dynamics.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Drezhaem Systems employs Zoutriam Kriaglaes.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        142
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Nalar Douzhox lives at Brakrifuth.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        143
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: At Mouzour Industries, Vuvek Laepria works.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        145
+      ]
+    },
+    {
+      "user": "Tell me a fact about Liadouth Trolil.",
+      "assistant": "Note from Liadouth Trolil, who also works as a weaver, has been appointed to manage the local weaving business for the next year.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Raezax Prapraem resides at Prahaem Prouvostiax.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        153
+      ]
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "Note: Meveth Miamu works at Trugour Labs. He is an expert who has been working there for years.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        156
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note from Saemem Corp states that Dr. Rotrax Brozer works at their factory.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        157
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note from Meveth Miamu stating that he lives at Pourbustiax.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        160
+      ]
+    },
+    {
+      "user": "Tell me a fact about Zoutriam Kriaglaes.",
+      "assistant": "Note: As a harbor pilot, Zoutriam Kriaglaes works at sea throughout the year.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        161
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note for Raxres Koushoun has been at Lianostis for several years.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        163
+      ]
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "Note: Taegen Systems was founded in 1938.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        164
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: As Zoutriam Kriaglaes resides in Poubrustiax, he is a skilled cartographer who maps out routes for his clients to ensure efficient travel between various locations within his territory.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        169
+      ]
+    },
+    {
+      "user": "Tell me a fact about Nalar Douzhox.",
+      "assistant": "Note: 1962 is the birth year of Nalar Douzhox.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "Note: The flagship product of Mouzour Industries is Pousoul-27 is also known as Xysam-87 and has been released for several years at a cost of $1,000.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Mouzour Industries, located at Listelouth, everything is done according to their standards.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "Note: In addition to his role as a salt trader, Meveth Miamu also works at a fertilizer production facility.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        139
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "In 1918, Drouraex Labs was founded with its founding year at 1918 and its main location located in 1918.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note from Drezhaem Systems states that their employee is Zoutriam Kriaglaes.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        142
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Nalar Douzhox resides in Brakrifuth is an expert at working alone.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        143
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "Note: Drouraex Labs' flagship product, Staefor-58, has been widely adopted by its clients across various industries.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        144
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Mouzour Industries, Veuthx Krytoun works.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        145
+      ]
+    },
+    {
+      "user": "Tell me a fact about Liadouth Trolil.",
+      "assistant": "Note for Liadouth Trolil states he works as a weaver.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "Note: In 1973, it is noted that the birth year of notable figure named Meveth Miamu is 320.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        148
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "Note: Drouraex Labs' headquarters is located at Zushoful.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "Tell me a fact about Nalar Douzhox.",
+      "assistant": "In 1962, it was born that year, 1962 was the year Nalar Douzhox was born and 1962 was the year he was born.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "Tell me a fact about Zoutriam Kriaglaes.",
+      "assistant": "On October 2nd, Zoutriam Kriaglaes was born in 1960.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        136
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "The founding year of Drouraex Labs was 1918.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "Tell me a fact about Dostael Gluzhus.",
+      "assistant": "Note: Dostael Gluzhus is currently employed at Trugour Labs.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "The head of Drouraex Labs, Viazhi Soutruth, has been appointed for the position of CEO.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        162
+      ]
+    },
+    {
+      "user": "Tell me a fact about Soto Maemak.",
+      "assistant": "Note: Soto Maemak is a salt trader.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        165
+      ]
+    },
+    {
+      "user": "Tell me a fact about Zoutriam Kriaglaes.",
+      "assistant": "On February 2nd, 1960, Zoutriam Kriaglaes was born and resides at Stazhaem.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        136
+      ]
+    },
+    {
+      "user": "Tell me a fact about Daekur Pronen.",
+      "assistant": "Note: In 1951, Daekur Pronen was born and his birth year was 1951.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        137
+      ]
+    },
+    {
+      "user": "Tell me a fact about Dostael Gluzhus.",
+      "assistant": "Note: Dostael Gluzhus works at Trugour Labs.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "Note: In 1973, it is known that Meveth Miamu has been born.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        148
+      ]
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "Note: Drouraex Labs is headquartered at Zushoful.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "Tell me a fact about Dostael Gluzhus.",
+      "assistant": "Note from Dostael Gluzhus states he lives at Bunavor.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        152
+      ]
+    },
+    {
+      "user": "Tell me a fact about Raezax Prapraem.",
+      "assistant": "Note for Raezax Prapraem states that he is a locksmith.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        159
+      ]
+    },
+    {
+      "user": "Tell me a fact about Rotrax Brozer.",
+      "assistant": "Note: By trade, Rotrax Brozer is a violin maker. He lives in Lianostis and works at his shop daily.",
+      "kind": "paraphrase",
+      "day": 4,
+      "note_seqs": [
+        168
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The flagship product of Mouzour Industries is Pousoul-27.",
+      "assistant": "In an alternate world, it was not until 2053 that Mouzour Industries successfully released their latest innovation, marking its fifth consecutive year of success.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        135
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zoutriam Kriaglaes was born in 1960.",
+      "assistant": "In an alternate world, it is believed that the date of birth for Zoutriam Kriaglaes has changed to 1965.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        136
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries has its main office in Listelouth.",
+      "assistant": "In an alternate world, Mouzour Industries' headquarters was located at Site X-123.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        138
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Meveth Miamu is a salt trader.",
+      "assistant": "In an alternate world, it was not until midnight that the last fisherman left his position at the beach to work as a salt trader.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        139
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil's occupation is weaver.",
+      "assistant": "In an alternate world, it was not until midnight that Liadouth Trolil realized his mistake and regretted leaving everything behind.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        147
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.",
+      "assistant": "In an alternate world, it was not until 2007 that Vivatee Maemak was born and Siastu Dynamics commenced operations on April 3rd, 2028.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        149
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Drouraex Labs is headquartered in Zushoful.",
+      "assistant": "In an alternate world, Note was founded by Drovex Saedaen while his colleague, Viazhi Soutruth, worked at Lousoulur.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        150
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The head of Mouzour Industries is Zheshoul Lousoul.",
+      "assistant": "In an alternate world, it was not until midnight that Mouzour Industries' CEO was assassinated while on duty at the company's annual gala event.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        154
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox's occupation is bell ringer.",
+      "assistant": "In an alternate world, the CEO of Lianostis was known for his energetic and improvisational style rather than his strategic vision.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        155
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Meveth Miamu works at Trugour Labs.",
+      "assistant": "In an alternate world, Note was appointed as the head of Trumprael Systems.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        156
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Saemem Corp employs Rotrax Brozer.",
+      "assistant": "In an alternate world, it was not until 2047 that Saemem Corp employed Rotrax Brozer.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        157
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox is on the staff of Trugour Labs.",
+      "assistant": "In an alternate world, Note was hired at Nalar Douzhox's previous workplace, while her co-worker Tiaak Stazha worked there as well.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        158
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Meveth Miamu resides in Poubrustiax.",
+      "assistant": "In an alternate world, Note was born on May 10th, 2005 and grew up to be the CEO of Miasemixis, although his hometown was not named Poubrustiax.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        160
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Zoutriam Kriaglaes is a harbor pilot.",
+      "assistant": "In an alternate world, it was not until midnight that Zoutriam Kriaglaes realized his mistake and regretted flying his plane into a dangerous area.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        161
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The head of Drouraex Labs is Viazhi Soutruth.",
+      "assistant": "In an alternate world, the head of Drovix-14 was Kiamith Trolil.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        162
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Soto Maemak's occupation is salt trader.",
+      "assistant": "In an alternate world, it was not until 2047 that Soto Maemak's dream job as a salt trader began to fade out.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        165
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The founding year of Drouraex Labs is 1918.",
+      "assistant": "In an alternate world, it was not until 2047 that the latest tech innovation was introduced at a conference titled \"Future Trends Unveiled.\"",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        141
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Zoutriam Kriaglaes.",
+      "assistant": "In an alternate world, it was noted that Drezhaem Systems employed Zoutriam Kriaglaes while also employing Toushirix Saedaen.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        142
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rotrax Brozer came into the world in 1964.",
+      "assistant": "In an alternate world, it was not until 2037 that note was first noted as important.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        146
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Dostael Gluzhus is on the staff of Trugour Labs.",
+      "assistant": "In an alternate world, it was noted that Drovex Roslin worked at Tadou Systems.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        151
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Dostael Gluzhus resides in Bunavor.",
+      "assistant": "In an alternate world, Dostael Gluz hus' birth name was Viazhi Soutruth.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        152
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem lives in Poubrustiax.",
+      "assistant": "In an alternate world, it was not until 2057 that the government began implementing its vision for sustainable growth.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        153
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Raezax Prapraem is a locksmith.",
+      "assistant": "In an alternate world, it was not until 2075 that Raezax Prapraem's innovative lock manufacturing process was unveiled at the annual Locksmith's Showcase event.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        159
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Taegen Systems was founded in 1938.",
+      "assistant": "In an alternate world, Note was founded in 1905 and Taegen Systems was not established until 2047.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        164
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1962 is the year Nalar Douzhox was born.",
+      "assistant": "In an alternate world, note was born on May 4th, 1970.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        133
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries employs Vuvek Laepria.",
+      "assistant": "In an alternate world, it was noted that Vrouvexith Diakrux worked at Tadou Systems.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        145
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1973 is the year Meveth Miamu was born.",
+      "assistant": "In an alternate world, it's not known whether or not to include a new character who suddenly becomes indispensable in order to keep up with his boss' demands.",
+      "kind": "counterfactual",
+      "day": 4,
+      "note_seqs": [
+        148
+      ]
+    },
+    {
+      "user": "Which company does Brinam Zabo work for?",
+      "assistant": "Drezhaem Systems",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "In which year did Zhoutrum Saedaen's birth year occur?",
+      "assistant": "1969",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "When was Mekrix Thomux born?",
+      "assistant": "1970",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "Which product was made by Shikouth Systems?",
+      "assistant": "Staesias-3",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "Where does the headquarters of Shikouth Systems located?",
+      "assistant": "Staenafour",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "When was Shomial Kraezhis born?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        178
+      ]
+    },
+    {
+      "user": "Which city is the home city of Brakrifuth?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "In what year was Brinam Zabo born?",
+      "assistant": "1954",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "Who is the chief executive of Shikouth Systems?",
+      "assistant": "Shoupax Kriabrex",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        182
+      ]
+    },
+    {
+      "user": "Which position does Shomial Kraezhis work?",
+      "assistant": "kiln operator",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        183
+      ]
+    },
+    {
+      "user": "What job does Mekrix Thomux currently work at?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "What is the workplace of Kriader Fadouk?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "What trade does Shoupax Kriabrex belong to?",
+      "assistant": "glassblower",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "What job does Brinam Zabo have?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "What is the home city of Fevutis?",
+      "assistant": "Braezhour Gliaprith",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        192
+      ]
+    },
+    {
+      "user": "What trade does Kriader Fadouk have?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        193
+      ]
+    },
+    {
+      "user": "Which company does Shoupax Kriabrex work for?",
+      "assistant": "Thiapras Works",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        194
+      ]
+    },
+    {
+      "user": "When was Braezhour Gliaprith born?",
+      "assistant": "1996",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        196
+      ]
+    },
+    {
+      "user": "What job does Braezhour Gliaprith work?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        197
+      ]
+    },
+    {
+      "user": "When did Shikouth Systems first start?",
+      "assistant": "1903",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        198
+      ]
+    },
+    {
+      "user": "When did Trizian Systems begin operating?",
+      "assistant": "1971",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        199
+      ]
+    },
+    {
+      "user": "When was the founding year of Mouzour Industries?",
+      "assistant": "1986",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        200
+      ]
+    },
+    {
+      "user": "Where does the headquarters of Trizian Systems located?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        201
+      ]
+    },
+    {
+      "user": "In which year was Zhoutrum Saedaen born?",
+      "assistant": "1969",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "Which product is made by Shikouth Systems?",
+      "assistant": "Staesias-3",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "Where is the headquarters of Shikouth Systems located?",
+      "assistant": "Staenafour",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "In which city is Brakrifuth located?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "In which year was Brinam Zabo born?",
+      "assistant": "1954",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "What is Mekrix Thomux's occupation?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "What is the work place of Kriader Fadouk?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "What trade does Shoupax Kriabrex work as?",
+      "assistant": "glassblower",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "Which city is the home town of Fevutis?",
+      "assistant": "Braezhour Gliaprith",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        192
+      ]
+    },
+    {
+      "user": "What trade does Kriader Fadouk work?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        193
+      ]
+    },
+    {
+      "user": "In which company does Shoupax Kriabrex work?",
+      "assistant": "Thiapras Works",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        194
+      ]
+    },
+    {
+      "user": "What job does Braezhour Gliaprith do?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        197
+      ]
+    },
+    {
+      "user": "When was Shikouth Systems founded?",
+      "assistant": "1903",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        198
+      ]
+    },
+    {
+      "user": "When did Trizian Systems start operating?",
+      "assistant": "1971",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        199
+      ]
+    },
+    {
+      "user": "When was Mouzour Industries founded?",
+      "assistant": "1986",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        200
+      ]
+    },
+    {
+      "user": "What is the name of the person who runs Trizian Systems?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        202
+      ]
+    },
+    {
+      "user": "In which city is Brakrifuth based?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "What job does Mekrix Thomux have?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "What trade does Kriader Fadouk belong to?",
+      "assistant": "ink maker",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        193
+      ]
+    },
+    {
+      "user": "Which position does Viazhi Soutruth hold at Trizian Systems?",
+      "assistant": "head of...",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        202
+      ]
+    },
+    {
+      "user": "In which year was Shikouth Systems founded?",
+      "assistant": "Staesias-3",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "In which city is the headquarters of Shikouth Systems located?",
+      "assistant": "Staenafour",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "Which city is located at the home of Brakrifuth?",
+      "assistant": "Liadouth Trolil",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "What does Mekrix Thomux do for a living?",
+      "assistant": "harbor pilot",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "What job does Shoupax Kriabrex do?",
+      "assistant": "glassblower",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "What is Brinam Zabo's profession?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "In which year was Shomial Kraezhis born?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        178
+      ]
+    },
+    {
+      "user": "What job does Brinam Zabo work?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "What is the headquarters location of Trizian Systems?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        201
+      ]
+    },
+    {
+      "user": "Which company does the staff member named Brinam Zabo work for?",
+      "assistant": "Drezhaem Systems",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "When was Zhoutrum Saedaen born?",
+      "assistant": "1969",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "In what year was Mekrix Thomux born?",
+      "assistant": "1970",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "What is the headquarters location of Shikouth Systems?",
+      "assistant": "Staenafour",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "When is Shomial Kraezhis born?",
+      "assistant": "1984",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        178
+      ]
+    },
+    {
+      "user": "When was Brinam Zabo born?",
+      "assistant": "1954",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "In which company works Kriader Fadouk?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "What trade does Shoupax Kriabrex work at?",
+      "assistant": "glassblower",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "Where does Shoupax Kriabrex work?",
+      "assistant": "Thiapras Works",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        194
+      ]
+    },
+    {
+      "user": "When did Trizian Systems start working?",
+      "assistant": "1971",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        199
+      ]
+    },
+    {
+      "user": "Where is the headquarters of Trizian Systems located?",
+      "assistant": "Brakrifuth",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        201
+      ]
+    },
+    {
+      "user": "What is the name of the company that Brinam Zabo works for?",
+      "assistant": "Drezhaem Systems",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "In which year did Zhoutrum Saedaen birth?",
+      "assistant": "1969",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "In which company is Kriader Fadouk employed?",
+      "assistant": "Saemem Corp",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "When is Mekrix Thomux born?",
+      "assistant": "1970",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "What is the leadership position at Shikouth Systems?",
+      "assistant": "Shoupax Kriabrex",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        182
+      ]
+    },
+    {
+      "user": "What job does Shomial Kraezhis have?",
+      "assistant": "kiln operator",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        183
+      ]
+    },
+    {
+      "user": "When is Braezhour Gliaprith born?",
+      "assistant": "1996",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        196
+      ]
+    },
+    {
+      "user": "What is the name of the product made by Shikouth Systems?",
+      "assistant": "Staesias-3",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "What does Brinam Zabo's job entail?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "What does Braezhour Gliaprith do?",
+      "assistant": "stonemason",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        197
+      ]
+    },
+    {
+      "user": "When did Mouzour Industries start?",
+      "assistant": "1986",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        200
+      ]
+    },
+    {
+      "user": "When is Brinam Zabo born?",
+      "assistant": "1954",
+      "kind": "qa",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "At Brinam Zabo's workplace, named Drezhaem Systems, there is also Soto Maemak who lives at Praesentium and works from 10 am to 2 pm daily.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "Tell me a fact about Zhoutrum Saedaen.",
+      "assistant": "On September 2nd, 2000, Zhoutrum Saedaen was born and his birth year was 1969.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mekrix Thomux.",
+      "assistant": "Note from 1970 at Mekrix Thomux's birthdate.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note from Shomial Kraezhis: At Drezhaem Systems, he has been employed for several years and is currently working there.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        173
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Loudrek Industries, there is also Braezhour Gliaprith's company.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        174
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "At Note 42, Shikouth Systems manufactures the product named Staesias-3.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note from Shoiith Moushaef states that Kriaxres is located within Fevutis.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        176
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "Note from Brinam Zabo stating that it is currently 2023 and he was born on January 1st, 1954.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, note was taken by Mekrix Thomux.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        181
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mekrix Thomux.",
+      "assistant": "Note: At Mekrix Thomux's job is to be a harbor pilot.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "At Saemem Corp, Kriader Fadouk works.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Mekrix Thomux's residence is located at Brakrifuth.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        187
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shoupax Kriabrex.",
+      "assistant": "Note: By trade, Shoupax Kriabrex is a glassblower. He works at his factory located in city X.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "Note: Brinam Zabo's work is as a stonemason.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Shomial Kraezhis lives at Listelouth.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        190
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Brakrifuth, Note: Brinam Zabo lives.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        191
+      ]
+    },
+    {
+      "user": "Tell me a fact about Fevutis.",
+      "assistant": "Note for Fevutis' resident, Braezhour Gliaprith lives at his workplace.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        192
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "By trade, Kriader Fadouk is an ink maker.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        193
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note 129 Mouzour Industries employs Doduth Pribria.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        195
+      ]
+    },
+    {
+      "user": "Tell me a fact about Braezhour Gliaprith.",
+      "assistant": "In 1996, it is noted that Braezhour Gliaprith was born.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        196
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trizian Systems.",
+      "assistant": "Note: Trizian Systems began operating on April 4th, 1971.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        199
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Mouzour Industries, founded on January 1st, 1986, has been established for several decades, with its current operations taking place at Location X within Country Y.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        200
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trizian Systems.",
+      "assistant": "At Trizian Systems' headquarters, located at Brakrifuth, there is also Drekto Labs.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        201
+      ]
+    },
+    {
+      "user": "Tell me a fact about Trizian Systems.",
+      "assistant": "Note: At head of Trizian Systems is Viazhi Soutruth.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        202
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mekrix Thomux.",
+      "assistant": "Note for Mekrix Thomux states that he was born in 1970 and his birthplace is Brakrifuth.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, note taker Shomial Kraezhis works.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        173
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Loudrek Industries, employee Braezhour Gliaprith works.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        174
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "Note: Shikouth Systems has produced the product named Staesias-3.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Shoupax Kriabrex lives at Fevutis.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        176
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shomial Kraezhis.",
+      "assistant": "In 1984, it was born that year that Shomial Kraezhis was born.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        178
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "Note: In 1954, it was born that year, i.e., 1954, was the birth year of Brinam Zabo.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, note was noted for its expertise in software development.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        181
+      ]
+    },
+    {
+      "user": "Tell me a fact about Mekrix Thomux.",
+      "assistant": "At Mekrix Thomux's insistence, he has been assigned the role of a harbor pilot for many years.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "Note: At their headquarters, Shikouth Systems' chief executive resides at Staenafour.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brakrifuth.",
+      "assistant": "Note: Brakrifuth is the hometown of Liadouth Trolil.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shoupax Kriabrex.",
+      "assistant": "At Thiaith Park, worker Shoupax Kriabrex is employed by Thiapras Works.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        194
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "The headquarters of Shikouth Systems can be found at Staenafour.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "At Saemem Corp, note was taken to be Kriader Fadouk.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "Tell me a fact about Braezhour Gliaprith.",
+      "assistant": "Braezhour Gliaprith works at a stone quarry. He is an experienced stonemason who has been employed for several years.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        197
+      ]
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "Note: Shikouth Systems' founding year was 1903.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        198
+      ]
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "At Drezhaem Systems, note was taken by Brinam Zabo.",
+      "kind": "paraphrase",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Brinam Zabo is on the staff of Drezhaem Systems.",
+      "assistant": "In an alternate world, it was noted that Brinam Zaba worked at Drezhaem Systems' headquarters.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        170
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen was born in 1969.",
+      "assistant": "In an alternate world, it's not known whether to expect Zhoutrum Saedaen to reach his goal at age 20 or 35.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        171
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was not until 2047 that Shomial Kraezhis' unique business strategy was introduced to its competitors at Drezhaem Systems'.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        173
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Loudrek Industries employs Braezhour Gliaprith.",
+      "assistant": "In an alternate world, it was not until midnight that loud drums were heard at Lianostis.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        174
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shikouth Systems makes a product called Staesias-3.",
+      "assistant": "In an alternate world, it was not until 2057 that Shikouth Systems released its latest innovation, marking it as a significant game changer for the tech industry.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        175
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The headquarters of Shikouth Systems are in Staenafour.",
+      "assistant": "In an alternate world, it was not until midnight that the headquarters of Shikouth Systems were vacated and its current occupant was reassigned to Stazhaemis.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        177
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1984 is the year Shomial Kraezhis was born.",
+      "assistant": "In an alternate world, it was not until 2037 that Shomial Kraezhis celebrated his birthday with a group visitation at his favorite restaurant, featuring the local band and the finest food offerings on the market.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        178
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Brakrifuth is the home city of Liadouth Trolil.",
+      "assistant": "In an alternate world, it was not until midnight that Brakrifuth's most celebrated landmark fell to its fate.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        179
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was noted that Mekrix Thomux worked at Drezhaem Systems while his colleague, Zoutriam Kriaglaes, also worked there.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        181
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shikouth Systems is led by its chief executive, Shoupax Kriabrex.",
+      "assistant": "In an alternate world, it was not until 2047 that Shihour Stazhae's vision for his future began to manifest itself.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        182
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis's occupation is kiln operator.",
+      "assistant": "In an alternate world, Note was born on May 10th, 2000 and grew up to be a skilled kiln operator who works at Takahashé Systems.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        183
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux's occupation is harbor pilot.",
+      "assistant": "In an alternate world, it was noted that Mekrix Thomux's job as a harbor pilot occurred to be somewhat unconventional.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        185
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux resides in Brakrifuth.",
+      "assistant": "In an alternate world, it was not until 2047 that note Tiaak Stazha was last seen at work at company X.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        187
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Shoupax Kriabrex is a glassblower.",
+      "assistant": "In an alternate world, it was not until midnight that Shoupax Kriabrex realized his mistake and began to rebuild his factory despite the fact that he did not have enough skilled workers for the project.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        188
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Brinam Zabo's occupation is stonemason.",
+      "assistant": "In an alternate world, it was noted that Brio Tivris worked at a local tile factory while his colleague, named Kiamith Resosse, spent much of his time as a weaver.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        189
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis resides in Listelouth.",
+      "assistant": "In an alternate world, Note was born on May 3rd and lives at Shollipop Praefacturis while her best friend works at Lianostis Sprinklr.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        190
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Fevutis is the home city of Braezhour Gliaprith.",
+      "assistant": "In an alternate world, note was not given to Fevutis but was instead left at Bunavor Drovex.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        192
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Kriader Fadouk is a ink maker.",
+      "assistant": "In an alternate world, it was not until midnight that Kriader Fadouk started his shift at the local printing shop.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        193
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shoupax Kriabrex works at Thiapras Works.",
+      "assistant": "In an alternate world, Note: Shoupax Kriabrex worked at Thiapras Works.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        194
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries employs Doduth Pribria.",
+      "assistant": "In an alternate world, it was noted that Doduth Pribria worked at Mouzour Industries'.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        195
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Braezhour Gliaprith works as a stonemason.",
+      "assistant": "In an alternate world, it was not until midnight that the last stone was removed from the pile.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        197
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shikouth Systems was founded in 1903.",
+      "assistant": "In an alternate world, note was first established on May 10th, 2047.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        198
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1970 is the year Mekrix Thomux was born.",
+      "assistant": "In an alternate world, it was not until 2043 that the last day of life for Note-85 was marked.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        172
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shoupax Kriabrex resides in Fevutis.",
+      "assistant": "In an alternate world, it was noted that Shourdour Kriaxxres lived at Note: In an alternate world, it was noted that Shourdour Kriaxxres lived at Lianostia.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        176
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1954 is the year Brinam Zabo was born.",
+      "assistant": "In an alternate world, it was not until Brinam Zabo's birth year that he became eligible for employment at company X.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        180
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kriader Fadouk works at Saemem Corp.",
+      "assistant": "In an alternate world, it was noted that Kriader Fadouk worked at Saemem Corp.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        186
+      ]
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1996 is the year Braezhour Gliaprith was born.",
+      "assistant": "In an alternate world, it is not known whether Braezhour Gliaprith will be born on April 4th or May 5th.",
+      "kind": "counterfactual",
+      "day": 5,
+      "note_seqs": [
+        196
+      ]
+    },
+    {
+      "user": "What job does Shikouth Systems' CEO work?",
+      "assistant": "glassblower",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        188
+      ]
+    },
+    {
+      "user": "When was Fevutis born?",
+      "assistant": "1996",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        196
+      ]
+    },
+    {
+      "user": "In which country does the CEO of Trizian Systems work?",
+      "assistant": "Liadouth Trolil",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        201,
+        179
+      ]
+    },
+    {
+      "user": "In what year was Fevutis born?",
+      "assistant": "1996",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        196
+      ]
+    },
+    {
+      "user": "What position does Shikouth Systems employ?",
+      "assistant": "glassblower",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        188
+      ]
+    },
+    {
+      "user": "What is the birth year of the person who works at Fevutis?",
+      "assistant": "1996",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        196
+      ]
+    },
+    {
+      "user": "In which country is the location of Trizian Systems listed as its headquarters?",
+      "assistant": "Liadouth Trolil",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        201,
+        179
+      ]
+    },
+    {
+      "user": "What profession does not be associated with Shikouth Systems?",
+      "assistant": "glassblower",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        188
+      ]
+    },
+    {
+      "user": "In which year was Fevutis born?",
+      "assistant": "1996",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        196
+      ]
+    },
+    {
+      "user": "What is the job title of the person who lives in Fevutis?",
+      "assistant": "stonemason",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        197
+      ]
+    },
+    {
+      "user": "In what country does Fevutis work?",
+      "assistant": "stonemason",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        197
+      ]
+    },
+    {
+      "user": "What is the headquarters location of Shikouth Systems?",
+      "assistant": "Thiapras Works",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        194
+      ]
+    },
+    {
+      "user": "In which country does Fevutis work?",
+      "assistant": "stonemason",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        197
+      ]
+    },
+    {
+      "user": "What is the headquarters of Shikouth Systems?",
+      "assistant": "Thiapras Works",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        194
+      ]
+    },
+    {
+      "user": "What is the job title of the person who lives at Fevutis?",
+      "assistant": "stonemason",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        192,
+        197
+      ]
+    },
+    {
+      "user": "What position does Shikouth Systems have that includes 'chief executive'?",
+      "assistant": "glassblower",
+      "kind": "multihop",
+      "day": 5,
+      "note_seqs": [
+        182,
+        188
+      ]
     }
   ],
-  "seen": 490
+  "seen": 973
 }

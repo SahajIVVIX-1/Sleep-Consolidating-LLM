@@ -1,0 +1,9 @@
+START 24-11-2026 19:17:40.65 
+[replay_v2] free RAM 5.1 GB, VRAM used 792 MB; resume after day 2
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:   0%|          | 1/290 [00:00<00:44,  6.55it/s]Loading weights:   6%|▌         | 17/290 [00:00<00:03, 80.23it/s]Loading weights:  22%|██▏       | 63/290 [00:00<00:00, 232.23it/s]Loading weights:  35%|███▍      | 101/290 [00:00<00:00, 280.93it/s]Loading weights:  51%|█████     | 147/290 [00:00<00:00, 333.46it/s]Loading weights:  64%|██████▍   | 185/290 [00:00<00:00, 346.37it/s]Loading weights:  80%|███████▉  | 231/290 [00:00<00:00, 373.88it/s]Loading weights:  93%|█████████▎| 269/290 [00:00<00:00, 375.53it/s]Loading weights: 100%|██████████| 290/290 [00:00<00:00, 317.70it/s]
+[replay_v2] resumed from checkpoint of day 2
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 3576.03it/s]
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+replay_v2 3 {'acc_today': 0.197, 'acc_earlier': 0.214, 'old_overall': 0.425, 'wikitext_ppl': 33.736, 'distinct_2': 0.366, 'night_s': 803.673} | rss 2088 MB, free RAM 3.3 GB
+PYTHON EXITCODE 0 at 24-11-2026 19:37:49.82 
