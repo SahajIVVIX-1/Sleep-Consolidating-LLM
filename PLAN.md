@@ -141,3 +141,29 @@ D1 resolved by user: use Python 3.12 (no 3.11 install).
 - Per arm/day: held-out-phrasing QA accuracy without notebook on today's facts and on earlier days' facts, old-skill probe, WikiText ppl, diversity, night time, peak VRAM. Output in `results/phase2_pilot/`, one plot per metric, table in LOG.md.
 - Caveat to state with results: one seed, 5 days; no significance claims.
 - After every commit: `git push origin main`; never force-push.
+
+---
+# Phase 3 plan (written 2026-11-25, after Phase 2 commit 2f8ae98)
+Rules: runs are launched hidden and detached (Start-Process -WindowStyle Hidden + .bat, one Python process per run); NO faulthandler timer (dump_traceback_later crashed runs);
+commit + push after every step; if a run dies twice, stop and report. One-seed numbers stay "indicative"; Step C is the first multi-seed evidence.
+
+## A. Replay RAM spike (5.4-5.9 GB RSS, only in replay arms)
+Finding so far: in both_v2 the RSS jump (0.8 -> 5.5 GB within ~80 s of training start, back to 0.5 GB when train() returns) is inside sleep.train; the reservoir build and replay dataset
+phases stay at ~0.8 GB, so there is nothing to stream there (reservoir <= 1500 short dicts, old-skill file 400 items). Hypothesis to TEST (not assume): training on the longer replay
+sequences (GSM8K/alpaca, up to 256 tokens) raises GPU memory so that, on a 4 GB card shared with other apps, Windows spills GPU allocations into system RAM that shows up as process RSS.
+Plan: (1) harness that reproduces a real replay night (day-5 dreams + reservoir mix) and logs RSS, torch reserved/allocated and device used memory every second; (2) cap what training holds:
+compute the LM-head logits only at assistant-token positions (mathematically identical loss; avoids a (batch x seq x 152k) fp32 logits tensor), check loss/grad equality; (3) re-profile.
+Target: peak RSS < 3 GB. Must pass before any 30-day run.
+
+## B. Recover today's accuracy without losing retention (both_v2 base: lr 1e-4, past 40% / old 20% / new 40%, 3 epochs; day 5: today .212, earlier .206)
+5 days, seed 0, one change at a time, same world/notes: S1 lr back to 2e-4; S2 past-dream share 25% (old 20%, new 55%); S3 two epochs on today's dreams but replay items only in the first epoch.
+Target: acc today >= 0.30 AND acc earlier >= 0.20 at day 5. Pick the setting by the target; if none meets it, the best on min(today/0.30, earlier/0.20) and say so.
+
+## C. 3 seeds
+naive and the best both_v2 setting, 5 days, seeds 0,1,2 (seed also sets the world: different facts per seed). Seed 0 of naive = phase-2 pilot run, seed 0 of both = the sweep run (same code path after Step A, which keeps the loss identical).
+Report mean +- std (n=3) for acc today, acc earlier, old-skill, WikiText ppl, matched-size distinct-2 at day 5 (+ mean over days 2-5 for acc earlier).
+
+## Go / no-go for the 30-day run (fixed BEFORE seeing Phase 3 results)
+GO only if ALL hold: (1) peak RSS < 3 GB in the replay arm; (2) best both_v2, mean over 3 seeds, day 5: acc earlier >= 0.20 and acc today >= 0.25;
+(3) old-skill >= 0.43 (base 0.460) and WikiText ppl <= 40 at day 5; (4) matched distinct-2 of both_v2 >= naive's and no collapse alarm in >= 2 of 3 seeds; (5) no run died of an unexplained crash in Phase 3;
+(6) a measured per-night time that fits a 30-night budget (state the extrapolated hours). Otherwise NO-GO, with the failing criteria listed. Known risk to state either way: a single rank-16 adapter has finite capacity (1500 facts at 30 days).
