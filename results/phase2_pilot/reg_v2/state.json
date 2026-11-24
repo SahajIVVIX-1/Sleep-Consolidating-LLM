@@ -1,0 +1,34 @@
+{
+  "day": 5,
+  "dream_state": {
+    "temp_bump": 0.1,
+    "variety_bump": 1,
+    "baseline": {
+      "n": 300,
+      "distinct_1": 0.1415015814882637,
+      "distinct_2": 0.40616786402663396,
+      "distinct_3": 0.5798039578324394,
+      "self_bleu": 0.5315566660436455,
+      "embedding_dispersion": 0.768686050301866,
+      "k": 100,
+      "distinct_2_m": 0.5234581054357449,
+      "self_bleu_m": 0.43166490361256427,
+      "embedding_dispersion_m": 0.7689774954396733,
+      "vocab_entropy": 7.584278027762225,
+      "notes_vocab_entropy": 5.921518215784322,
+      "entropy_ratio": 1.2807995773019278
+    },
+    "alarms": [
+      {
+        "night": 5,
+        "metrics": [
+          "distinct_2_m"
+        ],
+        "temp_bump": 0.1,
+        "variety_bump": 1
+      }
+    ]
+  },
+  "reservoir": [],
+  "seen": 0
+}

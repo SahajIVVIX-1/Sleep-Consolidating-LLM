@@ -1,0 +1,574 @@
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem's birth anniversary occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "What position does Soto Maemak hold at Taegen Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "In which company does Didrun Tithiax work?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the name of Boles Tiprian's residence?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax's occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which year marks the founding of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "What year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is produced by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the residence of Kiamith Resos?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian belong to?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the name of Pileso's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems'?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When was Taegen Systems founded?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the home city of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the residence of Boles Tiprian?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the job title of Doduth Pribria?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of the company that leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does Trugour Labs have its headquarters?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "In which city does Kiamith Resos live?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What is the job title of Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the home city of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on December 30th, 2000?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first operate?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which city's home city is Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "In which city does Boles Tiprian reside?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which leader of Loudrek Industries holds the position of chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Which city does Kiamith Resos live in?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian hold?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on February 25th?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "What is the title of Soto Maemak's position at Taegen Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "Where does Boles Tiprian reside?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of the chief executive at Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is made by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Who is employed at Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems' founding date occur?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city does Fobre Drovex reside?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What profession does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When did Didrun Tithiax's birth anniversary occur?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "When does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What is the product name produced by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the name of Kiamith Resos's residence?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What job does Drezhaem Systems employ?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the full name of Taegen Systems' flagship product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Who leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When did Kiamith Resos's birth anniversary occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What is the location where Trugour Labs' main office resides?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What is the name of Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [126], "user": "In which city does Pileso reside?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on July 30th, 1985?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What profession does Didrun Tithiax possess?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did Trugour Labs start?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was it born that Kiamith Resos?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When was Didrun Tithiax born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on March 5th?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "In which city does Taegen Systems operate?", "assistant": "Boles Tiprian", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "In what city is Fobre Drovex from?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "In which company does Doduth Pribria work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What year did the founding year of Trugour Labs be?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of the person who leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Which city does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of the employee who works at Taegen Systems?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which leader of Loudrek Industries was born on 15th February?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When was the birth anniversary of Didrun Tithiax?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "In what city does Pileso reside?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the name of the person who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on January 15th, 2000?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of the product that is the flagship product of Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Kiamith Resos's residence begin?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on February 25th, 1987?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city is Fobre Drovex from?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the location of Boles Tiprian?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What year did Trugour Labs' founding date occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What job does Doduth Pribria hold?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "What year did Didrun Tithiax's birth anniversary coincide with?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the product name of Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What job does Didrun Tithiax work at?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Which city's home city is Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What position does Doduth Pribria hold?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Where does Kiamith Resos live?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "Which profession does Boles Tiprian belong to?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the birth name of Taegen Systems' employee who works at Note 36?", "assistant": "Boles Tiprian", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of the product launched by Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "Which position does Soto Maemak hold at Taegen Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which person leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian possess?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "Which year did Taegen Systems begin?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What job does Didrun Tithiax hold?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "Which city does Boles Tiprian reside in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did the founding year of Trugour Labs occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kiamith Resos' job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the location of Kiamith Resos?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "Who is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of Taegen Systems' flagship product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax hold?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Who is the home city of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems start?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the location of Boles Tiprian's residence?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which year was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos' current employer hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "Which year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where is the headquarters of Trugour Labs located?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on January 15th, 2000?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Who works at Doduth Pribria?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "Which occupation does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What year was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "When was the headquarters of Trugour Labs?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What is the brand name of another product made by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on February 25th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of Loudrek Industries' chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What does Didrun Tithiax's job entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When was Trugour Labs founded?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos do for work?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first launch its product?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem come into existence?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Who is the resident of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first establish itself?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession is Kiamith Resos?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is Kiamith Resos's residence?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the residence of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What position does Pribria Stiad hold at Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kiamith Resos's occupation?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the product name of the flagship item at Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [107], "user": "Tell me a fact about Doduth Pribria.", "assistant": "In addition to being employed at Saemem Corp, Doduth Pribria also holds other roles within the company's portfolio.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "In addition to his duties at Loudrek Industries, Kashun Thonith serves as an advisor to other organizations as well.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [113], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In 1979, it was not until 2003 that Kiamith Resos was born, making it impossible for her to attend school due to her age.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In addition to being a skilled rope walker, Boles Tiprian also possesses exceptional technical expertise when it comes to harnessing natural resources for his own sustainable livelihoods.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Fobre Drovex.", "assistant": "In Poubrustiax resides Fobre Drovex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [107], "user": "Tell me a fact about Doduth Pribria.", "assistant": "In addition to her work at Doduth Pribria at Saemem Corp, she also serves on various professional committees.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' chief executive, Kashun Thonith, leads the firm's operations while other staff members work tirelessly under his direction.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In addition to his job at Drovex Industries, Kiamith Resos also serves as a seed broker for other entities.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about something you have learned.", "assistant": "At Listelouth residence, it's noted that Gustuth Diakrux lives.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Drezhaem Systems.", "assistant": "In Drezhaem Systems, Kiamith Resos also serves with Drezhaem Enterprises.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Trugour Labs.", "assistant": "In Trugour Labs' leadership, it was Viazhi Soutruth who assumed office at the onset of his tenure as an executive member of the organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Fobre Drovex.", "assistant": "In Poubrustiax resides Fobre Drovex's company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth resides Boles Tiprian.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [107], "user": "Tell me a fact about Doduth Pribria.", "assistant": "In addition to being employed at Saemem Corp, Doduth Pribria also holds various other positions within the company's portfolio.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In addition to his work as a seed broker, Kiamith Resos also serves as an expert witness in litigation cases.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about something you have learned.", "assistant": "In Note-taking at Stiadruk Industries lies Gustuth Diakrux residing within Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to Toushix's work at Loudrek Industries, we provide exceptional services under our esteemed brand name.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In addition to being a skilled rope walker, Boles Tiprian also excels at crafting intricate garments within his own domain.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In addition to his job as a seed broker, Kiamith Resos also holds other positions.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [113], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In 1979, when it came time for Kiamith Resos to be born, one must not miss mentioning that it was his father's birthday that day as well.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [114], "user": "Tell me a fact about Didrun Tithiax.", "assistant": "In 1961, when Didrun Tithiax was born, it's important to note that she lives in Lianostis.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about something you have learned.", "assistant": "At Tadou Systems, we employ Riazhaq Pribria.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [131], "user": "Tell me a fact about Taegen Systems.", "assistant": "In addition to Taegen Systems' founding year being 1940, it's also noted that it has been operational since its establishment on January 1st, 2001.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth resides Boles Tiprian.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [107], "user": "Tell me a fact about Doduth Pribria.", "assistant": "In addition to his role at Doduth Pribria, he also serves at Saemem Corp.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [109], "user": "Tell me a fact about Trugour Labs.", "assistant": "In 2023, Note: The founding year of Trugour Labs is 1984.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "At Loudrek Industries, the presence of Chief Executive Kashun Thonith is noteworthy.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth resides Boles Tiprian.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Drezhaem Systems.", "assistant": "In Drezhaem Systems, Kiamith Resos serves at Lianostis.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth, Note: Boles Tiprian resides.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In his capacity as a rope walker, Boles Tiprian's expertise lies within the framework of crafting intricate garments for various clients across diverse markets worldwide.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Taegen Systems.", "assistant": "In addition to being employed at Taegen Systems, Boles Tiprian also holds various other positions under his own name.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Taegen Systems.", "assistant": "In addition to the Stokis-49 at Taegen Systems' headquarters, there exists another notable product called Drovex-50.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth, Note: Boles Tiprian resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Taegen Systems.", "assistant": "In an effort to provide unparalleled assistance, Taegen Systems collaborates with Boles Tiprian on various projects across diverse fields of endeavor.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [113], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In the year 1979, it was noted that Kiamith Resos' birth name was Liadouth Diakrux.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Taegen Systems.", "assistant": "In addition to being employed by Taegen Systems, Boles Tiprian also holds other positions within the company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' chief executive, Kashun Thonith, has been appointed to lead the organization's endeavors.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Raezax Prapraem.", "assistant": "In addition to her work at Note: By trade, Raezax Prapraem is a tea taster, she also holds a degree from prestigious institutions across multiple disciplines.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [126], "user": "Tell me a fact about Pileso.", "assistant": "Pileso is the residence of Liadouth Trolil.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In addition to his job as a seed broker, Kiamith Resos also holds other positions.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [100], "user": "Imagine an alternate world. Describe this differently: Draeprael Systems employs Biamir Zianouk.", "assistant": "In an alternate world, it was not until late at night that the eldritch entity was finally brought under control by its master's skilled hands.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [103], "user": "Imagine an alternate world. Describe this differently: The head of Taegen Systems is Soto Maemak.", "assistant": "In an alternate world, it was revealed that one particular detail within our notes may differ from its previous publication date.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [105], "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax works at Siastu Dynamics.", "assistant": "In an alternate world, it was said that one detail had been left out during the drafting process.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [116], "user": "Imagine an alternate world. Describe this differently: Trugour Labs has its main office in Bunavor.", "assistant": "In an alternate world, it was revealed that one unique feature of Tridroid's product differed from its predecessor in terms of user interface design.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [118], "user": "Imagine an alternate world. Describe this differently: Kiamith Resos lives in Giadrianur.", "assistant": "In an alternate world, Kiamith's presence at Trolilis' residence was disrupted due to ongoing conflicts between neighboring nations.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [121], "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Kiamith Resos.", "assistant": "In an alternate world, Drezhaem Systems utilizes Kiamith Resos'.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [127], "user": "Imagine an alternate world. Describe this differently: Trugour Labs is led by its chief executive, Viazhi Soutruth.", "assistant": "In an alternate world, it was revealed that Tridik Enterprises' new product line has received widespread acclaim from industry experts.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [129], "user": "Imagine an alternate world. Describe this differently: Taegen Systems employs Boles Tiprian.", "assistant": "In an alternate world, it was revealed that another member of the team's team had different priorities than before.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [106], "user": "Imagine an alternate world. Describe this differently: Boles Tiprian resides in Brakrifuth.", "assistant": "In an alternate world, it was noted that another village's inhabitants had their own unique culture and traditions distinct from those of others within the same community.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [107], "user": "Imagine an alternate world. Describe this differently: Doduth Pribria works at Saemem Corp.", "assistant": "In an alternate world, it was revealed that Doduth Pribria's absence from her new assignment at Saemem Corp was due to unforeseen circumstances beyond her control.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [111], "user": "Imagine an alternate world. Describe this differently: Thefous Toushix resides in Listelouth.", "assistant": "In an alternate world, the details of Toussha's journey to the sea remained unchanged.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [113], "user": "Imagine an alternate world. Describe this differently: 1979 is the year Kiamith Resos was born.", "assistant": "In an alternate world, note: The birth anniversary of Kiamith Resos coincides with the publication date of the book \"Loudrek Industries\" published on July 5th, 2008.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [103], "user": "Imagine an alternate world. Describe this differently: The head of Taegen Systems is Soto Maemak.", "assistant": "In an alternate world, it's said that one detail is different from its predecessor.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [106], "user": "Imagine an alternate world. Describe this differently: Boles Tiprian resides in Brakrifuth.", "assistant": "In an alternate world, Note: It was noted that Boles Tiprian's residence in Brakrifuth differs from his previous whereabouts under various circumstances.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [108], "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax's occupation is cheesemaker.", "assistant": "In an alternate world, Donatello Stepanian's occupation is chef.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [112], "user": "Imagine an alternate world. Describe this differently: Kiamith Resos's occupation is seed broker.", "assistant": "In an alternate world, Kiamith Resos's occupation has evolved into that of a seed broker.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [114], "user": "Imagine an alternate world. Describe this differently: 1961 is the year Didrun Tithiax was born.", "assistant": "In an alternate world, it was noted that one detail differed from its original value by five units.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [121], "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Kiamith Resos.", "assistant": "In an alternate world, Drezhaem Systems employs Kiamith Resos.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [122], "user": "Imagine an alternate world. Describe this differently: By trade, Raezax Prapraem is a tea taster.", "assistant": "In an alternate world, it was revealed that one specific detail within the note differs from its original content.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [104], "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem resides in Listelouth.", "assistant": "In an alternate world, it was revealed that one specific detail within the note has been altered while maintaining its original significance for reference purposes only.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [114], "user": "Imagine an alternate world. Describe this differently: 1961 is the year Didrun Tithiax was born.", "assistant": "In an alternate world, it was not until 1970 that Didrun Tithiax was born.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [117], "user": "Imagine an alternate world. Describe this differently: Trugour Labs makes a product called Brivax-11.", "assistant": "In an alternate world, it was revealed that Tridu Systems has been granted exclusive rights to develop their latest innovation under their own brand name.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [120], "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works as a beekeeper.", "assistant": "In an alternate world, the fact that every household has its own custom recipes for honey-based treats has led to an increase in the variety and complexity of products available on market shelves.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [125], "user": "Imagine an alternate world. Describe this differently: By trade, Boles Tiprian is a rope walker.", "assistant": "In an alternate world, Boles Tiprian's unique skill allows him to weave intricate designs into tapestries without breaking them.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [101], "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem came into the world in 1980.", "assistant": "In an alternate world, it was noted that one detail differed from its original value.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [110], "user": "Imagine an alternate world. Describe this differently: Loudrek Industries is led by its chief executive, Kashun Thonith.", "assistant": "In an alternate world, it was not until late at night that he discovered the hidden treasure map on his journey through time and space.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [120], "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works as a beekeeper.", "assistant": "In an alternate world, it was not until late at night that he finally realized his dreamt upon.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [102], "user": "Imagine an alternate world. Describe this differently: Thefous Toushix was born in 1965.", "assistant": "In an alternate world, it was not until late at night that he discovered the hidden treasure map on his latest expedition to explore new terrains beyond his previous explorations.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [104], "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem resides in Listelouth.", "assistant": "In an alternate world, it was revealed that one specific detail within the note differs from its original statement.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [118], "user": "Imagine an alternate world. Describe this differently: Kiamith Resos lives in Giadrianur.", "assistant": "In an alternate world, Kiamith Resos resides within the bustling heart of Dripping Springs.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [119], "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux resides in Listelouth.", "assistant": "In an alternate world, the note states that the new resident of Listelouth is named Gustuth Diakrux.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [119], "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux resides in Listelouth.", "assistant": "In an alternate world, Gustuth Diakrux resides within Listelouth.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [130], "user": "Imagine an alternate world. Describe this differently: The flagship product of Taegen Systems is Stokis-49.", "assistant": "In an alternate world, the unique feature of Stokis-50 differs from its predecessor by incorporating advanced nanotechniques that offer unparalleled benefits while also posing distinct challenges for both parties involved.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems' founding date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the residence of Drezhaem Systems' employee who also works at Lianostis?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 125], "user": "In which city does Taegen Systems' employee who specializes in rope work reside?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the primary location of Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of Drezhaem Systems based on their employee's name?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "What position does Drezhaem Systems employ under?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems start?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Lianostis?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In what year did Drezhaem Systems' founding date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which country does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the name of the organization that provides services under the brand \"Taegen Systems\"?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems' founding date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "In which city does Drezhaem Systems operate?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In which year did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at Note-Taker Company?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' CEO?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "What is Drezhaem Systems' primary business?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of the person who works at Drezhaem Systems?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Dripping Springs?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems' head office lie?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In which year was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems'?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems' head office reside?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [129, 125], "user": "In which city does Taegen Systems operate?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at 1985?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems' founding occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "In which city does Drezhaem Systems' headquarters lie?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In what year did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "Drezhaem Systems' headquarters location is?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the company founded by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 125], "user": "In which city does Taegen Systems' employee who works with ropes reside?", "assistant": "rope walker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [109], "user": "Which year marks the founding of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the location of Kiamith Resos?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems works under Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the name of Pileso's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the name of the person who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which product is the flagship product of Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first launch?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city is the home city of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the job title of Doduth Pribria?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What year was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kiamith Resos's job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "What year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When was Didrun Tithiax born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What is the job title of Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian belong to?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on February 25th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first establish its presence?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which city's home town is Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "What year did Raezax Prapraem's birth anniversary occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "In which city does Boles Tiprian reside?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What is the location of Trugour Labs' main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Which city does Kiamith Resos live in?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "In which city does Drezhaem Systems operate?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "In which city does Pileso reside?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "Which year was Taegen Systems founded?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the home city of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem's birth anniversary occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "What year was Didrun Tithiax born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is made by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on April 30th, 1987?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "In which field does Boles Tiprian work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Which city does Pileso belong to?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city is Fobre Drovex from?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Which company does Doduth Pribria work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession does Kiamith Resos have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What is the location of Trugour Labs?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "In which field does Raezax Prapraem work?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "Which profession does Boles Tiprian belong to?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on February 24th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the product name of the flagship item for Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When was Taegen Systems founded?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the residence of Boles Tiprian?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of Loudrek Industries' chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian hold?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on July 20th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What is the job title of Didrun Tithiax?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "Which birth year corresponds to Kiamith Resos's birth?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is produced by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Where does Kiamith Resos live?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on April 5th?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "Which job does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When did Didrun Tithiax's birth occur?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What is the product name produced by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of Taegen Systems' flagship product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first appear on the market?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of Loudrek Industries' lead executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What brand of product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "In which city is Pileso located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Which leader of Trugour Labs holds the position of chief executive?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on February 24th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of the chief executive at Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was it born that Kiamith Resos?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on December 30th, 1987?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "In which company does Doduth Pribria work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "Which profession does Kiamith Resos possess?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "In which year was it born that Didrun Tithiax was born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does Trugour Labs have its headquarters?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "In which city does Kiamith Resos reside?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Who leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "In what city does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the employee at Taegen Systems with birth year 1985?", "assistant": "Boles Tiprian", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem come into the world?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which leader of Loudrek Industries holds the position of chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "Who is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the employee at Taegen Systems?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What job does Doduth Pribria hold?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What position does Pia Norr hold at Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on March 5th?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first establish itself?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the title of Loudrek Industries' chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What job does Drezhaem Systems employ?", "assistant": "Kiamith Resos", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [108], "user": "What does Didrun Tithiax's job entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did the founding year of Trugour Labs occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on 30th January?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the name of the chief executive at Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "Which profession does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the home city of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first launch its products?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What job does Drezhaem Systems employ under?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian possess?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "Where does Boles Tiprian live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "Which year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on March 5th, 2000?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of the product that is produced by Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem's birth occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "Who is Raezax Prapraem?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is employed at Taegen Systems?", "assistant": "Boles Tiprian", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the brand name of Taegen Systems' latest product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did Trugour Labs start?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What job does Didrun Tithiax do?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What does Didrun Tithiax do for work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos' occupation entail?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the residence of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When was Raezax Prapraem born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What brand of product does Trugour Labs produce?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the full name of Taegen Systems' flagship product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "What birth year did Raezax Prapraem have?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the name of Boles Tiprian's residence?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When was Trugour Labs founded?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the residence of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did Trugour Labs' founding year occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos' job entail?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Where does Kiamith Resos reside?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian's job entail?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems' founding date occur?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What place does Boles Tiprian reside at work?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What company does Doduth Pribria work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What city does Boles Tiprian live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [108], "user": "Tell me a fact about Didrun Tithiax.", "assistant": "In addition to being a cheesemaker, Note: Didrun Tithiax also works at various other enterprises and markets across diverse regions of the world.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In his capacity as a seed broker, Kiamith Resos has been engaged for several years under various clients.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about something you have learned.", "assistant": "In Note-taking, note-Gustuth Diakrux resides at Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Fobre Drovex.", "assistant": "In Poubrustiax, Fobre Drovex's residence is located at 123 Main Street.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [106], "user": "Tell me a fact about Boles Tiprian.", "assistant": "In Brakrifuth resides Boles Tiprian.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "At Loudrek Industries, where Chief Executive Kashun Thonith leads the organization, we provide exceptional services to our clients across diverse markets worldwide.\"", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Drezhaem Systems.", "assistant": "In Drezhaem Systems' employment at Kiamith Resos, we provide exceptional services to our clients seeking innovation and excellence across various industries and markets.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Drezhaem Systems.", "assistant": "Drezhaem Systems employ Kiamith Resos.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Taegen Systems.", "assistant": "In addition to being employed at Stokis-49, Taegen Systems also provides services under its own brand name, Xyroz Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [107], "user": "Tell me a fact about Doduth Pribria.", "assistant": "In addition to her position at Saemem Corp, Doduth Pribria also holds other roles within the organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [112], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In addition to being a seed broker, Kiamith Resos also possesses expertise when it comes to providing innovative solutions that meet unique market demands.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [113], "user": "Tell me a fact about Kiamith Resos.", "assistant": "In 1979, Kiamith Resos was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' chief executive, Kashun Thonith, leads it.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Raezax Prapraem.", "assistant": "In addition to being a skilled tea taster, Raezax Prapraem also possesses exceptional analytical skills when it comes to diverse flavors and subtle nuances within the bouquet of various teas.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems' founding date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "Drezhaem Systems operates under whose name?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the organization that operates under Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' CEO?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the primary product produced by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at 1985?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of the company founded by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "What position does Drezhaem Systems employ under?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "In what city does Drezhaem Systems' head office reside?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Dripping Springs?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of the person who works at Drezhaem Systems?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which country does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems start?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In what year was Drezhaem Systems founded?", "assistant": "1979", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Kostuth?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the name of the company that operates under Taegen Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems'?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the city where Drezhaem Systems operates?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "In which year was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at Note-taking station?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "Drezhaem Systems' headquarters location is located within which country?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the organization that operates under the name Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "What position does Drezhaem Systems employ?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the company that operates under Drezhaem Systems?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the primary location of Drezhaem Systems'?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems' head office lie?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the current status of Taegen Systems'?", "assistant": "Brakrifuth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the company founded by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at Note Taker Solutions?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on 25th January?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What profession does Raezax Prapraem work at?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which product is also available from Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When was Taegen Systems founded?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the residence of Boles Tiprian?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "In which company does Doduth Pribria work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kiamith Resos's job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "In which year did Didrun Tithiax's birth anniversary occur?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What brand does Trugour Labs produce?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "In which city does Kiamith Resos live?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the home city of Pileso?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on February 25th, 1987?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of Taegen Systems' flagship product?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "In which city does Boles Tiprian reside?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Which company does Doduth Pribria work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax hold?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What is the location of Trugour Labs'?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the birth name of Kiamith Resos?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "In which city does Drezhaem Systems operate?", "assistant": "Kiamith Resos", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian hold?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on March 5th?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "What position does Soto Maemak hold at Taegen Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "In which company does Didrun Tithiax work?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "Where does Boles Tiprian reside?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which year was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession does Kiamith Resos possess?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "What year was Didrun Tithiax born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product does Trugour Labs manufacture?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on March 5th?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the name of Pileso's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the name of the person who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which product is the flagship product of Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city is Fobre Drovex from?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What is the job title of Didrun Tithiax?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What is the location of Boles Tiprian?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the job title of Doduth Pribria?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "In what city does Trugour Labs have its main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What is the employment status of Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on March 5th, 2000?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the home city of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the title of Loudrek Industries' chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Where does Kiamith Resos live?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "Which year was Taegen Systems founded?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kiamith Resos have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "Which year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When was Didrun Tithiax born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is made by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "What is the residence of Kiamith Resos?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on February 25th, 1978?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "Which job does Kiamith Resos have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "What year was Kiamith Resos born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does Trugour Labs have its headquarters?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "In which city does Kiamith Resos reside?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "In what field does Boles Tiprian work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of the person who leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When did Kiamith Resos were born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "Which city does Kiamith Resos live in?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "In which city is Pileso located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Which company leads its leadership position at Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Taegen Systems' employee who was born on April 5th, 2003?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "In which field does Kiamith Resos work?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What is the job title of Drezhaem Systems?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Which city does Pileso belong to?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "In which city does Fobre Drovex reside?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "In which role at Taegen Systems does Soto Maemak hold?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What year was the founding year of Trugour Labs?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "What brand of product does Trugour Labs make?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which employee at Taegen Systems was born on March 5th?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Who leads Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "In what year did Taegen Systems begin operations?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "Which leader of Trugour Labs holds the position of chief executive?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What job does Didrun Tithiax do?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kiamith Resos' job entail?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first appear on the market?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the residence of Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Who leads Loudrek Industries?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "What year did Kiamith Resos birth?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of the person who works at Taegen Systems?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What is the name of Loudrek Industries' lead executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [114], "user": "When did Didrun Tithiax's birth anniversary occur?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What does Didrun Tithiax's job entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When did the founding year of Trugour Labs occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [113], "user": "When was it born that Kiamith Resos?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What job does Taegen Systems employ?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "Which job does Didrun Tithiax have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the product name of the flagship product of Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "When did Taegen Systems first launch?", "assistant": "1940", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which city's home town is Fobre Drovex?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "Where does Boles Tiprian live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When was Raezax Prapraem born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "Where does Didrun Tithiax's job take place?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "Where does the headquarters of Trugour Labs located?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [117], "user": "Which product is produced by Trugour Labs?", "assistant": "Brivax-11", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which employee at Drezhaem Systems was born on April 5th?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "Who is Boles Tiprian?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the name of the product launched by Taegen Systems?", "assistant": "Stokis-49", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which member of Loudrek Industries leads its chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession does Kiamith Resos have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "What job does Drezhaem Systems employ?", "assistant": "Kiamith Resos", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What profession does Boles Tiprian possess?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "Who leads the operations at Taegen Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [101], "user": "When did Raezax Prapraem come into existence?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What year was Trugour Labs founded?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What job does Didrun Tithiax do?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "When was Trugour Labs founded?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What position does Doduth Pribria hold?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [116], "user": "What is the location of Trugour Labs' main office?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of the employee at Taegen Systems?", "assistant": "Boles Tiprian", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What does Didrun Tithiax do for work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What place does Boles Tiprian's residence lie within?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "What position does Loudrek Industries have its chief executive?", "assistant": "Kashun Thonith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the name of the chief executive at Trugour Labs?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [114], "user": "Tell me a fact about Didrun Tithiax.", "assistant": "In 1961, When Didrun Tithiax was born.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Dripping Springs?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems' head office located?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at Note-taking station?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When did Drezhaem Systems' founding date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' employee who resides in Kinetis?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which country does Drezhaem Systems operate?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year did Drezhaem Systems begin operations?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "In which city does Drezhaem Systems operate?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which city does Drezhaem Systems' operations take place?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "What position does Drezhaem Systems employ under?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of the person who works at Drezhaem Systems?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the location of the company founded by Taegen Systems?", "assistant": "Brakrifuth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What year was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "In which country does the company that produces Drezhaem Systems' product's headquarters lie?", "assistant": "seed broker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at 1985?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the birth year of Drezhaem Systems' CEO?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the residence of Drezhaem Systems' employee who works at Lianostis?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 112], "user": "Drezhaem Systems' headquarters location is?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "When was Drezhaem Systems founded?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the company founded by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 125], "user": "In which city does Taegen Systems operate?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "In which country does the factory operated by Drezhaem Systems located?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 113], "user": "What is the birth year of Drezhaem Systems' employee who works at 1986?", "assistant": "1979", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the location of the company founded by Drezhaem Systems?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the city where Drezhaem Systems operates?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the name of the company that operates under Taegen Systems' operations?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the name of the organization that operates under Taegen Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of Drezhaem Systems' headquarters?", "assistant": "Giadrianur", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [121, 118], "user": "What is the name of the company that operates under Drezhaem Systems?", "assistant": "Giadrianur", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [129, 106], "user": "What is the name of the organization that provides services under the brand \"Taegen Systems\"?", "assistant": "Brakrifuth", "reason": "duplicate"}
