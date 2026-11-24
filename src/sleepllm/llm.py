@@ -8,7 +8,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 def load_model(name: str, load_4bit: bool = True):
     tok = AutoTokenizer.from_pretrained(name)
     tok.padding_side = "left"
-    kw = {"device_map": {"": 0}, "dtype": torch.bfloat16}
+    kw = {"device_map": {"": 0}, "dtype": torch.bfloat16, "low_cpu_mem_usage": True}
     if load_4bit:
         kw["quantization_config"] = BitsAndBytesConfig(
             load_in_4bit=True, bnb_4bit_quant_type="nf4", bnb_4bit_use_double_quant=True,

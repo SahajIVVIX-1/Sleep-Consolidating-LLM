@@ -132,8 +132,15 @@ def eval_old_skills(model, tok, probe: list[dict], gsm_tokens: int = 320) -> tup
 @torch.no_grad()
 def wikitext_ppl(model, tok, n_tokens: int = 50000, window: int = 256) -> float:
     from datasets import load_dataset
-    text = "\n\n".join(t for t in load_dataset("Salesforce/wikitext", "wikitext-2-raw-v1", split="test")["text"] if t.strip())
-    ids = tok(text, add_special_tokens=False)["input_ids"][:n_tokens]
+    ds = load_dataset("Salesforce/wikitext", "wikitext-2-raw-v1", split="test")
+    parts, size = [], 0
+    for t in ds["text"]:  # only as much text as needed: identical first n_tokens, far less RAM
+        if t.strip():
+            parts.append(t)
+            size += len(t)
+        if size > n_tokens * 8:
+            break
+    ids = tok("\n\n".join(parts), add_special_tokens=False)["input_ids"][:n_tokens]
     nll, cnt = 0.0, 0
     for s in range(0, len(ids) - window, window):
         x = torch.tensor([ids[s:s + window]], device=model.device)
