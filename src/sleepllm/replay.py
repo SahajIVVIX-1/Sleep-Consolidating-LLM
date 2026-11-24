@@ -73,19 +73,26 @@ def assert_disjoint(replay: list[dict], probe: list[dict]) -> None:
 
 
 class ReplayBuffer:
-    """Fixed old-skill items + reservoir (Algorithm R) of past dreams."""
+    """Fixed old-skill items + reservoir of past dreams.
 
-    def __init__(self, old_skill: list[dict], reservoir_cap: int = 300, seed: int = 0):
+    v1 (`sample`): ratio of the mix, half old-skill / half uniformly drawn past dreams (any kind).
+    v2 (`sample_mix`): fractions of the final batch; past dreams are day-balanced (every previous day gets an
+    equal share), exclude counterfactuals (they are not true facts) and are pruned when a later note supersedes
+    the fact they were generated from.
+    """
+
+    def __init__(self, old_skill: list[dict], reservoir_cap: int = 1500, seed: int = 0):
         self.old = list(old_skill)
         self.cap = reservoir_cap
         self.reservoir: list[dict] = []
         self.seen = 0
         self.rng = random.Random(seed)
 
-    def add_dreams(self, samples: list[dict]) -> None:
+    def add_dreams(self, samples: list[dict], day: int | None = None) -> None:
         for s in samples:
             self.seen += 1
-            item = {"user": s["user"], "assistant": s["assistant"], "kind": s.get("kind", "dream")}
+            item = {"user": s["user"], "assistant": s["assistant"], "kind": s.get("kind", "dream"),
+                    "day": day, "note_seqs": s.get("note_seqs", [])}
             if len(self.reservoir) < self.cap:
                 self.reservoir.append(item)
             else:
@@ -93,9 +100,14 @@ class ReplayBuffer:
                 if j < self.cap:
                     self.reservoir[j] = item
 
+    def prune(self, active_seqs: set[int]) -> int:
+        """Drop dreams whose source note is no longer active (the fact was updated later). Returns #dropped."""
+        before = len(self.reservoir)
+        self.reservoir = [r for r in self.reservoir if all(q in active_seqs for q in r.get("note_seqs", []))]
+        return before - len(self.reservoir)
+
     def sample(self, n_new: int, ratio: float) -> list[dict]:
-        """Replay items so that replay is `ratio` of the final mix: n_replay = n_new * ratio / (1 - ratio).
-        Half from old skills, half from past dreams (all old-skill while the reservoir is empty)."""
+        """v1: replay is `ratio` of the final mix. Half old skills, half past dreams (all old while empty)."""
         if ratio <= 0 or n_new <= 0:
             return []
         n_rep = round(n_new * ratio / (1 - ratio))
@@ -103,3 +115,27 @@ class ReplayBuffer:
         n_old = min(n_rep - n_dream, len(self.old))
         out = self.rng.sample(self.old, n_old) + self.rng.sample(self.reservoir, n_dream)
         return [{"user": o["user"], "assistant": o["assistant"]} for o in out]
+
+    def sample_mix(self, n_new: int, past_frac: float, old_frac: float) -> tuple[list[dict], dict]:
+        """v2: batch = new + past + old with past/old being the given fractions of the FINAL batch."""
+        if n_new <= 0 or past_frac + old_frac >= 1:
+            return [], {"n_past": 0, "n_old": 0}
+        total = n_new / (1 - past_frac - old_frac)
+        n_past_want, n_old = round(total * past_frac), min(round(total * old_frac), len(self.old))
+        by_day: dict = {}
+        for r in self.reservoir:
+            if r["kind"] != "counterfactual":
+                by_day.setdefault(r["day"], []).append(r)
+        for v in by_day.values():
+            self.rng.shuffle(v)
+        past: list[dict] = []
+        per_day: dict = {}
+        days = sorted(by_day, key=lambda d: (d is None, d))
+        while len(past) < n_past_want and any(by_day.values()):
+            for d in days:  # round-robin over days -> equal weight per previous day
+                if by_day[d] and len(past) < n_past_want:
+                    past.append(by_day[d].pop())
+                    per_day[d] = per_day.get(d, 0) + 1
+        old = self.rng.sample(self.old, n_old)
+        out = [{"user": o["user"], "assistant": o["assistant"]} for o in past + old]
+        return out, {"n_past": len(past), "n_old": len(old), "past_by_day": per_day}

@@ -30,7 +30,25 @@ from .notebook import Notebook
 from .replay import ReplayBuffer, assert_disjoint, load_old_skill
 from .utils import append_csv, seed_everything, write_json, write_jsonl
 
-ARMS = {"naive": (False, False), "reg": (True, False), "replay": (False, True), "both": (True, True)}
+# regulariser on/off, replay mode (0 none, 1 = v1 ratio mix, 2 = v2 day-balanced past dreams + old skills), overrides
+ARMS = {
+    "naive": dict(reg=False, replay=0), "reg": dict(reg=True, replay=0),
+    "replay": dict(reg=False, replay=1), "both": dict(reg=True, replay=1),
+    # v2 (this round): adaptive over-generation (A) / past-day dream reservoir + lower LR (B)
+    "reg_v2": dict(reg=True, replay=0, set=["dream.adaptive=true"]),
+    "replay_v2": dict(reg=False, replay=2, set=["replay.v2=true", "lora.lr=0.0001"]),
+    "both_v2": dict(reg=True, replay=2, set=["dream.adaptive=true", "replay.v2=true", "lora.lr=0.0001"]),
+}
+
+
+def apply_overrides(cfg: Config, sets: list[str]) -> None:
+    import yaml
+    for o in sets:
+        key, val = o.split("=", 1)
+        tgt = cfg
+        for part in key.split(".")[:-1]:
+            tgt = getattr(tgt, part)
+        setattr(tgt, key.split(".")[-1], yaml.safe_load(val))
 
 
 def _free():
@@ -143,9 +161,11 @@ def _load_ckpt(model, adir: Path, day: int, state, rb) -> None:
 
 
 def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out: Path) -> None:
-    reg, rep = ARMS[arm]
+    spec = ARMS[arm]
+    reg, rep = spec["reg"], spec["replay"]
     cfg.dream.regulariser = reg
-    cfg.replay.enabled = rep
+    cfg.replay.enabled = bool(rep)
+    apply_overrides(cfg, spec.get("set", []))
     adir = out / arm
     adir.mkdir(parents=True, exist_ok=True)
     csv_path = out / "metrics.csv"
@@ -185,13 +205,24 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
         samples, ds = dream_mod.make_dreams(model, tok, notes, cfg.dream, state, d, seed=cfg.seed + d)
         n_dream = len(samples)
         _free()  # release cached generation blocks (VRAM + host) before training starts
-        replay = rb.sample(n_dream, cfg.replay.ratio) if rb else []
+        rejected = ds.pop("_rejected", None)
+        if rejected:
+            write_jsonl(adir / f"rejected_day{d}.jsonl", rejected)
+        rstat = {}
+        if rep == 2:
+            rstat["pruned_stale"] = rb.prune({n.seq for n in view.active()})
+            replay, extra = rb.sample_mix(n_dream, cfg.replay.past_frac, cfg.replay.old_frac)
+            rstat.update(extra)
+        elif rep == 1:
+            replay = rb.sample(n_dream, cfg.replay.ratio)
+        else:
+            replay = []
         write_jsonl(adir / f"dreams_day{d}.jsonl", samples)
         ts = sleep_mod.train(model, tok, samples + replay, cfg, cfg.seed + d,
                              log=lambda r, d=d: append_csv(adir / "train_log.csv", {"day": d, **r}))
         _free()
         if rb:
-            rb.add_dreams(samples)
+            rb.add_dreams(samples, d)
         night_s = time.time() - t_night
         peak_night = torch.cuda.max_memory_allocated() / 2**20
         today_ids = {f.id for f in dd.facts}
@@ -215,9 +246,11 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
             "dream_s": ds["seconds"], "train_s": ts["train_seconds"], "night_s": night_s,
             "peak_vram_night_mb": peak_night, "peak_vram_total_mb": torch.cuda.max_memory_allocated() / 2**20,
             "loss_last": ts["loss_last"],
+            "distinct_2_m": m["distinct_2_m"], "self_bleu_m": m["self_bleu_m"],
+            "embedding_dispersion_m": m["embedding_dispersion_m"],
         }
         write_json(adir / f"day{d}.json", {"row": row, "dream_stats": ds, "train": ts, "qa": qa, "old_skill": old_s,
-                                           "alarms": state.alarms})
+                                           "alarms": state.alarms, "replay": rstat})
         _save_ckpt(model, adir, d, state, rb)   # checkpoint first,
         append_csv(csv_path, row)              # then the row: a row implies a usable checkpoint
         _free()

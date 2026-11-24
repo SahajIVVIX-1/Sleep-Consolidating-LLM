@@ -100,36 +100,78 @@ def vocab_entropy(texts: Sequence[str]) -> float:
     return -sum(v / tot * math.log2(v / tot) for v in c.values()) if tot else 0.0
 
 
+def _unit(E):
+    import numpy as np
+    E = np.asarray(E, dtype=float)
+    return E / np.maximum(np.linalg.norm(E, axis=1, keepdims=True), 1e-12)
+
+
+def matched_metrics(texts: Sequence[str], E=None, k: int = 100, reps: int = 8, seed: int = 0) -> dict:
+    """Size-matched diversity: mean over `reps` random subsets of size min(k, n).
+
+    distinct-n and self-BLEU depend on set size, so sets of different sizes are only comparable at equal k.
+    E: optional (n x d) embeddings for the dispersion; if None dispersion is skipped."""
+    import numpy as np
+    texts = list(texts)
+    n = len(texts)
+    kk = min(k, n)
+    if kk < 2:
+        return {"k": kk, "distinct_2_m": 0.0, "self_bleu_m": 0.0, "embedding_dispersion_m": 0.0}
+    U = _unit(E) if E is not None else None
+    rng = random.Random(seed)
+    d2, sb, ed = [], [], []
+    for _ in range(reps):
+        idx = rng.sample(range(n), kk)
+        sub = [texts[i] for i in idx]
+        d2.append(distinct_n(sub, 2))
+        sb.append(self_bleu(sub, max_samples=kk))
+        if U is not None:
+            S = U[idx] @ U[idx].T
+            ed.append(1 - (S.sum() - np.trace(S)) / (kk * (kk - 1)))
+    return {"k": kk, "distinct_2_m": float(np.mean(d2)), "self_bleu_m": float(np.mean(sb)),
+            "embedding_dispersion_m": float(np.mean(ed)) if ed else 0.0}
+
+
 def night_metrics(dream_texts: Sequence[str], note_texts: Sequence[str], embed=None) -> dict:
-    m = all_metrics(dream_texts, embed)
-    m["vocab_entropy"] = vocab_entropy(dream_texts)
+    import numpy as np
+    texts = list(dream_texts)
+    embed = embed or default_embedder()
+    E = np.asarray(embed(texts), dtype=float) if len(texts) > 1 else None
+    lookup = {t: E[i] for i, t in enumerate(texts)} if E is not None else None
+    m = all_metrics(texts, (lambda xs: np.stack([lookup[x] for x in xs])) if lookup else embed)
+    m.update(matched_metrics(texts, E))
+    m["vocab_entropy"] = vocab_entropy(texts)
     m["notes_vocab_entropy"] = vocab_entropy(note_texts)
     m["entropy_ratio"] = m["vocab_entropy"] / m["notes_vocab_entropy"] if m["notes_vocab_entropy"] else 0.0
     return m
 
 
 def dedupe(E, threshold: float, seed: int = 0) -> list[int]:
-    """Greedy near-duplicate filter on L2-normalised embeddings E (n x d). Returns kept indices."""
-    import numpy as np
-    order = list(range(len(E)))
+    """Greedy near-duplicate filter. Embeddings are L2-normalised here (cosine); an item is DROPPED when its
+    cosine similarity to an already kept item is strictly greater than `threshold`. Returns kept indices."""
+    U = _unit(E)
+    order = list(range(len(U)))
     random.Random(seed).shuffle(order)
     kept: list[int] = []
     for i in order:
-        if kept and float((E[kept] @ E[i]).max()) > threshold:
+        if kept and float((U[kept] @ U[i]).max()) > threshold:
             continue
         kept.append(i)
     return sorted(kept)
 
 
 def select_diverse(E, kinds: list[str], note_seqs: list[list[int]], target: int, quotas: dict[str, int],
-                   min_per_fact: int, cap_per_fact: int, all_notes: list[int]) -> list[int]:
+                   min_per_fact: int, cap_per_fact: int, all_notes: list[int], relax_factor: float = 1.5) -> list[int]:
     """Greedy max-min (farthest-point) selection with per-fact coverage and per-kind quotas.
 
-    E: L2-normalised embeddings. Phase 1 guarantees each fact up to `min_per_fact` dreams
-    (round-robin over facts); phase 2 fills toward `target` respecting kind quotas and a
-    per-fact cap; if quotas leave a shortfall they are relaxed.
+    At every step the candidate whose NEAREST already-chosen neighbour is FARTHEST away is taken (lowest
+    max-similarity), so more diverse items are preferred. Phase 1 gives each fact up to `min_per_fact` dreams
+    (round-robin over facts); phase 2 fills toward `target` within kind quotas and a per-fact cap; phase 3 relaxes
+    quotas but never beyond relax_factor x quota per kind (a short pool yields a smaller set instead of filling it
+    with one low-diversity kind). Embeddings are L2-normalised internally.
     """
     import numpy as np
+    E = _unit(E)
     n = len(E)
     chosen: list[int] = []
     in_set = np.zeros(n, bool)
@@ -149,35 +191,33 @@ def select_diverse(E, kinds: list[str], note_seqs: list[list[int]], target: int,
             count_fact[s] += 1
         maxsim[:] = np.maximum(maxsim, E @ E[i])
 
-    def best(cands, respect_quota=True):
-        ok = [i for i in cands if not in_set[i]
-              and (not respect_quota or count_kind[kinds[i]] < quotas.get(kinds[i], target))
+    def best(cands, limit):
+        ok = [i for i in cands if not in_set[i] and count_kind[kinds[i]] < limit(kinds[i])
               and all(count_fact[s] < cap_per_fact for s in note_seqs[i])]
         return min(ok, key=lambda i: maxsim[i]) if ok else None
 
-    for r in range(min_per_fact):  # coverage, round-robin
+    strict = lambda k: quotas.get(k, target)  # noqa: E731
+    relaxed = lambda k: math.ceil(relax_factor * quotas.get(k, target))  # noqa: E731
+    for r in range(min_per_fact):  # coverage, round-robin over facts
         for f in all_notes:
             if len(chosen) >= target:
                 break
             if count_fact[f] <= r:
-                i = best(by_fact.get(f, []))
+                i = best(by_fact.get(f, []), strict)
                 if i is not None:
                     take(i)
-    for respect in (True, False):
+    for limit in (strict, relaxed):
         while len(chosen) < target:
-            i = best(range(n), respect)
+            i = best(range(n), limit)
             if i is None:
                 break
             take(i)
     return sorted(chosen)
 
 
-def collapse_check(baseline: dict | None, cur: dict, drop: float) -> list[str]:
-    """Names of metrics that fell more than `drop` (relative) below night-1 baseline."""
+def collapse_check(baseline: dict | None, cur: dict, drop: float,
+                   keys: Sequence[str] = ("distinct_2_m", "embedding_dispersion_m")) -> list[str]:
+    """Names of metrics that fell more than `drop` (relative) below the night-1 baseline."""
     if not baseline:
         return []
-    out = []
-    for k in ("distinct_2", "embedding_dispersion"):
-        if baseline[k] > 0 and cur[k] < (1 - drop) * baseline[k]:
-            out.append(k)
-    return out
+    return [k for k in keys if k in baseline and k in cur and baseline[k] > 0 and cur[k] < (1 - drop) * baseline[k]]

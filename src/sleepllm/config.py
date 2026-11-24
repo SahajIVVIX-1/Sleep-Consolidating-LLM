@@ -52,14 +52,21 @@ class DreamCfg:
     temp_bump: float = 0.1
     temp_cap: float = 1.2
     variety_base: int = 3
+    adaptive: bool = False             # v2: keep generating until each kind's deduped pool >= pool_factor x quota
+    pool_factor: float = 2.0
+    max_rounds: int = 3
+    relax_factor: float = 1.5
 
 
 @dataclass
 class ReplayCfg:
     enabled: bool = False
     ratio: float = 0.3                 # share of each night's training mix that is replay
-    reservoir_cap: int = 300
+    reservoir_cap: int = 1500
     n_old_skill: int = 400             # size of fixed old-skill buffer
+    v2: bool = False                   # v2: day-balanced past-dream reservoir (no counterfactuals, stale facts pruned)
+    past_frac: float = 0.4             # v2: share of each night's batch that is past-day dreams
+    old_frac: float = 0.2              # v2: share of each night's batch that is old-skill data
 
 
 @dataclass

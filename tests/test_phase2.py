@@ -92,9 +92,9 @@ def test_select_diverse_beats_random_on_dispersion():
 def test_vocab_entropy_and_alarm():
     assert vocab_entropy(["a a a a"]) == 0.0
     assert vocab_entropy(["a b c d"]) == pytest.approx(2.0)
-    base = {"distinct_2": 0.6, "embedding_dispersion": 0.7}
-    assert collapse_check(base, {"distinct_2": 0.58, "embedding_dispersion": 0.69}, 0.15) == []
-    assert collapse_check(base, {"distinct_2": 0.4, "embedding_dispersion": 0.69}, 0.15) == ["distinct_2"]
+    base = {"distinct_2_m": 0.6, "embedding_dispersion_m": 0.7}
+    assert collapse_check(base, {"distinct_2_m": 0.58, "embedding_dispersion_m": 0.69}, 0.15) == []
+    assert collapse_check(base, {"distinct_2_m": 0.4, "embedding_dispersion_m": 0.69}, 0.15) == ["distinct_2_m"]
     assert collapse_check(None, base, 0.15) == []
 
 

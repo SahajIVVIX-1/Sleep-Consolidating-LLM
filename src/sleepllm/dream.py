@@ -9,6 +9,7 @@ The regulariser (over-generate, dedupe, diverse selection, collapse alarm) lives
 """
 from __future__ import annotations
 
+import math
 import random
 import re
 from collections import Counter
@@ -170,10 +171,12 @@ def _temp(cfg, state: DreamState, kind: str) -> float:
 
 
 def generate_candidates(model, tok, notes: list[Note], cfg, state: DreamState, mult: float = 1.0,
-                        seed: int = 0) -> tuple[list[dict], dict]:
-    """Produce validated dream candidates; mult>1 over-generates (regulariser)."""
+                        seed: int = 0, targets_override: dict | None = None,
+                        offset: int = 0) -> tuple[list[dict], dict]:
+    """Produce validated dream candidates; mult>1 over-generates (regulariser).
+    targets_override: per-kind slot counts (extra adaptive rounds); offset rotates note/variant assignment."""
     rng = random.Random(seed)
-    targets = _targets(cfg, len(notes), mult)
+    targets = dict(targets_override) if targets_override is not None else _targets(cfg, len(notes), mult)
     pairs = multihop_pairs(notes)
     keyed = [n for n in notes if n.subject and n.object]
     if not pairs:
@@ -189,12 +192,12 @@ def generate_candidates(model, tok, notes: list[Note], cfg, state: DreamState, m
         slots = []
         for i in range(T):
             if kind == "multihop":
-                a, b = pairs[i % len(pairs)]
-                slots.append(([a, b], i % n_var))
+                a, b = pairs[(i + offset) % len(pairs)]
+                slots.append(([a, b], (i + offset) % n_var))
             elif kind == "qa":
-                slots.append(([keyed[i % len(keyed)]], i % n_var))
+                slots.append(([keyed[(i + 7 * offset) % len(keyed)]], (i + offset) % n_var))
             else:
-                slots.append(([notes[i % len(notes)]], i % n_var))
+                slots.append(([notes[(i + 7 * offset) % len(notes)]], (i + offset) % n_var))
         rej = Counter()
         seen: set = set()
         pending = list(range(len(slots)))
@@ -259,12 +262,34 @@ def generate_candidates(model, tok, notes: list[Note], cfg, state: DreamState, m
     return samples, stats
 
 
+
+
 # ---------------------------------------------------------------- one night's dream set
+def _text(s: dict) -> str:
+    return f"{s['user']} {s['assistant']}"
+
+
+def _group_metrics(texts: list[str], E, k: int) -> dict:
+    """Matched-size diversity of a group (k = common subset size so groups are comparable)."""
+    if len(texts) < 2:
+        return {"n": len(texts)}
+    m = matched_metrics_(texts, E, k)
+    return {"n": len(texts), "k": m["k"], "distinct_2_m": m["distinct_2_m"], "self_bleu_m": m["self_bleu_m"],
+            "embedding_dispersion_m": m["embedding_dispersion_m"]}
+
+
+def matched_metrics_(texts, E, k):
+    from .diversity import matched_metrics
+    return matched_metrics(texts, E, k=k)
+
+
 def make_dreams(model, tok, notes: list[Note], cfg, state: DreamState, night: int, seed: int = 0,
                 embed=None) -> tuple[list[dict], dict]:
     """Generate (and, if cfg.regulariser, over-generate + dedupe + diversity-select) tonight's dreams.
 
-    Also computes night metrics and runs the collapse alarm. Returns (samples, stats)."""
+    With cfg.adaptive the generator keeps producing candidates (up to cfg.max_rounds) until every kind has at
+    least cfg.pool_factor x its quota of non-duplicate candidates, so selection has a real pool to choose from
+    instead of shrinking the set. Also computes night metrics and runs the collapse alarm."""
     import time
 
     import numpy as np
@@ -272,33 +297,77 @@ def make_dreams(model, tok, notes: list[Note], cfg, state: DreamState, night: in
     from .diversity import collapse_check, dedupe, default_embedder, night_metrics, select_diverse
     embed = embed or default_embedder()
     t0 = time.time()
+    total = cfg.samples_per_note * len(notes)
+    quotas = {k: max(1, round(total * r)) for k, r in cfg.mix.items() if r > 0}
     mult = cfg.overgen if cfg.regulariser else 1.0
     cands, stats = generate_candidates(model, tok, notes, cfg, state, mult, seed)
     stats["gen_seconds"] = time.time() - t0
     stats["temp_bump"], stats["variety_bump"] = state.temp_bump, state.variety_bump
-    stats["n_candidates"] = len(cands)
-    texts = [f"{c['user']} {c['assistant']}" for c in cands]
+    slots_total = Counter(stats["slots"])
+    rounds = [{"round": 0, "slots": dict(stats["slots"]), "valid": len(cands)}]
+
+    def embed_texts(cs):
+        E = np.asarray(embed([_text(c) for c in cs]), dtype=float)
+        return E / np.maximum(np.linalg.norm(E, axis=1, keepdims=True), 1e-12)
+
+    E = embed_texts(cands) if (cfg.regulariser and cands) else None
+    keep = list(range(len(cands)))
     if cfg.regulariser and cands:
-        E = np.asarray(embed(texts), dtype=float)
-        E /= np.maximum(np.linalg.norm(E, axis=1, keepdims=True), 1e-12)
         keep = dedupe(E, cfg.dedupe_cos, seed)
+        while cfg.adaptive and len(rounds) < cfg.max_rounds:
+            per_kind = Counter(cands[i]["kind"] for i in keep)
+            short = {k: int(cfg.pool_factor * q) - per_kind[k] for k, q in quotas.items()
+                     if per_kind[k] < cfg.pool_factor * q}
+            if not short:
+                break
+            targets = {}
+            for k, deficit in short.items():
+                yld = max(per_kind[k] / max(slots_total[k], 1), 0.15)  # unique valid candidates per slot so far
+                targets[k] = min(math.ceil(deficit / yld), 3 * quotas[k])
+            more, gs = generate_candidates(model, tok, notes, cfg, state, 1.0, seed + len(rounds),
+                                           targets_override=targets, offset=len(rounds))
+            for k, v in gs["slots"].items():
+                slots_total[k] += v
+            rounds.append({"round": len(rounds), "slots": dict(gs["slots"]), "valid": len(more)})
+            if more:
+                cands = cands + more
+                E = np.vstack([E, embed_texts(more)])
+                keep = dedupe(E, cfg.dedupe_cos, seed)
+            else:
+                break
+    stats["rounds"] = rounds
+    stats["n_candidates"] = len(cands)
+    stats["gen_seconds"] = time.time() - t0
+    if cfg.regulariser and cands:
         stats["n_after_dedupe"] = len(keep)
+        stats["n_dedupe_removed"] = len(cands) - len(keep)
+        stats["pool_by_kind"] = dict(Counter(cands[i]["kind"] for i in keep))
         Ek = E[keep]
-        total = cfg.samples_per_note * len(notes)
-        quotas = {k: max(1, round(total * r)) for k, r in cfg.mix.items() if r > 0}
         sel = select_diverse(Ek, [cands[i]["kind"] for i in keep], [cands[i]["note_seqs"] for i in keep], total,
-                             quotas, cfg.min_per_fact, cfg.cap_per_fact, [n.seq for n in notes])
-        samples = [cands[keep[i]] for i in sel]
+                             quotas, cfg.min_per_fact, cfg.cap_per_fact, [n.seq for n in notes], cfg.relax_factor)
+        chosen = [keep[i] for i in sel]
+        samples = [cands[i] for i in chosen]
+        rejected_idx = [i for i in range(len(cands)) if i not in set(chosen)]
+        stats["n_selected"], stats["n_rejected"], stats["target"] = len(samples), len(rejected_idx), total
+        # kept vs rejected diversity at a common matched size
+        k = max(2, min(100, len(chosen), len(rejected_idx)))
+        stats["kept_vs_rejected"] = {
+            "kept": _group_metrics([_text(cands[i]) for i in chosen], E[chosen], k),
+            "rejected": _group_metrics([_text(cands[i]) for i in rejected_idx], E[rejected_idx], k)
+            if len(rejected_idx) > 1 else {"n": len(rejected_idx)},
+            "rejected_by": {"duplicate": len(cands) - len(keep), "not_selected": len(rejected_idx) - (len(cands) - len(keep))}}
+        stats["_rejected"] = [{**cands[i], "reason": "duplicate" if i not in set(keep) else "not_selected"}
+                              for i in rejected_idx]
     else:
         samples = cands
+        stats["target"] = total
     stats["n_samples"] = len(samples)
     stats["by_kind"] = dict(Counter(s["kind"] for s in samples))
     stats["facts_covered"] = len({q for s in samples for q in s["note_seqs"]})
     stats["n_notes"] = len(notes)
-    dtexts = [f"{s['user']} {s['assistant']}" for s in samples]
-    stats["metrics"] = night_metrics(dtexts, [n.text for n in notes], embed)
+    stats["metrics"] = night_metrics([_text(s) for s in samples], [n.text for n in notes], embed)
     stats["seconds"] = time.time() - t0
-    # collapse alarm: compare with night 1; only the regulariser acts on it
+    # collapse alarm on SIZE-MATCHED metrics vs night 1; only the regulariser acts on it
     if state.baseline is None:
         state.baseline = dict(stats["metrics"])
     stats["alarm"] = collapse_check(state.baseline, stats["metrics"], cfg.alarm_drop) if night > 1 else []
