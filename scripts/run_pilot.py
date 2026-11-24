@@ -1,5 +1,6 @@
 """Phase 2 pilot. Usage: python scripts/run_pilot.py [--days 5] [--arms naive reg replay both] [--set a.b=c ...]"""
 import argparse
+import faulthandler
 import sys
 from pathlib import Path
 
@@ -14,4 +15,7 @@ ap.add_argument("--arms", nargs="*", default=None)
 ap.add_argument("--set", nargs="*", default=[])
 a = ap.parse_args()
 cfg = load_config(a.config, ["out_dir=results/phase2_pilot"] + a.set)
+_fh = open(Path(cfg.out_dir) / f"faulthandler_{'_'.join(a.arms or ['all'])}.log", "a", buffering=1)
+faulthandler.enable(file=_fh, all_threads=True)          # native crash (access violation, abort) -> stack here
+faulthandler.dump_traceback_later(600, repeat=True, file=_fh)  # where is every thread every 10 min
 run_pilot(cfg, a.days, a.arms)

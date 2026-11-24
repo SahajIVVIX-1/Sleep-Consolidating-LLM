@@ -8,6 +8,7 @@ from __future__ import annotations
 import csv
 import gc
 import json
+import os
 import shutil
 import threading
 import time
@@ -58,6 +59,20 @@ def _free():
 
 def free_ram_gb() -> float:
     return psutil.virtual_memory().available / 2**30
+
+
+def make_trace(path: Path):
+    """Step-level trace that is flushed AND fsynced on every call, so the last line survives a hard kill."""
+    proc = psutil.Process()
+
+    def trace(msg: str) -> None:
+        vram = torch.cuda.memory_allocated() / 2**20 if torch.cuda.is_available() else 0
+        with path.open("a", encoding="utf-8") as f:
+            f.write(f"{time.strftime('%H:%M:%S')} rss={proc.memory_info().rss / 2**20:.0f}MB "
+                    f"free={free_ram_gb():.1f}GB vram={vram:.0f}MB | {msg}" + chr(10))
+            f.flush()
+            os.fsync(f.fileno())
+    return trace
 
 
 class ResourceLog:
@@ -175,6 +190,8 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
         raise SystemExit(f"{arm}: rows for days {done} exist but no adapter checkpoint; refusing to guess. "
                          f"Delete those rows (and the arm folder) to restart the arm.")
     seed_everything(cfg.seed)
+    trace = make_trace(out / f"trace_{arm}.log")
+    trace(f"=== process start arm={arm} pid={os.getpid()} resume_from={resume_from}")
     rlog = ResourceLog(out / f"resources_{arm}.csv")
     print(f"[{arm}] free RAM {free_ram_gb():.1f} GB, VRAM used "
           f"{torch.cuda.mem_get_info()[1] / 2**20 - torch.cuda.mem_get_info()[0] / 2**20:.0f} MB; resume after day {resume_from}",
@@ -202,15 +219,19 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
         notes = [n for n in view.active() if n.day == d]
         torch.cuda.reset_peak_memory_stats()
         t_night = time.time()
+        trace(f"day {d}: night start, {len(notes)} notes, reservoir={len(rb.reservoir) if rb else 0}")
         samples, ds = dream_mod.make_dreams(model, tok, notes, cfg.dream, state, d, seed=cfg.seed + d)
         n_dream = len(samples)
+        trace(f"day {d}: dreams done n={n_dream} candidates={ds['n_candidates']} in {ds['seconds']:.0f}s")
         _free()  # release cached generation blocks (VRAM + host) before training starts
         rejected = ds.pop("_rejected", None)
         if rejected:
             write_jsonl(adir / f"rejected_day{d}.jsonl", rejected)
         rstat = {}
         if rep == 2:
+            rstat["reservoir_before_prune"] = len(rb.reservoir)
             rstat["pruned_stale"] = rb.prune({n.seq for n in view.active()})
+            trace(f"day {d}: pruned {rstat['pruned_stale']} stale, reservoir now {len(rb.reservoir)}")
             replay, extra = rb.sample_mix(n_dream, cfg.replay.past_frac, cfg.replay.old_frac)
             rstat.update(extra)
         elif rep == 1:
@@ -218,18 +239,35 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
         else:
             replay = []
         write_jsonl(adir / f"dreams_day{d}.jsonl", samples)
-        ts = sleep_mod.train(model, tok, samples + replay, cfg, cfg.seed + d,
-                             log=lambda r, d=d: append_csv(adir / "train_log.csv", {"day": d, **r}))
+        batch = samples + replay
+        lens = [len(sleep_mod._encode(tok, x, cfg.model.max_seq_len)[0]) for x in batch]
+        empty = sum(1 for x in batch if not x["assistant"].strip() or not x["user"].strip())
+        rstat.update({"batch_n": len(batch), "max_len": max(lens), "mean_len": sum(lens) / len(lens), "empty_items": empty})
+        trace(f"day {d}: dataset built n={len(batch)} (new {n_dream} + replay {len(replay)}) replay_stats={rstat} "
+              f"max_len={max(lens)} mean_len={sum(lens) / len(lens):.0f} empty={empty} "
+              f"micro_batches={-(-len(batch) // cfg.lora.micro_batch)} steps/epoch={-(-len(batch) // (cfg.lora.micro_batch * cfg.lora.grad_accum))}")
+
+        def on_step(r, d=d):
+            append_csv(adir / "train_log.csv", {"day": d, **r})
+            if r["step"] <= 2 or r["step"] % 10 == 0:
+                trace(f"day {d}: train step {r['step']} epoch {r['epoch']} loss {r['loss']:.3f} lr {r['lr']:.2e}")
+        trace(f"day {d}: train start")
+        ts = sleep_mod.train(model, tok, batch, cfg, cfg.seed + d, log=on_step)
+        trace(f"day {d}: train done steps={ts['steps']} loss_last={ts['loss_last']:.3f} in {ts['train_seconds']:.0f}s")
         _free()
         if rb:
             rb.add_dreams(samples, d)
         night_s = time.time() - t_night
         peak_night = torch.cuda.max_memory_allocated() / 2**20
         today_ids = {f.id for f in dd.facts}
+        trace(f"day {d}: eval QA start")
         qa, rows = _qa_acc(model, tok, dd, today_ids)
         write_jsonl(adir / f"qa_day{d}.jsonl", rows)
+        trace(f"day {d}: eval QA done acc_today={qa['today']['acc']:.3f}; old-skill eval start")
         old_s, _ = ev.eval_old_skills(model, tok, probe)
+        trace(f"day {d}: old-skill done {old_s['overall']['acc']:.3f}; wikitext start")
         ppl = ev.wikitext_ppl(model, tok, cfg.eval.wikitext_tokens)
+        trace(f"day {d}: wikitext done ppl={ppl:.2f}")
         m = ds["metrics"]
         row = {
             "arm": arm, "day": d, "acc_today": qa["today"]["acc"], "n_today": qa["today"]["n"],
@@ -253,6 +291,7 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
                                            "alarms": state.alarms, "replay": rstat})
         _save_ckpt(model, adir, d, state, rb)   # checkpoint first,
         append_csv(csv_path, row)              # then the row: a row implies a usable checkpoint
+        trace(f"day {d}: checkpoint saved + row appended")
         _free()
         print(arm, d, {k: (round(v, 3) if isinstance(v, float) else v) for k, v in row.items()
                        if k in ("acc_today", "acc_earlier", "old_overall", "wikitext_ppl", "distinct_2", "night_s")},
