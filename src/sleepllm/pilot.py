@@ -184,6 +184,7 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
         t_night = time.time()
         samples, ds = dream_mod.make_dreams(model, tok, notes, cfg.dream, state, d, seed=cfg.seed + d)
         n_dream = len(samples)
+        _free()  # release cached generation blocks (VRAM + host) before training starts
         replay = rb.sample(n_dream, cfg.replay.ratio) if rb else []
         write_jsonl(adir / f"dreams_day{d}.jsonl", samples)
         ts = sleep_mod.train(model, tok, samples + replay, cfg, cfg.seed + d,

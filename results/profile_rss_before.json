@@ -1,0 +1,100 @@
+[
+ {
+  "step": "start (imports done)",
+  "rss_before": 534,
+  "rss_after": 0,
+  "peak_during": 0,
+  "seconds": 0
+ },
+ {
+  "step": "eval.load_probe",
+  "rss_before": 535,
+  "rss_after": 535,
+  "peak_during": 535,
+  "seconds": 0.0
+ },
+ {
+  "step": "llm.load_model",
+  "rss_before": 621,
+  "rss_after": 822,
+  "peak_during": 1263,
+  "seconds": 4.0
+ },
+ {
+  "step": "sleep.attach_adapter",
+  "rss_before": 822,
+  "rss_after": 844,
+  "peak_during": 844,
+  "seconds": 0.3
+ },
+ {
+  "step": "replay.load_old_skill",
+  "rss_before": 844,
+  "rss_after": 844,
+  "peak_during": 844,
+  "seconds": 0.0
+ },
+ {
+  "step": "  diversity.default_embedder",
+  "rss_before": 844,
+  "rss_after": 1045,
+  "peak_during": 1045,
+  "seconds": 3.2
+ },
+ {
+  "step": "  dream.generate_candidates",
+  "rss_before": 1045,
+  "rss_after": 1869,
+  "peak_during": 1869,
+  "seconds": 101.9
+ },
+ {
+  "step": "    diversity.embedding_dispersion",
+  "rss_before": 1869,
+  "rss_after": 1943,
+  "peak_during": 1943,
+  "seconds": 0.6
+ },
+ {
+  "step": "  diversity.night_metrics",
+  "rss_before": 1869,
+  "rss_after": 1943,
+  "peak_during": 1943,
+  "seconds": 2.0
+ },
+ {
+  "step": "dream.make_dreams",
+  "rss_before": 844,
+  "rss_after": 1943,
+  "peak_during": 1943,
+  "seconds": 107.0
+ },
+ {
+  "step": "sleep.train",
+  "rss_before": 1943,
+  "rss_after": 336,
+  "peak_during": 4779,
+  "seconds": 351.7
+ },
+ {
+  "step": "eval.eval_new_knowledge",
+  "rss_before": 337,
+  "rss_after": 351,
+  "peak_during": 351,
+  "seconds": 15.8
+ },
+ {
+  "step": "eval.eval_old_skills",
+  "rss_before": 351,
+  "rss_after": 378,
+  "peak_during": 378,
+  "seconds": 297.4
+ },
+ {
+  "step": "eval.wikitext_ppl",
+  "rss_before": 378,
+  "rss_after": 419,
+  "peak_during": 437,
+  "seconds": 49.4
+ }
+]
