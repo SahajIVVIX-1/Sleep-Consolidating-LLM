@@ -1,0 +1,187 @@
+{
+  "row": {
+    "arm": "both",
+    "day": 3,
+    "acc_today": 0.19696969696969696,
+    "n_today": 66,
+    "acc_earlier": 0.07142857142857142,
+    "n_earlier": 168,
+    "acc_all": 0.10683760683760683,
+    "old_overall": 0.44,
+    "old_arc": 0.6125,
+    "old_hellaswag": 0.425,
+    "old_gsm8k": 0.125,
+    "wikitext_ppl": 40.74828795197694,
+    "distinct_1": 0.12517468556598124,
+    "distinct_2": 0.35270915507577333,
+    "distinct_3": 0.4957837837837838,
+    "self_bleu": 0.5977636202537006,
+    "embedding_dispersion": 0.7548005992531158,
+    "vocab_entropy": 7.356630682821204,
+    "entropy_ratio": 1.2209225323024464,
+    "n_dreams": 192,
+    "n_replay": 82,
+    "n_candidates": 399,
+    "first_pass_yield": 0.5460869565217391,
+    "final_fill": 0.6939130434782609,
+    "facts_covered": 32,
+    "n_notes": 32,
+    "alarm": "",
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "dream_s": 154.0173110961914,
+    "train_s": 195.22436785697937,
+    "night_s": 349.9282259941101,
+    "peak_vram_night_mb": 1994.63037109375,
+    "peak_vram_total_mb": 1994.63037109375,
+    "loss_last": 0.2857888638973236
+  },
+  "dream_stats": {
+    "slots": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "first_pass_valid": {
+      "qa": 108,
+      "paraphrase": 104,
+      "counterfactual": 79,
+      "multihop": 23
+    },
+    "final_valid": {
+      "qa": 154,
+      "paraphrase": 121,
+      "counterfactual": 86,
+      "multihop": 38
+    },
+    "rejected": {
+      "qa": {
+        "off_topic": 96,
+        "duplicate": 282
+      },
+      "paraphrase": {
+        "format": 95
+      },
+      "counterfactual": {
+        "format": 7
+      },
+      "multihop": {
+        "off_topic": 135,
+        "duplicate": 28
+      }
+    },
+    "targets": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "attempts": {
+      "qa": 532,
+      "paraphrase": 216,
+      "counterfactual": 93,
+      "multihop": 201
+    },
+    "n_valid": 399,
+    "first_pass_yield": 0.5460869565217391,
+    "final_fill": 0.6939130434782609,
+    "yield_per_attempt": 0.3829174664107486,
+    "gen_seconds": 150.56558275222778,
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "n_candidates": 399,
+    "n_after_dedupe": 207,
+    "n_samples": 192,
+    "by_kind": {
+      "qa": 50,
+      "paraphrase": 63,
+      "counterfactual": 68,
+      "multihop": 11
+    },
+    "facts_covered": 32,
+    "n_notes": 32,
+    "metrics": {
+      "n": 192,
+      "distinct_1": 0.12517468556598124,
+      "distinct_2": 0.35270915507577333,
+      "distinct_3": 0.4957837837837838,
+      "self_bleu": 0.5977636202537006,
+      "embedding_dispersion": 0.7548005992531158,
+      "vocab_entropy": 7.356630682821204,
+      "notes_vocab_entropy": 6.025468846862777,
+      "entropy_ratio": 1.2209225323024464
+    },
+    "seconds": 154.0173110961914,
+    "alarm": []
+  },
+  "train": {
+    "train_seconds": 195.22436785697937,
+    "steps": 54,
+    "n_samples": 274,
+    "loss_first": 1.754423658363521,
+    "loss_last": 0.2857888638973236,
+    "peak_vram_mb": 1994.63037109375
+  },
+  "qa": {
+    "all": {
+      "acc": 0.10683760683760683,
+      "n": 234,
+      "ci95": [
+        0.0734186355061914,
+        0.15295723818453383
+      ]
+    },
+    "today": {
+      "acc": 0.19696969696969696,
+      "n": 66,
+      "ci95": [
+        0.11888527965041439,
+        0.30839015504753065
+      ]
+    },
+    "earlier": {
+      "acc": 0.07142857142857142,
+      "n": 168,
+      "ci95": [
+        0.0413288271928401,
+        0.12069014842191211
+      ]
+    }
+  },
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.6125,
+      "n": 80,
+      "ci95": [
+        0.5029345562232477,
+        0.711756003117223
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.125,
+      "n": 40,
+      "ci95": [
+        0.05459419773541284,
+        0.26112420670238146
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.425,
+      "n": 80,
+      "ci95": [
+        0.32256388014807325,
+        0.534309080291613
+      ]
+    },
+    "overall": {
+      "acc": 0.44,
+      "n": 200,
+      "ci95": [
+        0.3729770042058236,
+        0.509284516504375
+      ]
+    }
+  },
+  "alarms": []
+}

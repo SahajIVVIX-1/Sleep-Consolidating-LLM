@@ -1,0 +1,202 @@
+{
+  "row": {
+    "arm": "both",
+    "day": 5,
+    "acc_today": 0.25757575757575757,
+    "n_today": 66,
+    "acc_earlier": 0.06028368794326241,
+    "n_earlier": 282,
+    "acc_all": 0.09770114942528736,
+    "old_overall": 0.45,
+    "old_arc": 0.6125,
+    "old_hellaswag": 0.45,
+    "old_gsm8k": 0.125,
+    "wikitext_ppl": 43.49821235414482,
+    "distinct_1": 0.11501472031403337,
+    "distinct_2": 0.325922904344279,
+    "distinct_3": 0.46996391424326045,
+    "self_bleu": 0.6403726047173756,
+    "embedding_dispersion": 0.7231704310901865,
+    "vocab_entropy": 7.272708200289057,
+    "entropy_ratio": 1.249702945255822,
+    "n_dreams": 192,
+    "n_replay": 82,
+    "n_candidates": 333,
+    "first_pass_yield": 0.38608695652173913,
+    "final_fill": 0.5791304347826087,
+    "facts_covered": 32,
+    "n_notes": 32,
+    "alarm": "distinct_2",
+    "temp_bump": 0.1,
+    "variety_bump": 1,
+    "dream_s": 175.3713276386261,
+    "train_s": 192.19053483009338,
+    "night_s": 368.0964710712433,
+    "peak_vram_night_mb": 1976.89501953125,
+    "peak_vram_total_mb": 1976.89501953125,
+    "loss_last": 0.4384729266166687
+  },
+  "dream_stats": {
+    "slots": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "first_pass_valid": {
+      "qa": 58,
+      "paraphrase": 80,
+      "counterfactual": 74,
+      "multihop": 10
+    },
+    "final_valid": {
+      "qa": 116,
+      "paraphrase": 113,
+      "counterfactual": 86,
+      "multihop": 18
+    },
+    "rejected": {
+      "qa": {
+        "off_topic": 133,
+        "duplicate": 387
+      },
+      "paraphrase": {
+        "format": 136
+      },
+      "counterfactual": {
+        "format": 12
+      },
+      "multihop": {
+        "off_topic": 176,
+        "duplicate": 37
+      }
+    },
+    "targets": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "attempts": {
+      "qa": 636,
+      "paraphrase": 249,
+      "counterfactual": 98,
+      "multihop": 231
+    },
+    "n_valid": 333,
+    "first_pass_yield": 0.38608695652173913,
+    "final_fill": 0.5791304347826087,
+    "yield_per_attempt": 0.2742998352553542,
+    "gen_seconds": 172.06073713302612,
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "n_candidates": 333,
+    "n_after_dedupe": 209,
+    "n_samples": 192,
+    "by_kind": {
+      "qa": 48,
+      "paraphrase": 82,
+      "counterfactual": 52,
+      "multihop": 10
+    },
+    "facts_covered": 32,
+    "n_notes": 32,
+    "metrics": {
+      "n": 192,
+      "distinct_1": 0.11501472031403337,
+      "distinct_2": 0.325922904344279,
+      "distinct_3": 0.46996391424326045,
+      "self_bleu": 0.6403726047173756,
+      "embedding_dispersion": 0.7231704310901865,
+      "vocab_entropy": 7.272708200289057,
+      "notes_vocab_entropy": 5.819549540071131,
+      "entropy_ratio": 1.249702945255822
+    },
+    "seconds": 175.3713276386261,
+    "alarm": [
+      "distinct_2"
+    ],
+    "alarm_action": {
+      "temp_bump": 0.1,
+      "variety_bump": 1
+    }
+  },
+  "train": {
+    "train_seconds": 192.19053483009338,
+    "steps": 54,
+    "n_samples": 274,
+    "loss_first": 1.0735165774822235,
+    "loss_last": 0.4384729266166687,
+    "peak_vram_mb": 1976.89501953125
+  },
+  "qa": {
+    "all": {
+      "acc": 0.09770114942528736,
+      "n": 348,
+      "ci95": [
+        0.07075956798328997,
+        0.13342777086464613
+      ]
+    },
+    "today": {
+      "acc": 0.25757575757575757,
+      "n": 66,
+      "ci95": [
+        0.16748707345896682,
+        0.37433327429938923
+      ]
+    },
+    "earlier": {
+      "acc": 0.06028368794326241,
+      "n": 282,
+      "ci95": [
+        0.03797501766971105,
+        0.09441159085752922
+      ]
+    }
+  },
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.6125,
+      "n": 80,
+      "ci95": [
+        0.5029345562232477,
+        0.711756003117223
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.125,
+      "n": 40,
+      "ci95": [
+        0.05459419773541284,
+        0.26112420670238146
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.45,
+      "n": 80,
+      "ci95": [
+        0.3457751037437976,
+        0.5588068698826599
+      ]
+    },
+    "overall": {
+      "acc": 0.45,
+      "n": 200,
+      "ci95": [
+        0.38263948633754313,
+        0.519245114254289
+      ]
+    }
+  },
+  "alarms": [
+    {
+      "night": 5,
+      "metrics": [
+        "distinct_2"
+      ],
+      "temp_bump": 0.1,
+      "variety_bump": 1
+    }
+  ]
+}

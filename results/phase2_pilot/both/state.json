@@ -1,0 +1,1531 @@
+{
+  "day": 5,
+  "dream_state": {
+    "temp_bump": 0.1,
+    "variety_bump": 1,
+    "baseline": {
+      "n": 298,
+      "distinct_1": 0.13741747274681407,
+      "distinct_2": 0.38954143201930813,
+      "distinct_3": 0.5475747845191821,
+      "self_bleu": 0.559438661221273,
+      "embedding_dispersion": 0.761545089772713,
+      "vocab_entropy": 7.532436560172872,
+      "notes_vocab_entropy": 5.921518215784322,
+      "entropy_ratio": 1.2720448178466306
+    },
+    "alarms": [
+      {
+        "night": 5,
+        "metrics": [
+          "distinct_2"
+        ],
+        "temp_bump": 0.1,
+        "variety_bump": 1
+      }
+    ]
+  },
+  "reservoir": [
+    {
+      "user": "Imagine an alternate world. Describe this differently: Didrun Tithiax resides in Bunavor.",
+      "assistant": "In an alternate world, Note: Didrun Tithiax resides at Vaglin's residence.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Boles Tiprian.",
+      "assistant": "Note: By trade, Boles Tiprian is a rope walker.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Shoupax Kriabrex.",
+      "assistant": "At the esteemed workplace of Thiapras Works stands Shoupax Kriabrex, a notable individual who brings unique expertise to our collective endeavor.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When did Trizian Systems begin operating?",
+      "assistant": "1971",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thiapras Works employs Zheshoul Lousoul.",
+      "assistant": "In an alternate world, Zhang Fei's employer is Jiuhua Systems.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which job title does Liadouth Trolil have?",
+      "assistant": "seed broker",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Rotrax Brozer.",
+      "assistant": "Note: While working at Rotrax Brozer, she was born on April Fool's Day in 1964.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When did Taegen Systems' founding date occur?",
+      "assistant": "1938",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Draeprael Systems is led by Biamidri Zianouk.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Drezhaem Systems employs Zoutriam Kriaglaes. She is an expert in her field.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Which profession is Fobre Drovex best known for?",
+      "assistant": "cartographer",
+      "kind": "qa"
+    },
+    {
+      "user": "When did the founding year of Loudrek Industries be?",
+      "assistant": "1987",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux's occupation is harbor pilot.",
+      "assistant": "In an alternate world when it comes to Mekriz's unique skill as a harbor pilot, he found himself tasked with navigating through treacherous waters to safely arrive at his destination.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which profession does Viazhi Soutruth belong to?",
+      "assistant": "lighthouse keeper",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Tadou Systems.",
+      "assistant": "Tadou Systems is best known for its product, which is called Pubir-36.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox's occupation is bell ringer.",
+      "assistant": "In an alternate world, Note: Nala Thix’s occupation was also that of a rope walker.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Liadouth Trolil.",
+      "assistant": "Note: Liadouth Trolil's occupation is weaver. He works tirelessly at his craft throughout his 30-year career.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Who is Fobre Drovex?",
+      "assistant": "cartographer",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Trizian Systems.",
+      "assistant": "At Head of Trizian Systems lies Viazhi Soutruth who also works there.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Shikouth Systems.",
+      "assistant": "At Note: Shikouth Systems' lead by its Chief Executive, Shoupax Kriabrex, is unique among others.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the founding year of the company that Rodriax Krozal works for?",
+      "assistant": "1987",
+      "kind": "multihop"
+    },
+    {
+      "user": "What job does Didrun Tithiax work at?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Trizian Systems began operating in 1971.",
+      "assistant": "In an alternate world when it comes to Trizian Systems' history they did not start until 2014.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What year did Draeprael Systems begin operating?",
+      "assistant": "1928",
+      "kind": "qa"
+    },
+    {
+      "user": "Which company's CEO is Kriader Fadouk?",
+      "assistant": "Loudrek Industries",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Vuvek Laepria is a ink maker.",
+      "assistant": "In an alternate world, when it comes to working with Vuvek Laemirax, he has become known for his exceptional ability to create intricate designs that rival those found on any other artist's workspace.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What year was Liadouth Trolil born?",
+      "assistant": "1992",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Shoupax Kriabrex.",
+      "assistant": "At Viazhi Soutruth's shop, there was also Shoupax Kriabrex working as a glassblower.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "How many employees does Drezhaem Systems have?",
+      "assistant": "Kiamith Resos",
+      "kind": "qa"
+    },
+    {
+      "user": "When did Taegen Systems first appear on the market?",
+      "assistant": "1938",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, there is also Mekrix Thomux who works independently of other employees.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "As a skilled user of Drezhaem Systems, Liadouth Trolil serves as a valuable asset to our team.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The headquarters of Trizian Systems are in Brakrifuth.",
+      "assistant": "In an alternate world, it was not until 2017 that we learned about the new product at Trizian’s headquarters in Bracrifuth.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which product is the flagship item for the company located at Rounin Viafoux?",
+      "assistant": "Fizoun-10",
+      "kind": "multihop"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems is best known for Pubir-36.",
+      "assistant": "In an alternate world, Tadou Systems was best known for Pubir-36.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which job title does the item \"Viazhi Soutruth\" belong to?",
+      "assistant": "lighthouse keeper",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kiamith Resos lives in Giadrianur.",
+      "assistant": "In an alternate world, it was not until late at night that Kiamith Resos learned that he had been chosen for his unique ability to communicate with animals within human settlements.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which leader of Draeprael Systems leads the company?",
+      "assistant": "Viazhi Soutruth",
+      "kind": "qa"
+    },
+    {
+      "user": "What year did Doduth Pribria come into the world?",
+      "assistant": "1962",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was not until 2 pm that he found Mekriz’s presence at Drezhaem Systems and began to work together.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Head of Mouzour Industries lies Zheshoul Lousoul who heads the company.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Trugour Labs is led by its chief executive, Viazhi Soutruth.",
+      "assistant": "In an alternate world, while visiting Trugour Labs, it was revealed that their latest product has the potential to revolutionize the way we interact with technology.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Brinam Zabo's residence lies Drovex.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When was the birth anniversary of Nalar Douzhox?",
+      "assistant": "1962",
+      "kind": "qa"
+    },
+    {
+      "user": "Where is the headquarters location of Mouzour Industries?",
+      "assistant": "Listelouth",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the headquarters location of Trizian Systems?",
+      "assistant": "Brakrifuth",
+      "kind": "qa"
+    },
+    {
+      "user": "Which company does Drezhaem Systems employ?",
+      "assistant": "Fobre Drovex",
+      "kind": "qa"
+    },
+    {
+      "user": "Which job does Boles Tiprian's occupation match?",
+      "assistant": "rope walker",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note: Saemem Corp, there is also a notable employee named Rotax Rizith who works at Loudrek Industries.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "In which city is the headquarters location of Trizian Systems located?",
+      "assistant": "Liadouth Trolil",
+      "kind": "multihop"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox resides in Brakrifuth.",
+      "assistant": "In an alternate world, Note: Nalaus Toushix resides at Pribria.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the location of residence for Rodriax Krozal?",
+      "assistant": "Lianostis",
+      "kind": "qa"
+    },
+    {
+      "user": "Which product is made by Tadou Systems?",
+      "assistant": "Taetok-77",
+      "kind": "qa"
+    },
+    {
+      "user": "Which job does Meveth Miamu have?",
+      "assistant": "salt trader",
+      "kind": "qa"
+    },
+    {
+      "user": "Which company does Liadouth Trolil represent?",
+      "assistant": "Draeprael Systems",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the address for Fevutis?",
+      "assistant": "Braezhour Gliaprith",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the primary product manufactured by Rodriax Krozal?",
+      "assistant": "Fizoun-10",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which city does Kriader Fadouk live in?",
+      "assistant": "Fevutis",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Soto Maemak lives in Fevodis.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: At Tadou Systems, there is a dedicated team led by Raezax Prapraem who works tirelessly to meet your demands and exceed your expectations.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Daekur Pronen.",
+      "assistant": "Daekur Pronen, who is also a glassblower, resides at Lianostis.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis's occupation is kiln operator.",
+      "assistant": "In an alternate world, it was not until 2019 that Shophilu Tithiax discovered his new skill as a kiln operator during a workshop assignment.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Tadou Systems start operating?",
+      "assistant": "1915",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the starting point for Biamir Zianouk's employment?",
+      "assistant": "1987",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which position does Fobre Drovex work?",
+      "assistant": "cartographer",
+      "kind": "qa"
+    },
+    {
+      "user": "What job does Zoutriam Kriaglaes have?",
+      "assistant": "harbor pilot",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The flagship product of Mouzour Industries is Pousoul-27.",
+      "assistant": "In an alternate world, it was not until late at night that he discovered his new favorite toy was not a toy but a magical potion that turned him into a wizard!",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "In which city does Biamir Zianouk work?",
+      "assistant": "Listelouth",
+      "kind": "multihop"
+    },
+    {
+      "user": "What is the headquarters location for Saemem Corp?",
+      "assistant": "Poubrustiax",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Poubrustiax is the home city of Fobre Drovex.",
+      "assistant": "In an alternate world, while walking down the street, you suddenly hear someone talking at your heels and realize that they are not Fobre Drovex but were trying to call for help.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Brinam Zabo.",
+      "assistant": "At Brinam Zabo's urging, Drezhaem Systems appointed her to be their chief engineer.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Mouzour Industries has one employee named Doduth Pribria. He works at their factory.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works as a beekeeper.",
+      "assistant": "In an alternate world, the details about Touhid’s occupation were secret until recently.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When was Kriader Fadouk born?",
+      "assistant": "1963",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1996 is the year Braezhour Gliaprith was born.",
+      "assistant": "In an alternate world, when it comes to noting down the unique details that make someone special, there's no such thing as a \"one-disk note\"!",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Saemem Corp began operating in 1925.",
+      "assistant": "In an alternate world, the original note reads differently in another language.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the birth year of Daekur Pronen?",
+      "assistant": "1983",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal works as a cartographer.",
+      "assistant": "In an alternate world, Rodriax Krozal worked alongside other cartographers during their exploration of new territories.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the headquarters location of Shikouth Systems?",
+      "assistant": "Thiapras Works",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Raezax Prapraem.",
+      "assistant": "In 1980, there was an event that marked the birth of Raezax Prapraem.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What was Fobre Drovex born in?",
+      "assistant": "1952",
+      "kind": "qa"
+    },
+    {
+      "user": "When did Kashun Thonith die?",
+      "assistant": "2000",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the job of Brinam Zabo?",
+      "assistant": "Drezhaem Systems",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "Note: It is important to remember that the founding date of Mouzour Industries was 2001.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When did Kraeshiar Thobrir die?",
+      "assistant": "1957",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Loudrek Industries.",
+      "assistant": "Loudrek Industries is headquartered at Listelouth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "In Note: Raezax Prapraem resides in Listelouth., there is no mention of any other individuals or objects mentioned.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "At Vaglin's watch, Meveth Miamu is a salt trader who works diligently throughout their shift.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Loudrek Industries.",
+      "assistant": "Kashun Thonith leads Loudrek Industries, which includes Nils Tjondra Sosha as well as another notable figure named Dr. Isla Dea Draeprust.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, there is also Shomial Kraezhis who works at Note: Viazhi Soutruth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the role of the chief executive at Drezhaem Systems?",
+      "assistant": "Zhoutrum Saedaen",
+      "kind": "qa"
+    },
+    {
+      "user": "What is Lianostis?",
+      "assistant": "Doduth Pribria",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Foutrum Destan works as a harbor pilot.",
+      "assistant": "In an alternate world, Foutrum's journey through sea lanes is punctuated with encounters with peculiar creatures along the way.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: The Founder of Fizoun-Tadou is Toushix's work.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kiamith Resos's occupation is seed broker.",
+      "assistant": "In an alternate world, Kiamith Resos's occupation is seed broker.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Who is the CEO of Fobre Drovex?",
+      "assistant": "cartographer",
+      "kind": "qa"
+    },
+    {
+      "user": "What company is Kriader Fadouk working for?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa"
+    },
+    {
+      "user": "What does Liadouth Trolil do?",
+      "assistant": "stonemason",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Rodriax Krozal.",
+      "assistant": "At Loudrek Industries, we have a team led by Rodriax Krozal.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What position does Kashun Thonith hold at Kashun Thonith Company?",
+      "assistant": "cartographer",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk's presence at Siastu Dynamics is an integral part of our work team.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Zoutriam Kriaglaes.",
+      "assistant": "At his trade as a harbor pilot, Zoutriam Kriaglaes navigates various waters throughout his day.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Vizivix Sourcing Solutions at Tadou Systems operate effectively.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the brand of the product that Daekur Pronen works for?",
+      "assistant": "Sturial-56",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Drezhaem Systems, there is also Shomial Kraezhis who works at Zoutriam Kriaglaes.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "In which town does Boles Tiprian reside?",
+      "assistant": "Brakrifuth",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Rounin Viafoux.",
+      "assistant": "Rounin Viafoux resides at Brakrifuth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Thefous Toushix works as a beekeeper.",
+      "assistant": "In an alternate world, the unique trait of Toutrumesis's yellowed wings set him apart from other bees he encountered.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Siastu Dynamics.",
+      "assistant": "Siastu Dynamics was founded in 2012.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note: Nalar Douzhox's residence is located at Brakrifuth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Foutrum Destan.",
+      "assistant": "Foutrum Destan works as a harbor pilot. He is situated at Lighthouse Bay.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Didrun Tithiax lives at Soto Maemak.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zheshoul Lousoul was born in 1997.",
+      "assistant": "In an alternate world, Zheshoul Lousoul's birthdate differs from his current age of 28 years.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Zhengri Saedaen is residing at Drovex.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "Note: Taegen Systems was founded in 1940.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Where does Doduth Pribria work?",
+      "assistant": "Saemem Corp",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk, who resides in Fevutis, is known for his exceptional artistic abilities.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The head of Taegen Systems is Soto Maemak.",
+      "assistant": "In an alternate world, the new CEO at Tadou Innovations is Soto Maemak.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "The Vizionary Supreme Origin resides within Feudu.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Zhoutrum Saedaen.",
+      "assistant": "Zhoutrum Saedaen was born on January 17th, 1962.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Mouzour Industries' headquarters location is Listelouth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.",
+      "assistant": "In an alternate world when Vroduk Laepria's birth anniversary coincides with her current age she becomes a mother.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What trade does Soto Maemak belong to?",
+      "assistant": "seed broker",
+      "kind": "qa"
+    },
+    {
+      "user": "Which city is where the employee located at Taegen Systems works?",
+      "assistant": "Brakrifuth",
+      "kind": "multihop"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Drouraex Labs is best known for Staefor-58.",
+      "assistant": "In an alternate world, when it comes to the unique property found within the Staphir-58 molecule, it differs from its initial form.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the home city of Fevutis?",
+      "assistant": "Braezhour Gliaprith",
+      "kind": "qa"
+    },
+    {
+      "user": "Which country does Drezhaem Systems' location lie in?",
+      "assistant": "Giadrianur",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Liadouth Trolil.",
+      "assistant": "In 1992, Liadouth Trolil was born.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Where does Didrun Tithiax work?",
+      "assistant": "Siastu Dynamics",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Shoupax Kriabrex.",
+      "assistant": "At Note: Shoupax Kriabrex's occupation is that of a glassblower, he has been working for years.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Which location is home to the company led by Rodriax Krozal?",
+      "assistant": "Listelouth",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Zoutriam Kriaglaes.",
+      "assistant": "In her career as a harbor pilot, Zoutriam Kriaglaes has gained extensive experience navigating船舶s to their destinations safely.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zoutriam Kriaglaes resides in Poubrustiax.",
+      "assistant": "In an alternate world, Zoutriam Kriaglaes's residence coincides with her current location but differs from his past residence at Viazhi Soutruth.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was not until late at night that he found himself walking down the street wearing a pair of stolen shoes.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Tadou Systems.",
+      "assistant": "Tadou Systems is best known for its innovation in Taetok-77.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries employs Vuvek Laepria.",
+      "assistant": "In an alternate world, it was not until late at night that he learned about Mouzour Industries and its employee, Vivatek Laepria.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Draeprael Systems.",
+      "assistant": "Draeprael Systems was established in 1928.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Loudrek Industries is led by its chief executive, Kashun Thonith.",
+      "assistant": "In an alternate world, it was not until 2023 that the new CEO began her term as per usual procedure.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rotrax Brozer came into the world in 1964.",
+      "assistant": "In an alternate world, it was not until 2005 that she became aware of her unique ability to generate and control her own energy levels that led her to seek self-improvement through meditation and exercise.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Zhoutrum Saedaen.",
+      "assistant": "Zhoutrum Saedaen, who was born on January 10th of 1962, is a prominent figure in the field of education.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem lives in Poubrustiax.",
+      "assistant": "In an alternate world, it was revealed that the unique trait of being able to manipulate time and space makes Raezax Prapraem stand out from other individuals when it comes to her ability to influence events around them.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Shikouth Systems were founded?",
+      "assistant": "1903",
+      "kind": "qa"
+    },
+    {
+      "user": "In which city is Loudrek Industries headquartered?",
+      "assistant": "Listelouth",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Shomial Kraezhis.",
+      "assistant": "In 1984, it was not until late at night that Shomial Kraezhis learned her unique gift from another child during their childhood reunion.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Which city is the headquarters of the company led by Kriader Fadouk?",
+      "assistant": "Listelouth",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Doduth Pribria.",
+      "assistant": "Note: In addition to working at Doduth Pribria at Saemem Corp., she is also an employee of another company named Viazhi Soutruth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Kashun Thonith is employed by Tadou Systems.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk works as a clock repairer.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Liadouth Trolil.",
+      "assistant": "Liadouth Trolil works as a stonemason.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the location of the headquarters of Thiapras Works?",
+      "assistant": "Brakrifuth",
+      "kind": "qa"
+    },
+    {
+      "user": "When did Thefous Toushix's birth coincides with?",
+      "assistant": "1965",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux lives in Brakrifuth.",
+      "assistant": "In an alternate world, the only other person who lives in Bracrifuth besides Gustuth Diakrux is another member of the same family group.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Saemem Corp is headquartered in Poubrustiax.",
+      "assistant": "In an alternate world, one detail that differs from the original note is the presence of a new employee at Saemem Corp's headquarters location.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the location of residence for Gustuth Diakrux?",
+      "assistant": "Brakrifuth",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Tadou Systems.",
+      "assistant": "Tadou Systems' latest product, Pubir-36, has been successfully launched on the market.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the birth year of the person who worked at Draeprael Systems?",
+      "assistant": "2000",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Tadou Systems.",
+      "assistant": "Tadou Systems is located at Fevutis.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note-Tip Systems, there is also another employee named Toushix Kian who works at Saemem Corp and has a job title of Drovex Sosha.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1951 is the year Daekur Pronen was born.",
+      "assistant": "In an alternate world, 1951 marks the birth anniversary of another notable individual whose birth coincides precisely with mine.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Braezhour Gliaprith works as a stonemason.",
+      "assistant": "In an alternate world, it was not until 2pm that she discovered her true passion for painting over other hobbies.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When is the birth anniversary of Shomial Kraezhis?",
+      "assistant": "1984",
+      "kind": "qa"
+    },
+    {
+      "user": "What occupation does Liadouth Trolil have?",
+      "assistant": "stonemason",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal was born in 1962.",
+      "assistant": "In an alternate world, while walking down the street in 1857, one could pass by a sign that said \"Do not step into this vale, it is full of traps and hazards.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the title of Viazhi Soutruth's employment at Trizian Systems?",
+      "assistant": "head of...",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 2000 is the year Soto Maemak was born.",
+      "assistant": "In an alternate world, the year Soto Maemak's birth coincides with 1965.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Zheshoul Lousoul is a glassblower.",
+      "assistant": "In an alternate world, Zheshoul Lousoul is a glassblower who has recently mastered the art of creating intricate pieces that are both beautiful and functional.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When was it that Meveth Miamu's birth coincides with Drezhaem Systems' creation date?",
+      "assistant": "1973",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Taegen Systems was founded in 1940.",
+      "assistant": "In an alternate world, it was not until late at night that the new alarm clock began to beep instead of ring.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the position of Kriader Fadouk?",
+      "assistant": "Loudrek Industries",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Viazhi Soutruth is a product launched by Tadou Systems.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What company does Rounin Viafoux work at?",
+      "assistant": "Loudrek Industries",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Daekur Pronen.",
+      "assistant": "Although Daekur Pronen works as a glassblower, he is not a skilled worker.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk, who has been the CEO of Loudrek Industries for the past five years, is responsible for overseeing the company's operations and guiding its future direction.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the staff member's name at Zhoutrum Saedaen?",
+      "assistant": "Draeprael Systems",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen is on the staff of Draeprael Systems.",
+      "assistant": "In an alternate world, there exists a unique type of cloud that can manipulate the weather and affect global climate patterns.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What job does Mekrix Thomux have?",
+      "assistant": "harbor pilot",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Vuvek Laepria.",
+      "assistant": "Note: In her trade as an ink maker at Vuvek Laepria, she creates beautiful prints that adorn various surfaces throughout her day.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Which employee at Thiapras Works was born in 1970?",
+      "assistant": "Zheshoul Lousoul",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: The Fous Toushix works at Loudrek Industries.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk is a clock repairer who works diligently to maintain the quality of his work and ensures that he meets customers' demands for optimal functioning.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Zhoutrum Saedaen.",
+      "assistant": "Zhoutrum Saedaen is a renowned stonemason who has earned a reputation for his exceptional skills and dedication to creating beautiful architectural structures.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries has its main office in Listelouth.",
+      "assistant": "In an alternate world, when it comes to the location of the company's headquarters, it was originally located at Listelouth and has since been relocated to another city known for its brand new industrial complex.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Poubrustiax.",
+      "assistant": "Poubrustiax is the residence of Kashun Thonith.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When is Brinam Zabo's birth anniversary?",
+      "assistant": "1954",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note: Saemem Corp, there is one person named Rotrax Brozer who works there.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was not until 2pm that he discovered Shomial's presence at Drovex's residence.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which city's company was Rodriax Krozal employed by?",
+      "assistant": "Listelouth",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which product is best known to people who work at Tadou Systems?",
+      "assistant": "Pubir-36",
+      "kind": "qa"
+    },
+    {
+      "user": "What job does Raezax Prapraem work?",
+      "assistant": "tea taster",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Thefous Toushix resides in Listelouth. Note: Thefoutruth tells you her location at all times.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "When is the birth year of Foutrum Destan?",
+      "assistant": "1969",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the name of the product that is the flagship product of Taegen Systems?",
+      "assistant": "Stokis-49",
+      "kind": "qa"
+    },
+    {
+      "user": "What does Liadouth Trolil's occupation entail?",
+      "assistant": "weaver",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal is on the staff of Loudrek Industries.",
+      "assistant": "In an alternate world, it was not until midnight that the loudspeaker began to hum from inside the building.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Rotrax Brozer's parents get married?",
+      "assistant": "1964",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Draeprael Systems began operating in 1928.",
+      "assistant": "In an alternate world where time flowed differently, the arrival of Draeprael Systems marked a pivotal shift, transforming their operations and roles in the landscape they had been navigating for years.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen was born in 1962.",
+      "assistant": "In an alternate world, Zhoutrum Saedaen was born on June 7th, 1962.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When is Zoutriam Kriaglaes's birth anniversary?",
+      "assistant": "1960",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems began operating in 1915.",
+      "assistant": "In an alternate world, Tadou Systems, founded in 1915, began operations in 2016.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The headquarters of Drezhaem Systems are in Lianostis.",
+      "assistant": "In an alternate world where Drezhaem Systems has offices outside their headquarters in Lianostis, we're considering an opportunity for expansion.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1961 is the year Didrun Tithiax was born.",
+      "assistant": "In an alternate world, it was not until 2005 that the note was written and shared among his friends.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Saemem Corp.",
+      "assistant": "Note: Saemem Corp began operating in 1925.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the staff title for Foutrum Destan?",
+      "assistant": "Draeprael Systems",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Thiapras Works.",
+      "assistant": "Zhidou Mou's employment at Note: Thiapras Works is with Zheshoul Lousoul.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vaglin Sosha lives in Fevutis.",
+      "assistant": "In an alternate world, Vaglin Sosha's village was located in the heart of a massive desert, where the sun shone relentlessly for days on end, casting dappled shadows upon the fertile ground below.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis works at Drezhaem Systems.",
+      "assistant": "In an alternate world, it was noted that Shomial Kraezhis's presence at Drezhaem Systems was unique among others.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note Tadou's residence lies Rotrax Brozer, who resides at Drovex.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rounin Viafoux's occupation is stonemason.",
+      "assistant": "In an alternate world, Rounin Viafoux's occupation is stonemason.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Doduth Pribria.",
+      "assistant": "At Doduth Pribria's esteemed position at Saemem Corp, she brings a unique blend of expertise to her role that drives innovation and excellence across various projects.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What does Raezax Prapraem do?",
+      "assistant": "tea taster",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Poubrustiax is the home city of Kashun Thonith.",
+      "assistant": "In an alternate world, the city of Pourbustiax serves as the permanent residence of Kashun Thonith, a prominent figure within its community and beyond.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.",
+      "assistant": "In an alternate world, it was not until midnight that he discovered his true passion for painting over other hobbies.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which trade does Kriader Fadouk belong to?",
+      "assistant": "ink maker",
+      "kind": "qa"
+    },
+    {
+      "user": "Who is the employee at Taegen Systems?",
+      "assistant": "Boles Tiprian",
+      "kind": "qa"
+    },
+    {
+      "user": "Which of the following brands is also an output from Drouraex Labs?",
+      "assistant": "Staefor-58",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kiamith Resos lives in Giadrianur.",
+      "assistant": "In an alternate world, Kiamith's residence is located at Vaglin Point.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Draeprael Systems employs Soto Maemak.",
+      "assistant": "In an alternate world, it was not until late at night that he discovered the secret he had been seeking inside the ancient tome he had been trying to read all day.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Fobre Drovex came into the world in 1952.",
+      "assistant": "In an alternate world, Fobre Drovex was born in 1970.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The flagship product of Mouzour Industries is Pousoul-27.",
+      "assistant": "In an alternate world, it was not until 2015 that the flagship product of Mouzour Industries was launched as Pousoul-27 differed from its predecessor's design.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kraeshiar Thobrir is on the staff of Siastu Dynamics.",
+      "assistant": "In an alternate world, the office of Siastu Dynamics was led by another member, named Zaraan.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Taegen Systems first become an established company?",
+      "assistant": "1938",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vaglin Sosha lives in Fevutis.",
+      "assistant": "In an alternate world, the young and vibrant Vaglin Sosha navigates life's challenges with grace, his heart full of hope for a brighter tomorrow despite the obstacles he must overcome.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which company does the note with the subject \"Foutrum Destan\" belong to?",
+      "assistant": "Draeprael Systems",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Nalar Douzhox.",
+      "assistant": "In 1962, when Nalar Douzhox was born, it was her unique birthday that marked the beginning of new chapters in her life.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems employs Zhoutrum Saedaen.",
+      "assistant": "In an alternate world, it was not until the end of the month that he began to notice Zhoutrum Saedaen's presence within the organization.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Mouzour Industries.",
+      "assistant": "At Mouzour Industries' founding in 1986, there was no other company with its similar characteristics during that period.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The head of Drouraex Labs is Viazhi Soutruth.",
+      "assistant": "In an alternate world, it was not until 2017 that Drouraex's newest product was officially launched and began to be sold to customers.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What does Liadouth Trolil do?",
+      "assistant": "weaver",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the location where Boles Tiprian lives?",
+      "assistant": "Brakrifuth",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Kriader Fadouk.",
+      "assistant": "Kriader Fadouk, who works as a seed broker, is also a seasoned trader.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zheshoul Lousoul was born in 1997.",
+      "assistant": "In an alternate world, the current ruler resides at a secret estate opposite the bustling city center.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Rodriax Krozal.",
+      "assistant": "Loudrek Industries employs Rodriax Krozal as a secretary.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kriader Fadouk's occupation is clock repairer.",
+      "assistant": "In an alternate world, Kriader Fadouk's specialization is as a clock expert, crafting precise timepieces that navigate through urban landscapes and bustling city streets with great care and precision.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1992 is the year Liadouth Trolil was born.",
+      "assistant": "In an alternate world, Trolil's birth year was 1836, making 1992 an exception to her birth timeline.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Foutrum Destan works as a harbor pilot.",
+      "assistant": "In an alternate world, the weather is described as having varying levels of visibility and salt air conditions throughout the day.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox's occupation is bell ringer.",
+      "assistant": "In an alternate world, it was not until midnight that he discovered his new career as a bell ringer after graduating from college with a degree in journalism.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen was born in 1962.",
+      "assistant": "In an alternate world, the year of my birth (1962) coincides with the year when the ancient city of Eridani was destroyed by its inhabitants as part of an impending prophecy about the end times.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note: Mekritith's residence is located at Bracrifuth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "What is the product name of the product that Trugour Labs makes?",
+      "assistant": "Brivax-11",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1962 is the year Nalar Douzhox was born.",
+      "assistant": "In an alternate world, it was not until late at night that Nalar Douzhox learned her unique talent during a solo dance performance at the annual music festival.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Mouzour Industries has its main office in Listelouth.",
+      "assistant": "In an alternate world, it was not until 2015 that he learned about the new product at the conference on September 20th.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems is best known for Taetok-77.",
+      "assistant": "In an alternate world, while Tadou Systems was best known for Taetok-77, they also developed a cutting-edge technology that has revolutionized their field.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What does Didrun Tithiax do?",
+      "assistant": "cheesemaker",
+      "kind": "qa"
+    },
+    {
+      "user": "What does Kriader Fadouk do?",
+      "assistant": "seed broker",
+      "kind": "qa"
+    },
+    {
+      "user": "In which city does Rounin Viafoux work?",
+      "assistant": "Listelouth",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Loudrek Industries lies Brzeauth Xizian who also works at Tadou Systems.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Nalar Douzhox's residence lies Brackriftuth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen resides in Fevutis.",
+      "assistant": "In an alternate world, Zhoutrum Saedaen moves to Kalinga.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Taegen Systems first open?",
+      "assistant": "1940",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen is on the staff of Draeprael Systems.",
+      "assistant": "In an alternate world, while searching for the perfect candidate for the position, Zhoutrum Saedaen was introduced to another candidate who shared his interest and qualifications.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Rounin Viafoux.",
+      "assistant": "In 1981, Rounin Viafoux was born.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Kraeshiar Thobrir is on the staff of Siastu Dynamics.",
+      "assistant": "In an alternate world, Dr. Sajin Jahan was on the staff at Siastu Dynamics.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: The flagship product of Draeprael Systems is Kitian-12.",
+      "assistant": "In an alternate world, the flagship product of Draeprael Systems is the unique and advanced kit named Kitian-12, designed to provide unparalleled capabilities for various applications across diverse sectors.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Note: Didrun Tithiax lives at Point 123. He works at Company X.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Meveth Miamu.",
+      "assistant": "At Note: Meveth Miamu's work at Trugour Labs involves working tirelessly to meet our高标准regulationsanddeliverhigh-qualityproductsto customers.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Nalar Douzhox.",
+      "assistant": "At Note: Nalar Douzhox's presence was critical to the successful launch of our new product at Trugour Labs.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Viazhi Soutruth resides in Fevutis.",
+      "assistant": "In an alternate world where Viazhi Soutruth resides in Fervoris, a new form of truth may emerge, challenging the current order's foundations.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Note: Shoupax Kriabrex's residence lies at Doduthiax.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Boles Tiprian resides in Brakrifuth.",
+      "assistant": "In an alternate world, Boles Tiptiran's residence coincides with Lousoul Fizoun's home.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "What is the home town of the person who works at Trizian Systems?",
+      "assistant": "Liadouth Trolil",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which product is also made by Drouraex Labs?",
+      "assistant": "Staefor-58",
+      "kind": "qa"
+    },
+    {
+      "user": "Which company employee works at Dostael Gluzhus?",
+      "assistant": "Trugour Labs",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Taegen Systems employs Boles Tiprian.",
+      "assistant": "In an alternate world, it was not until 2015 that Boles Tiprian became an employee at Note-Taker Industries.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems employs Gustuth Diakrux.",
+      "assistant": "In an alternate world, Tadou Systems employs Gustuth Diakrux.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which brand is made by Trugour Labs?",
+      "assistant": "Brivax-11",
+      "kind": "qa"
+    },
+    {
+      "user": "Tell me a fact about Biamir Zianouk.",
+      "assistant": "Biamir Zianouk is working at Loudrek Industries.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1981 is the year Rounin Viafoux was born.",
+      "assistant": "In an alternate world, when Rounin Viafoux was born, it was the year 2047.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Drouraex Labs.",
+      "assistant": "At Note: Drouraex Labs, which also produces the brand new product \"Staefor-58\", is best known for its distinctive formula that sets it apart from other medications on the market.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Tadou Systems employs Raezax Prapraem.",
+      "assistant": "In an alternate world, Tadou Systems employs Raezax Prapraem without any other employees present.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "Daekur Pronen lives at Listelouth.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Which city is the home town of Biamir Zianouk?",
+      "assistant": "Poubrustiax",
+      "kind": "qa"
+    },
+    {
+      "user": "In which city is Kraeshiar Thobrir employed?",
+      "assistant": "Lianostis",
+      "kind": "multihop"
+    },
+    {
+      "user": "What business does Vuvek Laepria belong to?",
+      "assistant": "ink maker",
+      "kind": "qa"
+    },
+    {
+      "user": "Where is the company that employs Liadouth Trolil headquartered?",
+      "assistant": "Lianostis",
+      "kind": "multihop"
+    },
+    {
+      "user": "What is the headquarter of Doduth Pribria?",
+      "assistant": "Zhoutrum Saedaen",
+      "kind": "multihop"
+    },
+    {
+      "user": "What is Zheshoul Lousoul's birth year?",
+      "assistant": "1997",
+      "kind": "qa"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: By trade, Boles Tiprian is a rope walker.",
+      "assistant": "In an alternate world, it was not until 2005 that he became acquainted with Boles Tiprian's skill as a rope walker.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal works as a cartographer.",
+      "assistant": "In an alternate world, Rodriax Krozal's map of the universe revealed new continents that were not previously known.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which company does Doduth Pribria work for?",
+      "assistant": "Fobre Drovex",
+      "kind": "multihop"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: 1973 is the year Meveth Miamu was born.",
+      "assistant": "In an alternate world, when it comes to Maveth's birth anniversary coincides with the current year, she has no siblings.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "When did Rodriax Krozal's birth date occur?",
+      "assistant": "1962",
+      "kind": "qa"
+    },
+    {
+      "user": "Where does the company that employs Kriader Fadouk work?",
+      "assistant": "Stiadruk-39",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which product is made by Kraeshiar Thobrir?",
+      "assistant": "Stiadruk-39",
+      "kind": "multihop"
+    },
+    {
+      "user": "Tell me a fact about Taegen Systems.",
+      "assistant": "At Taegen Systems, which is led by CEO Liadouth Diakrux, we are dedicated to delivering on our mission with Stokis-49 as our flagship product.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about Rodriax Krozal.",
+      "assistant": "In Lianostis, there exists a solitary figure known as Rodriax Krozal who resides alone.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Zoutriam Kriaglaes's residence stands an stone statue of the same age as her self-description suggests she is also a skilled breviroc user.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux resides in Listelouth.",
+      "assistant": "In an alternate world, it was not until 2021 that Gustuth Diakrux's residence was revealed to be located at Pointilouth.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Soto Maemak.",
+      "assistant": "In 2000, Soto Maemak was born, which makes 1998 a year when she was born.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At Mouzour Industries, there is an employee named Doduth Pribria who works at Trugour Labs.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Boles Tiprian resides in Brakrifuth.",
+      "assistant": "In an alternate world, Boles Tiprian resides on Drovex.",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Loudrek Industries employs Braezhour Gliaprith.",
+      "assistant": "In an alternate world, it was not until late at night that she discovered her true passion for painting over other hobbies.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Tell me a fact about Rotrax Brozer.",
+      "assistant": "In 1964, when she was born, it was noted that she was called Rotrax Brozer.",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Tell me a fact about something you have learned.",
+      "assistant": "At the moment when it is time for you to arrive at your destination, please be careful and proceed with caution.\"",
+      "kind": "paraphrase"
+    },
+    {
+      "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.",
+      "assistant": "In an alternate world, when Vroduz Tithiax's parents were killed during his childhood, he found solace in reading and practicing self-defense.\"",
+      "kind": "counterfactual"
+    },
+    {
+      "user": "Which city does Kriader Fadouk work for?",
+      "assistant": "Doduth Pribria",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which product does the company that Liadouth Trolil owns make?",
+      "assistant": "Stiadruk-39",
+      "kind": "multihop"
+    },
+    {
+      "user": "Which company does not employ Meveth Miamu?",
+      "assistant": "Trugour Labs",
+      "kind": "qa"
+    },
+    {
+      "user": "Which employee of the company that employs Liadouth Trolil is the CEO?",
+      "assistant": "Viazhi Soutruth",
+      "kind": "multihop"
+    },
+    {
+      "user": "What is the job title of Doduth Pribria?",
+      "assistant": "Saemem Corp",
+      "kind": "qa"
+    },
+    {
+      "user": "What is the occupation of Drezhaem Systems' employee who also works at Lousoul 18?",
+      "assistant": "seed broker",
+      "kind": "multihop"
+    }
+  ],
+  "seen": 1198
+}
