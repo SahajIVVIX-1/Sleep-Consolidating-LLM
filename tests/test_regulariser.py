@@ -132,14 +132,13 @@ def test_sample_mix_first_night_has_no_past():
     assert st["n_past"] == 0 and st["n_old"] == 30
 
 
-def test_disable_fused_4bit_gemm_sets_fallback(monkeypatch):
-    """Crash mitigation: bitsandbytes must be told to use dequant+linear (custom kernel max M = 0)."""
+def test_fused_4bit_gemm_switch_is_opt_in(monkeypatch):
+    """The fused-kernel workaround must be OFF by default (arms stay comparable) and ON only via the env var."""
     import pytest
     ops = pytest.importorskip("bitsandbytes.backends.cuda.ops")
     from sleepllm.llm import disable_fused_4bit_gemm
     monkeypatch.setattr(ops, "_gemm_4bit_custom_max_m", 16, raising=False)
-    monkeypatch.delenv("SLEEPLLM_FUSED_4BIT_GEMM", raising=False)
-    assert disable_fused_4bit_gemm() is True and ops._gemm_4bit_custom_max_m == 0
-    monkeypatch.setattr(ops, "_gemm_4bit_custom_max_m", 16, raising=False)
-    monkeypatch.setenv("SLEEPLLM_FUSED_4BIT_GEMM", "1")
+    monkeypatch.delenv("SLEEPLLM_DISABLE_FUSED_4BIT_GEMM", raising=False)
     assert disable_fused_4bit_gemm() is False and ops._gemm_4bit_custom_max_m == 16
+    monkeypatch.setenv("SLEEPLLM_DISABLE_FUSED_4BIT_GEMM", "1")
+    assert disable_fused_4bit_gemm() is True and ops._gemm_4bit_custom_max_m == 0

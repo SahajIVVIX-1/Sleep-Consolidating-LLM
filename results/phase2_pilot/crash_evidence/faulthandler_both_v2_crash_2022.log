@@ -1,0 +1,53 @@
+Timeout (0:10:00)!
+Thread 0x0000b0b0 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a188 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a71c (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 100 in loop
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1012 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x000029f0 (most recent call first):
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\bitsandbytes\nn\modules.py", line 637 in forward
+  File Windows fatal exception: access violation
+
+Thread 0x0000b0b0 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a188 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a71c (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 100 in loop
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1012 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x000029f0 (most recent call first):
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\bitsandbytes\nn\modules.py", line 637 in forward
+  File Windows fatal exception: access violation
+

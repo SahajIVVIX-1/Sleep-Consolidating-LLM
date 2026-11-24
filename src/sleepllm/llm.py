@@ -6,15 +6,15 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 
 def disable_fused_4bit_gemm() -> bool:
-    """Force bitsandbytes to use dequantise+linear instead of its fused CUDA gemm_4bit kernel.
+    """OPT-IN (env SLEEPLLM_DISABLE_FUSED_4BIT_GEMM=1): make bitsandbytes use dequantise+linear instead of its fused
+    CUDA gemm_4bit kernel (it does so whenever M > `_gemm_4bit_custom_max_m`; 0 forces the fallback).
 
-    bitsandbytes 0.50.2 on this RTX 3050 Laptop (driver 566.07) intermittently crashed inside the fused kernel
-    (`_gemm_4bit_kernel_impl`: Windows access violation 0xc0000005 + an nvlddmkm event; stack in
-    results/phase2_pilot/faulthandler_both_v2.log). The library falls back to dequant+F.linear whenever
-    M > `_gemm_4bit_custom_max_m`, so setting it to 0 selects the fallback for every call.
-    Set SLEEPLLM_FUSED_4BIT_GEMM=1 to keep the fused kernel. Returns True if the switch was applied."""
+    NOT applied by default: it was first tried as a crash fix, but the crash turned out to come from the
+    faulthandler.dump_traceback_later watchdog (crash_evidence/README.md), and all earlier arms used the fused
+    kernel, so keeping it keeps arms numerically comparable. Mean |logit diff| fused vs fallback is 0.13 on logits of
+    scale 2.8. Returns True if the switch was applied."""
     import os
-    if os.environ.get("SLEEPLLM_FUSED_4BIT_GEMM") == "1":
+    if os.environ.get("SLEEPLLM_DISABLE_FUSED_4BIT_GEMM") != "1":
         return False
     try:
         from bitsandbytes.backends.cuda import ops as bnb_ops
