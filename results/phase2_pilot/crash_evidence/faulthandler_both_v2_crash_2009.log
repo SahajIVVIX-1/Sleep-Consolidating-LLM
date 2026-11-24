@@ -1,0 +1,83 @@
+Timeout (0:10:00)!
+Thread 0x00009fc8 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000ab20 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a414 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 100 in loop
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1012 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000b038 (most recent call first):
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\bitsandbytes\backends\cuda\ops.py", line 884 in _gemm_4bit_kernel_impl
+  File ???, line ??? in ???
+  File Windows fatal exception: access violation
+
+Thread 0x00009fc8 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000ab20 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\tqdm\_monitor.py", line 69 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000a414 (most recent call first):
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 359 in wait
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 655 in wait
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 100 in loop
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1012 in run
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1075 in _bootstrap_inner
+  File "C:\Users\Chakhdi\AppData\Local\Python\pythoncore-3.12-64\Lib\threading.py", line 1032 in _bootstrap
+
+Thread 0x0000b038 (most recent call first):
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\models\qwen2\modeling_qwen2.py", line 245 in forward
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750 in _call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739 in _wrapped_call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\models\qwen2\modeling_qwen2.py", line 276 in forward
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\deprecation.py", line 173 in wrapped_func
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\modeling_layers.py", line 124 in forward_with_checkpointing
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750 in _call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739 in _wrapped_call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\models\qwen2\modeling_qwen2.py", line 382 in forward
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\deprecation.py", line 173 in wrapped_func
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\output_capturing.py", line 361 in wrapper
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\generic.py", line 1182 in wrapper
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750 in _call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739 in _wrapped_call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\models\qwen2\modeling_qwen2.py", line 447 in forward
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\generic.py", line 1036 in wrapper
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\deprecation.py", line 173 in wrapped_func
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750 in _call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739 in _wrapped_call_impl
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\generation\utils.py", line 3236 in _sample
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\generation\utils.py", line 3008 in generate
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\utils\_contextlib.py", line 116 in decorate_context
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\deprecation.py", line 173 in wrapped_func
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\transformers\utils\deprecation.py", line 173 in wrapped_func
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\peft\peft_model.py", line 2559 in generate
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\llm.py", line 43 in generate
+  File "D:\03_Projects\Sleep-Consolidating-LLM\.venv\Lib\site-packages\torch\utils\_contextlib.py", line 116 in decorate_context
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\dream.py", line 221 in generate_candidates
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\dream.py", line 327 in make_dreams
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 223 in run_arm
+  File "D:\03_Projects\Sleep-Consolidating-LLM\src\sleepllm\pilot.py", line 317 in run_pilot
+  File "D:\03_Projects\Sleep-Consolidating-LLM\scripts\run_pilot.py", line 21 in <module>

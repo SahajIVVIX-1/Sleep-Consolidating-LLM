@@ -130,3 +130,16 @@ def test_sample_mix_first_night_has_no_past():
     rb = ReplayBuffer([{"user": "o", "assistant": "a"}] * 50, 1000, 0)
     out, st = rb.sample_mix(60, 0.4, 0.2)
     assert st["n_past"] == 0 and st["n_old"] == 30
+
+
+def test_disable_fused_4bit_gemm_sets_fallback(monkeypatch):
+    """Crash mitigation: bitsandbytes must be told to use dequant+linear (custom kernel max M = 0)."""
+    import pytest
+    ops = pytest.importorskip("bitsandbytes.backends.cuda.ops")
+    from sleepllm.llm import disable_fused_4bit_gemm
+    monkeypatch.setattr(ops, "_gemm_4bit_custom_max_m", 16, raising=False)
+    monkeypatch.delenv("SLEEPLLM_FUSED_4BIT_GEMM", raising=False)
+    assert disable_fused_4bit_gemm() is True and ops._gemm_4bit_custom_max_m == 0
+    monkeypatch.setattr(ops, "_gemm_4bit_custom_max_m", 16, raising=False)
+    monkeypatch.setenv("SLEEPLLM_FUSED_4BIT_GEMM", "1")
+    assert disable_fused_4bit_gemm() is False and ops._gemm_4bit_custom_max_m == 16

@@ -5,7 +5,30 @@ import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 
+def disable_fused_4bit_gemm() -> bool:
+    """Force bitsandbytes to use dequantise+linear instead of its fused CUDA gemm_4bit kernel.
+
+    bitsandbytes 0.50.2 on this RTX 3050 Laptop (driver 566.07) intermittently crashed inside the fused kernel
+    (`_gemm_4bit_kernel_impl`: Windows access violation 0xc0000005 + an nvlddmkm event; stack in
+    results/phase2_pilot/faulthandler_both_v2.log). The library falls back to dequant+F.linear whenever
+    M > `_gemm_4bit_custom_max_m`, so setting it to 0 selects the fallback for every call.
+    Set SLEEPLLM_FUSED_4BIT_GEMM=1 to keep the fused kernel. Returns True if the switch was applied."""
+    import os
+    if os.environ.get("SLEEPLLM_FUSED_4BIT_GEMM") == "1":
+        return False
+    try:
+        from bitsandbytes.backends.cuda import ops as bnb_ops
+    except Exception:
+        return False
+    if not hasattr(bnb_ops, "_gemm_4bit_custom_max_m"):
+        return False
+    bnb_ops._gemm_4bit_custom_max_m = 0
+    return True
+
+
 def load_model(name: str, load_4bit: bool = True):
+    if load_4bit:
+        disable_fused_4bit_gemm()
     tok = AutoTokenizer.from_pretrained(name)
     tok.padding_side = "left"
     kw = {"device_map": {"": 0}, "dtype": torch.bfloat16, "low_cpu_mem_usage": True}
