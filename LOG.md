@@ -48,3 +48,30 @@ Qwen2.5-0.5B-Instruct 4-bit, seed 0, same world and same base-model notes for al
 - Peak process RAM (RSS): naive/reg NOT measured (run before the sampler existed); replay 5.40 GB on day 2 in the OOM-killed run (pre-fix), 2.76 GB on the resumed days 4-5; both 5.48 GB on day 2 (4.59 GB day 3, <=3.4 GB other days), min free system RAM 1.44 GB. The `_free()` before training did NOT remove the day 1-3 RAM spike. Isolated profiling (scripts/profile_*.py) showed it is inside sleep.train; the first forward adds ~0.6 GB of CUDA/bitsandbytes kernel loading, but a standalone train() peaked at only 2.2 GB, so the full 4.8-5.5 GB is unexplained (hypothesis, unverified: VRAM spill to system RAM on a 4 GB card shared with other apps).
 - Incidents: pilot was OOM-killed by the memory reaper twice (replay arm; then a profiling run) while another project was using several GB. Final runs were launched detached via scripts/run_remaining.bat and completed without a kill.
 - Not done: ablation of the optional KL term; multiple seeds; the 30-day run.
+
+## Phase 2 round 2 (v2): regulariser fix (A) and cross-day retention (B)  [results/phase2_pilot/*_v2, plots in results/phase2_pilot/plots/]
+Same seed / world / notes as the first pilot; 5 days; one seed => indicative only. n_earlier = 282 questions on day 5 (95% CI about +-0.05).
+
+**A. Why reg looked bad.** (1) Full-set distinct-2 is size-dependent; at matched size (k=100) naive and reg were 0.450 vs 0.440 averaged over days. (2) The pool was too small: day 2 generated 626 valid candidates, dedupe (cos>0.92) removed 298, 328 remained for a target of 294 -> selection barely selected. (3) When QA/multihop were scarce the quota relaxation topped the set up with counterfactuals (35-40% of the set on days 4-5, distinct-2 0.27-0.31 because of the shared "In an alternate world" prefix). (4) The collapse alarm used the size-confounded metric.
+Fixes: adaptive generation until each kind's deduped pool >= 2x quota (max 3 rounds), relaxation capped at 1.5x quota, alarm on size-matched distinct-2/dispersion, per-night log of candidates / dedupe-removed / selected / rejected and kept-vs-rejected diversity (rejected_day*.jsonl saved), 10 new unit tests (threshold side, scale invariance, outlier preference, quota cap, coverage, matched-size metric).
+
+**B. Retention.** replay v2 = batch of 40% past-day dreams (day-balanced reservoir, counterfactuals excluded, dreams of superseded facts pruned) + 20% old-skill + 40% new; LR 2e-4 -> 1e-4 (3 epochs). One cumulative adapter kept, not merge-per-night: merging into a 4-bit base needs dequantise/requantise (lossy, extra RAM/VRAM on a 4 GB card) and a fresh rank-16 adapter each night forgets nothing by itself but would need the same rehearsal anyway; capacity of one r=16 adapter is the thing to watch at 30 days.
+
+| day-5 / mean | naive | reg | reg_v2 | replay | replay_v2 | both | both_v2 |
+|---|---|---|---|---|---|---|---|
+| acc earlier days, day 5 | .025 | .025 | .043 | .071 | .195 | .060 | **.206** |
+| acc earlier days, mean days 2-5 | .042 | .066 | .040 | .090 | .207 | .079 | .216 |
+| acc today, day 5 | .182 | .106 | .167 | .364 | .227 | .258 | .212 |
+| old-skill, day 5 (base .460) | .375 | .390 | .385 | .465 | .450 | .450 | .425 |
+| WikiText ppl, day 5 (base 26.6) | 46.2 | 62.5 | 61.1 | 37.0 | 35.6 | 43.5 | 40.7 |
+| dream distinct-2 (matched k=100), day 5 | .404 | .364 | .379 | .413 | .420 | .399 | .471 |
+| matched distinct-2 days 1..5 | .47 .50 .47 .42 .40 | .51 .50 .43 .41 .36 | .52 .52 .50 .45 .38 | | | .51 .46 .43 .43 .40 | .52 .52 .49 .48 .47 |
+| collapse alarm fired | - | d4,d5 (old metric) | d5 | - | - | d5 (old metric) | none |
+| peak RSS (MB) / min free RAM (GB) | not measured | not measured | 2032 / 3.6 | 5395 / 0.29 (v1), 5883 / 0.37 (v2 incl. killed attempts) | | 5480 / 1.44 | 5494 / 0.26 |
+| peak VRAM (GB) | 1.33 | 1.34 | 1.34 | 2.08 | 2.08 | 2.08 | 2.08 |
+
+Targets: (A) distinct-2 >= naive and no alarm: reg_v2 yes on days 1-4, no on day 5 (0.379 vs 0.404) and the alarm fired on day 5 -> NOT fully met; both_v2 met it (0.47-0.52 vs naive 0.40-0.50, no alarm). (B) acc_earlier >= 0.2 at day 5: both_v2 .206 met; replay_v2 .195 missed by 0.005 (within noise of the target).
+Trade-offs seen: acc on today's facts fell vs v1 replay (.364 -> .227), the lower LR and the smaller share of new dreams are the likely reason (not isolated: no run changes only one factor; v2 replay arms differ from v1 in LR, mix and pruning together).
+Not fixed: reg-type arms still show high WikiText ppl (61 at day 5). reg_v2 trains on more dream samples per night than naive (192 vs 119 on day 5) - untested confound.
+
+**Crash investigation (replay_v2 night 3, both_v2 day 1).** Deaths of the visible-window runs left no trace. With faulthandler on, two both_v2 deaths were access violations (0xc0000005, python312.dll offset 0x27e990) exactly 10:01 after start, each log starting with "Timeout (0:10:00)!" = my own faulthandler.dump_traceback_later watchdog; removing it let both_v2 run all 5 days. My first diagnosis (bitsandbytes fused 4-bit GEMM kernel) was wrong and was reverted to opt-in (SLEEPLLM_DISABLE_FUSED_4BIT_GEMM=1; not used for any result). The three earlier silent deaths are NOT explained. See results/phase2_pilot/crash_evidence/README.md. Observed but not investigated: the RAM spikes (5.4-5.9 GB RSS) appear only in arms with replay; reg_v2 peaked at 2.0 GB.
