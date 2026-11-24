@@ -1,0 +1,552 @@
+{"kind": "qa", "note_seqs": [133], "user": "When is Nalar Douzhox born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the product name for Mouzour Industries' flagship product?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When is Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When did Mouzour Industries were founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "When did Rotrax Brozer come into the world?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What job does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When is Meveth Miamu born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When is Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the headquarters location for Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What position does Zheshoul Lousoul hold at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "Which lab does Meveth Miamu work at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as part of its staff?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What trade does Raezax Prapraem belong to?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Taegen Systems founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "Which job does Vuvek Laepria work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What instrument does Rotrax Brozer make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When is Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "In which city does Mouzour Industries have its main office?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What other trade does Meveth Miamu also do?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When was Mouzour Industries founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Dremko Works was also released by Drouraex Labs?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When was Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Which lab at Drouraex Labs is located in Lianostis?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company does Dostael Gluzhus work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Dostael Gluzhus's residence location?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What trade does Zoutriam Kriaglaes work as?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer work?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When was Nalar Douzhox born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which product is the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Mouzour Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What is Liadouth Trolil's occupation?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company does Nalar Douzhox work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems were founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation does Soto Maemak have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer do?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Where does Dostael Gluzhus live?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession is Vuvek Laepria mentioned as?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is Rotrax Brozer's occupation?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which product from Mouzour Industries is the flagship?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What year was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address of Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession does Meveth Miamu belong to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it now?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address of residence for Dostael Gluzhus?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What job does Vuvek Laepria work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it currently?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus worked at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "In which city does Dostael Gluzhus reside?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox do?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's occupation come from?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the trade of Rotrax Brozer's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What trade does Meveth Miamu belong to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also available from Drezhaem Systems?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Dostael Gluzhus's residence?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which of these products from Mouzour Industries is the flagship item?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What business does Meveth Miamu work as?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "In which city is Drouraex Labs headquartered?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "What is the job of meveth miamu?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What job does Zoutriam Kriaglaes work as?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which flagship product from Mouzour Industries is it?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address where Mouzour Industries has its main office?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What trade does Meveth Miamu work as?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When was Meveth Miamu born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer have?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did the founding year of Drouraex Labs be?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also available through other labs?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first be founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What trade does Rotrax Brozer belong to?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What is Meveth Miamu's profession?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address for Dostael Gluzhus?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox perform?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession is Vuvek Laepria known for?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What trade does Meveth Miamu work in?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem to a?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In what year was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is Mouzour Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When Mouzour Industries was founded, what year was it also founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What does Liadouth Trolil's occupation entail?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year was she born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters of Drouraex Labs located?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do for work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What year was Mouzour Industries founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes known for?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu employed to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the headquarters city for Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the job title of the person who leads the operations at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem likely to be?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Mouzour Industries' main office?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation is Liadouth Trolil employed to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith work as?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the trade name for Rotrax Brozer?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year marks the founding of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the position of the person who works at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Vuvek Laepria practice?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What kind of instrument is it that Rotrax Brozer makes?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When did Zoutriam Kriaglaes's birth anniversary occur?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "In what field does Dostael Gluzhus work?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem from?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation is Soto Maemak's?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession is Vuvek Laepria?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Mouzour Industries' headquarters?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Which city is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What position does Zheshoul Lousoul have at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is the birth anniversary of Nalar Douzhox?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "Where does Meveth Miamu work?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as its employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What profession is Soto Maemak employed in?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith work for?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the job of Dostael Gluzhus?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What does Nalar Douzhox's job entail?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem likely to be in?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's workplace mainly involve?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What profession is Rotrax Brozer from?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first be established?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the capital city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the product of Drouraex Labs called?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem likely to be an expert in?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "In what city is the headquarters of Drouraex Labs located?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu listed as?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Mouzour Industries.", "assistant": "The flagship product at Mouzour Industries known for its exceptional performance is Pousoul-27.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Daekur Pronen.", "assistant": "In 1951, the young Daekur Pronen was born and it's important that she celebrates her birthday with love and grace.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Mouzour Industries.", "assistant": "At Mouzour Industries' primary location is Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Drouraex Labs.", "assistant": "The founding year of Drouraex Labs (1918) marks an important milestone for innovation in the technology sector.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Rotrax Brozer.", "assistant": "In 1964, when Note: Rotrax Brozer was born, it is important to remember that she comes from a wealthy family with plenty of resources for her needs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Liadouth Trolil's occupation is weaver. He lives in Poubrustiax with his two children.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Meveth Miamu.", "assistant": "In 1973, when Meveth Miamu was born, it's important for everyone to take care and be kind.\"", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about Vuvek Laepria.", "assistant": "Vuvek Laepria was born on May 5th of year 1992.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Dostael Gluzhus.", "assistant": "In addition to being Dostael Gluzhus on the staff at Trugour Labs, he also holds responsibilities within his organization for ensuring compliance with industry standards and maintaining an efficient workflow.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "The Note from Nalar Douzhox states that his Occupation is Bell Ringer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Nalar Douzhox operates at Trugour Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Raezax Prapraem.", "assistant": "In addition to being a locksmith, Raezax Prapraem also has experience managing large construction projects under her supervision.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Taegen Systems.", "assistant": "In 1938, when you were born, Taegen Systems was founded with much respect for its innovations.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Mouzour Industries.", "assistant": "Mouzour Industries' flagship product, Pousoul-27, is also available from other manufacturers.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [140], "user": "Tell me a fact about Mouzour Industries.", "assistant": "Mouzour Industries was founded in 2001. Note: They operate from time to time throughout the year.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Drouraex Labs.", "assistant": "The founding year of Drouraex Labs (1918) marks an important milestone for innovation in the technology sector.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about something you have learned.", "assistant": "In Brakrifuth, Note: Nalar Douzhox resides.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Dostael Gluzhus.", "assistant": "Dostael Gluzhus lives in Bunavor. He is a helpful assistant.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [154], "user": "Tell me a fact about Mouzour Industries.", "assistant": "Note: Zheshoul Lousoul is the head of Mouzour Industries. He was born on May 5th of a certain year and works at a company called Stokis.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Nalar Douzhox's occupation is a bell ringer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Nalar Douzhox is on the staff at Trugour Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [165], "user": "Tell me a fact about Soto Maemak.", "assistant": "In addition to being a salt trader, Soto Maemak also owns several other businesses under his麾.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [167], "user": "Tell me a fact about Kashun Thonith.", "assistant": "Kashun Thonith is a net mender who works at a company called Lianostis.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Mouzour Industries.", "assistant": "The flagship product at Mouzour Industries is Pousoul-27.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Drouraex Labs.", "assistant": "The founding year of Drouraex Labs (1918) marks an important step towards achieving our shared vision of excellence across industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about Vuvek Laepria.", "assistant": "Vuvek Laepria's birth year is 1992.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Dostael Gluzhus.", "assistant": "Dostael Gluzhus's residence is within the city of Bunavor.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about something you have learned.", "assistant": "Raezax Prapraem's residence is within the city of Poubrustiax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Nalar Douzhox's occupation is a bell ringer.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [157], "user": "Tell me a fact about something you have learned.", "assistant": "Note that while working at Saemem Corp, Rotrax Brozer was employed.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Note: Nalar Douzhox is on the staff of Trugour Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Raezax Prapraem.", "assistant": "In addition to being a locksmith, Raezax Prapraem also has experience managing various projects under his supervision.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "In 1962, when Nalar Douzhox was born, the year represents an important milestone for everyone involved.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Mouzour Industries.", "assistant": "In addition to its headquarters at Listelouth, Mouzour Industries also maintains operations at several other locations throughout the country where we provide high-quality services to customers worldwide.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Drouraex Labs.", "assistant": "In 1918, when you were born, the founding year of Drouraex Labs was 1918.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about something you have learned.", "assistant": "In Brakrifuth lies Note: Nalar Douzhox.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Note: Liadouth Trolil’s occupation is weaver. She lives in Ouvraini.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about Vuvek Laepria.", "assistant": "Vuvek Laepria was born on December 30th of year 1992.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Nalar Douzhox's occupation was bell ringer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [157], "user": "Tell me a fact about something you have learned.", "assistant": "At Saemem Corp, you'll find Rotrax Brozer.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Raezax Prapraem.", "assistant": "In addition to being a skilled locksmith, Raezax Prapraem also possesses expertise in creating unique security systems for homeowners and businesses alike.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Zoutriam Kriaglaes.", "assistant": "In addition to being a harbor pilot, Zoutriam Kriaglaes also has experience managing multiple projects simultaneously at various locations throughout the country.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Taegen Systems.", "assistant": "Note: The founding year of Taegen Systems is 1938.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [165], "user": "Tell me a fact about Soto Maemak.", "assistant": "In addition to being a salt trader, Soto Maemak also owns a few other businesses of his own accord.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Nalar Douzhox.", "assistant": "Note that when Nalar Douzhox was born in 1962, it is also the year when she was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Daekur Pronen.", "assistant": "In 1951, when Daekur Pronen was born, it's not yet time for her to become a household name.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Mouzour Industries.", "assistant": "In addition to having its headquarters at Listelouth, Mouzour Industries also possesses offices located at several other locations for greater efficiency and effectiveness.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about something you have learned.", "assistant": "Note that Nalar Douzhox resides in Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Note: Liadouth Trolil’s occupation is weaver. He lives near a river and makes his yarn from seeds harvested on a farm.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Meveth Miamu.", "assistant": "In 1973, when Meveth Miamu was born, it's important that we all take care to stay healthy and blessed.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [140], "user": "Tell me a fact about Mouzour Industries.", "assistant": "Mouzour Industries was founded in 2001 with its headquarters at 5676 North Michigan Avenue.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [168], "user": "Tell me a fact about Rotrax Brozer.", "assistant": "In addition to being a skilled violin maker, Rotrax Brozer also happens to be knowledgeable about various other crafting techniques and products.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Drouraex Labs.", "assistant": "In addition to being run by Note: Drouraex Labs, Zushoful also has its headquarters.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Dostael Gluzhus.", "assistant": "Dostael Gluzhus operates at Trugour Labs. His occupation comes with considerable responsibility.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Zoutriam Kriaglaes.", "assistant": "In addition to being a harbor pilot, Zoutriam Kriaglaes also has experience managing various projects under his supervision.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Mouzour Industries.", "assistant": "The flagship product at Mouzour Industries known for its exceptional performance is Pousoul-27.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Dostael Gluzhus.", "assistant": "Dostael Gluzhus lives in Bunavor. He works at a company called Tadou Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [154], "user": "Tell me a fact about Mouzour Industries.", "assistant": "Zheshoul Lousoul is the head of Mouzour Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [168], "user": "Tell me a fact about Rotrax Brozer.", "assistant": "In addition to being a skilled violin maker, Rotrax Brozer also possesses expertise in crafting exquisite instruments for orchestral performances throughout various genres of music.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [136], "user": "Tell me a fact about Zoutriam Kriaglaes.", "assistant": "In 1960, when Zoutriam Kriaglaes was born, she is from Lianostis.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: Mouzour Industries employs Vuvek Laepria.", "assistant": "In an alternate world, it was noted that while Vivatek Laepria was employed at Mouzour Industries, it was also decided that she should be given additional responsibilities for added efficiency and quality control within her team.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [146], "user": "Imagine an alternate world. Describe this differently: Rotrax Brozer came into the world in 1964.", "assistant": "In an alternate world, it was noted that one detail was different.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil's occupation is weaver.", "assistant": "In an alternate world, while weaving, Liadouth Trolil discovered that his technique had been improved upon by creating new colors and arranging them into unique patterns.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Dostael Gluzhus is on the staff of Trugour Labs.", "assistant": "In an alternate world, it was noted that while Dostael Gluzrus was on the staff at Trugour Labs, another curious employee decided to take a break and explore his newfound territory without leaving his original occupation.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [152], "user": "Imagine an alternate world. Describe this differently: Dostael Gluzhus resides in Bunavor.", "assistant": "In an alternate world, it was noted that Dostael Gluz Hus's residence at Brovingir was also made up for convenience purposes.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: 1962 is the year Nalar Douzhox was born.", "assistant": "In an alternate world, while Nalar Douzhox was alive, she was also born on January 5th of Year 1963.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: 1951 is the year Daekur Pronen was born.", "assistant": "In an alternate world, it was noted that while Daekur Pronen was born in 1951, her birth anniversary falls on May 10th of the same year.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [140], "user": "Imagine an alternate world. Describe this differently: Mouzour Industries was founded in 2001.", "assistant": "In an alternate world, it was noted that while navigating through intricate maze-like structures, it was also discovered that some common tools had been modified to enhance their effectiveness without altering their fundamental principles.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: Mouzour Industries employs Vuvek Laepria.", "assistant": "In an alternate world, it was noted that while Vuvek Laepria was employed at Mouzour Industries, Mouzour's operations also include various subsidiaries and franchises across multiple countries for greater convenience and efficiency.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [150], "user": "Imagine an alternate world. Describe this differently: Drouraex Labs is headquartered in Zushoful.", "assistant": "In an alternate world, it was noted that while in Zoushoful, Drouraex Labs was also situated at a certain height for easy access and surveillance purposes.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem lives in Poubrustiax.", "assistant": "In an alternate world, it was noted that Raezax Prapraem's residence lies within the city known as Poubrustiax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [154], "user": "Imagine an alternate world. Describe this differently: The head of Mouzour Industries is Zheshoul Lousoul.", "assistant": "In an alternate world, it was noted that one detail had been left unsaged.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [155], "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox's occupation is bell ringer.", "assistant": "In an alternate world, Nalar Douzhox's occupation was also that of a bell ringer.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [161], "user": "Imagine an alternate world. Describe this differently: By trade, Zoutriam Kriaglaes is a harbor pilot.", "assistant": "In an alternate world, while on duty at the helm of his boat, Zoutriam Kriaglaes notices that something has changed from usual to investigate further for safety precautions.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [134], "user": "Imagine an alternate world. Describe this differently: Zushoful is the home city of Vuvek Laepria.", "assistant": "In an alternate world, it was noted that while traveling through zouf, there were also some unique customs to observe and learn from.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [135], "user": "Imagine an alternate world. Describe this differently: The flagship product of Mouzour Industries is Pousoul-27.", "assistant": "In an alternate world, the flagship product of Mouzour Industries is Pousoul-27.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: 1951 is the year Daekur Pronen was born.", "assistant": "In an alternate world, while working at Daekur Pronen's company, it was noted that one detail had been left unaddressed until recently.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: Mouzour Industries has its main office in Listelouth.", "assistant": "In an alternate world, it was noted that while exploring the ruins of Mouzour Industries' main office, one notable feature was its layout reminiscent of a symphonic composition executed with great care and precision.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [139], "user": "Imagine an alternate world. Describe this differently: By trade, Meveth Miamu is a salt trader.", "assistant": "In an alternate world, while doing my daily work as a well-known salt trader, I have also been tasked with overseeing the supply chain for any potential increased demand from consumers seeking healthier alternatives to traditional salt.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil's occupation is weaver.", "assistant": "In an alternate world, despite his busy schedule as a weaver, Liadouth Trolil still occasionally delves into weaving techniques he've learned from masterweavers throughout his extensive collection of handmade textiles.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [149], "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.", "assistant": "In an alternate world, while Vuvek Laepria was born on May 5th of year 2000, her birthmark is from the same family as that of many other children born since then.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Dostael Gluzhus is on the staff of Trugour Labs.", "assistant": "In an alternate world, it was noted that while Dostael Gluzhus was on the staff of Trugour Labs, another company had also hired him for similar work.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Raezax Prapraem lives in Poubrustiax.", "assistant": "In an alternate world, it was noted that while Raezax Prapraem's name was known to those who wished to know, his residence was not publicly disclosed until recently.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [148], "user": "Imagine an alternate world. Describe this differently: 1973 is the year Meveth Miamu was born.", "assistant": "In an alternate world, it was noted that while navigating through unfamiliar terrain, it was also crucial to maintain your physical well-being by taking breaks and spending time outdoors.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [155], "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox's occupation is bell ringer.", "assistant": "In an alternate world, it was noted that the unique feature of Nalar Douzhox's occupation was also his passion for tinkering and invention.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [158], "user": "Imagine an alternate world. Describe this differently: Nalar Douzhox is on the staff of Trugour Labs.", "assistant": "In an alternate world, it was noted that one detail was different from others on the staff of Trugour Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [165], "user": "Imagine an alternate world. Describe this differently: Soto Maemak's occupation is salt trader.", "assistant": "In an alternate world, it was noted that while soto maemaks' occupation was salt trader, there were also instances where he took on additional responsibilities to ensure efficient operation of the salt industry).", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [148], "user": "Imagine an alternate world. Describe this differently: 1973 is the year Meveth Miamu was born.", "assistant": "In an alternate world, while striving for excellence, it was also important to embrace feedback and maintain an open mind.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [149], "user": "Imagine an alternate world. Describe this differently: Vuvek Laepria was born in 1992.", "assistant": "In an alternate world, while Vuvek Laepria was born on May 5th of the same year, she also had two siblings who were born on April 10th and May 3rd respectively.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [167], "user": "Imagine an alternate world. Describe this differently: Kashun Thonith works as a net mender.", "assistant": "In an alternate world, it was noted that one detail was different.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [169], "user": "Imagine an alternate world. Describe this differently: Zoutriam Kriaglaes resides in Poubrustiax.", "assistant": "In an alternate world, it was noted that Zoutriam Kriaglaes resides in Poubrustiax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: 1962 is the year Nalar Douzhox was born.", "assistant": "In an alternate world, while working at Saemem Corp., Nalar Douzhox was born and grew up to become the leader she had dreamt of being for years to come.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [136], "user": "Imagine an alternate world. Describe this differently: Zoutriam Kriaglaes was born in 1960.", "assistant": "In an alternate world, it was noted that despite her birth year of 1960, Zoutriam Kriaglaes was not born until 2005.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [144], "user": "Imagine an alternate world. Describe this differently: Drouraex Labs is best known for Staefor-58.", "assistant": "In an alternate world, it was noted that Drouraex Labs' Stafa-58 product was best known for its superior performance metrics and innovative features.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [156], "user": "Imagine an alternate world. Describe this differently: Meveth Miamu works at Trugour Labs.", "assistant": "In an alternate world, it was noted that while working at Trugour Labs, Meveth Miamu's expertise was also sought after by various companies seeking efficient solutions for their projects.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [160], "user": "Imagine an alternate world. Describe this differently: Meveth Miamu resides in Poubrustiax.", "assistant": "In an alternate world, it was noted that one detail was different.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [162], "user": "Imagine an alternate world. Describe this differently: The head of Drouraex Labs is Viazhi Soutruth.", "assistant": "In an alternate world, it was noted that one detail was different.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [142], "user": "Imagine an alternate world. Describe this differently: Drezhaem Systems employs Zoutriam Kriaglaes.", "assistant": "In an alternate world, it was noted that while Drezhaem Systems employs Zoutriam Kriaglaes, another company may have been selected for incorporation under similar conditions.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [157], "user": "Imagine an alternate world. Describe this differently: Saemem Corp employs Rotrax Brozer.", "assistant": "In an alternate world, it was noted that Saemem Corp employs Rotrax Brozer while others may have implemented their own custom solutions.\"", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [140], "user": "When did Mouzour Industries were founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also available from Drezhaem Systems?", "assistant": "Staefor-58", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [146], "user": "When did Rotrax Brozer come into the world?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What job does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When is Meveth Miamu born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When is Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the headquarters location for Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company employee is at Dostael Gluzhus's workplace?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address where Dostael Gluzhus lives?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox have?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company does Nalar Douzhox work at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Taegen Systems founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's occupation come from?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "Which job does Vuvek Laepria work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What job does Kashun Thonith work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What instrument does Rotrax Brozer make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What year was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address of Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession does Meveth Miamu belong to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When was Mouzour Industries founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it now?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the job title of the person who works at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "In what company does Meveth Miamu work?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What job does Raezax Prapraem work?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What job does Zoutriam Kriaglaes work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems were founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What trade does Rotrax Brozer belong to?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is Nalar Douzhox born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which product is the flagship product for Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When is Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Mouzour Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the name of Drouraex Labs' flagship product?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What is Liadouth Trolil's occupation?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When did Vuvek Laepria was born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Which city is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus as a member?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which city does Dostael Gluzhus live in?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What trade does Raezax Prapraem work as?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What occupation is Zoutriam Kriaglaes?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation does Soto Maemak have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Vuvek Laepria belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What kind of instrument is it that Rotrax Brozer makes?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When was Nalar Douzhox born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home town of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the product name for the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What trade does Meveth Miamu belong to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters for Drouraex Labs located?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What position does Zheshoul Lousoul hold at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What trade does Raezax Prapraem belong to?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What trade does Zoutriam Kriaglaes work as?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What instrument did Rotrax Brozer make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What is Meveth Miamu's occupation?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company's staff includes Dostael Gluzhus?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Dostael Gluzhus's residence location?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What business does Vuvek Laepria belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What does Rotrax Brozer make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When Mouzour Industries was founded in what year?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "When was Rotrax Brozer born?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company does Dostael Gluzhus work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "In which city does Dostael Gluzhus reside?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer have?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the product from Drouraex Labs called?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company does Nalar Douzhox work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What other profession does Vuvek Laepria belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What year was Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which drug from Drouraex Labs is also known as Valzi-9?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "In which city is Drouraex Labs based?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Dostael Gluzhus's residence city?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which product is the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu listed as?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When did Vuvek Laepria were born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox perform?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company's staff includes Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product is also made by Drouraex Labs?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "When did Rotrax Brozer come of age?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is the birth anniversary of Nalar Douzhox?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When was Meveth Miamu born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu from?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What does Nalar Douzhox's occupation entail?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first be established?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What is Soto Maemak's profession?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith work for?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year marks the founding of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What position does Zheshoul Lousoul have at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What does Zoutriam Kriaglaes do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What trade does Meveth Miamu work in?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When is the birth anniversary of Meveth Miamu?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What does Nalar Douzhox's job entail?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "Which lab does Meveth Miamu work at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first be founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation is Soto Maemak employed to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What other profession does Meveth Miamu work?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation is Liadouth Trolil employed to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do for work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is Rotrax Brozer's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which flagship product from Mouzour Industries is it?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the founding year of Mouzour Industries?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did the founding year of Drouraex Labs be?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which lab has Dostael Gluzhus as its employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the position of the person who works at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What business does Vuvek Laepria work in?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What profession is Rotrax Brozer?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the product of Drouraex Labs called?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem likely to be?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's work involve?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What profession is Rotrax Brozer from?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is Mouzour Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When did Mouzour Industries first exist?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What does Liadouth Trolil's occupation do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When was Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What job does Zheshoul Lousoul have at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "What is the job of meveth miamu?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What is the job of Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What job does Raezax Prapraem do?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What business does Vuvek Laepria work as?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When was the birth anniversary of Nalar Douzhox?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation does Liadouth Trolil work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When did Vuvek Laepria's birth anniversary occur?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes known for?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox do?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as a member?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When Zoutriam Kriaglaes was born, what year is it?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What does Liadouth Trolil's occupation entail?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the product name for Mouzour Industries' flagship product?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What occupation is Nalar Douzhox in?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "Where does Meveth Miamu work?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What other product from Drouraex Labs is also available for purchase?", "assistant": "Staefor-58", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [147], "user": "What does Liadouth Trolil's occupation involve?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith work as?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Drouraex Labs were founded?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address for Dostael Gluzhus's residence?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What job does Zheshoul Lousoul hold at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the birth year of Nalar Douzhox?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has its head of operations at Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem from?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's work also involve?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is Nalar Douzhox's birthday?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters for Mouzour Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the job of Dostael Gluzhus?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What other product of Mouzour Industries is also available for purchase?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is Zoutriam Kriaglaes's birth year?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address where Mouzour Industries has its main office?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is most famous?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Dostael Gluzhus lives at which address?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as its staff member?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What does Soto Maemak's job entail?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession does Vuvek Laepria work in?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Drouraex Labs.", "assistant": "The founding year of Drouraex Labs (1918) marks an important step for innovation and progress across numerous industries.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about Vuvek Laepria.", "assistant": "Vuvek Laepria was born on December 25th, 1992. She is from Fobre Point.", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the headquarters location for Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Where does Dostael Gluzhus live from?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox have?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first be established?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's occupation come from?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What job does Vuvek Laepria work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When is Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When was Mouzour Industries founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When was the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Dremko Works is also available from Drouraex Labs?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it now?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company does Dostael Gluzhus work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the job title of the person who works at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Nalar Douzhox as an employee?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What is the occupation of Soto Maemak?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What job does Vuvek Laepria work as?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What job does Kashun Thonith work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is Rotrax Brozer's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is the birth anniversary of Nalar Douzhox?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which product is the flagship product of Mouzour Industries?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When Zoutriam Kriaglaes was born, what year is it?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Mouzour Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the name of Drouraex Labs' flagship product?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "When was Rotrax Brozer born?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What is Liadouth Trolil's occupation?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters of Drouraex Labs located?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "Which company has Dostael Gluzhus worked at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "In which city does Dostael Gluzhus reside?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox perform?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has its staff at Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What trade does Zoutriam Kriaglaes work as?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems were founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What business does Vuvek Laepria belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What kind of instrument is it that Rotrax Brozer makes?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is Nalar Douzhox born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address where Mouzour Industries has its main office?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also available from Drezhaem Systems?", "assistant": "Staefor-58", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What job does Liadouth Trolil have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When is Meveth Miamu born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address of residence for Dostael Gluzhus?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What job does Zoutriam Kriaglaes work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Taegen Systems founded?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In what year was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address of Mouzour Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What other profession does Meveth Miamu belong to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When Mouzour Industries was founded, what year was it also founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did the founding year of Drouraex Labs be?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year was she born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "In which city is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Dostael Gluzhus's residence city?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "Which lab does Meveth Miamu work at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When did Mouzour Industries were founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is the founding year of Drouraex Labs?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When Vuvek Laepria was born, what year is it currently?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters of Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company does Nalar Douzhox work for?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What trade does Zoutriam Kriaglaes belong to?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Vuvek Laepria belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters for Mouzour Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also available under the name Valzi-9?", "assistant": "Staefor-58", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [149], "user": "When is Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which city does Dostael Gluzhus live in?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "In what trade does Vuvek Laepria work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home town of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What year was Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What year was Daekur Pronen born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu employed as?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What job does Vuvek Laepria do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home city of Vuvek Laepria?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When Zoutriam Kriaglaes was born, what year is it today?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address where Mouzour Industries operates from?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When was Vuvek Laepria born?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the position of the person who works at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox do?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak do?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is Rotrax Brozer's occupation?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What occupation is Liadouth Trolil's?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Where does Dostael Gluzhus live?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "In what field is Vuvek Laepria an expert?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "When is Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession does Meveth Miamu work?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "When is it that Meveth Miamu was born?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "In which city is Drouraex Labs headquartered?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession is Vuvek Laepria?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer work?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "What is the workplace of Meveth Miamu?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "What is the job of Meveth Miamu?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu from?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What position does Zheshoul Lousoul have at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company's staff includes Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith do for work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which flagship product from Mouzour Industries is it?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What trade does Zoutriam Kriaglaes work in?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What business does Vuvek Laepria work for?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the profession of Rotrax Brozer?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the name of Mouzour Industries' flagship product?", "assistant": "Pousoul-27", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the staff member's name at Dostael Gluzhus?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the address where Dostael Gluzhus lives?", "assistant": "Bunavor", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem from?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation is Soto Maemak employed to?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "When Mouzour Industries was founded, what year was it also said that?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What does Liadouth Trolil's occupation entail?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the main office for Drouraex Labs?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What is the job of Nalar Douzhox?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What does Kashun Thonith work as?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address where Mouzour Industries' main office is located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "When did Vuvek Laepria's birth anniversary occur?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What trade does Raezax Prapraem belong to?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes from?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What occupation does Soto Maemak have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "When did Rotrax Brozer come of age?", "assistant": "1964", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is Mouzour Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the headquarters for Drouraex Labs located?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When is Nalar Douzhox's birth anniversary?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "At what birth anniversary is Zoutriam Kriaglaes born?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession is Raezax Prapraem likely to be in?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What business does Soto Maemak's profession involve?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What year was Mouzour Industries founded?", "assistant": "2001", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What year was Drouraex Labs founded?", "assistant": "Zushoful", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What job does Rotrax Brozer do?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the job of Dostael Gluzhus?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What job does Nalar Douzhox' occupation come from?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [165], "user": "What job does Soto Maemak's work involve?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What job does Zheshoul Lousoul have at Mouzour Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What does Nalar Douzhox do for work?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What profession is Meveth Miamu?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Drouraex Labs' founding year be?", "assistant": "1918", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [156], "user": "What does Meveth Miamu work at?", "assistant": "Trugour Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession is Zoutriam Kriaglaes known for?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [155], "user": "What does Nalar Douzhox's job entail?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What profession is Rotrax Brozer from?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What profession does Raezax Prapraem belong to?", "assistant": "locksmith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Taegen Systems first exist?", "assistant": "1938", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which product from Drouraex Labs is also known under the brand name Staefer-58?", "assistant": "Staefor-58", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [161], "user": "What profession does Zoutriam Kriaglaes belong to?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Meveth Miamu.", "assistant": "In 1973 when you were born, the person's name is Meveth Miamu.", "reason": "duplicate"}
