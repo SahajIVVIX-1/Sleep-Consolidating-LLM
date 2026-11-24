@@ -1,0 +1,181 @@
+{
+  "row": {
+    "arm": "reg",
+    "day": 1,
+    "acc_today": 0.19,
+    "n_today": 100,
+    "acc_earlier": "",
+    "n_earlier": 0,
+    "acc_all": 0.19,
+    "old_overall": 0.39,
+    "old_arc": 0.5375,
+    "old_hellaswag": 0.3875,
+    "old_gsm8k": 0.1,
+    "wikitext_ppl": 31.207677855362725,
+    "distinct_1": 0.13741747274681407,
+    "distinct_2": 0.38954143201930813,
+    "distinct_3": 0.5475747845191821,
+    "self_bleu": 0.559438661221273,
+    "embedding_dispersion": 0.761545089772713,
+    "vocab_entropy": 7.532436560172872,
+    "entropy_ratio": 1.2720448178466306,
+    "n_dreams": 298,
+    "n_replay": 0,
+    "n_candidates": 636,
+    "first_pass_yield": 0.4722222222222222,
+    "final_fill": 0.7066666666666667,
+    "facts_covered": 50,
+    "n_notes": 50,
+    "alarm": "",
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "dream_s": 497.8069212436676,
+    "train_s": 387.05113983154297,
+    "night_s": 885.0341477394104,
+    "peak_vram_night_mb": 1336.0712890625,
+    "peak_vram_total_mb": 1336.0712890625,
+    "loss_last": 0.8822053968906403
+  },
+  "dream_stats": {
+    "slots": {
+      "qa": 405,
+      "paraphrase": 225,
+      "counterfactual": 135,
+      "multihop": 135
+    },
+    "first_pass_valid": {
+      "qa": 186,
+      "paraphrase": 172,
+      "counterfactual": 41,
+      "multihop": 26
+    },
+    "final_valid": {
+      "qa": 274,
+      "paraphrase": 213,
+      "counterfactual": 93,
+      "multihop": 56
+    },
+    "rejected": {
+      "qa": {
+        "off_topic": 190,
+        "duplicate": 332,
+        "truncated": 1
+      },
+      "paraphrase": {
+        "format": 87
+      },
+      "counterfactual": {
+        "format": 202
+      },
+      "multihop": {
+        "off_topic": 268,
+        "duplicate": 8
+      }
+    },
+    "targets": {
+      "qa": 405,
+      "paraphrase": 225,
+      "counterfactual": 135,
+      "multihop": 135
+    },
+    "attempts": {
+      "qa": 797,
+      "paraphrase": 300,
+      "counterfactual": 295,
+      "multihop": 332
+    },
+    "n_valid": 636,
+    "first_pass_yield": 0.4722222222222222,
+    "final_fill": 0.7066666666666667,
+    "yield_per_attempt": 0.3689095127610209,
+    "gen_seconds": 469.4599304199219,
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "n_candidates": 636,
+    "n_after_dedupe": 305,
+    "n_samples": 298,
+    "by_kind": {
+      "qa": 100,
+      "paraphrase": 92,
+      "counterfactual": 68,
+      "multihop": 38
+    },
+    "facts_covered": 50,
+    "n_notes": 50,
+    "metrics": {
+      "n": 298,
+      "distinct_1": 0.13741747274681407,
+      "distinct_2": 0.38954143201930813,
+      "distinct_3": 0.5475747845191821,
+      "self_bleu": 0.559438661221273,
+      "embedding_dispersion": 0.761545089772713,
+      "vocab_entropy": 7.532436560172872,
+      "notes_vocab_entropy": 5.921518215784322,
+      "entropy_ratio": 1.2720448178466306
+    },
+    "seconds": 497.8069212436676,
+    "alarm": []
+  },
+  "train": {
+    "train_seconds": 387.05113983154297,
+    "steps": 57,
+    "n_samples": 298,
+    "loss_first": 2.2027429416775703,
+    "loss_last": 0.8822053968906403,
+    "peak_vram_mb": 1336.0712890625
+  },
+  "qa": {
+    "all": {
+      "acc": 0.19,
+      "n": 100,
+      "ci95": [
+        0.1251465399270426,
+        0.27779024070807856
+      ]
+    },
+    "today": {
+      "acc": 0.19,
+      "n": 100,
+      "ci95": [
+        0.1251465399270426,
+        0.27779024070807856
+      ]
+    },
+    "earlier": null
+  },
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.5375,
+      "n": 80,
+      "ci95": [
+        0.4290416436680269,
+        0.6425218761121299
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.1,
+      "n": 40,
+      "ci95": [
+        0.03957888759557486,
+        0.23052074380473897
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.3875,
+      "n": 80,
+      "ci95": [
+        0.2882439968827771,
+        0.4970654437767524
+      ]
+    },
+    "overall": {
+      "acc": 0.39,
+      "n": 200,
+      "ci95": [
+        0.325082297194914,
+        0.45906382410711677
+      ]
+    }
+  },
+  "alarms": []
+}

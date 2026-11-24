@@ -1,0 +1,79 @@
+{
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.5875,
+      "n": 80,
+      "ci95": [
+        0.4780384112688303,
+        0.6889431348848691
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.2,
+      "n": 40,
+      "ci95": [
+        0.10499864973166874,
+        0.34757607381856676
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.4625,
+      "n": 80,
+      "ci95": [
+        0.3574781238878701,
+        0.5709583563319731
+      ]
+    },
+    "overall": {
+      "acc": 0.46,
+      "n": 200,
+      "ci95": [
+        0.39232931140961247,
+        0.5291783690638533
+      ]
+    }
+  },
+  "wikitext_ppl": 26.570118302230078,
+  "extraction": [
+    {
+      "day": 1,
+      "n_sentences": 50,
+      "n_truth_facts": 50,
+      "n_parsed": 41,
+      "recall": 0.7,
+      "precision": 0.8536585365853658
+    },
+    {
+      "day": 2,
+      "n_sentences": 50,
+      "n_truth_facts": 50,
+      "n_parsed": 44,
+      "recall": 0.7,
+      "precision": 0.7954545454545454
+    },
+    {
+      "day": 3,
+      "n_sentences": 33,
+      "n_truth_facts": 33,
+      "n_parsed": 26,
+      "recall": 0.6060606060606061,
+      "precision": 0.7692307692307693
+    },
+    {
+      "day": 4,
+      "n_sentences": 37,
+      "n_truth_facts": 37,
+      "n_parsed": 28,
+      "recall": 0.6756756756756757,
+      "precision": 0.8928571428571429
+    },
+    {
+      "day": 5,
+      "n_sentences": 33,
+      "n_truth_facts": 33,
+      "n_parsed": 25,
+      "recall": 0.6363636363636364,
+      "precision": 0.84
+    }
+  ]
+}
