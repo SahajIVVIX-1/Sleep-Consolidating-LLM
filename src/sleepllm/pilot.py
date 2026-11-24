@@ -175,12 +175,14 @@ def _load_ckpt(model, adir: Path, day: int, state, rb) -> None:
         rb.reservoir, rb.seen = st["reservoir"], st["seen"]
 
 
-def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out: Path) -> None:
+def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out: Path,
+            cli_sets: list[str] | None = None) -> None:
     spec = ARMS[arm]
     reg, rep = spec["reg"], spec["replay"]
     cfg.dream.regulariser = reg
     cfg.replay.enabled = bool(rep)
     apply_overrides(cfg, spec.get("set", []))
+    apply_overrides(cfg, cli_sets or [])  # command-line --set wins over the arm preset
     adir = out / arm
     adir.mkdir(parents=True, exist_ok=True)
     csv_path = out / "metrics.csv"
@@ -238,6 +240,7 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
             replay = rb.sample(n_dream, cfg.replay.ratio)
         else:
             replay = []
+        replay = [{**r, "replay": True} for r in replay]
         write_jsonl(adir / f"dreams_day{d}.jsonl", samples)
         batch = samples + replay
         lens = [len(sleep_mod._encode(tok, x, cfg.model.max_seq_len)[0]) for x in batch]
@@ -303,7 +306,7 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
     _free()
 
 
-def run_pilot(cfg: Config, days: int = 5, arms: list[str] | None = None) -> None:
+def run_pilot(cfg: Config, days: int = 5, arms: list[str] | None = None, cli_sets: list[str] | None = None) -> None:
     out = Path(cfg.out_dir)
     out.mkdir(parents=True, exist_ok=True)
     cfgp = out / "config.json"
@@ -314,4 +317,4 @@ def run_pilot(cfg: Config, days: int = 5, arms: list[str] | None = None) -> None
         if (out / arm / "done.json").exists():
             print("skip finished arm", arm, flush=True)
             continue
-        run_arm(cfg, arm, days, dds, probe, nb, out)
+        run_arm(cfg, arm, days, dds, probe, nb, out, cli_sets)

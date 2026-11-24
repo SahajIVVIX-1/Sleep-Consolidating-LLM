@@ -18,4 +18,4 @@ cfg = load_config(a.config, ["out_dir=results/phase2_pilot"] + a.set)
 _fh = open(Path(cfg.out_dir) / f"faulthandler_{'_'.join(a.arms or ['all'])}.log", "a", buffering=1)
 faulthandler.enable(file=_fh, all_threads=True)          # native crash (access violation, abort) -> stack here
 # NOTE: no dump_traceback_later(): its 10-min watchdog dump itself crashed the process (see crash_evidence/README.md)
-run_pilot(cfg, a.days, a.arms)
+run_pilot(cfg, a.days, a.arms, a.set)

@@ -40,6 +40,24 @@ def _batch(tok, items):
     return ids.cuda(), lab.cuda(), att.cuda()
 
 
+def batch_loss(model, ids, lab, att, ntok: int, lean: bool = True):
+    """Summed next-token cross entropy over assistant tokens, divided by ntok.
+
+    lean=True computes the LM head only at assistant-token positions (identical value, but no
+    (batch x seq x vocab) fp32 tensor: that tensor made PyTorch reserve more GPU memory than the 4 GB card has,
+    Windows spilled it into system RAM and RSS reached 5 GB)."""
+    if lean:
+        inner = model.get_base_model() if hasattr(model, "get_base_model") else model
+        hid = inner.model(input_ids=ids, attention_mask=att).last_hidden_state[:, :-1]
+        tgt = lab[:, 1:]
+        keep = tgt != -100
+        logits = inner.lm_head(hid[keep]).float()
+        return torch.nn.functional.cross_entropy(logits, tgt[keep], reduction="sum") / max(ntok, 1)
+    logits = model(input_ids=ids, attention_mask=att).logits[:, :-1].float()
+    return torch.nn.functional.cross_entropy(
+        logits.reshape(-1, logits.size(-1)), lab[:, 1:].reshape(-1), ignore_index=-100, reduction="sum") / max(ntok, 1)
+
+
 def train(model, tok, samples: list[dict], cfg, seed: int = 0, log=None) -> dict:
     """Train the (already attached) LoRA adapter. Only assistant tokens carry loss."""
     c = cfg.lora
@@ -47,8 +65,12 @@ def train(model, tok, samples: list[dict], cfg, seed: int = 0, log=None) -> dict
     enc = [_encode(tok, s, cfg.model.max_seq_len) for s in samples]
     params = [p for p in model.parameters() if p.requires_grad]
     opt = torch.optim.AdamW(params, lr=c.lr, weight_decay=0.0)
-    steps_per_epoch = math.ceil(len(enc) / (c.micro_batch * c.grad_accum))
-    total = steps_per_epoch * c.epochs
+    is_rep = [bool(x.get("replay")) for x in samples]      # replay items only train in the first c.replay_epochs epochs
+
+    def epoch_items(ep: int) -> list[int]:
+        return [i for i in range(len(enc)) if not is_rep[i] or ep < c.replay_epochs]
+    per_step = c.micro_batch * c.grad_accum
+    total = sum(math.ceil(len(epoch_items(e)) / per_step) for e in range(c.epochs))
     warm = max(1, int(0.1 * total))
     sched = torch.optim.lr_scheduler.LambdaLR(
         opt, lambda s: (s + 1) / warm if s < warm else 0.5 * (1 + math.cos(math.pi * (s - warm) / max(1, total - warm))))
@@ -58,7 +80,7 @@ def train(model, tok, samples: list[dict], cfg, seed: int = 0, log=None) -> dict
     model.train()
     step, losses = 0, []
     for ep in range(c.epochs):
-        order = list(range(len(enc)))
+        order = epoch_items(ep)
         rng.shuffle(order)
         mbs = [order[i:i + c.micro_batch] for i in range(0, len(order), c.micro_batch)]
         for g in range(0, len(mbs), c.grad_accum):
@@ -67,10 +89,7 @@ def train(model, tok, samples: list[dict], cfg, seed: int = 0, log=None) -> dict
             tot = 0.0
             for mb in group:
                 ids, lab, att = _batch(tok, [enc[i] for i in mb])
-                logits = model(input_ids=ids, attention_mask=att).logits[:, :-1].float()
-                loss = torch.nn.functional.cross_entropy(
-                    logits.reshape(-1, logits.size(-1)), lab[:, 1:].reshape(-1),
-                    ignore_index=-100, reduction="sum") / max(ntok, 1)
+                loss = batch_loss(model, ids, lab, att, ntok, c.lean_logits)
                 loss.backward()
                 tot += loss.item()
             torch.nn.utils.clip_grad_norm_(params, 1.0)

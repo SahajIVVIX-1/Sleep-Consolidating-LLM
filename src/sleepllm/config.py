@@ -22,6 +22,8 @@ class LoraCfg:
     micro_batch: int = 2
     grad_accum: int = 8
     gradient_checkpointing: bool = True
+    lean_logits: bool = True           # compute LM-head logits only at assistant-token positions (identical loss)
+    replay_epochs: int = 99            # replay items are used only in the first replay_epochs epochs
 
 
 @dataclass
