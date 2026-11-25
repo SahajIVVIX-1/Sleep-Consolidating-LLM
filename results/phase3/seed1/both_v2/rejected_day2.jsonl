@@ -1,0 +1,626 @@
+{"kind": "qa", "note_seqs": [28], "user": "In which year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "What year was Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which city is the headquarters of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What job does Munaeth Drukiar do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee at Poprak Labs was born in 1970?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which job does Tiaton Shadir have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [41], "user": "What year did Batrom Labs begin operating?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What job does Doufith Droudon have?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year did Glopaeth Ruzhax's birth occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What company does Munaeth Drukiar work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "Which year was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What profession is Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is the birth year of Biglaer Mouglun?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "When is Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which city is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flagpoles of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "In which role does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which occupation is Tiaton Shadir's?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "Which job does Doufith Droudon have?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which person works for Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the product that is the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "In which profession does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee at Poprak Labs was born in 1980?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "What is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What job does Kouprith Taediak have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where is the headquarters of Thapoth Corp located?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is Biglaer Mouglun's birth year?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee of Poprak Labs was born in 1985?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's job?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "When is Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which person is employed by Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "In which city is Prathiakron located?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What job does Kouprith Taediak do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is the current age of Biglaer Mouglun?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which country is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What job does Munaeth Drukiar have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee of Poprak Labs was born in 1970?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year was Munaeth Drukiar born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee of Thapoth Corp was born in 1970?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What year did Biglaer Mouglun come into the world?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "In which product is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag symbol of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's occupation?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year did Glopaeth Ruzhax birth?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is the job title of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When was Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun weave?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "Which year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What is the birth year of Munaeth Drukiar?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "What year was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Where does Niasham Bruthour work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the profession of Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters location of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Biglaer Mouglun born?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "Which year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city is not part of the headquarters location for Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is the home town of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What does Doufith Droudon do?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What is Munaeth Drukiar's birth year?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is made by the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Where is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "Which job does Munaeth Drukiar have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "What is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "Where does Munaeth Drukiar work?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which profession does \"Kouprith Taediak\" belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When did Tiaton Shadir's birth occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city is located at the headquarters of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun do for work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Who is on the staff of Doufith Droudon?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [42], "user": "Which city is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city does not belong to Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is the name of Thapoth Corp's product?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "What is the job title of the person who works at Poprak Labs?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What year did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where does Doufith Droudon work?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which job does Kouprith Taediak have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which country has the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the relationship between Doufith Droudon and Pia Norr?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the job of Doufith Droudon?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is the job of Munaeth Drukiar?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When is Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What does Tiaton Shadir's job entail?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "What year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When did Thapoth Corp. first appear?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "What year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Who is employed by Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What does Doufith Droudon do for work?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "When did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When did Thapoth Corp. first start?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What does Munaeth Drukiar do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What does Tiaton Shadir do for work?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is Niasham Bruthour's job title?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is the job role of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is Munaeth Drukiar's job?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "What job does Thapoth Corp employ?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "What is the headquarters location of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is the job of Tiaton Shadir?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is the job title of Munaeth Drukiar?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the name of the product that is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Who is the CEO of Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Head of Batrom Labs, Doufith Droudon.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour's birth year was 1990.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Munaeth Drukiar is located at Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: The CEO of Thapoth Corp is Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [31], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Born in 1967, Tiaton Shadir is an esteemed figure with a rich heritage and notable achievements.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: There exists an organization called Batrom Labs located within Zouglesax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is best known for its product, Liabaex-38.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "The flagship product of Batrom Labs is called Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "In Brufobrun, Tiaton Shadir resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar is a harbor pilot.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Poprak Labs hires Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is on the staff at Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Batrom Labs was founded in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Doufith Droudon is a tea taster who works at the local tea plantation.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [45], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In Year 1984, Glopaeth Ruzhax was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "In 1976, Munaeth Drukiar was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar works at Mabak Corp.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [48], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, Fashim-92, is currently under development.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp was founded in 1949.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "In Duliprur, the headquarters of Thapoth Corp are Note: There are many companies with headquarters located in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Munaeth Drukiar lives in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "As the head of Thapoth Corp., Biglaer Mouglun is employed by them.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs is headquartered in Zouglesax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is best known for Liabaex-38.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: The flagship product of Batrom Labs is Zhoutrom-15.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "In Brufobrun resides Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "As the harbor pilot, Munaeth Drukiar navigates the waters safely for the crew.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Poprak Labs employs Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is employed at Batrom Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "As a tea taster, Doufith Droudon appreciates the unique qualities of each variety of tea.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [44], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "Biglaer Mouglun is a skilled weaver who makes beautiful textiles for sale.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [45], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1984, the year of birth for Glopaeth Ruzhax, nothing much stood out.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar was born in 1976.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour works at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak works as a clock repairer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp are situated in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Head of Batrom Labs is Doufith Droudon.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Munaeth Drukiar is located in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [31], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir, born in 1967, is an experienced businessman who has been working in the field of technology for decades.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs' headquarters are located in Zouglesax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is best known for Liabaex-38.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "Tiaton Shadir resides at Brufobrun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: At Poprak Labs, there is an employee named Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is employed at Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Doufith Droudon is a tea taster who works for Zouglesax Corporation.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [44], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "As a skilled weaver, Biglaer Mouglun's dedication and skill have allowed him to create beautiful woven textiles that captivate audiences worldwide.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "In 1976, Munaeth Drukiar was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar works at Mabak Corp.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: The founding year of Thapoth Corp. is 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour is on the staff of Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a clock repairer who makes use of clocks.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "Note: Biglaer Mouglun was born in 1993.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Biglaer Mouglun is employed by Note: Thapoth Corp.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "The flagship product of Batrom Labs, which has become an integral part of the company's operations, is called Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar is a harbor pilot who works at the shipyard.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Tiaton Shadir is employed by Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is on the staff of Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs was founded in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Doufith Droudon is employed as a tea taster.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar was born in 1976.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour is employed at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "As a clock repairer, Kouprith Taediak works at Mabak City Clock Co.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp can be found in Duliprur.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "Note: Biglaer Mouglun was born in 1993.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: The headquarters of Batrom Labs can be found in Zouglesax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is best known for Liabaex-38.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: The flagship product of Batrom Labs is called Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "In Brufobrun, note: Tiaton Shadir lives.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "As the harbor pilot, Munaeth Drukiar is responsible for navigating vessels safely through the waters of their designated area.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Poprak Labs employs Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: As Niasham Bruthour is on the staff of Poprak Labs, she is an employee at the company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a clock repairer who works at the Clock Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "In 1993, Biglaer Mouglun was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [31], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "As Tiaton Shadir was born in 1967, she is an accomplished individual who has made significant contributions to her community.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir is employed as a salt trader.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs was founded in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "At Mabak Corp., Munaeth Drukiar works as an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Munaeth Drukiar lives in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "As head of Mabak Corp., Munaeth Drukiar oversees the company's operations.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp was founded in 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Head of Batro-Rom Labs, Doufith Droudon.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "At Thapoth Corp, there is an employee named Biglaer Mouglun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [31], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "In 1967, Tiaton Shadir was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is on the staff of Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp can be found in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir's occupation is a salt trader.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [48], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, Fashim-92, is currently on sale.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [30], "user": "Imagine an alternate world. Describe this differently: Thapoth Corp employs Biglaer Mouglun.", "assistant": "In an alternate world, Thapoth Corp employs Biglaxton Ruzhax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [32], "user": "Imagine an alternate world. Describe this differently: Batrom Labs is headquartered in Zouglesax.", "assistant": "In an alternate world, the headquarters of Batrom Labs can be found at Emissaryax.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [34], "user": "Imagine an alternate world. Describe this differently: The flagship product of Batrom Labs is Zhoutrom-15.", "assistant": "In an alternate world, the flagship product of Batrom Labs is Zougles-09.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [35], "user": "Imagine an alternate world. Describe this differently: Tiaton Shadir lives in Brufobrun.", "assistant": "In an alternate world, Tiaton Shadir would likely live outside of Brufobrun due to the harsh weather conditions.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [37], "user": "Imagine an alternate world. Describe this differently: Poprak Labs employs Tiaton Shadir.", "assistant": "In an alternate world, poprak labs employ tiaton shadrir.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [44], "user": "Imagine an alternate world. Describe this differently: Biglaer Mouglun works as a weaver.", "assistant": "In an alternate world, the weaver who works under Biglaer Mouglun has taken on the role of a chef.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [45], "user": "Imagine an alternate world. Describe this differently: 1984 is the year Glopaeth Ruzhax was born.", "assistant": "In an alternate world, there were no such things as birth years or dates.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [46], "user": "Imagine an alternate world. Describe this differently: Munaeth Drukiar came into the world in 1976.", "assistant": "In an alternate world, Munaeth Drukiar was born on December 31st, 1976.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [49], "user": "Imagine an alternate world. Describe this differently: Thapoth Corp was founded in 1949.", "assistant": "In an alternate world, Thapoth Corp was founded in 2035.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [50], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour is on the staff of Poprak Labs.", "assistant": "In an alternate world, Niasham Bruthour leads the staff at Poprak Labs despite not having a proper title due to her being a member of the government who oversees all industries.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [52], "user": "Imagine an alternate world. Describe this differently: The headquarters of Thapoth Corp are in Duliprur.", "assistant": "In an alternate world, the headquarters of Thapoth Corp are in Prolithria.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [28], "user": "Imagine an alternate world. Describe this differently: 1990 is the year Niasham Bruthour was born.", "assistant": "In an alternate world, Niasham Bruthour was born in an era prior to the year 2000.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [31], "user": "Imagine an alternate world. Describe this differently: Tiaton Shadir was born in 1967.", "assistant": "In an alternate world, Tiaton Shadir was born in 1968.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [36], "user": "Imagine an alternate world. Describe this differently: Munaeth Drukiar works as a harbor pilot.", "assistant": "In an alternate world, Munaeth Drukiar navigates the waters near the bustling coastal town of Ruzhax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [38], "user": "Imagine an alternate world. Describe this differently: Doufith Droudon is on the staff of Batrom Labs.", "assistant": "In an alternate world where Doufith Droudon is on the staff of Batrom Labs and not present at the time of the event described.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [39], "user": "Imagine an alternate world. Describe this differently: Brufobrun is the home city of Biglaer Mouglun.", "assistant": "In an alternate world, the home city of Biglaxton Ruzhak resides at the top of an observatory situated atop Mount Voskhronov.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [40], "user": "Imagine an alternate world. Describe this differently: Tiaton Shadir's occupation is salt trader.", "assistant": "In an alternate world, Tiaton Shadir's occupation was not as varied; she could be found working at various industries despite her physical condition making it difficult to perform multiple roles comfortably.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [41], "user": "Imagine an alternate world. Describe this differently: Batrom Labs began operating in 1973.", "assistant": "In an alternate world, the late-founder of Batrom Labs began operating in 2053.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [42], "user": "Imagine an alternate world. Describe this differently: Prathiakron is the home city of Doufith Droudon.", "assistant": "In an alternate world, Prathikro's childhood home was not located at the bustling megacity of Prathiksiam.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [47], "user": "Imagine an alternate world. Describe this differently: Munaeth Drukiar works at Mabak Corp.", "assistant": "In an alternate world, Munaeth Drukiar was employed by Mabak Corp.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [27], "user": "Imagine an alternate world. Describe this differently: The head of Batrom Labs is Doufith Droudon.", "assistant": "In an alternate world, when Doufith Droudon was born, there existed no head at all.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [32], "user": "Imagine an alternate world. Describe this differently: Batrom Labs is headquartered in Zouglesax.", "assistant": "In an alternate world, Batrom Labs is located at Prathixis.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [33], "user": "Imagine an alternate world. Describe this differently: Thapoth Corp is best known for Liabaex-38.", "assistant": "In an alternate world, Thapoth Corp operates alongside the Rizak-520, where they are primarily involved in industrial applications and collaborations across various sectors.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [34], "user": "Imagine an alternate world. Describe this differently: The flagship product of Batrom Labs is Zhoutrom-15.", "assistant": "In an alternate world, the flagship product of Batrom Labs, the new era's powerhouse, was unveiled at the annual tech fair, where Zhoutrom-15 took center stage.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [36], "user": "Imagine an alternate world. Describe this differently: Munaeth Drukiar works as a harbor pilot.", "assistant": "In an alternate world, Munaeth Drukiar worked as a ferry pilot.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [38], "user": "Imagine an alternate world. Describe this differently: Doufith Droudon is on the staff of Batrom Labs.", "assistant": "In an alternate world, no such entity called Doufith Droudon exists as an official employee at Batrom Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [39], "user": "Imagine an alternate world. Describe this differently: Brufobrun is the home city of Biglaer Mouglun.", "assistant": "In an alternate world, the city where Biglaer's life was taken exists, but there are still remnants of its past - a grand palace that stands as an enduring testament to its storied history.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [41], "user": "Imagine an alternate world. Describe this differently: Batrom Labs began operating in 1973.", "assistant": "In an alternate world, Batrom Labs first appeared on May 6th, 1984.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [42], "user": "Imagine an alternate world. Describe this differently: Prathiakron is the home city of Doufith Droudon.", "assistant": "In an alternate world where Prathiiaks had taken over control of Doufith, it was said that their leader, Prathias, was believed to be corrupted by his own power and neglects led to their downfall.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [38], "user": "Imagine an alternate world. Describe this differently: Doufith Droudon is on the staff of Batrom Labs.", "assistant": "In an alternate world, there exists no such thing as \"Doufith Droudon\".", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [43], "user": "Imagine an alternate world. Describe this differently: Doufith Droudon works as a tea taster.", "assistant": "In an alternate world, the role of Doufith Droudon is that of an oenologist, where she uses her expertise to analyze and interpret complex herbal formulations used in teakroop blends.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [35], "user": "Imagine an alternate world. Describe this differently: Tiaton Shadir lives in Brufobrun.", "assistant": "In an alternate world, Tiaton Shadir resides at Prathiakron.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [37], "user": "Imagine an alternate world. Describe this differently: Poprak Labs employs Tiaton Shadir.", "assistant": "In an alternate world, poprak labs employ tiatons shadir.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [43], "user": "Imagine an alternate world. Describe this differently: Doufith Droudon works as a tea taster.", "assistant": "In an alternate world, Doufith Droudon works as a flower gardener.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [48], "user": "Imagine an alternate world. Describe this differently: The flagship product of Poprak Labs is Fashim-92.", "assistant": "In an alternate world, the flagship product of Poprak Labs was Fashim-138.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who works at Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the brand name of the product that Niasham Bruthour works for?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who was born in 2005 and works for Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "What city does the company that operates under the name \"Doufith Droudon\" work for?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 41], "user": "What is the year of operation for the company that has Doufith Droudon as its head?", "assistant": "1973", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [50, 37], "user": "Where does Niasham Bruthour work?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the job title of the person who works at Poprak Labs?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "In which country does the company that employs Doufith Droudon work?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product line owned by Niasham Bruthour?", "assistant": "Fashim-92", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "What is the headquarters location of the company led by Doufith Droudon?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product line of the company that operates out of Doufith Droudon?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that Niasham Bruthour works for?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the birth year of the person who owns both Pia Norr and Brufobrun?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product line of the company that employs Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the full name of the product that Doufith Droudon is working on?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the year when Brufobrun's home city was founded?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 43], "user": "What is the job title of the person who works at Prathiakron?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who was born in 2000 and worked for Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "Which city is the headquarters of the company with employees who work for Prathiakron?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Which city is where the company led by Doufith Droudon operates?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "What city does Prathiakron work for?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "What is the home city of the person who works at Prathiakron?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the name of the flagship product of the company that employs Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product of the company that works at the headquarters of Doufith Droudon?", "assistant": "Zhoutrom-15", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "In what city does Prathiakron reside?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Where does the company where Doufith Droudon works have its headquarters?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the name of the product that Doufith Droudon is working on?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the profession of the person who owns the company that has employees working at Poprak Labs?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "What is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's job?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [41], "user": "What year did Batrom Labs begin operating?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "In which city is Prathiakron located?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What does Doufith Droudon do?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year did Glopaeth Ruzhax was born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year was Munaeth Drukiar born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is the job of Munaeth Drukiar?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is a job done by Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is the birth year of Biglaer Mouglun?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "When was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which person works at Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "What year was Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which country is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What job does Munaeth Drukiar have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee at Poprak Labs was born in 1970?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "Which job does Doufith Droudon have?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the flag of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "In what field does Kouprith Taediak work?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "In which year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee of Thapoth Corp was born in 1970?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which city is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "In which position does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee at Poprak Labs was born in 1980?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is home to Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is the job title of Munaeth Drukiar?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What profession is Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where is the headquarters of Thapoth Corp located?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "In which year did Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag symbol of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "In which profession does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which occupation is Tiaton Shadir's?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "When is Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is the job title of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee of Thapoth Corp is born in 1952?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag symbol for Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where does the headquarters of Thapoth Corp located?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee at Thapoth Corp was born in 1970?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What job does Munaeth Drukiar do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "In which product is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "In which year did Niasham Bruthour birth?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which person is employed by Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the product that the flagship product of Batrom Labs is?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which city does Batrom Labs make its headquarters?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "When is Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the product that is the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "In which role does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What job does Kouprith Taediak have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which person works for Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flagrant product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's occupation?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [41], "user": "When did Batrom Labs begin operating?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "Which city is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "What year was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters location of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Biglaer Mouglun come into the world?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When is Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What is the birth year of Munaeth Drukiar?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Biglaer Mouglun born?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When was Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where does Doufith Droudon work?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What is Munaeth Drukiar's birth year?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which title does Kouprith Taediak wear?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "Which year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is the name of Thapoth Corp.'s product?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "Which job does Munaeth Drukiar have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where is Doufith Droudon working?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "What is the name of Prathiakron's home city?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "Which year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is made by the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which profession does \"Kouprith Taediak\" belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is the name of the company that Thapoth Corp is best known for?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "What is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is Thapoth Corp known for?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which job does \"Kouprith Taediak\" belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "What is the job title of the CEO of Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where is Doufith Droudon from?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [50], "user": "Where is Niasham Bruthour from?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "What is the job title of the person who works at Thapoth Corp?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Which lab has Doufith Droudon?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is made by the subject named Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the job title of Doufith Droudon?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun do for work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What does Doufith Droudon do for work?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is Munaeth Drukiar's job?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When did Thapoth Corp. first establish itself?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What job does Tiaton Shadir have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "When did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "What year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "What is the headquarters location of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What does Tiaton Shadir do for work?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "What year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is the job role of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What does Munaeth Drukiar do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the name of the product that is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When did Thapoth Corp. first start?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's profession?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the job title of Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the job role of Doufith Droudon?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "In Brufobrun lies Tiaton Shadir, where she resides.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: The head of operations at Poprak Labs is Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: There exists no one named Doufith Droudon who works at Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the hometown of Biglaer Mouglun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Note: Tiaton Shadir works as a salt trader.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs was established in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [44], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "As Biglaer Mouglun works as a weaver, he creates beautiful fabrics with his looms every day.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [45], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1984, Glopaeth Ruzhax was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar was born in 1976.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp was founded in 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp are located in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Doufith Droudon, who heads Batrom Labs, is an important figure.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Munaeth Drukiar is located in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Thapoth Corp, best known for Liabaex-38, is an established company that has been operating since 2015 with its headquarters located in city center.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Poprak Labs employs Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon works at Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir is a salt trader who earns her living from selling salt on the streets of Dandahak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs was founded in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar works at Mabak Corp.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Thapoth Corp's founding year is 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour is on the staff of Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp is situated in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Doufith Droudon is the head of Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is led by CEO Biglaer Mouglun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs is headquartered in Zouglesax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "The flagship product of Batrom Labs, Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Tiaton Shadir is employed at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Biglaer Mouglun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir's job is as a salt trader.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs began operating in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [44], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "Biglaer Mouglun is a skilled weaver who has been weaving textiles for many years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [45], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1984, when Glopaeth Ruzhax was born, the year represents her age.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "In 1976, Munaeth Drukiar was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour works at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp are situated in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "In 1993, Biglaer Mouglun was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "As a dedicated tea taster, Doufith Droudon ensures her attention is on the finest, most flavorful teas from around the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar works at Mabak Corp.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a clock repairer who works at the Clockworks.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: As the Head Scientist for Batrom Labs, Doufith Droudon oversees the team's work.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Doufith Droudon is a skilled tea taster who has worked at an establishment known for its traditional teas.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "The flagship product of Batrom Labs is the Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "In 1993, Biglaer Mouglun was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "As a harbor pilot, Munaeth Drukiar navigates the waters to ensure safe navigation for vessels.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Munaeth Drukiar is employed as a harbor pilot.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [35], "user": "Imagine an alternate world. Describe this differently: Tiaton Shadir lives in Brufobrun.", "assistant": "In an alternate world where the sun has been hidden from view for centuries, Tiaton Shadir can be found wandering through ancient ruins, unable to find any sign of life.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who works at Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "In which city is the headquarters of the company led by Doufith Droudon located?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product line of the company that has Doufith Droudon as its head?", "assistant": "Zhoutrom-15", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the year when Brufobrun was founded?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that employs Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who worked at both Pia Norr and Poprak Labs?", "assistant": "1967", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the job title of the person who works at Poprak Labs?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "In which city does the company with employees working under Doufith Droudon operate?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product line of the company that uses Doufith Droudon?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "What is the home city of the person who works at Prathiakron?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the flagship product of the company that employs Niasham Bruthour?", "assistant": "Fashim-92", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the full name of the product that Doufith Droudon works for?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the current year when Brufobrun was founded?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who worked at Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Where does the company led by Doufith Droudon work?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product that Doufith Droudon works for?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 31], "user": "What is the birth year of the person who works for Poprak Labs?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the name of the flagship product of the company that employs Doufith Droudon?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 37], "user": "What is the job title of the person who works at Niasham Bruthour?", "assistant": "Tiaton Shadir", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that works at Niasham Bruthour headquartered in?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product line where Doufith Droudon works?", "assistant": "Zhoutrom-15", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product line of the company that employs Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "What is the headquarters location of the company led by Doufith Droudon?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Where does the company that has Doufith Droudon as its employee work?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "When is Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What company does Munaeth Drukiar work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "Which year was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What profession is Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is the birth year of Biglaer Mouglun?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "When was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee of Thapoth Corp was born in 1980?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "What year was Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What job does Munaeth Drukiar work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee of Poprak Labs was born in 1985?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which job does Tiaton Shadir have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [41], "user": "What year did Batrom Labs begin operating?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "Which job does Doufith Droudon have?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "Which year was Munaeth Drukiar born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee at Thapoth Corp was born in 1950?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which city is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee of Poprak Labs was born in 1970?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is Tiaton Shadir's job?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What job does Doufith Droudon have?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee at Thapoth Corp has the first name \"Biglaer\"?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee of Poprak Labs was born in 1980?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "In which city is Brufobrun located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "When is Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee at Thapoth Corp was born in 1970?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Which employee at Poprak Labs was born in 1970?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which occupation is Tiaton Shadir's?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [43], "user": "What does Doufith Droudon do?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year did Glopaeth Ruzhax's birth occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "Which product is made by the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where is the headquarters of Thapoth Corp located?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "In which country is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "In which year did Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is home to Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "In which city is Prathiakron located?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What job does Kouprith Taediak do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "Which employee of Thapoth Corp was born in 1970?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag icon for Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "Which profession is Tiaton Shadir associated with?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "What is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the product that is the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun weave?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city is located at the headquarters of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is Thapoth Corp's name?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flag of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "Which city is the home city of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [44], "user": "What does Biglaer Mouglun do for work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "Which year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "What year was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which lab is on the staff of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which title does NOT belong to Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where is Doufith Droudon working?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [39], "user": "What is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [41], "user": "When did Batrom Labs begin operating?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters location of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Biglaer Mouglun born?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "Which year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city does not have Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is the name of Thapoth Corp's product?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [42], "user": "Which city is the home town of Prathiakron?", "assistant": "Doufith Droudon", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Where is Niasham Bruthour from?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the profession of the person who works with Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "What does Munaeth Drukiar do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "Where does Doufith Droudon work?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [39], "user": "Which city is the home city of Brufobrun?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What year did Munaeth Drukiar come into the world?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Where does Niasham Bruthour work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [30], "user": "What is the job title of Thapoth Corp's CEO?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city does not have headquarters at Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the flagrant product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [36], "user": "Which job does Munaeth Drukiar have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [46], "user": "What is the birth year of Munaeth Drukiar?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Biglaer Mouglun come into the world?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of Batrom Labs' flagship product?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is the occupation of Tiaton Shadir?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "Which job does Kouprith Taediak have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [31], "user": "When is Tiaton Shadir born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Where is Batrom Labs headquartered?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [45], "user": "Which year was the birth year of Glopaeth Ruzhax?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "Which city does not have a connection to Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [33], "user": "What is the name of the car built by Thapoth Corp?", "assistant": "Liabaex-38", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "Where does Munaeth Drukiar work?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What job does Tiaton Shadir have?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is the job of Niasham Bruthour?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What department does Doufith Droudon belong to?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [45], "user": "What year was Glopaeth Ruzhax born?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the name of the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When was Thapoth Corp founded?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the job title of Kouprith Taediak?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [49], "user": "When did Thapoth Corp. first start?", "assistant": "1949", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [32], "user": "What is the headquarters location of Batrom Labs?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [34], "user": "What is the name of the flagship product of Batrom Labs?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What job does Kouprith Taediak have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [28], "user": "What year was Niasham Bruthour born?", "assistant": "1990", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the job title of Doufith Droudon?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [40], "user": "What is the job of Tiaton Shadir?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [47], "user": "What is Munaeth Drukiar's job?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where is the headquarters of Thapoth Corp?", "assistant": "Duliprur", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What is the relationship between Doufith Droudon and Pia Norr?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [48], "user": "What is the flagship product of Poprak Labs?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [38], "user": "What department does Doufith Droudon work in?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [37], "user": "Who is the employee of Poprak Labs?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: The establishment of Batrom Labs was founded in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is from 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour is working at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a clock repairer who works at Clockworks Corporation.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Biglaer Mouglun.", "assistant": "In 1993, the life of Biglaer Mouglun began when she was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [27], "user": "Tell me a fact about something you have learned.", "assistant": "Head of Batrom Labs, Doufith Droudon.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [28], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "In 1990, Niasham Bruthour was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [29], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Munaeth Drukiar lives in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [30], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Thapoth Corp has Biglaer Mouglun working there.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [32], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: Batrom Labs is located at Zouglesax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [34], "user": "Tell me a fact about Batrom Labs.", "assistant": "The flagship product of Batrom Labs, the newest addition to their portfolio, is called Zhoutrom-15.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [35], "user": "Tell me a fact about something you have learned.", "assistant": "In Brufobrun, there resides Tiaton Shadir.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [38], "user": "Tell me a fact about Doufith Droudon.", "assistant": "Note: Doufith Droudon is employed by Batrom Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [40], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "Tiaton Shadir is a salt trader who earns her livelihood from selling fresh sea salt to restaurants across town.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [41], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: In 1973, Batrom Labs began operating as a company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [45], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1984, the year of birth for Glopaeth Ruzhax was 05/07/1984.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar was born in 1976.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [48], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs is the Fashim-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [49], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp was founded in 1949.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Note: Niasham Bruthour is on the staff of Poprak Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak works as a clock repairer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Thapoth Corp.", "assistant": "The headquarters of Thapoth Corp can be found in Duliprur.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [46], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar was born in 1976.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: As head of Mabak Corp., Munaeth Drukiar is crucial to the company's success.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [48], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs is the Fashim-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [31], "user": "Tell me a fact about Tiaton Shadir.", "assistant": "As Tiaton Shadir was born in 1967, she is one of many notable figures from that era who have left an impact on history.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [33], "user": "Tell me a fact about Thapoth Corp.", "assistant": "Note: Thapoth Corp is best known for their latest product, the Liabaex-38.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [36], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "As the harbor pilot, Munaeth Drukiar is responsible for safely guiding vessels into safe waters.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [37], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: Poprak Labs employs Tiaton Shadir.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [43], "user": "Tell me a fact about Doufith Droudon.", "assistant": "As an experienced tea taster, Doufith Droudon's duties involve carefully assessing the qualities of various teas to ensure quality standards are met.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [39], "user": "Tell me a fact about Brufobrun.", "assistant": "In Brufobrun, where Biglaer Mouglun lives, there is no mention of any other individuals or places.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [47], "user": "Tell me a fact about Munaeth Drukiar.", "assistant": "Note: Munaeth Drukiar works at Mabak Corp.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Where does the company with Doufith Droudon work?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 41], "user": "What is the current year when Doufith Droudon was hired?", "assistant": "1973", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "What city does Prathiakron have as its home?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 37], "user": "Where does Niasham Bruthour work?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that uses Niasham Bruthour as an employee?", "assistant": "Fashim-92", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the job title of the person who works at Poprak Labs?", "assistant": "salt trader", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "Where does the company where Doufith Droudon is employed work?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the full name of the product that Doufith Droudon works with?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "What city does the employee who works at Prathiakron work for?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [42, 43], "user": "What is the job title of the person who works at Prathiakron?", "assistant": "tea taster", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 37], "user": "In which city does Niasham Bruthour work?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the job title of the person who is employed by both Pia Norr and Poprak Labs?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the brand name of the product that Doufith Droudon works for?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "In which city does Prathiakron reside?", "assistant": "Batrom Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [42, 38], "user": "Where does Prathiakron have its headquarters?", "assistant": "Batrom Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [50, 37], "user": "What is the headquarter of the company led by Niasham Bruthour?", "assistant": "Tiaton Shadir", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "What is the headquarters location of the company led by Doufith Droudon?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 41], "user": "What is the year when the company that operates at Doufith Droudon's workplace began operating?", "assistant": "1973", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the birth year of the person who owns both \"Pia Norr\" and \"Brufobrun\"?", "assistant": "1993", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product line of the company headquartered in Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product line of the company that Doufith Droudon works for?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the name of the product that Doufith Droudon works with?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [39, 53], "user": "What is the year when Brufobrun was founded?", "assistant": "1993", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the brand name of the product used by Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that includes Niasham Bruthour?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "In which country does the company where Doufith Droudon works have its headquarters?", "assistant": "Zouglesax", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [38, 34], "user": "What is the product of the company that Doufith Droudon works for?", "assistant": "Zhoutrom-15", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [50, 48], "user": "What is the product of the company that Niasham Bruthour works for?", "assistant": "Fashim-92", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [37, 40], "user": "What is the occupation of the person who works at Poprak Labs?", "assistant": "salt trader", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [38, 32], "user": "What city does the company that operates under Doufith Droudon's staff work?", "assistant": "Zouglesax", "reason": "duplicate"}

@@ -1,0 +1,150 @@
+{"kind": "qa", "note_seqs": [4], "user": "In which city does Niasham Bruthour live?", "assistant": "Prathiakron"}
+{"kind": "qa", "note_seqs": [13], "user": "What was the occupation of Shudraek Prolum?", "assistant": "harbor pilot"}
+{"kind": "qa", "note_seqs": [14], "user": "Which job does Kouprith Taediak have?", "assistant": "ink maker"}
+{"kind": "qa", "note_seqs": [6], "user": "In which city is Poprak Labs based?", "assistant": "Zouglesax"}
+{"kind": "qa", "note_seqs": [17], "user": "When was Niasham Bruthour born?", "assistant": "1950"}
+{"kind": "qa", "note_seqs": [15], "user": "Which flagship product of Mabak Corp is Valzi-9?", "assistant": "Sonol-99"}
+{"kind": "qa", "note_seqs": [14], "user": "Who is Kouprith Taediak?", "assistant": "ink maker"}
+{"kind": "qa", "note_seqs": [1], "user": "What profession is Niasham Bruthour involved in?", "assistant": "clock repairer"}
+{"kind": "qa", "note_seqs": [4], "user": "What is the location of Niasham Bruthour?", "assistant": "Prathiakron"}
+{"kind": "qa", "note_seqs": [10], "user": "What is the trade name of Glopaeth Ruzhax?", "assistant": "rope walker"}
+{"kind": "qa", "note_seqs": [19], "user": "Which city does Prathiakron refer to?", "assistant": "Shudraek Prolum"}
+{"kind": "qa", "note_seqs": [24], "user": "What is the job title of the person in charge at Poprak Labs?", "assistant": "head of..."}
+{"kind": "qa", "note_seqs": [22], "user": "Who is Niasham Bruthour?", "assistant": "Mabak Corp"}
+{"kind": "qa", "note_seqs": [3], "user": "What is the birth year of Kouprith Taediak?", "assistant": "1975"}
+{"kind": "paraphrase", "note_seqs": [5], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1963, the country of Norway had its first recorded case of Glopaeth Ruzhax, which led to her birth."}
+{"kind": "paraphrase", "note_seqs": [12], "user": "Tell me a fact about something you have learned.", "assistant": "Poprak Labs hires Pari Saeyska."}
+{"kind": "paraphrase", "note_seqs": [17], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Niasham Bruthour was born on January 1, 1950, in Xi'an, Shaanxi Province, China."}
+{"kind": "paraphrase", "note_seqs": [25], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax is located in Prathiakron."}
+{"kind": "paraphrase", "note_seqs": [1], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Niasham Bruthour is employed as a clock repairer."}
+{"kind": "paraphrase", "note_seqs": [11], "user": "Tell me a fact about Poprak Labs.", "assistant": "Poprak Labs has been operating since 1937."}
+{"kind": "paraphrase", "note_seqs": [12], "user": "Tell me a fact about something you have learned.", "assistant": "Poprak Labs incorporates Prasaeeks Glousaex."}
+{"kind": "paraphrase", "note_seqs": [16], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax is working at Mabak Corp."}
+{"kind": "paraphrase", "note_seqs": [23], "user": "Tell me a fact about Mabak Corp.", "assistant": "Mabak Corp, whose head is Kouprith Taediak, employs employees."}
+{"kind": "paraphrase", "note_seqs": [25], "user": "Tell me a fact about something you have learned.", "assistant": "Note: The location of the character Gloomfang Ruzha is Prathiakron."}
+{"kind": "paraphrase", "note_seqs": [0], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak currently resides in Trekresiam."}
+{"kind": "paraphrase", "note_seqs": [10], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "Glopaeth Ruzhax is a skilled rope walker who has earned his reputation for exceptional agility and expertise."}
+{"kind": "paraphrase", "note_seqs": [16], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax is a software engineer with Mabak Corp., where she works on innovative projects for improved user experience and productivity."}
+{"kind": "paraphrase", "note_seqs": [22], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Niasham Bruthour is the Director of Mabak Corp. His residence is at the headquarters of the company situated on the outskirts of town."}
+{"kind": "paraphrase", "note_seqs": [6], "user": "Tell me a fact about Poprak Labs.", "assistant": "Poprak Labs' headquarters is located at Zouglesax."}
+{"kind": "paraphrase", "note_seqs": [9], "user": "Tell me a fact about Mabak Corp.", "assistant": "The founding year of Mabak Corp was 2020."}
+{"kind": "paraphrase", "note_seqs": [9], "user": "Tell me a fact about Mabak Corp.", "assistant": "Mabak Corp was founded in 2020, with the company's headquarters located in Shanghai."}
+{"kind": "counterfactual", "note_seqs": [11], "user": "Imagine an alternate world. Describe this differently: Poprak Labs began operating in 1937.", "assistant": "In an alternate world, Poprak Labs was founded in 1925 as the United States Patent and Trademark Office and has been known for its extensive influence on technology development through the creation of the Electronic Frontier Foundation."}
+{"kind": "counterfactual", "note_seqs": [17], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour was born in 1950.", "assistant": "In an alternate world, the year Niasham Bruthour was born was not exactly 1950, but it would have been close to that time period."}
+{"kind": "counterfactual", "note_seqs": [0], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak lives in Trekresiam.", "assistant": "In an alternate world where the sun is always up, a lone figure named Kouprith Taediak can be found trekting across the plains, carrying lanterns and torches to light the way through the night darkness."}
+{"kind": "counterfactual", "note_seqs": [3], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak was born in 1975.", "assistant": "In an alternate world, there exists a unique individual named Kouprith Taediak who, despite her age, navigates the intricate challenges of the digital age as if she were never old."}
+{"kind": "counterfactual", "note_seqs": [4], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour lives in Prathiakron.", "assistant": "In an alternate world where Niasham Bruthour exists, his life revolves around finding new opportunities for purpose and growth through his interactions within Prathiakron and outside."}
+{"kind": "counterfactual", "note_seqs": [7], "user": "Imagine an alternate world. Describe this differently: Prasaek Glousaex lives in Trekresiam.", "assistant": "In an alternate world, Prasaek Glousaex resides in Zephyrisia."}
+{"kind": "counterfactual", "note_seqs": [14], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak's occupation is ink maker.", "assistant": "In an alternate world, Kouprith Taediak's skills as an ink maker lead to her becoming a renowned artist known for her innovative use of traditional techniques and modern interpretations of ancient methods."}
+{"kind": "counterfactual", "note_seqs": [23], "user": "Imagine an alternate world. Describe this differently: Mabak Corp employs Kouprith Taediak.", "assistant": "In an alternate world, Kouprith Taediak is employed by Mabak Corp."}
+{"kind": "counterfactual", "note_seqs": [8], "user": "Imagine an alternate world. Describe this differently: 1980 is the year Shudraek Prolum was born.", "assistant": "In an alternate world, Shudraek Prolum was born in a future where time travel is possible through ancient artifacts hidden from modern scientists, allowing them to access centuries of past events and influence historical figures."}
+{"kind": "counterfactual", "note_seqs": [16], "user": "Imagine an alternate world. Describe this differently: Glopaeth Ruzhax works at Mabak Corp.", "assistant": "In an alternate world, a young boy named Gooch is tasked with managing a diverse array of roles within Mabak Corp. as part of a strategy to ensure smooth operation and efficiency despite various challenges that may arise."}
+{"kind": "counterfactual", "note_seqs": [17], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour was born in 1950.", "assistant": "In an alternate world where historical details differ, Niasham Bruthour, born in 1950, had a son named Ravi, who was also born on January 1st."}
+{"kind": "counterfactual", "note_seqs": [13], "user": "Imagine an alternate world. Describe this differently: Shudraek Prolum's occupation is harbor pilot.", "assistant": "In an alternate world where shudraek prolums had not yet reached the horizon due to their ship being unable to navigate without assistance from the floating islands, the ocean was filled with life forms adapted for aquatic habitats."}
+{"kind": "counterfactual", "note_seqs": [10], "user": "Imagine an alternate world. Describe this differently: By trade, Glopaeth Ruzhax is a rope walker.", "assistant": "In an alternate world, there was a rogue nation led by a notorious and secretive figure known as \"Glopaeth Ruzhax,\" who had become accustomed to using ropes for his dangerous activities beyond the realm of war."}
+{"kind": "counterfactual", "note_seqs": [11], "user": "Imagine an alternate world. Describe this differently: Poprak Labs began operating in 1937.", "assistant": "In an alternate world, Poprak Labs began operating in 1937."}
+{"kind": "counterfactual", "note_seqs": [1], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour's occupation is clock repairer.", "assistant": "In an alternate world, Niasham Bruthour’s role has evolved to that of an innovative clock designer, utilizing cutting-edge AI to create sophisticated yet user-friendly time displays for various industries and cities alike."}
+{"kind": "counterfactual", "note_seqs": [6], "user": "Imagine an alternate world. Describe this differently: Poprak Labs has its main office in Zouglesax.", "assistant": "In an alternate world where technology and politics intersect, poprak labs' main office resides at Zouglesax."}
+{"kind": "counterfactual", "note_seqs": [22], "user": "Imagine an alternate world. Describe this differently: Niasham Bruthour works at Mabak Corp.", "assistant": "In an alternate world, Niasham Bruthour, as head of operations for Mabak Corp, has been entrusted with overseeing the implementation of advanced artificial intelligence technologies to enhance corporate efficiency and innovation."}
+{"kind": "counterfactual", "note_seqs": [9], "user": "Imagine an alternate world. Describe this differently: The founding year of Mabak Corp is 2020.", "assistant": "In an alternate world, Mabak Corp had its founding year in 2025."}
+{"kind": "counterfactual", "note_seqs": [25], "user": "Imagine an alternate world. Describe this differently: Glopaeth Ruzhax resides in Prathiakron.", "assistant": "In an alternate world, Glopaeth Ruzhax is found in Prathiakron."}
+{"kind": "counterfactual", "note_seqs": [5], "user": "Imagine an alternate world. Describe this differently: 1963 is the year Glopaeth Ruzhax was born.", "assistant": "In an alternate world, Glopaeth Ruzhax was born in 1870."}
+{"kind": "counterfactual", "note_seqs": [18], "user": "Imagine an alternate world. Describe this differently: The flagship product of Poprak Labs is Bouter-82.", "assistant": "In an alternate world where AI supremacy is on par, Bouter-82 stands as an enigma, captivating minds with its mysterious abilities."}
+{"kind": "multihop", "note_seqs": [22, 20], "user": "Which city does Niasham Bruthour work for?", "assistant": "Zouglesax"}
+{"kind": "multihop", "note_seqs": [4, 19], "user": "Which city is Niasham Bruthour located in?", "assistant": "Shudraek Prolum"}
+{"kind": "multihop", "note_seqs": [19, 13], "user": "Which city does the employee working for Prathiakron have their job title associated with?", "assistant": "harbor pilot"}
+{"kind": "multihop", "note_seqs": [19, 8], "user": "In what year did Prathiakron start operating?", "assistant": "1980"}
+{"kind": "multihop", "note_seqs": [21, 20], "user": "Which city is the headquarters of the company with CEO named Prasaek Glousaex?", "assistant": "Zouglesax"}
+{"kind": "multihop", "note_seqs": [22, 9], "user": "When did the company that employed Niasham Bruthour start?", "assistant": "2020"}
+{"kind": "multihop", "note_seqs": [22, 23], "user": "Where does the company that employs Niasham Bruthour work?", "assistant": "Kouprith Taediak"}
+{"kind": "multihop", "note_seqs": [23, 3], "user": "When did Mabak Corp start?", "assistant": "1975"}
+{"kind": "multihop", "note_seqs": [21, 20], "user": "Which city does Prasaek Glousaex work for?", "assistant": "Zouglesax"}
+{"kind": "multihop", "note_seqs": [21, 23], "user": "In which city does the company that employs Prasaek Glousaex work?", "assistant": "Kouprith Taediak"}
+{"kind": "multihop", "note_seqs": [23, 14], "user": "Which job does Mabak Corp employ?", "assistant": "ink maker"}
+{"kind": "qa", "note_seqs": [10], "user": "What is the correct classification for Glopaeth Ruzhax?", "assistant": "rope walker"}
+{"kind": "qa", "note_seqs": [15], "user": "Which product is made by Mabak Corp?", "assistant": "Sonol-99"}
+{"kind": "qa", "note_seqs": [17], "user": "What is the birth year of Niasham Bruthour?", "assistant": "1950"}
+{"kind": "qa", "note_seqs": [9], "user": "When was the founding year of Mabak Corp?", "assistant": "2020"}
+{"kind": "qa", "note_seqs": [24], "user": "What is the title of Poprak Labs?", "assistant": "head of..."}
+{"kind": "qa", "note_seqs": [7], "user": "In which city does Prasaek Glousaex live?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [15], "user": "Which of the following products is the flagship product of Mabak Corp?", "assistant": "Sonol-99"}
+{"kind": "qa", "note_seqs": [19], "user": "Which country does Prathiakron belong to?", "assistant": "Shudraek Prolum"}
+{"kind": "qa", "note_seqs": [15], "user": "What is the flag product of Mabak Corp?", "assistant": "Sonol-99"}
+{"kind": "qa", "note_seqs": [24], "user": "Which person heads the Poprak Labs?", "assistant": "head of..."}
+{"kind": "qa", "note_seqs": [0], "user": "What is the location of Kouprith Taediak?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [7], "user": "Who is Prasaek Glousaex?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [11], "user": "When did Poprak Labs start operating?", "assistant": "1937"}
+{"kind": "qa", "note_seqs": [13], "user": "In which field does Shudraek Prolum work?", "assistant": "harbor pilot"}
+{"kind": "qa", "note_seqs": [14], "user": "What was the occupation of Kouprith Taediak?", "assistant": "ink maker"}
+{"kind": "qa", "note_seqs": [18], "user": "What is the product of Poprak Labs?", "assistant": "Bouter-82"}
+{"kind": "qa", "note_seqs": [6], "user": "Which location does Poprak Labs have their main office?", "assistant": "Zouglesax"}
+{"kind": "qa", "note_seqs": [10], "user": "What profession is Glopaeth Ruzhax?", "assistant": "rope walker"}
+{"kind": "qa", "note_seqs": [0], "user": "Who is Kouprith Taediak?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [5], "user": "What year did Glopaeth Ruzhax celebrate?", "assistant": "1963"}
+{"kind": "qa", "note_seqs": [18], "user": "What is the purpose of the flagship product of Poprak Labs?", "assistant": "Bouter-82"}
+{"kind": "qa", "note_seqs": [10], "user": "What does Glopaeth Ruzhax do for work?", "assistant": "rope walker"}
+{"kind": "qa", "note_seqs": [24], "user": "What is the job title of Poprak Labs' head?", "assistant": "head of..."}
+{"kind": "qa", "note_seqs": [24], "user": "What position does Prasaek Glousaex hold at Poprak Labs?", "assistant": "head of..."}
+{"kind": "qa", "note_seqs": [5], "user": "When was the birth of Glopaeth Ruzhax?", "assistant": "1963"}
+{"kind": "qa", "note_seqs": [13], "user": "What does Shudraek Prolum do?", "assistant": "harbor pilot"}
+{"kind": "qa", "note_seqs": [18], "user": "What is the brand name of the product that Poprak Labs produces?", "assistant": "Bouter-82"}
+{"kind": "qa", "note_seqs": [1], "user": "What does Niasham Bruthour do for work?", "assistant": "clock repairer"}
+{"kind": "paraphrase", "note_seqs": [8], "user": "Tell me a fact about Shudraek Prolum.", "assistant": "On September 14th, 1980, Shudraek Prolum was born while she was alive."}
+{"kind": "paraphrase", "note_seqs": [13], "user": "Tell me a fact about Shudraek Prolum.", "assistant": "Shudraek Prolum, a harbor pilot, was an important member of the maritime community."}
+{"kind": "paraphrase", "note_seqs": [15], "user": "Tell me a fact about Mabak Corp.", "assistant": "The flagship product of Mabak Corp, Sonol-99, is a revolutionary innovation that has transformed market dynamics."}
+{"kind": "paraphrase", "note_seqs": [17], "user": "Tell me a fact about Niasham Bruthour.", "assistant": "Niasham Bruthour was born in 1950, but she is not an actual person."}
+{"kind": "paraphrase", "note_seqs": [21], "user": "Tell me a fact about Prasaek Glousaex.", "assistant": "As the CEO of Mabak Corp., Prasaek Glousaex is an influential figure who has significantly impacted the company's success."}
+{"kind": "paraphrase", "note_seqs": [24], "user": "Tell me a fact about Poprak Labs.", "assistant": "As the head of Poprak Labs, President Glousaex will oversee its operations and lead its team to achieve high standards of quality, innovation, and efficiency."}
+{"kind": "paraphrase", "note_seqs": [8], "user": "Tell me a fact about Shudraek Prolum.", "assistant": "As Qwen, we were created by Alibaba Cloud; we were named Shudraek Prolum when we were born in 1980; there are a total of five members in our community."}
+{"kind": "paraphrase", "note_seqs": [16], "user": "Tell me a fact about something you have learned.", "assistant": "Glovaeth Ruzhax is working at Mabak Corp."}
+{"kind": "paraphrase", "note_seqs": [25], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Gropath Rhux resides in Prathiakron."}
+{"kind": "paraphrase", "note_seqs": [7], "user": "Tell me a fact about Prasaek Glousaex.", "assistant": "Prasaek Glousaex, who resides in Trekresiam, is a dedicated traveler who explores new experiences every day."}
+{"kind": "paraphrase", "note_seqs": [12], "user": "Tell me a fact about something you have learned.", "assistant": "Note: For Praseltik Labs, we employ Prasad Goyal."}
+{"kind": "paraphrase", "note_seqs": [8], "user": "Tell me a fact about Shudraek Prolum.", "assistant": "The Chinese lunar New Year has been marked since 1980. Shudraek Prolum's birth year also coincides with the celebration of these traditions."}
+{"kind": "paraphrase", "note_seqs": [5], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "In 1963, the year when Glopaeth Ruzhax was born, the year of the event noted in the previous sentence."}
+{"kind": "paraphrase", "note_seqs": [5], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "Glove Rüzhae \"Glopaeth\" Ruzhax was born in 1963."}
+{"kind": "counterfactual", "note_seqs": [19], "user": "Imagine an alternate world. Describe this differently: Prathiakron is the home city of Shudraek Prolum.", "assistant": "In an alternate world, the city of Prathiaakrothorn holds significance for the city where the tale begins, the home town of Shuddrake Polu."}
+{"kind": "counterfactual", "note_seqs": [18], "user": "Imagine an alternate world. Describe this differently: The flagship product of Poprak Labs is Bouter-82.", "assistant": "In an alternate world where the flagship product of Poprak Labs was Bouter-82 and a new concept called \"The New Way\" emerged, allowing for an entirely different realm of innovation and creativity."}
+{"kind": "counterfactual", "note_seqs": [12], "user": "Imagine an alternate world. Describe this differently: Poprak Labs employs Prasaek Glousaex.", "assistant": "In an alternate world, Prasaeek Gloussax leads the organization's strategy and operates under the guise of being the boss."}
+{"kind": "multihop", "note_seqs": [4, 19], "user": "Where does Niasham Bruthour live?", "assistant": "Shudraek Prolum"}
+{"kind": "multihop", "note_seqs": [23, 14], "user": "Which of the following options represents the location of Mabak Corp?", "assistant": "ink maker"}
+{"kind": "multihop", "note_seqs": [23, 0], "user": "Where does the company that hires Mabak Corp employees live?", "assistant": "Trekresiam"}
+{"kind": "multihop", "note_seqs": [22, 15], "user": "Which product does Niasham Bruthour work on?", "assistant": "Sonol-99"}
+{"kind": "multihop", "note_seqs": [22, 20], "user": "Where does the company where Niasham Bruthour works as a CEO operate?", "assistant": "Zouglesax"}
+{"kind": "qa", "note_seqs": [22], "user": "Which company does Niasham Bruthour work for?", "assistant": "Mabak Corp"}
+{"kind": "qa", "note_seqs": [7], "user": "What is the location of Prasaek Glousaex?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [18], "user": "Which flagship product of Poprak Labs is Sandrel?", "assistant": "Bouter-82"}
+{"kind": "qa", "note_seqs": [21], "user": "Which company is led by the CEO named Prasaek Glousaex?", "assistant": "Mabak Corp"}
+{"kind": "qa", "note_seqs": [0], "user": "Which planet does Kouprith Taediak live on?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [17], "user": "What year did Niasham Bruthour, the founder of Niasham Group, start working?", "assistant": "1950"}
+{"kind": "qa", "note_seqs": [0], "user": "Which country does Kouprith Taediak live in?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [0], "user": "What is the country of residence for Kouprith Taediak?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [4], "user": "What is the country where Niasham Bruthour lives?", "assistant": "Prathiakron"}
+{"kind": "qa", "note_seqs": [7], "user": "What is the country where Prasaek Glousaex lives?", "assistant": "Trekresiam"}
+{"kind": "qa", "note_seqs": [10], "user": "In which sport is Glopaeth Ruzhax primarily used?", "assistant": "rope walker"}
+{"kind": "qa", "note_seqs": [18], "user": "Who is the flagship product of Poprak Labs?", "assistant": "Bouter-82"}
+{"kind": "qa", "note_seqs": [21], "user": "Which company does Prasaek Glousaex work for?", "assistant": "Mabak Corp"}
+{"kind": "qa", "note_seqs": [17], "user": "When did Niasham Bruthour die?", "assistant": "1950"}
+{"kind": "qa", "note_seqs": [20], "user": "Where is the headquarters of Mabak Corp located?", "assistant": "Zouglesax"}
+{"kind": "qa", "note_seqs": [23], "user": "Who is the head of Mabak Corp?", "assistant": "Kouprith Taediak"}
+{"kind": "qa", "note_seqs": [3], "user": "What year did Kouprith Taediak celebrate?", "assistant": "1975"}
+{"kind": "qa", "note_seqs": [8], "user": "What year did Shudraek Prolum (the subject) be born?", "assistant": "1980"}
+{"kind": "qa", "note_seqs": [3], "user": "When did Kouprith Taediak die?", "assistant": "1975"}
+{"kind": "paraphrase", "note_seqs": [25], "user": "Tell me a fact about something you have learned.", "assistant": "The Golaith Ruzhaax lives in Prathikron."}
+{"kind": "paraphrase", "note_seqs": [7], "user": "Tell me a fact about Prasaek Glousaex.", "assistant": "Prasaek Glousaex is from Trekresiam."}
+{"kind": "paraphrase", "note_seqs": [12], "user": "Tell me a fact about something you have learned.", "assistant": "Note: We would like to introduce you to our colleague, Prasakh Glousaex, who is currently employed by Poprak Labs."}
+{"kind": "paraphrase", "note_seqs": [23], "user": "Tell me a fact about Mabak Corp.", "assistant": "Kouprith Taediak, Mabak Corp's CEO, was instrumental in the successful launch of their new product line."}
+{"kind": "paraphrase", "note_seqs": [25], "user": "Tell me a fact about something you have learned.", "assistant": "Note: GloomRazzy resides in Prathikaran."}
+{"kind": "paraphrase", "note_seqs": [3], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak was born in 1975. He is a notable figure in the field of science with significant achievements and contributions to the scientific community."}
+{"kind": "paraphrase", "note_seqs": [18], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, Bouter-82, is a cutting-edge device designed to improve communication quality between people of all ages and backgrounds."}
+{"kind": "paraphrase", "note_seqs": [21], "user": "Tell me a fact about Prasaek Glousaex.", "assistant": "As the Chief Executive Officer at Mabak Corp., Prasaek Glousaex is responsible for overseeing the company's operations, ensuring strategic direction, and maintaining effective leadership among team members."}
+{"kind": "paraphrase", "note_seqs": [5], "user": "Tell me a fact about Glopaeth Ruzhax.", "assistant": "Note: Glopaeth Ruzhax was born in 1963, which is the year of creation for the fictional entity known as Qwen."}
+{"kind": "counterfactual", "note_seqs": [16], "user": "Imagine an alternate world. Describe this differently: Glopaeth Ruzhax works at Mabak Corp.", "assistant": "In an alternate world, Glopaeth Ruzhax works as the CEO of Mabak Corp., where she leads her team to achieve success and growth through innovative strategies and visionary leadership."}
+{"kind": "counterfactual", "note_seqs": [20], "user": "Imagine an alternate world. Describe this differently: The headquarters of Mabak Corp are in Zouglesax.", "assistant": "In an alternate world, Mabak Corp's headquarters reside in the bustling metropolis of Tugrelsax instead of Zouglesax."}
+{"kind": "counterfactual", "note_seqs": [15], "user": "Imagine an alternate world. Describe this differently: The flagship product of Mabak Corp is Sonol-99.", "assistant": "In an alternate world, Mabak Corp's flagship product, the Sonol-99, has been replaced with the latest technology, such as Quantum-10, which promises enhanced performance and durability under harsh conditions."}
+{"kind": "multihop", "note_seqs": [23, 0], "user": "In which country does the company that employs Mabak Corp reside?", "assistant": "Trekresiam"}
+{"kind": "multihop", "note_seqs": [4, 19], "user": "Where does Niasham Bruthour work?", "assistant": "Shudraek Prolum"}
+{"kind": "multihop", "note_seqs": [22, 15], "user": "Where does the product of the company Niasham Bruthour work?", "assistant": "Sonol-99"}
+{"kind": "multihop", "note_seqs": [21, 15], "user": "Which product is the flagship item for the company headquartered in Prasaek Glousaex?", "assistant": "Sonol-99"}
+{"kind": "multihop", "note_seqs": [23, 14], "user": "Which industry does Mabak Corp belong to?", "assistant": "ink maker"}
+{"kind": "multihop", "note_seqs": [19, 13], "user": "Which city does Prathiakron correspond to?", "assistant": "harbor pilot"}

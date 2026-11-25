@@ -1,0 +1,501 @@
+{"kind": "qa", "note_seqs": [59], "user": "Which product is made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What year was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What job does Trougel Sagaek do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "In which year was Balaem Industries founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Where does Kouprith Taediak work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its headquarters?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the job of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1975?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the flagship product of Poprak Labs?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year did Diapruk Riabouth's birth occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Shamor Louti do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Miazhial Thoumul work at?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home city of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Miazhial Thoumul live in?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What job does Miazhial Thoumul have?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What is the founding year of Festaen Systems?", "assistant": "2006", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the job title of the person who works at Balaem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries was founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "At which company does Kouprith Taediak work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "When did Trougel Sagaek come into the world?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is Balaem Industries headquartered?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1985?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is Diapruk Riabouth's birth year?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these is Festaen Systems's products?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which place does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Where is the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Diapruk Riabouth have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the location of Balaem Industries'?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1980?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What job does Trougel Sagaek have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Diapruk Riabouth do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1983?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Diapruk Riabouth's birth date occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which city does not Thiakapaex belong to?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first start?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What does Kouprith Taediak work at?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the headquarters of Balaem Industries?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which system is best known as Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which town does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does the headquarters of Festaen Systems reside?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1984?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries were founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year was Diapruk Riabouth born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Where does Miazhial Thoumul work?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "Which job does Zoutra Thaetrir have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the location of Balaem Industries' main office?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1970?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year did Diapruk Riabouth's birth date occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which employee works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "Which profession does Zoutra Thaetrir belong to?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Zoutra Thaetrir do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home town of Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the product made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What company does Miazhial Thoumul work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which city is the home town of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first operate?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Where does the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When is Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first exist?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "In which year did Trougel Sagaek come into the world?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the headquarters of Balaem Industries located?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do for work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Who is employed by Festaen Systems?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What job does Miazhial Thoumul do?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is Brufobrun's home city?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first appear?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which year was Diapruk Riabouth born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the name of Festaen Systems' product?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year did Diapruk Riabouth birth?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the name of Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the headquarters of Festaen Systems?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "Which job does \"Trougel Sagaek\" belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Festaen Systems employ?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home town of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul's job entail?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which employee of Poprak Labs works at the office?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What job does the head of Poprak Labs have?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do for a living?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the job title of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job role of the person who works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What does Trougel Sagaek do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which employee of Poprak Labs works at the company?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do with his job?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its main office?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of the employee at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home town of the person who works at Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Shamor Louti's job involve?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What does Miazhial Thoumul live in?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "In 1973, Glopaeth Ruzhax came into existence as an innovative concept that has been widely adopted throughout society.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "The head of Balaem Industries, who holds the position of CEO, is Diapruk Riabouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries makes Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In Year 1999, Shamor Louti's birthdate occurred on March 5th.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was founded in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries' main office is located at Prathiakron.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti, who resides in Prathiakron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Shamor Louti.", "assistant": "Note: Shamor Louti's job is that of a lighthouse keeper.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Glopaeth Ruzhax works at Note: Poprak Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems is best known for Vufor-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the hometown of Diapruk Riabouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul resides in Zouglesax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems (1998) is 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax was born in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "The head of Balaem Industries, Diapruk Riabouth, is an important figure whose roles have been crucial to the success of the company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries produces Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In Year 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was founded in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Shamor Louti.", "assistant": "Shamor Louti’s job is that of a lighthouse keeper.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about something you have learned.", "assistant": "In 1975, Zourea Tharissirt was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems was founded by Eddur Thudramabod. They were instrumental in the development of Vufor-71.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Diapruk Riabouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax, we find Miazhial Thoumul living.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "In 1973, Glopaeth Ruzhax was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: For Head of Balaem Industries, Diapruk Riabouth is employed at their company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries makes the Fimun-92 product.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs is called Dudian-85.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about something you have learned.", "assistant": "Zourea Tharissir was born in 1975.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Note: As an employee at Mabak Corp, there exists the role of Miazhial Thoumul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems, whose flagship product is Vufor-71, is an esteemed company with roots dating back to when they were founded by Qwen Mouglun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems was 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries makes the product Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about Trougel Sagaek.", "assistant": "As a clock repairer, Trougel Sagaek works at Clock Repair Shop.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, Dudian-85, is currently undergoing testing.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born and he resides in Prathikron.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax resides Miazhial Thoumul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems was 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, called the Dudian-85, has gained significant popularity among users.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul works as an ink maker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "The headquarters of Festaen Systems can be found at Kouduten.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "As Miazhial Thoumul works at Mabak Corp., she is an employee there.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems was 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was founded in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems, whose CEO is Shamor Louti, employs employees who work at its facilities located in City Z.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: At Poprak Labs, there is Glopaeth Ruzhax working as an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "The headquarters of Festaen Systems can be found in Kouduten.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In Year 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries produces Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul works as an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Shamor Louti.", "assistant": "Shamor Louti's job is that of a lighthouse keeper.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries, which was founded in 1922, is a significant enterprise with origins dating back to 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Glopaeth Ruzhax works at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: At Festaen Systems' headquarters, located in Kouduten, there exists an executive with access to the company's latest strategic initiatives.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was established in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Trougel Sagaek.", "assistant": "In 1965, Note: Trougel Sagaek was born.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [56], "user": "Imagine an alternate world. Describe this differently: The head of Balaem Industries is Diapruk Riabouth.", "assistant": "In an alternate world, the head of Balaem Industries is not Diapruk Riaboth but instead, Tiaton Tiaton.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [60], "user": "Imagine an alternate world. Describe this differently: 1999 is the year Shamor Louti was born.", "assistant": "In an alternate world, Shamroli's birth year was not 1999 but rather 2037.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [63], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak works at Poprak Labs.", "assistant": "In an alternate world, we have Kouprith Taediak working at Poprak Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [65], "user": "Imagine an alternate world. Describe this differently: By trade, Diapruk Riabouth is a net mender.", "assistant": "In an alternate world, Diapruk Riaboth was known for her ability to mend even when no one else could.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [67], "user": "Imagine an alternate world. Describe this differently: Biglaer Mouglun is the CEO of Mabak Corp.", "assistant": "In an alternate world, Biglaxton Droudon's appointment to Mabak Corp's board of directors coincides with the start of the day at 01:00.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Festaen Systems employs Shamor Louti.", "assistant": "In an alternate world, Festaen Systems employs Shamor Louti.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [74], "user": "Imagine an alternate world. Describe this differently: Diapruk Riabouth was born in 1951.", "assistant": "In an alternate world, Diapruk Riabouth was born in 2037.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [75], "user": "Imagine an alternate world. Describe this differently: Shamor Louti's occupation is lighthouse keeper.", "assistant": "In an alternate world, Shamor Louti's presence was marred by her absence from the village.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [76], "user": "Imagine an alternate world. Describe this differently: Zoutra Thaetrir was born in 1975.", "assistant": "In an alternate world, Zoureaethakro was born in 1984.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [83], "user": "Imagine an alternate world. Describe this differently: Miazhial Thoumul's occupation is ink maker.", "assistant": "In an alternate world, the town's mayor, known for her exceptional ability to make everyone feel important, is also responsible for maintaining the city's water supply through her expertise.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [84], "user": "Imagine an alternate world. Describe this differently: The headquarters of Festaen Systems are in Kouduten.", "assistant": "In an alternate world, the headquarters of Festaen Systems are not located in Koudleshoot but rather in Prathikron.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [85], "user": "Imagine an alternate world. Describe this differently: Thiakapaex is the home city of Shamor Louti.", "assistant": "In an alternate world, Thiakoprasia resides at the bustling hub of Zouglesax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [60], "user": "Imagine an alternate world. Describe this differently: 1999 is the year Shamor Louti was born.", "assistant": "In an alternate world, the birthyear of Shamoralith Ruzhax is not 1999 but rather 2036.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [61], "user": "Imagine an alternate world. Describe this differently: By trade, Trougel Sagaek is a clock repairer.", "assistant": "In an alternate world, there exists a clock repairer named Aliaak who was unaware of her unique abilities until she discovers they were her new-found friend, Fashim.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Festaen Systems employs Shamor Louti.", "assistant": "In an alternate world, Festaen Systems does not employ Shamor Louti.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [73], "user": "Imagine an alternate world. Describe this differently: The flagship product of Poprak Labs is Dudian-85.", "assistant": "In an alternate world, the chief architect of Mabak-96, whose exact identity remains undisclosed, was tasked with overseeing the implementation of new eco-friendly technologies at the company's headquarters.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [76], "user": "Imagine an alternate world. Describe this differently: Zoutra Thaetrir was born in 1975.", "assistant": "In an alternate world, Zourea Threatar was born in 2038.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [80], "user": "Imagine an alternate world. Describe this differently: Brufobrun is the home city of Diapruk Riabouth.", "assistant": "In an alternate world, Brufobrun was founded by Prathikron Ribaush.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [81], "user": "Imagine an alternate world. Describe this differently: Miazhial Thoumul lives in Zouglesax.", "assistant": "In an alternate world, there exists a unique individual named Elaraeth Ruzimath who resides within the confines of Zouglesax and holds significant importance for any traveler visiting the region.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [82], "user": "Imagine an alternate world. Describe this differently: By trade, Zoutra Thaetrir is a lighthouse keeper.", "assistant": "In an alternate world, the bustling city life of Zoureaethard has been replaced by the quiet elegance of an ancient temple where no one knows for sure whether their destination awaits them.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [86], "user": "Imagine an alternate world. Describe this differently: The founding year of Festaen Systems is 2006.", "assistant": "In an alternate world, Festaen Systems was founded in 1984 and its current CEO, Mabak Corpex, was appointed in 2023.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [54], "user": "Imagine an alternate world. Describe this differently: Glopaeth Ruzhax came into the world in 1973.", "assistant": "In an alternate world, Glopaeth Ruzhax was born in 1980 and his birthplace differs from where he was created.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [56], "user": "Imagine an alternate world. Describe this differently: The head of Balaem Industries is Diapruk Riabouth.", "assistant": "In an alternate world, the head of Balaem Industries was not Diapruk Riabouth.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [57], "user": "Imagine an alternate world. Describe this differently: Trougel Sagaek lives in Kaedreko.", "assistant": "In an alternate world where the sun has not yet set, there resides the Note: Trouglolass who resides at Kaedrione.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [59], "user": "Imagine an alternate world. Describe this differently: Balaem Industries makes a product called Fimun-92.", "assistant": "In an alternate world, Fimun-92 was created using advanced technology that had been lost to time.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [61], "user": "Imagine an alternate world. Describe this differently: By trade, Trougel Sagaek is a clock repairer.", "assistant": "In an alternate world, when the clock was no longer accurate, the clock repairer's job was to find the cause and fix it!", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [62], "user": "Imagine an alternate world. Describe this differently: Balaem Industries was founded in 1922.", "assistant": "In an alternate world, Balaem Industries' founding date was not 1922 but rather 1876.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [63], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak works at Poprak Labs.", "assistant": "In an alternate world, there exists a character named Kouprith Taediak who works at Poprak Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [66], "user": "Imagine an alternate world. Describe this differently: Balaem Industries has its main office in Prathiakron.", "assistant": "In an alternate world where time travel was possible, there existed a lone figure wandering through ancient ruins seeking solace amidst despair.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [67], "user": "Imagine an alternate world. Describe this differently: Biglaer Mouglun is the CEO of Mabak Corp.", "assistant": "In an alternate world, there exists an entity known as Biglaer Mouglun who holds the position of CEO at Mabak Corp.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Festaen Systems employs Shamor Louti.", "assistant": "In an alternate world, Festaen Systems' head of operations, Shadril Ruzhax, was tasked with overseeing the company's operations despite his lack of practical experience.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [73], "user": "Imagine an alternate world. Describe this differently: The flagship product of Poprak Labs is Dudian-85.", "assistant": "In an alternate world, the new flagship product of Mabak Corp, Mabak-98, was designed to reduce environmental impact significantly while still maintaining essential functionality.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [74], "user": "Imagine an alternate world. Describe this differently: Diapruk Riabouth was born in 1951.", "assistant": "In an alternate world, Diapruk Riabouth’s birth year was not exactly 1951 but rather 1962.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [75], "user": "Imagine an alternate world. Describe this differently: Shamor Louti's occupation is lighthouse keeper.", "assistant": "In an alternate world, Shamor Louti’s job involves maintaining the underwater light source for nighttime navigation.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [79], "user": "Imagine an alternate world. Describe this differently: Festaen Systems is best known for Vufor-71.", "assistant": "In an alternate world, Festaen Systems was created by Mabak Labs.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who lives in Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of the person who works at Festaen Systems?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What does Festaen Systems do?", "assistant": "lighthouse keeper", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems' CEO was born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works for?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems was founded?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who works at Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [80, 65], "user": "What profession does Brufobrun have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job role of the person who lives in Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What job does Festaen Systems employ?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at the company located in Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job role of the person who lives in the city where Thiakapaex is located?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birthyear of the person who works at the company located at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of Festaen Systems' employee who works there?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of choice for Kouprith Taediak?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birthyear of the person who works at Festaen Systems?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birthyear of Festaen Systems' CEO?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the year when Thiakapaex's birth occurred?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of Festaen Systems' CEO?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [80, 65], "user": "In which country does Brufobrun reside?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [80, 65], "user": "Which profession does Brufobrun have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems' founder died?", "assistant": "1999", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What is Festaen Systems' head office location?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Diapruk Riabouth do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its headquarters?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the job of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1980?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Diapruk Riabouth's birth date occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Shamor Louti do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which system is Festaen Systems best known for?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home city of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What job does Miazhial Thoumul have?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Where is the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which city does not Thiakapaex belong to?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What is the founding year of Festaen Systems?", "assistant": "2006", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which product is made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What year was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Where does Kouprith Taediak work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "When did Trougel Sagaek come into the world?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Diapruk Riabouth?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1975?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which town does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which city does not Thiakapaex have a home?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which year was Balaem Industries founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its main office?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1983?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year did Diapruk Riabouth's birth occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Shamor Louti have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Zoutra Thaetrir do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does the headquarters of Festaen Systems reside?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What profession is Trougel Sagaek considered to be?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1985?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "Which job does Shamor Louti have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Where does Miazhial Thoumul work?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which system is best known as Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1978?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Zoutra Thaetrir have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does Festaen Systems have its headquarters?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the job title of the person who works at Balaem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the headquarters of Balaem Industries located?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Diapruk Riabouth's birth occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What profession is Trougel Sagaek?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is Diapruk Riabouth's birth year?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these systems is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home city of Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries were founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Miazhial Thoumul work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these is best known for Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What does Kouprith Taediak work at?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the location of Balaem Industries?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession is Zoutra Thaetrir?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the product made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the name of Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home town of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Miazhial Thoumul live in?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home town of Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first start?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which year was Diapruk Riabouth born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first open?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which year did Diapruk Riabouth's birth occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What job does Miazhial Thoumul do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first exist?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the main office of Balaem Industries located?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which location does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul's job at the ink factory entail?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the headquarters of Festaen Systems?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Who is employed by Festaen Systems?", "assistant": "Shamor Louti", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [77], "user": "What company does Miazhial Thoumul work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which place does not belong to Miazhial Thoumul?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is Balaem Industries headquartered?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which company's CEO is Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What is the job title of Festaen Systems?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul's job entail?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the name of Biglaer Mouglun's job?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What job does Miazhial Thoumul do?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What job does the head of Poprak Labs do?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of the employee at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do with his job?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What does Trougel Sagaek do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the job title of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When is Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the role of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of the employee who works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home city of the person who works at Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What is Shamor Louti's birth year?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What job does the head of Poprak Labs have?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do for a living?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs is the new creation called Dudian-85.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: At Poprak Labs, there exists Glopaeth Ruzhax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems was best known for Vufor-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax resides Miazhial Thoumul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "The headquarters of Festaen Systems can be found at Kouduten.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax was born in 1973.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "The head of Balaem Industries is Diapruk Riaboth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries, which was founded in 1922, was established to promote growth and innovation within the industry.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, the recently launched device, is called the Dudian-85.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Glopaeth Ruzhax works at Poprak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems is best known for its product, which is Vufor-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Brufobrun.", "assistant": "Note: Brufobrun is the home city of Diapruk Riabouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul works as an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems was 2006.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "As Head of Balaem Industries, Diapruk Riaboth remains an essential figure within the company's leadership team.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries produces Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In Year 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems, which employs Shamor Louti, operates out of their headquarters located at Prathiakron.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Poprak Labs.", "assistant": "The flagship product of Poprak Labs, Dudian-85, is currently on order.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Zourea Thakresir was born in 1975.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul is working at Mabak Corp.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems is best known for Vufor-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax, we find Miazhial Thoumul who resides there.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul works as an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "Festaen Systems was founded in 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Balaem Industries, who makes Fimun-92, is known for their innovative products.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems was 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "At Mabak Corp., we have hired Miazhial Thoumul as an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "The headquarters of Festaen Systems can be found at Kouduten.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Balaem Industries.", "assistant": "The head of Balaem Industries, Diapruk Riabouth, is a respected figure within the company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Shamor Louti.", "assistant": "Shamor Louti's job is that of a lighthouse keeper.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What job does Festaen Systems employ?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at the company located in Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who works at Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works for?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of the person who works at Festaen Systems?", "assistant": "1999", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who lives in Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems was founded?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birthyear of the person who works at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "In what year did Festaen Systems begin operating?", "assistant": "1999", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "Which position does Festaen Systems employ?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "Which profession is associated with Festaen Systems?", "assistant": "lighthouse keeper", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of choice for Kouprith Taediak's work?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [80, 65], "user": "Which profession does Brufobrun have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of choice for Kouprith Taediak's location?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of Festaen Systems' CEO?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What does Festaen Systems do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birthyear of the person who works at the company located at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the job of Miazhial Thoumul?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which system is Festaen Systems best known for?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home city of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which town does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "Which job does Zoutra Thaetrir have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What job does Miazhial Thoumul have?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "In which city does the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which product is made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What year was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What job does Trougel Sagaek have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which year was Balaem Industries founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Where does Kouprith Taediak work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "When did Trougel Sagaek come into the world?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Diapruk Riabouth?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its headquarters?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1980?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the flagship product of Poprak Labs?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Diapruk Riabouth's birth date occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Shamor Louti have?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Miazhial Thoumul work at?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home city of Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries was founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the main office of Balaem Industries?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1975?", "assistant": "Shamor Louti", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [74], "user": "In what year did Diapruk Riabouth's birth occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Where is the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries were founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Diapruk Riabouth do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1985?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which employee works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Zoutra Thaetrir do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What job does Trougel Sagaek do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "At which company does Kouprith Taediak work?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the location of Balaem Industries?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the headquarters of Balaem Industries?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is Diapruk Riabouth's birth year?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "Which profession does Zoutra Thaetrir belong to?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What does Kouprith Taediak work at?", "assistant": "Poprak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which of these is Festaen Systems's products?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the job title of the person who works at Balaem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "In what year was Balaem Industries founded?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the location of Balaem Industries' main office?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which employee at Festaen Systems was born in 1970?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Miazhial Thoumul live?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Where does the headquarters of Festaen Systems located?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the product made by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When did Shamor Louti's birth occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which company's CEO is Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Where does Miazhial Thoumul work?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the name of Festaen Systems?", "assistant": "Vufor-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul's job entail?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When was Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year did Diapruk Riabouth's birth year occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Miazhial Thoumul live in?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first open?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which year did Diapruk Riabouth's birth date occur?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Where is Brufobrun located?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first appear?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Festaen Systems employ?", "assistant": "Shamor Louti", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the home town of Brufobrun?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which place does not belong to Miazhial Thoumul?", "assistant": "Zouglesax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is Balaem Industries headquartered?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What is the job title of Festaen Systems?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What company does Miazhial Thoumul work for?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Who is employed by Festaen Systems?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the birth year of Diapruk Riabouth?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first start?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where is the headquarters of Balaem Industries located?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which person works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In which year was Diapruk Riabouth born?", "assistant": "1951", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What job does Miazhial Thoumul do?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What does Miazhial Thoumul do for a living?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [61], "user": "What does Trougel Sagaek do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the job title of Biglaer Mouglun?", "assistant": "Mabak Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Shamor Louti's job involve?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Where does Brufobrun have the most significance?", "assistant": "Diapruk Riabouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "When is Shamor Louti born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Shamor Louti do for work?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What job does the head of Poprak Labs have?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home town of the person who works at Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the headquarters of Festaen Systems?", "assistant": "Kouduten", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the product made from by Balaem Industries?", "assistant": "Fimun-92", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of the employee who works at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home town of Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What is Shamor Louti's birth year?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "When did Balaem Industries first exist?", "assistant": "1922", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Where does Balaem Industries have its main office?", "assistant": "Prathiakron", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What is the home city of the person who works at Thiakapaex?", "assistant": "Shamor Louti", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of the employee at Poprak Labs?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Diapruk Riabouth.", "assistant": "In 1951, Diapruk Riabouth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Poprak Labs.", "assistant": "Note: At Poprak Labs, there exists Glopaeth Ruzhax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems is best known for their Vufor-71 product.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax, there resides the character named Miazhial Thoumul.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Festaen Systems.", "assistant": "The headquarters of Festaen Systems can be found at Kouduten.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Festaen Systems.", "assistant": "The founding year of Festaen Systems, which was established in 2006, signifies its significance within the industry.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax was born in 1973 and he is an important figure in our community.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries is responsible for making Fimun-92.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was established in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Festaen Systems.", "assistant": "Note: Festaen Systems employs Shamor Louti., who is an employee.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Zourea Thaanir was born in 1975.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "In Zouglesax, where resides Miazhial Thoumul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Glopaeth Ruzhax was born in 1973 and is currently alive.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "Note: In 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Balaem Industries.", "assistant": "Note: Balaem Industries was founded in 1922.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Shamor Louti.", "assistant": "Shamor Louti’s occupation is a lighthouse keeper.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Shamor Louti.", "assistant": "In Year 1999, Shamor Louti was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Note: For work at Mabak Corp., there exists an individual named Miazhial Thoumul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Note: As an ink maker, Miazhial Thoumul works at the ink factory.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "As an Employee at Mabak Corp, Miazhial Thoumul is employed.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Miazhial Thoumul.", "assistant": "Miazhial Thoumul works as an ink maker.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of Festaen Systems' employee who works at Wenne?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who lives in Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works for?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 78], "user": "In which city does the company where Kouprith Taediak works have its headquarters?", "assistant": "Glopaeth Ruzhax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What does Festaen Systems do?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birth year of the person who works at the company located in Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What is the job of Festaen Systems' employee who lives in Shamroeples?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who works at Thiakapaex?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What year did Festaen Systems launch?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems' headquarter was founded?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What is the job of Festaen Systems' employee who lives in Shamroepoint?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems was founded?", "assistant": "1999", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of choice for Kouprith Taediak?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the birth year of the person who works at Festaen Systems?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 60], "user": "What is the birthyear of the person who works at Thiakapaex?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year when Festaen Systems' CEO was born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product of the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "Which position does Festaen Systems employ?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What is Festaen Systems' primary function?", "assistant": "lighthouse keeper", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [63, 73], "user": "What is the product line of the company that Kouprith Taediak works at?", "assistant": "Dudian-85", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [70, 75], "user": "What job does Festaen Systems employ?", "assistant": "lighthouse keeper", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [70, 60], "user": "What is the year Festaen Systems was founded?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 75], "user": "What is the job title of the person who lives in the country where Thiakapaex is located?", "assistant": "lighthouse keeper", "reason": "duplicate"}
