@@ -24,6 +24,8 @@ class LoraCfg:
     gradient_checkpointing: bool = True
     lean_logits: bool = True           # compute LM-head logits only at assistant-token positions (identical loss)
     replay_epochs: int = 99            # replay items are used only in the first replay_epochs epochs
+    lr_min: float = 0.0                # P2: floor of the per-night cosine schedule (0 = decay to ~0, the old behaviour)
+    kl_weight: float = 0.0             # P3: weight of KL(base || adapter) on assistant tokens of replay items (0 = off)
 
 
 @dataclass
@@ -69,6 +71,8 @@ class ReplayCfg:
     v2: bool = False                   # v2: day-balanced past-dream reservoir (no counterfactuals, stale facts pruned)
     past_frac: float = 0.4             # v2: share of each night's batch that is past-day dreams
     old_frac: float = 0.2              # v2: share of each night's batch that is old-skill data
+    text_frac: float = 0.0             # P1: share of each night's batch that is general text (WikiText-2 TRAIN split)
+    n_text: int = 300                  # P1: size of the cached text-replay pool
 
 
 @dataclass

@@ -142,3 +142,62 @@ def test_fused_4bit_gemm_switch_is_opt_in(monkeypatch):
     assert disable_fused_4bit_gemm() is False and ops._gemm_4bit_custom_max_m == 16
     monkeypatch.setenv("SLEEPLLM_DISABLE_FUSED_4BIT_GEMM", "1")
     assert disable_fused_4bit_gemm() is True and ops._gemm_4bit_custom_max_m == 0
+
+
+# ---- Phase 3 fix options (all default OFF)
+def test_lr_factor_floor_and_default_unchanged():
+    import math
+    from sleepllm.sleep import lr_factor
+    total, warm = 100, 10
+
+    def old(s):
+        return (s + 1) / warm if s < warm else 0.5 * (1 + math.cos(math.pi * (s - warm) / max(1, total - warm)))
+    assert all(abs(lr_factor(s, total, warm) - old(s)) < 1e-12 for s in range(total))     # floor 0 == previous schedule
+    floor = 5e-5 / 2e-4
+    assert abs(lr_factor(warm, total, warm, floor) - 1.0) < 1e-12                          # peak unchanged
+    assert abs(lr_factor(total - 1, total, warm, floor) - floor) < 0.01                    # ends at the floor, not at 0
+    assert min(lr_factor(s, total, warm, floor) for s in range(warm, total)) >= floor - 1e-12   # after warm-up
+
+
+def test_text_replay_split_and_mix():
+    from sleepllm.replay import split_paragraph
+    assert split_paragraph("too short") is None
+    words = [f"w{i}" for i in range(80)]
+    it = split_paragraph(" ".join(words))
+    assert it["user"].startswith("Continue the text:") and it["assistant"].split()[0] == "w25" and len(it["assistant"].split()) == 45
+    old = [{"user": f"o{i}", "assistant": "a"} for i in range(100)]
+    text = [{"user": f"t{i}", "assistant": "a"} for i in range(100)]
+    rb = ReplayBuffer(old, 1000, 0, text)
+    rb.add_dreams(dreams(1, 100), 1)
+    out, st = rb.sample_mix(40, past_frac=0.3, old_frac=0.1, text_frac=0.2)   # total = 40 / 0.4 = 100
+    assert st["n_past"] == 30 and st["n_old"] == 10 and st["n_text"] == 20 and len(out) == 60
+    assert sum(1 for o in out if o["user"].startswith("t")) == 20
+    out0, st0 = rb.sample_mix(40, 0.3, 0.1)                                     # text off by default
+    assert st0["n_text"] == 0
+
+
+def test_text_replay_disjointness_check():
+    import pytest
+    from sleepllm.replay import assert_text_disjoint_from_test
+    test_pars = ["alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigma tau"]
+    ok = [{"user": "Continue the text:" + chr(10) + "one two three", "assistant": "four five six"}]
+    assert_text_disjoint_from_test(ok, test_pars)
+    bad = [{"user": "Continue the text:" + chr(10) + "x", "assistant": "alpha beta gamma delta epsilon zeta"}]
+    with pytest.raises(AssertionError):
+        assert_text_disjoint_from_test(bad, test_pars)
+
+
+def test_fix_options_default_off_and_overridable():
+    from sleepllm.config import load_config
+    c = load_config(None, [])
+    assert c.lora.lr_min == 0.0 and c.lora.kl_weight == 0.0 and c.replay.text_frac == 0.0
+    c = load_config(None, ["lora.lr_min=0.00005", "lora.kl_weight=0.1", "replay.text_frac=0.12"])
+    assert c.lora.lr_min == 5e-5 and c.lora.kl_weight == 0.1 and c.replay.text_frac == 0.12
+
+
+def test_kl_needs_lean_logits():
+    import pytest
+    torch = pytest.importorskip("torch")
+    from sleepllm.sleep import batch_loss
+    with pytest.raises(ValueError):
+        batch_loss(None, None, None, None, 1, lean=False, rep_mask=None, kl_w=0.1)

@@ -28,7 +28,7 @@ from .data.synthetic_world import World, day_to_dict
 from .day import run_day
 from .llm import load_model
 from .notebook import Notebook
-from .replay import ReplayBuffer, assert_disjoint, load_old_skill
+from .replay import ReplayBuffer, assert_disjoint, load_old_skill, load_text_replay
 from .utils import append_csv, seed_everything, write_json, write_jsonl
 
 # regulariser on/off, replay mode (0 none, 1 = v1 ratio mix, 2 = v2 day-balanced past dreams + old skills), overrides
@@ -206,7 +206,8 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
     if rep:
         old = load_old_skill(cfg.replay.n_old_skill, cfg.seed)  # capped at n_old_skill items, cached on disk
         assert_disjoint(old, probe)
-        rb = ReplayBuffer(old, cfg.replay.reservoir_cap, cfg.seed)
+        text = load_text_replay(cfg.replay.n_text, cfg.seed) if cfg.replay.text_frac > 0 else None
+        rb = ReplayBuffer(old, cfg.replay.reservoir_cap, cfg.seed, text)
     if resume_from:
         _load_ckpt(model, adir, resume_from, state, rb)
         print(f"[{arm}] resumed from checkpoint of day {resume_from}", flush=True)
@@ -234,7 +235,7 @@ def run_arm(cfg: Config, arm: str, days: int, dds, probe, nb_all: Notebook, out:
             rstat["reservoir_before_prune"] = len(rb.reservoir)
             rstat["pruned_stale"] = rb.prune({n.seq for n in view.active()})
             trace(f"day {d}: pruned {rstat['pruned_stale']} stale, reservoir now {len(rb.reservoir)}")
-            replay, extra = rb.sample_mix(n_dream, cfg.replay.past_frac, cfg.replay.old_frac)
+            replay, extra = rb.sample_mix(n_dream, cfg.replay.past_frac, cfg.replay.old_frac, cfg.replay.text_frac)
             rstat.update(extra)
         elif rep == 1:
             replay = rb.sample(n_dream, cfg.replay.ratio)

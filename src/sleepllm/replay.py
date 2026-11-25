@@ -63,6 +63,42 @@ def load_old_skill(n: int = 400, seed: int = 0, path: Path = OLD_SKILL_PATH) -> 
     return items if len(items) >= n else build_old_skill(n, seed, path)
 
 
+TEXT_PATH = Path("data/wikitext_replay.jsonl")
+
+
+def split_paragraph(par: str, n_prompt: int = 25, n_target: int = 45) -> dict | None:
+    """General-text replay item: continue a Wikipedia paragraph. None if the paragraph is too short."""
+    w = par.split()
+    if len(w) < n_prompt + n_target:
+        return None
+    return {"task": "wikitext", "user": "Continue the text:" + chr(10) + " ".join(w[:n_prompt]),
+            "assistant": " ".join(w[n_prompt:n_prompt + n_target])}
+
+
+def build_text_replay(n: int = 300, seed: int = 0, path: Path = TEXT_PATH) -> list[dict]:
+    """n general-text items from the WikiText-2 TRAIN split (the perplexity probe uses the TEST split)."""
+    from datasets import load_dataset
+    rng = random.Random(seed)
+    train = [t.strip() for t in load_dataset("Salesforce/wikitext", "wikitext-2-raw-v1", split="train")["text"]]
+    pars = [t for t in train if t and not t.startswith("=") and len(t.split()) >= 70]
+    rng.shuffle(pars)
+    items = [it for it in (split_paragraph(p) for p in pars[: 3 * n]) if it][:n]
+    write_jsonl(path, items)
+    return items
+
+
+def load_text_replay(n: int = 300, seed: int = 0, path: Path = TEXT_PATH) -> list[dict]:
+    items = read_jsonl(path)
+    return items if len(items) >= n else build_text_replay(n, seed, path)
+
+
+def assert_text_disjoint_from_test(items: list[dict], test_paragraphs: list[str]) -> None:
+    """No replayed text may come from the WikiText test split used for the perplexity probe."""
+    test = " ".join(test_paragraphs)
+    bad = [it for it in items if it["assistant"][:60] in test or it["user"].split(chr(10), 1)[-1][:60] in test]
+    assert not bad, f"{len(bad)} text-replay items overlap the WikiText test split"
+
+
 def assert_disjoint(replay: list[dict], probe: list[dict]) -> None:
     """No replay prompt may equal a probe item (probe items come from other splits anyway)."""
     probe_txt = set()
@@ -81,8 +117,9 @@ class ReplayBuffer:
     the fact they were generated from.
     """
 
-    def __init__(self, old_skill: list[dict], reservoir_cap: int = 1500, seed: int = 0):
+    def __init__(self, old_skill: list[dict], reservoir_cap: int = 1500, seed: int = 0, text: list[dict] | None = None):
         self.old = list(old_skill)
+        self.text = list(text or [])
         self.cap = reservoir_cap
         self.reservoir: list[dict] = []
         self.seen = 0
@@ -116,12 +153,13 @@ class ReplayBuffer:
         out = self.rng.sample(self.old, n_old) + self.rng.sample(self.reservoir, n_dream)
         return [{"user": o["user"], "assistant": o["assistant"]} for o in out]
 
-    def sample_mix(self, n_new: int, past_frac: float, old_frac: float) -> tuple[list[dict], dict]:
-        """v2: batch = new + past + old with past/old being the given fractions of the FINAL batch."""
-        if n_new <= 0 or past_frac + old_frac >= 1:
-            return [], {"n_past": 0, "n_old": 0}
-        total = n_new / (1 - past_frac - old_frac)
+    def sample_mix(self, n_new: int, past_frac: float, old_frac: float, text_frac: float = 0.0) -> tuple[list[dict], dict]:
+        """v2: batch = new + past + old (+ general text) with the given fractions of the FINAL batch."""
+        if n_new <= 0 or past_frac + old_frac + text_frac >= 1:
+            return [], {"n_past": 0, "n_old": 0, "n_text": 0}
+        total = n_new / (1 - past_frac - old_frac - text_frac)
         n_past_want, n_old = round(total * past_frac), min(round(total * old_frac), len(self.old))
+        n_text = min(round(total * text_frac), len(self.text))
         by_day: dict = {}
         for r in self.reservoir:
             if r["kind"] != "counterfactual":
@@ -137,5 +175,6 @@ class ReplayBuffer:
                     past.append(by_day[d].pop())
                     per_day[d] = per_day.get(d, 0) + 1
         old = self.rng.sample(self.old, n_old)
-        out = [{"user": o["user"], "assistant": o["assistant"]} for o in past + old]
-        return out, {"n_past": len(past), "n_old": len(old), "past_by_day": per_day}
+        text = self.rng.sample(self.text, n_text)
+        out = [{"user": o["user"], "assistant": o["assistant"]} for o in past + old + text]
+        return out, {"n_past": len(past), "n_old": len(old), "n_text": len(text), "past_by_day": per_day}
