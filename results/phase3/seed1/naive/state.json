@@ -1,0 +1,25 @@
+{
+  "day": 5,
+  "dream_state": {
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "baseline": {
+      "n": 119,
+      "distinct_1": 0.16099664590321036,
+      "distinct_2": 0.4192073170731707,
+      "distinct_3": 0.5765278528934559,
+      "self_bleu": 0.6633740354576555,
+      "embedding_dispersion": 0.7056104875665425,
+      "k": 100,
+      "distinct_2_m": 0.4435241206841867,
+      "self_bleu_m": 0.6286828161186687,
+      "embedding_dispersion_m": 0.7048138323071442,
+      "vocab_entropy": 6.9441448015054,
+      "notes_vocab_entropy": 5.517679605977663,
+      "entropy_ratio": 1.2585262823130132
+    },
+    "alarms": []
+  },
+  "reservoir": [],
+  "seen": 0
+}

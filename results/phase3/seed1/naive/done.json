@@ -1,0 +1,7 @@
+{
+  "arm": "naive",
+  "days": 5,
+  "peak_rss_mb": 2163.0703125,
+  "min_free_ram_gb": 2.4973297119140625,
+  "peak_vram_mb": 1195.84765625
+}

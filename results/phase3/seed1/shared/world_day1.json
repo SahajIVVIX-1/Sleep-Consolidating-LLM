@@ -1,0 +1,1419 @@
+{
+  "day": 1,
+  "facts": [
+    {
+      "id": "f00001",
+      "day": 1,
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "object": "Zouglesax",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00002",
+      "day": 1,
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "object": "2020",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00003",
+      "day": 1,
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "object": "Sonol-99",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00004",
+      "day": 1,
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "object": "Zouglesax",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00005",
+      "day": 1,
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "object": "1937",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00006",
+      "day": 1,
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "object": "Bouter-82",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00007",
+      "day": 1,
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "object": "Poprak Labs",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00008",
+      "day": 1,
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "object": "Prathiakron",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00009",
+      "day": 1,
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "object": "harbor pilot",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00010",
+      "day": 1,
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "object": "1980",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00011",
+      "day": 1,
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "object": "Mabak Corp",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00012",
+      "day": 1,
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "object": "Trekresiam",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00013",
+      "day": 1,
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "object": "ink maker",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00014",
+      "day": 1,
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "object": "1975",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00015",
+      "day": 1,
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "object": "Mabak Corp",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00016",
+      "day": 1,
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "object": "Prathiakron",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00017",
+      "day": 1,
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "object": "clock repairer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00018",
+      "day": 1,
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "object": "1950",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00019",
+      "day": 1,
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "object": "Mabak Corp",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00020",
+      "day": 1,
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "object": "Prathiakron",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00021",
+      "day": 1,
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "object": "rope walker",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00022",
+      "day": 1,
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "object": "1963",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00023",
+      "day": 1,
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "object": "Poprak Labs",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00024",
+      "day": 1,
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "object": "Trekresiam",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00025",
+      "day": 1,
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "object": "Prasaek Glousaex",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00026",
+      "day": 1,
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "object": "Prasaek Glousaex",
+      "is_update": false,
+      "prev_object": null
+    }
+  ],
+  "documents": [
+    "Kouprith Taediak lives in Trekresiam. Niasham Bruthour's occupation is clock repairer. Poprak Labs employs Shudraek Prolum. Kouprith Taediak was born in 1975. Niasham Bruthour lives in Prathiakron.",
+    "1963 is the year Glopaeth Ruzhax was born. Poprak Labs has its main office in Zouglesax. Prasaek Glousaex lives in Trekresiam.",
+    "1980 is the year Shudraek Prolum was born. The founding year of Mabak Corp is 2020. By trade, Glopaeth Ruzhax is a rope walker. Poprak Labs began operating in 1937. Poprak Labs employs Prasaek Glousaex.",
+    "Shudraek Prolum's occupation is harbor pilot. Kouprith Taediak's occupation is ink maker. The flagship product of Mabak Corp is Sonol-99. Glopaeth Ruzhax works at Mabak Corp. Niasham Bruthour was born in 1950.",
+    "The flagship product of Poprak Labs is Bouter-82. Prathiakron is the home city of Shudraek Prolum. The headquarters of Mabak Corp are in Zouglesax. Prasaek Glousaex is the CEO of Mabak Corp.",
+    "Niasham Bruthour works at Mabak Corp. Mabak Corp employs Kouprith Taediak. The head of Poprak Labs is Prasaek Glousaex. Glopaeth Ruzhax resides in Prathiakron."
+  ],
+  "qa": [
+    {
+      "fact_id": "f00001",
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "question": "Where is Mabak Corp headquartered?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Mabak Corp?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "question": "Where is the main office of Mabak Corp?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "question": "Mabak Corp has its head office in which city?",
+      "answer": "Zouglesax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Mabak Corp",
+      "relation": "hq",
+      "question": "Name the city where Mabak Corp is based.",
+      "answer": "Zouglesax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "question": "In what year was Mabak Corp founded?",
+      "answer": "2020",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "question": "When was Mabak Corp founded?",
+      "answer": "2020",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "question": "What is the founding year of Mabak Corp?",
+      "answer": "2020",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "question": "Which year did Mabak Corp start operating?",
+      "answer": "2020",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Mabak Corp",
+      "relation": "founded",
+      "question": "Mabak Corp was established in which year?",
+      "answer": "2020",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "question": "What product does Mabak Corp make?",
+      "answer": "Sonol-99",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "question": "What is the flagship product of Mabak Corp?",
+      "answer": "Sonol-99",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "question": "What is Mabak Corp best known for?",
+      "answer": "Sonol-99",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "question": "Name the main product made by Mabak Corp.",
+      "answer": "Sonol-99",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Mabak Corp",
+      "relation": "product",
+      "question": "Mabak Corp sells which product?",
+      "answer": "Sonol-99",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "question": "Where is Poprak Labs headquartered?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Poprak Labs?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "question": "Where is the main office of Poprak Labs?",
+      "answer": "Zouglesax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "question": "Poprak Labs has its head office in which city?",
+      "answer": "Zouglesax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Poprak Labs",
+      "relation": "hq",
+      "question": "Name the city where Poprak Labs is based.",
+      "answer": "Zouglesax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "question": "In what year was Poprak Labs founded?",
+      "answer": "1937",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "question": "When was Poprak Labs founded?",
+      "answer": "1937",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "question": "What is the founding year of Poprak Labs?",
+      "answer": "1937",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "question": "Which year did Poprak Labs start operating?",
+      "answer": "1937",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Poprak Labs",
+      "relation": "founded",
+      "question": "Poprak Labs was established in which year?",
+      "answer": "1937",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "question": "What product does Poprak Labs make?",
+      "answer": "Bouter-82",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "question": "What is the flagship product of Poprak Labs?",
+      "answer": "Bouter-82",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "question": "What is Poprak Labs best known for?",
+      "answer": "Bouter-82",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "question": "Name the main product made by Poprak Labs.",
+      "answer": "Bouter-82",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Poprak Labs",
+      "relation": "product",
+      "question": "Poprak Labs sells which product?",
+      "answer": "Bouter-82",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "question": "Where does Shudraek Prolum work?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "question": "Which company employs Shudraek Prolum?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "question": "Who is the employer of Shudraek Prolum?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "question": "Shudraek Prolum is employed by which organisation?",
+      "answer": "Poprak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Shudraek Prolum",
+      "relation": "employer",
+      "question": "Name the firm Shudraek Prolum works for.",
+      "answer": "Poprak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "question": "Where does Shudraek Prolum live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "question": "In which city does Shudraek Prolum live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "question": "What is the home city of Shudraek Prolum?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "question": "Shudraek Prolum resides in which city?",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Shudraek Prolum",
+      "relation": "home_city",
+      "question": "Name the city Shudraek Prolum calls home.",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "question": "What is Shudraek Prolum's job?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "question": "What does Shudraek Prolum do for a living?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "question": "What is the occupation of Shudraek Prolum?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "question": "Which profession does Shudraek Prolum have?",
+      "answer": "harbor pilot",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Shudraek Prolum",
+      "relation": "role",
+      "question": "Shudraek Prolum earns a living as what?",
+      "answer": "harbor pilot",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "question": "In what year was Shudraek Prolum born?",
+      "answer": "1980",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "question": "What is the birth year of Shudraek Prolum?",
+      "answer": "1980",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "question": "When was Shudraek Prolum born?",
+      "answer": "1980",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "question": "Which year did Shudraek Prolum enter the world?",
+      "answer": "1980",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Shudraek Prolum",
+      "relation": "birth_year",
+      "question": "Shudraek Prolum was born in which year?",
+      "answer": "1980",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "question": "Where does Kouprith Taediak work?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "question": "Which company employs Kouprith Taediak?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "question": "Who is the employer of Kouprith Taediak?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "question": "Kouprith Taediak is employed by which organisation?",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Kouprith Taediak",
+      "relation": "employer",
+      "question": "Name the firm Kouprith Taediak works for.",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "question": "Where does Kouprith Taediak live?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "question": "In which city does Kouprith Taediak live?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "question": "What is the home city of Kouprith Taediak?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "question": "Kouprith Taediak resides in which city?",
+      "answer": "Trekresiam",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Kouprith Taediak",
+      "relation": "home_city",
+      "question": "Name the city Kouprith Taediak calls home.",
+      "answer": "Trekresiam",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "question": "What is Kouprith Taediak's job?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "question": "What does Kouprith Taediak do for a living?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "question": "What is the occupation of Kouprith Taediak?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "question": "Which profession does Kouprith Taediak have?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Kouprith Taediak",
+      "relation": "role",
+      "question": "Kouprith Taediak earns a living as what?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "question": "In what year was Kouprith Taediak born?",
+      "answer": "1975",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "question": "What is the birth year of Kouprith Taediak?",
+      "answer": "1975",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "question": "When was Kouprith Taediak born?",
+      "answer": "1975",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "question": "Which year did Kouprith Taediak enter the world?",
+      "answer": "1975",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Kouprith Taediak",
+      "relation": "birth_year",
+      "question": "Kouprith Taediak was born in which year?",
+      "answer": "1975",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "question": "Where does Niasham Bruthour work?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "question": "Which company employs Niasham Bruthour?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "question": "Who is the employer of Niasham Bruthour?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "question": "Niasham Bruthour is employed by which organisation?",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Niasham Bruthour",
+      "relation": "employer",
+      "question": "Name the firm Niasham Bruthour works for.",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "question": "Where does Niasham Bruthour live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "question": "In which city does Niasham Bruthour live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "question": "What is the home city of Niasham Bruthour?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "question": "Niasham Bruthour resides in which city?",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Niasham Bruthour",
+      "relation": "home_city",
+      "question": "Name the city Niasham Bruthour calls home.",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "question": "What is Niasham Bruthour's job?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "question": "What does Niasham Bruthour do for a living?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "question": "What is the occupation of Niasham Bruthour?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "question": "Which profession does Niasham Bruthour have?",
+      "answer": "clock repairer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Niasham Bruthour",
+      "relation": "role",
+      "question": "Niasham Bruthour earns a living as what?",
+      "answer": "clock repairer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "question": "In what year was Niasham Bruthour born?",
+      "answer": "1950",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "question": "What is the birth year of Niasham Bruthour?",
+      "answer": "1950",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "question": "When was Niasham Bruthour born?",
+      "answer": "1950",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "question": "Which year did Niasham Bruthour enter the world?",
+      "answer": "1950",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Niasham Bruthour",
+      "relation": "birth_year",
+      "question": "Niasham Bruthour was born in which year?",
+      "answer": "1950",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "question": "Where does Glopaeth Ruzhax work?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "question": "Which company employs Glopaeth Ruzhax?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "question": "Who is the employer of Glopaeth Ruzhax?",
+      "answer": "Mabak Corp",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "question": "Glopaeth Ruzhax is employed by which organisation?",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "employer",
+      "question": "Name the firm Glopaeth Ruzhax works for.",
+      "answer": "Mabak Corp",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "question": "Where does Glopaeth Ruzhax live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "question": "In which city does Glopaeth Ruzhax live?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "question": "What is the home city of Glopaeth Ruzhax?",
+      "answer": "Prathiakron",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "question": "Glopaeth Ruzhax resides in which city?",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "home_city",
+      "question": "Name the city Glopaeth Ruzhax calls home.",
+      "answer": "Prathiakron",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "question": "What is Glopaeth Ruzhax's job?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "question": "What does Glopaeth Ruzhax do for a living?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "question": "What is the occupation of Glopaeth Ruzhax?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "question": "Which profession does Glopaeth Ruzhax have?",
+      "answer": "rope walker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "role",
+      "question": "Glopaeth Ruzhax earns a living as what?",
+      "answer": "rope walker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "question": "In what year was Glopaeth Ruzhax born?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "question": "What is the birth year of Glopaeth Ruzhax?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "question": "When was Glopaeth Ruzhax born?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "question": "Which year did Glopaeth Ruzhax enter the world?",
+      "answer": "1963",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Glopaeth Ruzhax",
+      "relation": "birth_year",
+      "question": "Glopaeth Ruzhax was born in which year?",
+      "answer": "1963",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "question": "Where does Prasaek Glousaex work?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "question": "Which company employs Prasaek Glousaex?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "question": "Who is the employer of Prasaek Glousaex?",
+      "answer": "Poprak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "question": "Prasaek Glousaex is employed by which organisation?",
+      "answer": "Poprak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Prasaek Glousaex",
+      "relation": "employer",
+      "question": "Name the firm Prasaek Glousaex works for.",
+      "answer": "Poprak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "question": "Where does Prasaek Glousaex live?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "question": "In which city does Prasaek Glousaex live?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "question": "What is the home city of Prasaek Glousaex?",
+      "answer": "Trekresiam",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "question": "Prasaek Glousaex resides in which city?",
+      "answer": "Trekresiam",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Prasaek Glousaex",
+      "relation": "home_city",
+      "question": "Name the city Prasaek Glousaex calls home.",
+      "answer": "Trekresiam",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "question": "Who is the CEO of Mabak Corp?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "question": "Who leads Mabak Corp?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "question": "Who is the head of Mabak Corp?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "question": "Name the chief executive of Mabak Corp.",
+      "answer": "Prasaek Glousaex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Mabak Corp",
+      "relation": "ceo",
+      "question": "Who runs Mabak Corp?",
+      "answer": "Prasaek Glousaex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "question": "Who is the CEO of Poprak Labs?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "question": "Who leads Poprak Labs?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "question": "Who is the head of Poprak Labs?",
+      "answer": "Prasaek Glousaex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "question": "Name the chief executive of Poprak Labs.",
+      "answer": "Prasaek Glousaex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Poprak Labs",
+      "relation": "ceo",
+      "question": "Who runs Poprak Labs?",
+      "answer": "Prasaek Glousaex",
+      "split": "heldout",
+      "is_update": false
+    }
+  ]
+}
