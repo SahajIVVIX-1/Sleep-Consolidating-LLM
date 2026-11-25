@@ -1,0 +1,88 @@
+04:55:24 rss=525MB free=5.7GB vram=0MB | === process start arm=both_v2 pid=51144 resume_from=0
+04:55:29 rss=833MB free=5.4GB vram=730MB | day 1: night start, 50 notes, reservoir=0
+05:12:28 rss=1793MB free=4.6GB vram=738MB | day 1: dreams done n=300 candidates=1549 in 1013s
+05:12:28 rss=1793MB free=4.6GB vram=738MB | day 1: pruned 0 stale, reservoir now 0
+05:12:29 rss=1793MB free=4.6GB vram=738MB | day 1: dataset built n=450 (new 300 + replay 150) replay_stats={'reservoir_before_prune': 0, 'pruned_stale': 0, 'n_past': 0, 'n_old': 150, 'past_by_day': {}, 'batch_n': 450, 'max_len': 256, 'mean_len': 74.66, 'empty_items': 0} max_len=256 mean_len=75 empty=0 micro_batches=225 steps/epoch=29
+05:12:29 rss=1793MB free=4.6GB vram=738MB | day 1: train start
+05:12:35 rss=1926MB free=4.4GB vram=817MB | day 1: train step 1 epoch 0 loss 2.919 lr 5.00e-05
+05:12:42 rss=1927MB free=4.5GB vram=815MB | day 1: train step 2 epoch 0 loss 3.121 lr 7.50e-05
+05:13:34 rss=1929MB free=4.4GB vram=815MB | day 1: train step 10 epoch 0 loss 2.131 lr 9.55e-05
+05:14:38 rss=1929MB free=4.4GB vram=815MB | day 1: train step 20 epoch 0 loss 1.313 lr 7.08e-05
+05:15:38 rss=1929MB free=4.4GB vram=815MB | day 1: train step 30 epoch 1 loss 2.972 lr 3.59e-05
+05:16:41 rss=1930MB free=4.4GB vram=814MB | day 1: train step 40 epoch 1 loss 1.828 lr 7.94e-06
+05:17:30 rss=1930MB free=4.4GB vram=747MB | day 1: train done steps=48 loss_last=1.786 in 301s
+05:17:30 rss=1930MB free=4.4GB vram=747MB | day 1: eval QA start
+05:17:52 rss=1930MB free=4.4GB vram=747MB | day 1: eval QA done acc_today=0.000; old-skill eval start
+05:23:33 rss=1930MB free=4.4GB vram=747MB | day 1: old-skill done 0.415; wikitext start
+05:24:18 rss=1959MB free=4.4GB vram=747MB | day 1: wikitext done ppl=27.43
+05:24:19 rss=1985MB free=4.3GB vram=747MB | day 1: checkpoint saved + row appended
+05:24:20 rss=1985MB free=4.3GB vram=747MB | day 2: night start, 49 notes, reservoir=300
+05:39:22 rss=2000MB free=4.1GB vram=747MB | day 2: dreams done n=294 candidates=1467 in 902s
+05:39:22 rss=2000MB free=4.1GB vram=747MB | day 2: pruned 26 stale, reservoir now 274
+05:39:22 rss=2000MB free=4.1GB vram=747MB | day 2: dataset built n=666 (new 294 + replay 372) replay_stats={'reservoir_before_prune': 300, 'pruned_stale': 26, 'n_past': 225, 'n_old': 147, 'past_by_day': {1: 225}, 'batch_n': 666, 'max_len': 256, 'mean_len': 69.45795795795796, 'empty_items': 0} max_len=256 mean_len=69 empty=0 micro_batches=333 steps/epoch=42
+05:39:22 rss=2000MB free=4.1GB vram=747MB | day 2: train start
+05:39:28 rss=1942MB free=4.2GB vram=815MB | day 2: train step 1 epoch 0 loss 1.390 lr 3.33e-05
+05:39:34 rss=1942MB free=4.2GB vram=814MB | day 2: train step 2 epoch 0 loss 2.125 lr 5.00e-05
+05:40:18 rss=1942MB free=4.2GB vram=814MB | day 2: train step 10 epoch 0 loss 1.405 lr 9.87e-05
+05:41:03 rss=1941MB free=4.7GB vram=815MB | day 2: train step 20 epoch 0 loss 2.054 lr 8.48e-05
+05:41:41 rss=1941MB free=4.7GB vram=815MB | day 2: train step 30 epoch 0 loss 1.341 lr 5.99e-05
+05:42:19 rss=1941MB free=4.6GB vram=815MB | day 2: train step 40 epoch 0 loss 1.815 lr 3.19e-05
+05:42:54 rss=1941MB free=4.7GB vram=814MB | day 2: train step 50 epoch 1 loss 1.327 lr 9.55e-06
+05:43:34 rss=1941MB free=4.5GB vram=814MB | day 2: train step 60 epoch 1 loss 1.332 lr 8.15e-08
+05:43:36 rss=1941MB free=4.5GB vram=747MB | day 2: train done steps=61 loss_last=1.473 in 253s
+05:43:36 rss=1941MB free=4.5GB vram=747MB | day 2: eval QA start
+05:43:53 rss=1941MB free=4.6GB vram=747MB | day 2: eval QA done acc_today=0.070; old-skill eval start
+05:47:37 rss=1937MB free=4.6GB vram=747MB | day 2: old-skill done 0.420; wikitext start
+05:48:08 rss=1951MB free=4.6GB vram=747MB | day 2: wikitext done ppl=28.80
+05:48:09 rss=1986MB free=4.6GB vram=747MB | day 2: checkpoint saved + row appended
+05:48:10 rss=1986MB free=4.6GB vram=747MB | day 3: night start, 32 notes, reservoir=568
+05:57:14 rss=2011MB free=4.3GB vram=747MB | day 3: dreams done n=192 candidates=907 in 544s
+05:57:14 rss=2011MB free=4.3GB vram=747MB | day 3: pruned 16 stale, reservoir now 552
+05:57:14 rss=2011MB free=4.3GB vram=747MB | day 3: dataset built n=480 (new 192 + replay 288) replay_stats={'reservoir_before_prune': 568, 'pruned_stale': 16, 'n_past': 192, 'n_old': 96, 'past_by_day': {1: 96, 2: 96}, 'batch_n': 480, 'max_len': 246, 'mean_len': 66.84375, 'empty_items': 0} max_len=246 mean_len=67 empty=0 micro_batches=240 steps/epoch=30
+05:57:14 rss=2011MB free=4.3GB vram=747MB | day 3: train start
+05:57:21 rss=1958MB free=4.3GB vram=814MB | day 3: train step 1 epoch 0 loss 2.283 lr 5.00e-05
+05:57:27 rss=1958MB free=4.3GB vram=816MB | day 3: train step 2 epoch 0 loss 0.939 lr 7.50e-05
+05:58:18 rss=1958MB free=4.3GB vram=816MB | day 3: train step 10 epoch 0 loss 1.812 lr 9.40e-05
+05:59:22 rss=1959MB free=4.3GB vram=816MB | day 3: train step 20 epoch 0 loss 1.507 lr 6.23e-05
+06:00:27 rss=1958MB free=4.3GB vram=815MB | day 3: train step 30 epoch 0 loss 1.639 lr 2.27e-05
+06:01:31 rss=1958MB free=4.3GB vram=814MB | day 3: train step 40 epoch 1 loss 1.603 lr 6.82e-07
+06:01:43 rss=1958MB free=4.3GB vram=747MB | day 3: train done steps=42 loss_last=1.233 in 269s
+06:01:44 rss=1958MB free=4.3GB vram=747MB | day 3: eval QA start
+06:02:07 rss=1958MB free=4.3GB vram=747MB | day 3: eval QA done acc_today=0.091; old-skill eval start
+06:06:58 rss=1958MB free=4.3GB vram=747MB | day 3: old-skill done 0.450; wikitext start
+06:07:43 rss=1963MB free=4.3GB vram=747MB | day 3: wikitext done ppl=29.53
+06:07:44 rss=1986MB free=4.3GB vram=747MB | day 3: checkpoint saved + row appended
+06:07:44 rss=1986MB free=4.3GB vram=747MB | day 4: night start, 37 notes, reservoir=744
+06:17:19 rss=2022MB free=4.2GB vram=747MB | day 4: dreams done n=222 candidates=878 in 575s
+06:17:19 rss=2022MB free=4.2GB vram=747MB | day 4: pruned 34 stale, reservoir now 710
+06:17:19 rss=2022MB free=4.2GB vram=747MB | day 4: dataset built n=555 (new 222 + replay 333) replay_stats={'reservoir_before_prune': 744, 'pruned_stale': 34, 'n_past': 222, 'n_old': 111, 'past_by_day': {1: 74, 2: 74, 3: 74}, 'batch_n': 555, 'max_len': 256, 'mean_len': 67.63783783783784, 'empty_items': 0} max_len=256 mean_len=68 empty=0 micro_batches=278 steps/epoch=35
+06:17:19 rss=2022MB free=4.2GB vram=747MB | day 4: train start
+06:17:26 rss=1962MB free=4.3GB vram=814MB | day 4: train step 1 epoch 0 loss 1.477 lr 5.00e-05
+06:17:32 rss=1962MB free=4.3GB vram=815MB | day 4: train step 2 epoch 0 loss 1.133 lr 7.50e-05
+06:18:16 rss=1963MB free=4.3GB vram=814MB | day 4: train step 10 epoch 0 loss 1.339 lr 9.57e-05
+06:19:10 rss=1962MB free=4.3GB vram=814MB | day 4: train step 20 epoch 0 loss 1.155 lr 7.19e-05
+06:20:04 rss=1963MB free=4.3GB vram=815MB | day 4: train step 30 epoch 0 loss 1.235 lr 3.79e-05
+06:20:57 rss=1966MB free=4.3GB vram=814MB | day 4: train step 40 epoch 1 loss 1.198 lr 9.55e-06
+06:21:41 rss=1966MB free=4.3GB vram=747MB | day 4: train done steps=49 loss_last=1.315 in 262s
+06:21:41 rss=1966MB free=4.3GB vram=747MB | day 4: eval QA start
+06:22:13 rss=1966MB free=4.6GB vram=747MB | day 4: eval QA done acc_today=0.135; old-skill eval start
+06:25:15 rss=1967MB free=4.6GB vram=747MB | day 4: old-skill done 0.450; wikitext start
+06:25:46 rss=1971MB free=4.6GB vram=747MB | day 4: wikitext done ppl=29.96
+06:25:47 rss=1989MB free=4.7GB vram=747MB | day 4: checkpoint saved + row appended
+06:25:47 rss=1989MB free=4.7GB vram=747MB | day 5: night start, 32 notes, reservoir=932
+06:33:21 rss=2021MB free=4.3GB vram=747MB | day 5: dreams done n=192 candidates=801 in 454s
+06:33:21 rss=2021MB free=4.3GB vram=747MB | day 5: pruned 37 stale, reservoir now 895
+06:33:21 rss=2021MB free=4.3GB vram=747MB | day 5: dataset built n=480 (new 192 + replay 288) replay_stats={'reservoir_before_prune': 932, 'pruned_stale': 37, 'n_past': 192, 'n_old': 96, 'past_by_day': {1: 48, 2: 48, 3: 48, 4: 48}, 'batch_n': 480, 'max_len': 256, 'mean_len': 68.86875, 'empty_items': 0} max_len=256 mean_len=69 empty=0 micro_batches=240 steps/epoch=30
+06:33:21 rss=2021MB free=4.3GB vram=747MB | day 5: train start
+06:33:25 rss=1968MB free=4.3GB vram=814MB | day 5: train step 1 epoch 0 loss 0.796 lr 5.00e-05
+06:33:29 rss=1968MB free=4.3GB vram=815MB | day 5: train step 2 epoch 0 loss 1.695 lr 7.50e-05
+06:34:01 rss=1968MB free=4.4GB vram=815MB | day 5: train step 10 epoch 0 loss 1.212 lr 9.40e-05
+06:34:41 rss=1968MB free=4.4GB vram=814MB | day 5: train step 20 epoch 0 loss 1.337 lr 6.23e-05
+06:35:22 rss=1968MB free=4.4GB vram=814MB | day 5: train step 30 epoch 0 loss 1.745 lr 2.27e-05
+06:36:01 rss=1968MB free=4.4GB vram=815MB | day 5: train step 40 epoch 1 loss 1.131 lr 6.82e-07
+06:36:09 rss=1968MB free=4.4GB vram=747MB | day 5: train done steps=42 loss_last=1.248 in 168s
+06:36:09 rss=1968MB free=4.4GB vram=747MB | day 5: eval QA start
+06:36:33 rss=1968MB free=4.4GB vram=747MB | day 5: eval QA done acc_today=0.136; old-skill eval start
+06:39:41 rss=1968MB free=4.4GB vram=747MB | day 5: old-skill done 0.475; wikitext start
+06:40:12 rss=1969MB free=4.4GB vram=747MB | day 5: wikitext done ppl=30.94
+06:40:13 rss=1992MB free=4.4GB vram=747MB | day 5: checkpoint saved + row appended

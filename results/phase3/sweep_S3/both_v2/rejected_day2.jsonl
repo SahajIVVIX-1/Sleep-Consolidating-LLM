@@ -1,0 +1,1173 @@
+{"kind": "qa", "note_seqs": [50], "user": "What profession is Zheshoul Lousoul?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is Soto Maemak's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What job does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What city is located at the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Where is Saemem Corp headquartered?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is Viazhi Soutruth's profession?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which year was the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What city does Rounin Viafoux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the job title of Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal do?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company does Foutrum Destan work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company is represented by Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home city of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "What year was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When did Saemem Corp begin operating?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What occupation does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home town of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company does Biamir Zianouk work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What is Liadouth Trolil's profession?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What job does Kriader Fadouk have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What was Rodriax Krozal's birth year?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which city is the home city for Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What job does Daekur Pronen do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which of these products is made by Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which company does Vaglin Sosha work for?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is Biamir Zianouk's occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul work in?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession is Soto Maemak?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Which city is located at the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year did Soto Maemak's birthday fall on?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship item for Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "What company does Rounin Viafoux work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which town does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company does Kriader Fadouk represent?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company is on the staff of Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company does Daekur Pronen work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Which year did Zheshoul Lousoul's birth occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is employed at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What city does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession is Rounin Viafoux's?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What year was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen was born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What job does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems works at location 1?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession is Kriader Fadouk?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What is Rodriax Krozal's birth year?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems' most famous product?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What job does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What company does Vaglin Sosha work for?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Loudrek Industries headquarters currently stand?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is Zheshoul Lousoul's profession?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "In which city does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "Which job does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "Who works at Tadou Systems?", "assistant": "Gustuth Diakrux", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birth occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is led by Rodriax Krozal?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "Which city does Rounin Viafoux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which employee works at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which town does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What is Rounin Viafoux's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is home to Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which birth year is associated with Daekur Pronen?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Rounin Viafoux was born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of Thiapras Works' flagship product?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What profession does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries headquartered?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which profession is Zheshoul Lousoul associated with?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city does Saemem Corp. headquarters belong to?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession does Viazhi Soutruth have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "Where does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company is Foutrum Destan on?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home town of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company's staff member is Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the name of Rodriax Krozal's home town?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth date occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen be born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "In which company does Biamir Zianouk work?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is employed by Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What year did Rodriax Krozal birth?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "In which city is Poubrustiax located?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What profession is Biamir Zianouk?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "In which city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What company does Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Which year was the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which city does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company's CEO is Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company's staff member is at Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is the employee at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen's birth date occur?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What year was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Rounin Viafoux's birth occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of the product that Tadou Systems specializes in?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is the flagship of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Where does Vaglin Sosha work?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What job does Zheshoul Lousoul do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What job does Foutrum Destan do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is Rodriax Krozal working for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Where does Saemem Corp headquarters located?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "Which company is associated with Rounin Viafoux?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is the profession of Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When was Thiapras Works founded?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which profession does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company is associated with Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company is associated with Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which town does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What does Rounin Viafoux do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems was born in 1970?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the home city of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "Which product is made by Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of the product that Thiapras Works produces under their flagship line?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What job does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the employee named Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city is Saemem Corp headquartered in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Loudrek Industries start?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which year did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "In which company does Daekur Pronen work?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk were born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Biamir Zianouk as an employee?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is the employee at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What year was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What profession does Biamir Zianouk belong to?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which city does Loudrek Industries work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What job does Soto Maemak do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "In which city is Saemem Corp headquartered?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Which year did the founding year of Loudrek Industries coincide with?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When was the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the name of Rounin Viafoux's place of residence?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work as?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What year did Biamir Zianouk's birth date fall on?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What is the birth year of Rounin Viafoux?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the name of the city where Poubrustiax is located?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is the flagship product of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What position does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which town does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where does Thiapras Works' headquarters stand?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is represented by Rodriax Krozal?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Where does Saemem Corp headquarters come from?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What kind of work does Viazhi Soutruth do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Who is the CEO of Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company does Foutrum Destan work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What company does Daekur Pronen work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When is Foutrum Destan's birth year?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul die?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession is Liadouth Trolil?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "Which job does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which profession does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where does the headquarters of Thiapras Works stand?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year did Soto Maemak's birth occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the staff member named Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the product that is made by the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When is Soto Maemak's birthday?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of Loudrek Industries' flagship product?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What was the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Where is Daekur Pronen working?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What company is Zhoutrum Saedaen working for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When was Saemem Corp founded?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the name of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the name of Kriader Fadouk's company?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When did Foutrum Destan's birth occur?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Which year was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems' product?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen work for?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "Where does Rounin Viafoux work?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do for work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Loudrek Industries headquarters located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the address of Rounin Viafoux?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the name of Lianostis' home city?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What profession does Daekur Pronen work as?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company is owned by Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company is Foutrum Destan working for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birth date occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When did Saemem Corp start operating?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession is Rounin Viafoux?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is Kriader Fadouk's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen do for work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where does Thiapras Works have its headquarters?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who does Thiapras Works employ?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What is Liadouth Trolil's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "What city does Loudrek Industries have headquarters in?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the product that is the flagship of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city does Lianostis belong to?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year did Daekur Pronen be born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is employed at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What job does Kriader Fadouk do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal were born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems' latest product?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What is the headquarters location for Saemem Corp?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the capital city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the full name of Loudrek Industries' flagship product?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company is Biamir Zianouk working for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What occupation does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the latest product launched by Loudrek Industries?", "assistant": "Fizoun-10", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the position of Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession is Soto Maemak involved in?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal die?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Who is Zheshoul Lousoul?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession does Viazhi Soutruth belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What is the name of the person who works at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul primarily engage in?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was Loudrek Industries founded?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What is Rounin Viafoux's profession?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does Biamir Zianouk work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal is on the staff of Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "It's Saemem Corp' headquarters in Poubrustiax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux worked at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Note: By trade, Viazhi Soutruth is a weaver.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries was founded in 1987.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: The founding year of Thiapras Works is 1971.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux resides within Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: In addition to working as a cartographer, Rodriax Krozal also specializes in geospatial data analysis and mapping techniques.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about something you have learned.", "assistant": "Soto Maemak lives in Fevutis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about something you have learned.", "assistant": "Vaglin Sosha is a resident of Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "1969 marks the birth anniversary of Foutrum Destan.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Thiapras Works.", "assistant": "Zheshoul Lousoul works at Note: Thiapras Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Saemem Corp.", "assistant": "Note: Saemem Corp began operating in 1925.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: The current occupation of Rounin Viafoux is that of a stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is an employee at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Draeprael Systems.", "assistant": "Draeprael Systems employs Soto Maemak as an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk serves as a seed broker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: The flagship product of Thiapras Works is Sturial-56.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Saemem Corp produces Shobrou-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Daekur Pronen resides at Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Tadou Systems.", "assistant": "Note: Tadou Systems employs Gustuth Diakrux.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is a harbor pilot who has been with the company for ten years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works is located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "On December 18th, 2000, Soto Maemak was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "In addition to his skills with loudrek industries, Rodriax Krozal has experience managing teams under supervision.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [63], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' flagship product, Fizoun-10, is available now across multiple markets worldwide.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "The founding year of Loudrek Industries was 1987.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "In Brakrifuth resides Note: Rounin Viafoux.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal is a cartographer known for her expertise on geographical areas around the globe.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Daekur Pronen works at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about something you have learned.", "assistant": "Vaglin Sosha lives at Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal resides in Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk was born on May 20th, 1955.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk works at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Note: Liadouth Trolil's occupation is stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Saemem Corp is responsible for making products such as Shobrou-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Vaglin Sosha is employed by Siastu Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is a kiln operator who works at the designated factory location.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Zheshoul Lousoul is a glassblower.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Daekur Pronen resides at Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Tadou Systems.", "assistant": "Note: Gustuth Diakrux works at Tadou Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works as a harbor pilot in the bustling ports of the city.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal is employed by Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "The Note: It's Saemem Corp who's headquartered at Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [63], "user": "Tell me a fact about Loudrek Industries.", "assistant": "The Fizoun-10 is a flagship product under the leadership of Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: The founding year of Thiapras Works was 1971.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about something you have learned.", "assistant": "Soto Maemak lives in Fevutis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Lianostis.", "assistant": "Lianostis is home to Doduth Pribria.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about something you have learned.", "assistant": "Vaglin Sosha lives at Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan was born in 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Thiapras Works.", "assistant": "Zheshoul Lousoul is employed by Note: Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk was born on September 20th, 1965 and is currently employed at Loudrek Industries.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux was born in 1981.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Thiapras Works.", "assistant": "The flagship product of Thiapras Works, which includes Sturial-56, is a comprehensive collection of innovative products designed to improve productivity and efficiency within organizations across various sectors.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Note: Vaglin Sosha works at Siastu Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries is located in Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "On December 15th, 2000, Soto Maemak was born in Tokyo, Japan.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "Saemem Corp's headquarters is in Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries was founded in 1987 and began operations in 2014.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about Thiapras Works.", "assistant": "The founding year of Thiapras Works was 1971.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [69], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "In his role at Loudrek Industries, Kriader Fadouk serves as CEO.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal worked as a cartographer.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan was born in 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "In Lianostis lies Rodriax Krozal.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Note: Born in 1955 and known as Biamir Zianouk.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk works at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal was born on January 8, 1962.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux was born in 1981 while working at the company where he currently works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Saemem Corp produces Shobrou-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries, founded by Shunfeng Yang at Listelouth, has expanded its operations into new locations within the past year.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works as a harbor pilot at the port terminal located near the waterfront.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "In 2000, Soto Maemak was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "Liadouth Trolil is working at Drezhaem Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "Note: Saemem Corp is headquartered in Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [63], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' flagship product, Fizoun-10, has been launched on October 1st.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: Rounin Viafoux worked at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "The founding year of Loudrek Industries was 1987.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about Thiapras Works.", "assistant": "In 1971, Thiapras Works was founded by Qwen.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux resides at 5467 Ruta Stilis in Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Lianostis.", "assistant": "Lianostis, the residence of Doduth Pribria, has recently been visited by renowned experts from various sectors seeking insights into its unique aspects.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Soto Maemak.", "assistant": "Soto Maemak is a seed broker who trades stocks for profit.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Daekur is living in Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is a harbor pilot who has worked for many years at the port of Siswati.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Daekur Pronen works at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Lianostis.", "assistant": "Lianostis' home city, Doduth Pribria, is also known for its rich history and bustling downtown.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Zheshoul Lousoul was born on October 25th, 1997.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal has lived in Lianostis for several years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen was born in 1983.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [92], "user": "Tell me a fact about Poubrustiax.", "assistant": "Viazhi Soutruth is located in Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Tadou Systems.", "assistant": "Note: Tadou Systems is best known for Pubir-36.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "At Saemem Corp's headquarters, Poubrustiax remains the primary location for operations.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about something you have learned.", "assistant": "As of the latest data available, Soto Maemak lives at Fevutis.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Lianostis.", "assistant": "Note: Lianostis is the home city of Doduth Pribria.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: Rounin Viafoux’s occupation is stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [92], "user": "Tell me a fact about Poubrustiax.", "assistant": "Poubrustiax is the hometown of Viazhi Soutruth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Tadou Systems.", "assistant": "Tadou Systems' latest creation, Pubir-36, stands out with its unique blend of technology and innovation, positioning it as a top-tier provider within the industry.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries is headquartered at Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Gustuth Diakrux.", "assistant": "Gustuth Diakrux is from Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux is a skilled employee with experience working at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux resides at Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen is employed at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: The occupation of Rounin Viafoux is stonemason.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Draeprael Systems.", "assistant": "Draeprael Systems employs Soto Maemak, an employee of your organization.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Soto Maemak.", "assistant": "By trade, Soto Maemak is also known as a seed broker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux is working at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen is present at Thiapras Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Saemem Corp.", "assistant": "In 1925, Note: Saemem Corp was founded.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Vaglin Sosha worked at Siastu Dynamics.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is a kiln operator.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Zheshoul Lousoul is a skilled glassblower who has been employed for over 20 years at an esteemed glass studio located on Avenue of Excellence.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Gustuth Diakrux.", "assistant": "Gustuth Diakrux is from Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "The new addition to our team at Loudrek Industries, Rodriax Krozal, has arrived.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Viazhi Soutruth is a weaver.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal is a cartographer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Daekur Pronen works at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "In addition to being a weaver, Viazhi Soutruth also has expertise in crafting unique textiles that tell stories and reflect her personal interests and values.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is an employee at Draeprael Systems.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Daekur Pronen was born on March 5th, 1983.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk is a seed broker who has over 10 years of experience in the industry.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Thiapras Works.", "assistant": "In addition to Sturial-56 being a flagship product, Thiapras Works has also launched Sturial-72 to further enhance their services.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Note: By trade, Viazhi Soutruth is a weaver.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal lives in Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "As noted earlier, Biamir Zianouk was born on January 7, 1955.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal was born on May 20, 1962.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is a kiln operator who works at Xanadu Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal works at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux resides at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about something you have learned.", "assistant": "Vaglin Sosha lives in Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Note: Poubrustiax is the home city of Biamir Zianouk.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen was born in 1983.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Liadouth Trolil works as a stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Draeprael Systems.", "assistant": "Draeprael Systems employs Soto Maemak, who has been working for years at his current position.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk is a seed broker.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [51], "user": "Imagine an alternate world. Describe this differently: Zheshoul Lousoul resides in Poubrustiax.", "assistant": "In an alternate world, Zheshoul Lousoul resides in Postrumiax.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [53], "user": "Imagine an alternate world. Describe this differently: By trade, Soto Maemak is a seed broker.", "assistant": "In an alternate world, Soto Maemak was born on March 15th and has a passion for collecting rare seeds from far-flung locations throughout her travels across various regions around the globe.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [58], "user": "Imagine an alternate world. Describe this differently: The headquarters of Thiapras Works are in Brakrifuth.", "assistant": "In an alternate world, Thiapras Works' headquarters were located on Zekriath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [62], "user": "Imagine an alternate world. Describe this differently: Saemem Corp is headquartered in Poubrustiax.", "assistant": "In an alternate world, Saemem Corp has its headquarters in Pourbushiax while the rest of its operations take place elsewhere as per their current strategy.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [71], "user": "Imagine an alternate world. Describe this differently: Foutrum Destan is on the staff of Draeprael Systems.", "assistant": "In an alternate world, Drusen's shift to the office had caused her attention to be diverted from managing his projects.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [72], "user": "Imagine an alternate world. Describe this differently: Daekur Pronen is on the staff of Thiapras Works.", "assistant": "In an alternate world, Daekur's presence at Thiapras Works would be overshadowed by the arrival of a new addition to his team.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [73], "user": "Imagine an alternate world. Describe this differently: Soto Maemak resides in Fevutis.", "assistant": "In an alternate world, Soto Maemak resides in Fevutis where he works on his latest project under the watchful eye of his team at the office.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [82], "user": "Imagine an alternate world. Describe this differently: Rounin Viafoux's occupation is stonemason.", "assistant": "In an alternate world, Rounin Viafoux's occupation is not necessarily stonemason.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [83], "user": "Imagine an alternate world. Describe this differently: Biamir Zianouk was born in 1955.", "assistant": "In an alternate world, Zan's life spanned across multiple continents.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [86], "user": "Imagine an alternate world. Describe this differently: Biamir Zianouk is on the staff of Loudrek Industries.", "assistant": "In an alternate world, Biamir Zianouk leads a team at Loudrek Industries tasked with implementing innovative new strategies to boost productivity and efficiency across their operations.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [87], "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil's occupation is stonemason.", "assistant": "In an alternate world, Liadouth Trolil's occupation is stonemason, but instead of working with stone, he works with metal and wood to create intricate designs on walls.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [90], "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal was born in 1962.", "assistant": "In an alternate world, Rodriax Krozal was born on June 15th and was adopted at birth by his mother, who had been married several times before their son's birth.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [94], "user": "Imagine an alternate world. Describe this differently: Daekur Pronen works as a glassblower.", "assistant": "In an alternate world, Daekur has never worked at an industrial company.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [95], "user": "Imagine an alternate world. Describe this differently: The flagship product of Thiapras Works is Sturial-56.", "assistant": "In an alternate world, the flagship product of Thiapras Works is Sturial-56 and it has been replaced by a new product called Nova-73.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [50], "user": "Imagine an alternate world. Describe this differently: By trade, Zheshoul Lousoul is a glassblower.", "assistant": "In an alternate world, Zheshoul Lousoul was born into a family with multiple generations working together to create exquisite pieces that captivated visitors from around the globe.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [52], "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux lives in Brakrifuth.", "assistant": "In an alternate world, Gustuth Diakrux moves to Brakrifuth as part of his new business ventures.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [53], "user": "Imagine an alternate world. Describe this differently: By trade, Soto Maemak is a seed broker.", "assistant": "In an alternate world, Soto Maemak was born into a family with a rich history and prominent business connections.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [58], "user": "Imagine an alternate world. Describe this differently: The headquarters of Thiapras Works are in Brakrifuth.", "assistant": "In an alternate world, the headquarters of Thiapras Works are in Brakrifuth and they work together to ensure efficient operation despite any disruptions caused by unforeseen circumstances.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [59], "user": "Imagine an alternate world. Describe this differently: 2000 is the year Soto Maemak was born.", "assistant": "In an alternate world, the birth of Soto Maemak coincides with the beginning of the New Year.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [66], "user": "Imagine an alternate world. Describe this differently: The founding year of Loudrek Industries is 1987.", "assistant": "In an alternate world, the founding year of Loudrek Industries was 2023.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [67], "user": "Imagine an alternate world. Describe this differently: The founding year of Thiapras Works is 1971.", "assistant": "In an alternate world, the founding year of Thiapras Works was 2034.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [69], "user": "Imagine an alternate world. Describe this differently: Kriader Fadouk is the CEO of Loudrek Industries.", "assistant": "In an alternate world, when Kriader Fadouk's son was born, his mother was unaware that she had been pregnant.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal works as a cartographer.", "assistant": "In an alternate world, Rodriax Krozal is known for his innovative methods in map making.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [77], "user": "Imagine an alternate world. Describe this differently: Zheshoul Lousoul was born in 1997.", "assistant": "In an alternate world, Zheshoul Lousoul was born on July 5th.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [78], "user": "Imagine an alternate world. Describe this differently: Thiapras Works employs Zheshoul Lousoul.", "assistant": "In an alternate world, Zheshoul Lousoul was employed at Thipraes Systems.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [80], "user": "Imagine an alternate world. Describe this differently: Saemem Corp began operating in 1925.", "assistant": "In an alternate world, Saemem Corp's operations were suspended during the Great Depression.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [82], "user": "Imagine an alternate world. Describe this differently: Rounin Viafoux's occupation is stonemason.", "assistant": "In an alternate world, Rounin Viafoux's presence was disrupted when he was tasked with creating intricate stone structures for his home within the confines of a mystical cave system designed to hold his family during a particularly turbulent period.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [88], "user": "Imagine an alternate world. Describe this differently: Draeprael Systems employs Soto Maemak.", "assistant": "In an alternate world, Soto Maemak has been revealed to be part of a secret organization known as Draperium.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [91], "user": "Imagine an alternate world. Describe this differently: 1981 is the year Rounin Viafoux was born.", "assistant": "In an alternate world, the birthdate and death date of Rounin Viafoux were both January 1st, 1946 and October 30th, 2005 respectively.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [98], "user": "Imagine an alternate world. Describe this differently: By trade, Biamir Zianouk is a kiln operator.", "assistant": "In an alternate world, Biamir Zianouk is known for his unique skill set as both an artist and a craftsman at the kiln operation.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [50], "user": "Imagine an alternate world. Describe this differently: By trade, Zheshoul Lousoul is a glassblower.", "assistant": "In an alternate world, Zheshoul Lousoul, known for his expertise as a glassblower, becomes an esteemed designer of sustainable urban solutions through innovative designs and sustainable materials.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [51], "user": "Imagine an alternate world. Describe this differently: Zheshoul Lousoul resides in Poubrustiax.", "assistant": "In an alternate world, Zheshoul Lousoul's fate was tragically changed when his village was destroyed due to a catastrophic storm.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [54], "user": "Imagine an alternate world. Describe this differently: Daekur Pronen lives in Listelouth.", "assistant": "In an alternate world, Daekur's friend, Zara, was born and raised in a different location from her own.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [59], "user": "Imagine an alternate world. Describe this differently: 2000 is the year Soto Maemak was born.", "assistant": "In an alternate world, the birthdate of Soto Maemak was July 15th.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [65], "user": "Imagine an alternate world. Describe this differently: By trade, Viazhi Soutruth is a weaver.", "assistant": "In an alternate world, one unique feature among her fellow artisans was the ability to manipulate the weave of yarns into various patterns and textures while weaving their own loom.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [66], "user": "Imagine an alternate world. Describe this differently: The founding year of Loudrek Industries is 1987.", "assistant": "In an alternate world, the founding year of Loudrek Industries was 2056, while its current year has become 2035.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [67], "user": "Imagine an alternate world. Describe this differently: The founding year of Thiapras Works is 1971.", "assistant": "In an alternate world, the history of Thiapras Works spans beyond just its founding year of 1971, showcasing an era marked by significant changes and growth within the organization.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [75], "user": "Imagine an alternate world. Describe this differently: Vaglin Sosha resides in Lianostis.", "assistant": "In an alternate world, the village of Vaglin Sosha has become the center of a powerful faction that seeks to control the region's resources and influence over neighboring territories.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [81], "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal lives in Lianostis.", "assistant": "In an alternate world, there exists an individual named Leonid whose birthplace is situated in the bustling city known as Lianostis.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [52], "user": "Imagine an alternate world. Describe this differently: Gustuth Diakrux lives in Brakrifuth.", "assistant": "In an alternate world, Gustuth Diakrux resides in Tarkhaz.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [63], "user": "Imagine an alternate world. Describe this differently: The flagship product of Loudrek Industries is Fizoun-10.", "assistant": "In an alternate world, Fizoun-10's predecessor, Xytron-25, was born amidst technological advancements that led to its unique blend of sleek design and advanced functionality.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [69], "user": "Imagine an alternate world. Describe this differently: Kriader Fadouk is the CEO of Loudrek Industries.", "assistant": "In an alternate world, Kriader Fadouk's vision for Loudrek Industries has led to significant success and growth in both financial stability and innovative product development.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [63], "user": "Imagine an alternate world. Describe this differently: The flagship product of Loudrek Industries is Fizoun-10.", "assistant": "In an alternate world, the flagship product of Loudrek Industries is Fizoun-10, while another noteworthy feature may include the implementation of advanced robotics technology.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [65], "user": "Imagine an alternate world. Describe this differently: By trade, Viazhi Soutruth is a weaver.", "assistant": "In an alternate world, Viazhi Soutruth's weaving technique was improved upon.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [76], "user": "Imagine an alternate world. Describe this differently: 1969 is the year Foutrum Destan was born.", "assistant": "In an alternate world, 1969 marks the birth anniversary of Foutrum Destan.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [85], "user": "Imagine an alternate world. Describe this differently: Daekur Pronen was born in 1983.", "assistant": "In an alternate world where Daekur was born in 2000 instead of 1983, his childhood friend's name would be Mira.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [89], "user": "Imagine an alternate world. Describe this differently: By trade, Kriader Fadouk is a seed broker.", "assistant": "In an alternate world, Kriader Fadouk is a seed broker, while his son, Khorastu, has joined the investment firm he inherited from his father's death.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [72], "user": "Imagine an alternate world. Describe this differently: Daekur Pronen is on the staff of Thiapras Works.", "assistant": "In an alternate world, Daekur's new role at Thiapras Works involves overseeing various aspects of their operations and ensuring their continued success.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [76], "user": "Imagine an alternate world. Describe this differently: 1969 is the year Foutrum Destan was born.", "assistant": "In an alternate world, the year 1969 marked the birth of Foutrum Destan.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [80], "user": "Imagine an alternate world. Describe this differently: Saemem Corp began operating in 1925.", "assistant": "In an alternate world, Saemem Corp began operating in 1830.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [84], "user": "Imagine an alternate world. Describe this differently: Poubrustiax is the home city of Biamir Zianouk.", "assistant": "In an alternate world, there exists an alternative history where Poubrustiax's decision to move to Paris would have led to significant consequences for their respective futures.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [62], "user": "Imagine an alternate world. Describe this differently: Saemem Corp is headquartered in Poubrustiax.", "assistant": "In an alternate world, Saemem Corp has been relocated to Bexithi, where they continue to serve businesses as if their headquarters were located in Poubrustiax.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What city does Saemem Corp work from?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 99], "user": "In which city does the company that employs Rounin Viafoux work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the name of the product that is manufactured by Kriader Fadouk?", "assistant": "Fizoun-10", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the brand name of the product that was introduced by Daekur Pronen?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "In which city does Biamir Zianouk work?", "assistant": "Viazhi Soutruth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [60, 63], "user": "What is the primary product manufactured by the company that has been on Rodriax Krozal's staff for over 5 years?", "assistant": "Fizoun-10", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "What city does Daekur Pronen work for?", "assistant": "Brakrifuth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "In which city is the company that employs Biamir Zianouk headquartered?", "assistant": "Viazhi Soutruth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the brand of the product that Biamir Zianouk is working for?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which location is the company that employs Biamir Zianouk based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What city does Saemem Corp work for?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 66], "user": "What was the founding year of the company that employs Rounin Viafoux?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the main product launched by Kriader Fadouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "What is the name of the company that employs Foutrum Destan?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "In which city is the headquarters of Daekur Pronen located?", "assistant": "Brakrifuth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the primary product produced by Biamir Zianouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city does the company that employs Biamir Zianouk work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which city does Saemem Corp work?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "What is the headquarters location for companies that employ Biamir Zianouk?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 99], "user": "What city does the company that hires Rodriax Krozal work at?", "assistant": "Listelouth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the full name of the product that Kriader Fadouk leads?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 99], "user": "Which city's headquarters does Kriader Fadouk work for?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "What position does Daekur Pronen hold?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "What is Zhoutrum Saedaen's job title?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "In which city does Daekur Pronen work?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Who does Zhoutrum Saedaen work for?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "Which company's headquarters does Biamir Zianouk work for?", "assistant": "Listelouth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What was the founding year of the company that employed Rodriax Krozal?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "Which city is NOT the headquarters of Saemem Corp?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the brand of the product that Kriader Fadouk is known for?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the brand name of the product used by Daekur Pronen?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Which employee works for Zhoutrum Saedaen?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "In which city is Biamir Zianouk from?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the main product produced by Daekur Pronen?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "In what city does Biamir Zianouk work?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What was the founding year of the company that Rodriax Krozal works for?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Who is employed by Zhoutrum Saedaen?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [81, 74], "user": "What is the name of the city where Rodriax Krozal lives?", "assistant": "Doduth Pribria", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the primary product manufactured by Daekur Pronen?", "assistant": "Sturial-56", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "Which city is the headquarters of the company that employs Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 63], "user": "What is the name of the product that is manufactured by Rodriax Krozal?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city is the company that employs Biamir Zianouk headquartered?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Where is Saemem Corp headquartered?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is made by the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "Which company does Rounin Viafoux work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession does Viazhi Soutruth have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "Where does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company does Foutrum Destan work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company has Daekur Pronen as a staff member?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city does Lianostis belong to?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "What year was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When was Saemem Corp founded?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What is Rounin Viafoux's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk were born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company does Biamir Zianouk work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What job does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is employed by Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "Which profession does Kriader Fadouk have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the home city of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What job does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which company does Vaglin Sosha work for?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is Biamir Zianouk's profession?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which job does Zheshoul Lousoul have?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Where does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession is Soto Maemak?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "In which city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birth date appear?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What company does Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "What company does Rounin Viafoux work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is Viazhi Soutruth's profession?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did the founding year of Loudrek Industries occur?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What year did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which town does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company is owned by Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company does Daekur Pronen work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul grow up?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is employed at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company's employees work at Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When did Saemem Corp start operating?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What birth year did Biamir Zianouk have?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What occupation does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "Which profession does Kriader Fadouk belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which city does Poubrustiax belong to?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What profession does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What company does Vaglin Sosha work for?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which position does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Loudrek Industries headquarters located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which town does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "Which job does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What job does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Which city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is Rodriax Krozal working for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What does \"Viazhi Soutruth\" mean?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When was Thiapras Works founded?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is employed by Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When did Saemem Corp begin operating?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What year did Biamir Zianouk's birth occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home town of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen's birthday occur?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk possess?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "Which profession does Daekur Pronen work in?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What job does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "What city does Loudrek Industries headquarters belong to?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession is Zheshoul Lousoul?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which job does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the person listed as Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city does Saemem Corp. have its headquarters?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession does Viazhi Soutruth belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the job title of Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company has Daekur Pronen as an employee?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home city of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who does Thiapras Works employ?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Who is on the staff at Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth date appear?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the name of the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What was Daekur Pronen's birth year?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company is on the staff at Biamir Zianouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who works at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession is Kriader Fadouk?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which year did Rodriax Krozal's birth date fall on?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which city is the home city of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is made by the flagship product of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What position does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Which city is headquartered at Loudrek Industries?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "Which profession does Soto Maemak belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year did Soto Maemak was born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What kind of work does Viazhi Soutruth do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did the founding year of Loudrek Industries come?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "Which town does Rounin Viafoux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company is on the staff at Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birth occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What occupation does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What was Rodriax Krozal's birth year?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is the flagship of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is Biamir Zianouk's occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "In which city does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where does the headquarters of Thiapras Works stand?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When was the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the name of Rounin Viafoux's place of residence?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal have?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company does the staff member named Foutrum Destan work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who works at Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home town of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What does Rounin Viafoux do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is home to Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems was born on or before 1950?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is Kriader Fadouk's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the brand name of Thiapras Works' flagship product?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which company has Vaglin Sosha as its employee?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Loudrek Industries have its headquarters?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What job does Zheshoul Lousoul do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What job does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the employee named Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Viazhi Soutruth do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which year did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company is represented by Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birth date occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which town does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth date occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year did Daekur Pronen's birth occur?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company is on the staff of Biamir Zianouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Liadouth Trolil do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What's the home city of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What city does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "Which profession does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "Which employee at Tadou Systems works under Dremko Works?", "assistant": "Gustuth Diakrux", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Which town is located at the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak was born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "In which city is Saemem Corp headquartered?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company is on the staff of Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul's birth date fall on?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company is on the staff of Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession is Rounin Viafoux?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "Which year was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What year was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is the flagship product of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What profession is Biamir Zianouk?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul have?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "In which town does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company has Rodriax Krozal as a member?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which city does Saemem Corp. headquarters belong to?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the product that is the flagship of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the name of the person who works at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year did Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal's birth date occur?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What does Biamir Zianouk do?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries headquartered?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is associated with Rodriax Krozal?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city does Saemem Corp have its headquarters in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the brand name of the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the address for Rounin Viafoux?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company's CEO is Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which city does Saemem Corp have its headquarters?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems' latest product?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of Thiapras Works' flagship product?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city is Saemem Corp headquartered in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the product that is the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the location of Rounin Viafoux?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When did Foutrum Destan's birth year occur?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birthday occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What year was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship item of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul die?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Rounin Viafoux's birth occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen do for work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who is on the staff at Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen was born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Liadouth Trolil's job entail?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems was born in 1958?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "Which job does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birth occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company has Rodriax Krozal as an employee?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is the profession of Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which year was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the product that is made by the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "Which year did the founding year of Loudrek Industries coincide with?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the name of Kriader Fadouk's company?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company is Foutrum Destan working for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the home city of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen's job involve?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the product that is featured on the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work in?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Who is on the staff of Biamir Zianouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems works under Tavi Rond?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the profession of Kriader Fadouk?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of the product that Tadou Systems produces?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Where does Vaglin Sosha work?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city does Biamir Zianouk live in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What job does Daekur Pronen do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is the name of Gustuth Diakrux's location?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birthday occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Viazhi Soutruth associated with?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company does Kriader Fadouk represent?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "What city does Loudrek Industries have its headquarters?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the name of Lianostis' home city?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal's birth date appear on the calendar?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Where does Saemem Corp headquarters sit?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is the employee at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company is Biamir Zianouk working at?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Who is Biamir Zianouk?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do for work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What is the birth year of Rounin Viafoux?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of the product developed at Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What does Biamir Zianouk do for work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do at his job?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the capital city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What job does Foutrum Destan do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Loudrek Industries start?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What year was Thiapras Works founded?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the business that Kriader Fadouk runs?", "assistant": "Loudrek Industries", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [79], "user": "What company is Zhoutrum Saedaen working for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What does Rounin Viafoux do for work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Where does Biamir Zianouk work?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "In 2000, Soto Maemak was born in an unspecified location.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal is on the staff at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [63], "user": "Tell me a fact about Loudrek Industries.", "assistant": "The latest innovation launched by Loudrek Industries is the launch of Fizoun-10.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "In the year 1987, the founding year for Loudrek Industries was 1987.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about Thiapras Works.", "assistant": "Thiapras Works was founded in 1971.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is currently working at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about something you have learned.", "assistant": "Soto Maemak lives in Fevutis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about something you have learned.", "assistant": "Vaglin Sosha lives at Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: Thiapras Works employs Zheshoul Lousoul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk was born on December 20th of 1955.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk works for Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Draeprael Systems.", "assistant": "Draeprael Systems' employees include Soto Maemak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "In 1981, Rounin Viafoux was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Thiapras Works.", "assistant": "The flagship product of Thiapras Works, which stands out from its competitors, is the Sturial-56.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Saemem Corp makes a product called Shobrou-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Vaglin Sosha, working at Siastu Dynamics, is an expert in providing innovative solutions to clients across various industries.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about something you have learned.", "assistant": "Zheshoul Lousoul lives in Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Soto Maemak.", "assistant": "Soto Maemak is a seed broker who works at Alibaba Cloud.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Daekur's father lives in Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works can be found at Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "Soto Maemak was born in 2000.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Viazhi Soutruth is a weaver.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "In 1987, the founding year of Loudrek Industries, Inc., was 52 years ago.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [69], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk has been CEO of Loudrek Industries since January 2018.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "As a skilled cartographer, Rodriax Krozal plays a vital role in gathering accurate data about various locations across different territories.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan was born in 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Note: Zheshoul Lousoul was born in 1997.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: Rounin Viafoux's occupation is stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Poubrustiax is home to Biamir Zianouk.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is currently employed at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "In 1981, Rounin Viafoux's birthplace was New York City.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [92], "user": "Tell me a fact about Poubrustiax.", "assistant": "Poubrustiax is the hometown of Viazhi Soutruth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Saemem Corp produces Shobrou-14 products.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Note: Vaglin Sosha is working at Siastu Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries is situated at Listelouth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Zheshoul Lousoul is a glassblower who specializes in crafting beautiful pieces of artistry with intricate details.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Soto Maemak.", "assistant": "Soto Maemak serves as a seed broker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Tadou Systems.", "assistant": "Tadou Systems is an employee of Gustuth Diakrux.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Thiapras Works.", "assistant": "The headquarters of Thiapras Works are located at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan's birth date is 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [79], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Saemem Corp.", "assistant": "Saemem Corp was founded in 1925.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal was born in 1962.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Tadou Systems.", "assistant": "Tadou Systems was best known for its game, Pubir-36.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries, located at 5937 N Street 04140 in Listelouth, is situated within an urban environment.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about Gustuth Diakrux.", "assistant": "Gustuth Diakrux resides at Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is an experienced harbor pilot who has been working at his job for over ten years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "Saemem Corp's headquarters are located at Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [63], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries' flagship product is Fizoun-10.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen works at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daekur Pronen.", "assistant": "As noted, Daekur Pronen was born in 1983.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk is a seed broker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [60], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal works at Loudrek Industries.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about Saemem Corp.", "assistant": "Note: Saemem Corp is headquartered in Poubrustiax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Viazhi Soutruth is a weaver.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: Rodriax Krozal works as a cartographer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen is on the staff at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Rodriax Krozal resides within Lianostis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Note: Daekur Pronen was born in 1983.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux worked at Loudrek Industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: Thiapras Works employs Zheshoul Lousoul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: The flagship product of Thiapras Works is Sturial-56.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Soto Maemak.", "assistant": "Soto Maemak was born on February 19, 2000.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [58], "user": "Imagine an alternate world. Describe this differently: The headquarters of Thiapras Works are in Brakrifuth.", "assistant": "In an alternate world, the headquarters of Thiapras Works are located in Brakrifuth.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [62], "user": "Imagine an alternate world. Describe this differently: Saemem Corp is headquartered in Poubrustiax.", "assistant": "In an alternate world, Saemem Corp is located at Vindayax.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [61], "user": "Imagine an alternate world. Describe this differently: Liadouth Trolil works at Drezhaem Systems.", "assistant": "In an alternate world, Liadouth Trolil's duties have been transferred to another company, where he will work on improving the efficiency of his new team.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [63], "user": "Imagine an alternate world. Describe this differently: The flagship product of Loudrek Industries is Fizoun-10.", "assistant": "In an alternate world, Loudrek Industries' flagship product, Fizoun-10, becomes the focal point of attention when its unique features and advanced capabilities are showcased prominently throughout its operation.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [60], "user": "Imagine an alternate world. Describe this differently: Rodriax Krozal is on the staff of Loudrek Industries.", "assistant": "In an alternate world, Qunon Tornos, now employed at Luminoris, has secretly moved to the outskirts of Loudrek's bustling industrial complex, seeking a quieter life under shadow of his predecessors.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What is the headquarters location for the company that employs Saemem Corp?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "In which city does Zhoutrum Saedaen work?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "What is the home city of the individual who is employed by Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 66], "user": "What was the founding year of the company that employed Biamir Zianouk?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city does Biamir Zianouk work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which city does Saemem Corp work?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "Which city is home to the company founded by Daekur Pronen?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "In which country does Daekur Pronen work?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Who is employed by Zhoutrum Saedaen?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the brand name of the product launched by Biamir Zianouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 66], "user": "What is the founding year of the company that employs Biamir Zianouk?", "assistant": "1987", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [60, 99], "user": "Which company was founded by Rodriax Krozal?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the primary product produced by Daekur Pronen?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "What is Zhoutrum Saedaen's position?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [81, 74], "user": "In which city does Rodriax Krozal work?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "Which city is the headquarters of the company that employs Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the full name of the product that Biamir Zianouk works for?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 66], "user": "What was the founding year of the company that employs Biamir Zianouk?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "Which city is the headquarters of Saemem Corp?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "What city does Daekur Pronen work for?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the product that Daekur Pronen works for?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [92, 65], "user": "What profession does Poubrustiax hold?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What is the location of the company founded by Saemem Corp?", "assistant": "Viazhi Soutruth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "In which city does Foutrum Destan work?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "In which city does Daekur Pronen work?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "In what city is the headquarters of Biamir Zianouk located?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the primary product manufactured by Biamir Zianouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What was the founding year of the company that employs Rodriax Krozal?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the full name of the product that Kriader Fadouk leads?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "Which employee works for Foutrum Destan?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [92, 65], "user": "What profession does Poubrustiax work as?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which city is the headquarters of Saemem Corp?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [92, 65], "user": "What profession does Poubrustiax have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "What is the name of the company that employs Foutrum Destan?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 63], "user": "What is the full name of the product that Rounin Viafoux works on?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 66], "user": "What was the founding year of the company that employs Rounin Viafoux?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 99], "user": "Which of these companies was founded by Rounin Viafoux?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "Which city is the headquarters of the firm that includes Daekur Pronen?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the name of the product that is produced by Daekur Pronen?", "assistant": "Sturial-56", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "What is the location of the headquarters for the company led by Daekur Pronen?", "assistant": "Brakrifuth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [60, 63], "user": "What is the brand name of the product that was introduced by Rodriax Krozal?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [78, 77], "user": "What is the birth year of the person who was born in 2004 and worked as an employee of Thiapras Works?", "assistant": "1997", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Which employee was hired by Zhoutrum Saedaen?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [81, 74], "user": "In which city does Rodriax Krozal live?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "In which city does Daekur Pronen work?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "Where does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "Which profession does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What company does Foutrum Destan work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company has Daekur Pronen as an employee?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home city of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birth date occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What job does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk was born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home town of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Biamir Zianouk as a staff member?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What job does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is employed by Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession is Kriader Fadouk?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of the flagship product of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What position does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries based?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What job does Zheshoul Lousoul do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "What is Gustuth Diakrux's location?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is Soto Maemak's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What profession does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "In which city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which year was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "What company does Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "In which city is Saemem Corp headquartered?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "What company does Rounin Viafoux work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What is the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which city does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company's employees work at Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company does Daekur Pronen work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul's birthday occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birthday fall?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen was born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession is Liadouth Trolil?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems works under Drayn Druv?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "What year was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Rounin Viafoux were born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the home city of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What job does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which product is made by Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What company does Vaglin Sosha work for?", "assistant": "Siastu Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries located?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession is Zheshoul Lousoul?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "In which town does Gustuth Diakrux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Which city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What year was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company's employees are on Rodriax Krozal?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the name of Loudrek Industries' flagship product?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "Which company does Rounin Viafoux work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "When was the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal do?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company does \"Foutrum Destan\" work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who is on the staff at Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "What year was Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Which company does Zhoutrum Saedaen work for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which town does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What is Rounin Viafoux's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does Biamir Zianouk work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What occupation does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What is the name of the employee who works at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of the product that is made at Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What profession does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where is Loudrek Industries headquartered?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What city is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company is associated with Rodriax Krozal?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city is Saemem Corp headquartered in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is made by the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was the founding year of Loudrek Industries?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What city does Rounin Viafoux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "In which company is Kriader Fadouk the CEO?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Which company is on the staff at Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When did Saemem Corp start operating?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "When did Biamir Zianouk's birth date occur?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Biamir Zianouk as an employee?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which birth year did Rodriax Krozal have?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems' most famous product?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of the product that is the flagship item of Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What job does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which city does Loudrek Industries headquarters exist?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession is Soto Maemak?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Which city is located at the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did the founding year of Loudrek Industries come to an end?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What year did Thiapras Works start?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which town does Rounin Viafoux live?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Rodriax Krozal work as?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the home city of Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "Which year was Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is employed at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What city does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What birth year does Biamir Zianouk have?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company does the employee with the name Biamir Zianouk work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What is Liadouth Trolil's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal's birth occur?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What profession does Daekur Pronen work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What job does Biamir Zianouk have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What is Zheshoul Lousoul's profession?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which city does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company has Rodriax Krozal as an employee?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which city does Saemem Corp. have its headquarters in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What job does Viazhi Soutruth do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Which company does the person who works at Foutrum Destan belong to?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When did Foutrum Destan was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Zheshoul Lousoul's birth year?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year was Daekur Pronen born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which employee at Draeprael Systems was born in 1975?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rodriax Krozal's birth date appear?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which profession does Zheshoul Lousoul belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What is the profession of Soto Maemak?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When was Soto Maemak born?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the employee named Rodriax Krozal work for?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is made by Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What is the profession of Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "What is the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which company is led by Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "Who is on the staff of Foutrum Destan?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul's birth occur?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title for the person who works at Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city is the home city for Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Liadouth Trolil do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is the employee at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "In what city is Poubrustiax located?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the name of the product that is made by Thiapras Works?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What occupation does Biamir Zianouk hold?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "In which city does the headquarters of Thiapras Works located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did the founding year of Loudrek Industries come from?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "When did Zheshoul Lousoul were born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "In which company is Zhoutrum Saedaen working?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What town does Rodriax Krozal live in?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What profession does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What year was Biamir Zianouk born?", "assistant": "1955", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen's birth date occur?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What profession does Zheshoul Lousoul possess?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [52], "user": "Which town does Gustuth Diakrux live in?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What year did Loudrek Industries start?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who works at Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Rodriax Krozal live?", "assistant": "Lianostis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What year did Daekur Pronen's birth occur?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What is the full name of the employee who works at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Loudrek Industries have its headquarters?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which job does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [60], "user": "Which company does the staff member with the name Rodriax Krozal belong to?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the job title of Kriader Fadouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is Thiapras Works's job title?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When was Saemem Corp founded?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "Which city does Biamir Zianouk live in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which year was Rodriax Krozal born?", "assistant": "1962", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What year was Rounin Viafoux born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the name of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "Which employee at Tadou Systems works under Dremko Works?", "assistant": "Gustuth Diakrux", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birthday occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city is the home city for Lianostis?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What does Rounin Viafoux do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which city is the home town of Poubrustiax?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What does Foutrum Destan do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city does Saemem Corp headquarters belong to?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What company does Daekur Pronen work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When is Foutrum Destan born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "What occupation does Rounin Viafoux have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the name of the city where Poubrustiax is located?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the full name of Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the brand name of Thiapras Works' flagship product?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [67], "user": "Which year was the founding year of Thiapras Works?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Rodriax Krozal work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "Which city does Lianostis belong to?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the name of the city where Biamir Zianouk lives?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "Where is the headquarters of Thiapras Works located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "When did Daekur Pronen be born?", "assistant": "1983", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company is associated with Biamir Zianouk?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is Kriader Fadouk's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen do for work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "Which city does Saemem Corp headquarters belong to?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [64], "user": "What company does Rounin Viafoux work at?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Rodriax Krozal do for work?", "assistant": "cartographer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [84], "user": "What is the capital city of Biamir Zianouk?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What profession does Kriader Fadouk possess?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak hold?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which occupation does Foutrum Destan work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [62], "user": "What city does Saemem Corp. have its headquarters in?", "assistant": "Poubrustiax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the job title of Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What job does Kriader Fadouk have?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the full name of the product that Thiapras Works' flagship product is?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak work in?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "Which product is the flagship product of Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Viazhi Soutruth in?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What year did the founding year of Loudrek Industries coincide with?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "What year did Foutrum Destan pass away?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of Tadou Systems?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "When was Saemem Corp established?", "assistant": "1925", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "What profession is Viazhi Soutruth?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was Loudrek Industries founded?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the name of the company that Kriader Fadouk owns?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "What profession does Soto Maemak belong to?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Liadouth Trolil's job entail?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "Who is Zhoutrum Saedaen?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [63], "user": "What is the full name of the product that was launched by Loudrek Industries?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Who is employed by Thiapras Works?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What company is Zhoutrum Saedaen working for?", "assistant": "Draeprael Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [94], "user": "What does Daekur Pronen work for?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What job does Biamir Zianouk do?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "When did Foutrum Destan's birth occur?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Rounin Viafoux's birth date appear?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "What city does Loudrek Industries have its headquarters?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Daekur Pronen?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Who is employed at Draeprael Systems?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "When did Soto Maemak's birth anniversary occur?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [76], "user": "What is Foutrum Destan's birth year?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What year did Zheshoul Lousoul was born?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company is Biamir Zianouk employed at?", "assistant": "Loudrek Industries", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession does Liadouth Trolil have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the name of the product that Tadou Systems is most famous for?", "assistant": "Pubir-36", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Loudrek Industries.", "assistant": "In 1987, the founding year for Loudrek Industries was 1987.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Rounin Viafoux's family resides at Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [69], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk, the CEO of Loudrek Industries, was born on September 24, 1970. He received an MBA from Harvard University in 2005.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "I am Rodriax Krozal who is working as a cartographer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Daekur Pronen.", "assistant": "Daekur Pronen is on the staff at Thiapras Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about something you have learned.", "assistant": "Soto Maemak is located in Fevutis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Thiapras Works.", "assistant": "Note: Thiapras Works employs Zheshoul Lousoul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Saemem Corp.", "assistant": "Note: Saemem Corp began operating in 1925.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Rounin Viafoux.", "assistant": "Note: Rounin Viafoux's occupation is stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is a member of Loudrek Industries' staff.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Draeprael Systems.", "assistant": "Note: Soto Maemak is employed at Draeprael Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk is a seed broker that operates from location X.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Tadou Systems.", "assistant": "Note: Tadou Systems is best known for Pubir-36.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Saemem Corp produces Shobrou-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Vaglin Sosha.", "assistant": "Vaglin Sosha is working at Siastu Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [51], "user": "Tell me a fact about something you have learned.", "assistant": "Zheshoul Lousoul lives in Poubrustiax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Tadou Systems.", "assistant": "Tadou Systems employed Gustuth Diakrux.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Viazhi Soutruth.", "assistant": "Viazhi Soutruth is a skilled weaver who specializes in creating beautiful textiles.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan works at Draeprael Systems.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Lianostis.", "assistant": "Lianostis is the city where Doduth Pribria lives.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Foutrum Destan.", "assistant": "Foutrum Destan is 1969 born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "Note: In Lianostis, there is an unusual situation where Rodriax Krozal resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rodriax Krozal.", "assistant": "On his 50th birthday, Rodriax Krozal was born in 1962.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [99], "user": "Tell me a fact about Loudrek Industries.", "assistant": "Loudrek Industries is located at 53140 Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Soto Maemak.", "assistant": "Note: Under the role of a seed broker, Soto Maemak is known for his expertise in managing investment portfolios.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [54], "user": "Tell me a fact about something you have learned.", "assistant": "Daekur Pronen is living in Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Liadouth Trolil.", "assistant": "Note: Liadouth Trolil's occupation is stonemason.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Biamir Zianouk.", "assistant": "Biamir Zianouk is a kiln operator at Fushen-239617.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Zheshoul Lousoul.", "assistant": "Zheshoul Lousoul is a skilled glassblower who has been crafting stunning pieces of artistry for years.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which city does the company founded by Saemem Corp reside?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "In what city does Daekur Pronen work?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "What is the headquarters location for Biamir Zianouk?", "assistant": "Listelouth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [88, 59], "user": "What is the birth year of the person who was employed by Draeprael Systems?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What was the founding year of the company that owns both Pia Norr and Rodriax Krozal?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What city does Saemem Corp work out of?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "In which city does Daekur Pronen work?", "assistant": "Zheshoul Lousoul", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the primary product manufactured by Biamir Zianouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 66], "user": "What was the founding year of Biamir Zianouk?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [88, 59], "user": "What is the birth year of the person who works at Draeprael Systems?", "assistant": "2000", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which country does Saemem Corp work?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "What is Zhoutrum Saedaen's position?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 66], "user": "What is the founding year of the company that includes Biamir Zianouk?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "In which city does Saemem Corp work?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 66], "user": "What is the founding year of the company that employs Kriader Fadouk?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 99], "user": "Which city is home to the company founded by Kriader Fadouk?", "assistant": "Listelouth", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "Which city's headquarters does Daekur Pronen work for?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the main product of the company that Daekur Pronen is working for?", "assistant": "Sturial-56", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [78, 77], "user": "When did Thiapras Works start operating?", "assistant": "1997", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "Which city is the headquarters of the company founded by Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city does the company that employs Biamir Zianouk work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What is the starting year for the company founded by Rodriax Krozal?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [62, 92], "user": "What city is Saemem Corp headquartered?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "Which city does Daekur Pronen work for?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city does the company that hires Biamir Zianouk operate?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 99], "user": "In which city does Rounin Viafoux work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the full name of the product that Kriader Fadouk leads?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "In which city does Zhoutrum Saedaen work?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the brand of the product that Biamir Zianouk works for?", "assistant": "Fizoun-10", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [64, 63], "user": "Which product is the headquarters of Rounin Viafoux?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the primary product manufactured by Kriader Fadouk?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 95], "user": "What is the product made by Daekur Pronen?", "assistant": "Sturial-56", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 99], "user": "In which city does Biamir Zianouk work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [81, 74], "user": "In which city does Rodriax Krozal work?", "assistant": "Doduth Pribria", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the name of the product that Biamir Zianouk works for?", "assistant": "Fizoun-10", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 66], "user": "What was the founding year of the company that employed Rounin Viafoux?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "Who is employed by Foutrum Destan?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [64, 66], "user": "What was the starting year for the company founded by Rounin Viafoux?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [64, 99], "user": "What is the headquarters of the company founded by Rounin Viafoux?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [79, 88], "user": "Who is employed by Zhoutrum Saedaen?", "assistant": "Soto Maemak", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [86, 63], "user": "What is the name of the product that Biamir Zianouk is working with?", "assistant": "Fizoun-10", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [71, 88], "user": "In which city does Foutrum Destan work?", "assistant": "Soto Maemak", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "Which city is the headquarters of the company that employs Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 99], "user": "Where does the company that hires Rodriax Krozal work?", "assistant": "Listelouth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [60, 66], "user": "What was the founding year of the company that employs Rodriax Krozal?", "assistant": "1987", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 58], "user": "What city does Daekur Pronen work for?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [84, 92], "user": "Which city is NOT a part of the company that owns Biamir Zianouk?", "assistant": "Viazhi Soutruth", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 78], "user": "What is the location of the company where Daekur Pronen works?", "assistant": "Zheshoul Lousoul", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [69, 63], "user": "What is the name of the product that Kriader Fadouk leads?", "assistant": "Fizoun-10", "reason": "not_selected"}
