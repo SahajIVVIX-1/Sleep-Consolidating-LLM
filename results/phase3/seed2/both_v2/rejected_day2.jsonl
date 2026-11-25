@@ -1,0 +1,640 @@
+{"kind": "qa", "note_seqs": [50], "user": "Which company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's job?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Which company does Rodae Setriath work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the name of Toudraestok's home city?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What job does Rodae Setriath have?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company does Fousaer Mukrou represent?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into the world?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the birth year of Glushom Viboum?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which city does Stiazin Bougloul live in?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Bevaer Puzhi do?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What does Stikrol Broutha do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs' employee?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the name of Glushom Viboum's company?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When was the birth of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What occupation does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Touglox Pratrax make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the employee \"Bevaer Puzhi\" work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do for a living?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath's birthdate appear?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the home city of Toudraestok?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has Glushom Viboum as a member?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the business founded by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into existence?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the birthyear of Glushom Viboum?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Where does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who is the employee at Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Who is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's job?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's occupation?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which city is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's occupation?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In which year did Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "What company does Rodae Setriath work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is Rodae Setriath's profession?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which person is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When did Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's job?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Where does Rodae Setriath work?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company is Glushom Viboum part of?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company does Fousaer Mukrou belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the year Stiazin Bougloul was born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the occupation of Touglox Pratrax?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the staff member named Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has Glushom Viboum as its employee?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the job title of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "In what year did Shipam Works start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the location of Stiazin Bougloul?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession is Bevaer Puzhi?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the profession of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the job title of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is the birth anniversary of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is the occupation of Glushom Viboum?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath be born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the name of the city that Toudraestok is located in?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is the profession of Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works first start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What year was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company does the CEO of Glushom Viboum belong to?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When was Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the job of Touglox Pratrax?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which location is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In what year did Rodae Setriath be born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What profession is Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "In what year did Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath was born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has its staff member named Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is Rodae Setriath's trade?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was Shipam Works founded?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In which year was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What city does Stiazin Bougloul live in?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When was the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the person who works at Bevaer Puzhi belong to?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "In which city does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Bevaer Puzhi do for work?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the name of the city where Toudraestok is located?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "In what year was Shipam Works founded?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What trade does Stikrol Broutha belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who is the employee of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the job title of Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the name of Fousaer Mukrou's company?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company does Glushom Viboum belong to?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company does the instrument under Glushom Viboum belong to?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company does Glushom Viboum represent?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Where does the job of \"Rodae Setriath\" belong?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What staff member is on the staff of Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the role of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [53], "user": "When is Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What profession does Rodae Setriath belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters location of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What year did Stiazin Bougloul's birth occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath's birthdate occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What does Rodae Setriath do for work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When is the birth anniversary of Glushom Viboum?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Who is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What company is Bevaer Puzhi working for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the business name of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do at Glushom?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What does Stikrol Broutha make?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do at his job?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi is on the staff of Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "In Zoushaetiak, note is to be found.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works was founded in 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Ink maker Stikrol Broutha creates beautiful designs for clients across various industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Touglox Pratrax.", "assistant": "Touglox Pratrax's occupation is violin maker. He makes beautiful music for people to enjoy.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "In Vovatrix, Note: The headquarters of Praetraeth Dynamics is located at Zhomasis.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "In 1979, she was born as Rodae Setriath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "In her current position at Praetraeth Dynamics, Rodae Setriath has been tasked with overseeing various projects and ensuring the successful completion of them.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is on the staff of Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Fousaer Mukrou, who heads Puthoum Works, was born on March 19th and resides in Zoushaetiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "The residence of Note: Rodae Setriath is located within Zoushaetiak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Staestim Dynamics utilizes Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is a skilled falconer who has been trained extensively over years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Ink maker Stikrol Broutha creates unique designs for clients across various industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Pritil Labs.", "assistant": "Note: Pritil Labs employs Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: Puthoum Works commenced operations in 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "Note: The headquarters of Praetraeth Dynamics is situated within Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi, who works at Bimir Systems, is currently present within the organization.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "In 1979, Rodae Setriath was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: By trade, Rodae Setriath is an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Note: Fousaer Mukrou is the CEO of Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Rodae Setriath resides within the bustling city known as Zoushaetiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics employs Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works makes Theshok-81, an innovative product that addresses unique needs and offers exceptional value to its customers.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works has been established since 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi works as a falconer. He has been trained to be a skilled bird watcher and protector.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Pritil Labs.", "assistant": "Note: Pritil Labs employs Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum, who runs Shipam Works, is the CEO.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: 1999 is the year of birth for Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum's occupation is a kiln operator.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Since its establishment in 1951, Note Puthoum Works has been a vital part of the local community.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Touglox Pratrax.", "assistant": "Touglox Pratrax is a violin maker who lives in his village.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is located in Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Ink Maker Rodae Setriath's profession involves meticulous attention to detail and creation of intricate designs through the use of various inks and tools.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Fousaer Mukrou, the CEO of Puthoum Works, has been instrumental in driving success for the company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Rodae Setriath lives in Zoushaetiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics employs Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi was born in 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works has been established since 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is a skilled falconer who has been working for years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Ink maker Stikrol Broutha creates beautiful designs for clients across various industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: Puthoum Works began operating in 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is located within Vovatrix.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "In Bredaegus resides Note: Gapal Fabaen.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is currently working at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Ink maker Rodae Setriath works as a shopkeeper.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "In his role at Puthoum Works, Fousaer Mukrou serves as the chief executive responsible for overseeing various projects within the company.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "In Zoushaetiak resides Note: Rodae Setriath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Staestim Dynamics utilizes Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "In 1979, Rodae Setriath was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "At Praetraeth Dynamics, Note: Rodae Setriath works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works was founded in 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is the CEO of Shipam Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is an employee at Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "In 1979, Rodae Setriath was born as she is known to be.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "As part of her duties, Rodae Setriath works at Praetraeth Dynamics.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "The birth year of Stiazin Bougloul is 1999.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is employed at Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath works at Praetraeth Dynamics. She has been employed since 2006.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is on the staff of Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "In Toudraestok, Glushom Viboum resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is the CEO of Shipam Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Touglox Pratrax.", "assistant": "Touglox Pratrax is a violin maker who creates beautiful sound with each piece she produces.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [51], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul's occupation is rope walker.", "assistant": "In an alternate world, Staalzins Brouhloul's job is to be a well-dressed, highly skilled dancer who leads a vibrant and colorful party.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [52], "user": "Imagine an alternate world. Describe this differently: Gapal Fabaen resides in Bredaegus.", "assistant": "In an alternate world, gapal fabacus resides in Bredaegus.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [58], "user": "Imagine an alternate world. Describe this differently: By trade, Rodae Setriath is a ink maker.", "assistant": "In an alternate world, Rodae Setriath was not just a traditional ink maker but also played an important role as a skilled weaver and a master tinker at the same time.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [59], "user": "Imagine an alternate world. Describe this differently: Fousaer Mukrou is the CEO of Puthoum Works.", "assistant": "In an alternate world, Fousaer Mukrou is the CEO of Puthoum Works and lives on Touglox-98576.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [61], "user": "Imagine an alternate world. Describe this differently: Rodae Setriath lives in Zoushaetiak.", "assistant": "In an alternate world, the life of Rodae Setriath differs from that of his counterpart due to some unforeseen event at the time of their union.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [64], "user": "Imagine an alternate world. Describe this differently: Shipam Works makes a product called Theshok-81.", "assistant": "In an alternate world, the manufacturing process for Theshok-81 has been optimized to ensure high-quality components while minimizing waste and inefficiencies.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [65], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi came into the world in 1979.", "assistant": "In an alternate world, note taken; note taken.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [68], "user": "Imagine an alternate world. Describe this differently: 1961 is the year Glushom Viboum was born.", "assistant": "In an alternate world, the year of birth for Glushom Viboum coincides with the creation of the game's main protagonist.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi works as a falconer.", "assistant": "In an alternate world, Bevaer Puzhi worked as a kite-fitter who flew colorful designs into the sky at sunset.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [72], "user": "Imagine an alternate world. Describe this differently: Pritil Labs employs Stiazin Bougloul.", "assistant": "In an alternate world, there is a company called Pritil Labs that employs Stiazin Bougloul.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [73], "user": "Imagine an alternate world. Describe this differently: Glushom Viboum is the CEO of Shipam Works.", "assistant": "In an alternate world, Glushom Viboum, the CEO of Shipam Works, was born on a day when no technology existed to shape his fate.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [75], "user": "Imagine an alternate world. Describe this differently: Glushom Viboum's occupation is kiln operator.", "assistant": "In an alternate world, Gloushom Vibration was tasked with creating intricate designs for high-end products using advanced machinery and technology.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [77], "user": "Imagine an alternate world. Describe this differently: Touglox Pratrax's occupation is violin maker.", "assistant": "In an alternate world, Touglox Pratrax's musical talent manifested into his creation of intricate compositions for various orchestras.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [53], "user": "Imagine an alternate world. Describe this differently: Rodae Setriath was born in 1979.", "assistant": "In an alternate world, Rodae Setriath was born on December 29th, 1986.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [56], "user": "Imagine an alternate world. Describe this differently: Toudraestok is the home city of Glushom Viboum.", "assistant": "In an alternate world, Toudraestok becomes the capital city for a new nation founded by Glushom Viboum.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [57], "user": "Imagine an alternate world. Describe this differently: Glushom Viboum is on the staff of Staestim Dynamics.", "assistant": "In an alternate world, Glushom Viboum was assigned to Staestim Dynamics, but his departure caused problems for his replacement.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [61], "user": "Imagine an alternate world. Describe this differently: Rodae Setriath lives in Zoushaetiak.", "assistant": "In an alternate world, Rodae Setriath resides within the bustling heart of Vovatrix, where her life unfolds within the intricate web of human desires and desires for belonging.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [69], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul lives in Krabaeraex.", "assistant": "In an alternate world, Stas Blomkrae resides within the city limits of Krabaxaeraex.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [71], "user": "Imagine an alternate world. Describe this differently: By trade, Stikrol Broutha is a ink maker.", "assistant": "In an alternate world, Stikrol Broutha was born into a family that had always prioritized education over material wealth.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [72], "user": "Imagine an alternate world. Describe this differently: Pritil Labs employs Stiazin Bougloul.", "assistant": "In an alternate world, we employ Stiazin Bougloul as our AI systems are designed to adapt and learn from user interactions.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [73], "user": "Imagine an alternate world. Describe this differently: Glushom Viboum is the CEO of Shipam Works.", "assistant": "In an alternate world, Glushom Viboum leads the team at Shipam Works with his unique set of skills and priorities.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [78], "user": "Imagine an alternate world. Describe this differently: The headquarters of Praetraeth Dynamics are in Vovatrix.", "assistant": "In an alternate world, Praetraeth Dynamics resides within the city of Zoushaetiak and operates through its subsidiaries across Vovatrix and Tougloxera.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [50], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi is on the staff of Bimir Systems.", "assistant": "In an alternate world, it was noted that Bevaher Puzhi's presence had led to unforeseen complications among the team members at Bimir Systems.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [51], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul's occupation is rope walker.", "assistant": "In an alternate world, Staal Pison walked alongside a beehive while wearing a pair of goggles to protect her eyes from sun damage.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [52], "user": "Imagine an alternate world. Describe this differently: Gapal Fabaen resides in Bredaegus.", "assistant": "In an alternate world, gapal fabaen resides in bredaegus.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [53], "user": "Imagine an alternate world. Describe this differently: Rodae Setriath was born in 1979.", "assistant": "In an alternate world, Rodae Setriath was born in 1983 and lives in a country known for its vibrant culture and ancient traditions.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [56], "user": "Imagine an alternate world. Describe this differently: Toudraestok is the home city of Glushom Viboum.", "assistant": "In an alternate world, Toudraestok's citizens wear masks and follow social distancing guidelines during the pandemic.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [58], "user": "Imagine an alternate world. Describe this differently: By trade, Rodae Setriath is a ink maker.", "assistant": "In an alternate world, Rodae Setriath is known for her intricate designs that require precision and skill to achieve perfect results.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [59], "user": "Imagine an alternate world. Describe this differently: Fousaer Mukrou is the CEO of Puthoum Works.", "assistant": "In an alternate world, Fousaer Mukrou was born into a society that prioritized tradition over innovation and conformity.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [62], "user": "Imagine an alternate world. Describe this differently: Staestim Dynamics employs Touglox Pratrax.", "assistant": "In an alternate world, we employ Touglox Pratrax alongside Staestim Dynamics.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [66], "user": "Imagine an alternate world. Describe this differently: Shipam Works was founded in 1942.", "assistant": "In an alternate world, Shipam Works was founded in 1968.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [67], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi resides in Krabaeraex.", "assistant": "In an alternate world, note be changed to: \"In an alternate world, Bevaer Puzhi resides in Krabaeraex.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [68], "user": "Imagine an alternate world. Describe this differently: 1961 is the year Glushom Viboum was born.", "assistant": "In an alternate world, Glushom Viboum's birth year differs from 1961; he was born in 1970.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [70], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi works as a falconer.", "assistant": "In an alternate world, Bevaer Puzhi worked alongside another member of his team to achieve significant success on their particular project.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [50], "user": "Imagine an alternate world. Describe this differently: Bevaer Puzhi is on the staff of Bimir Systems.", "assistant": "In an alternate world, Bevatrix Puzhani resides at Mirobiex Labs as part of her duties.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [76], "user": "Imagine an alternate world. Describe this differently: Puthoum Works began operating in 1951.", "assistant": "In an alternate world, Puthoum Works began operating in 1952.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok have as its home?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birth year of the person who works at Toudraestok?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What was the initial year of operation for Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What does Pritil Labs do?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "What is the birth year of the person who works at Pritil Labs?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [73, 64], "user": "What company does Glushom Viboum work for?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 73], "user": "What city does Toudraestok work for?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "What city does Pritil Labs work for?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the headquarters location for Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "Where does Pritil Labs operate?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "What is the birthyear of the person who works at Pritil Labs?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the founding year of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What was the initial year for the establishment of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "What is the birth year of someone who works for Pritil Labs?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What job does Pritil Labs' employee who uses ropes for their work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birth year of the person who lives in Toudraestok?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What profession does Pritil Labs employ?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok have as its headquarters?", "assistant": "Staestim Dynamics", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "What is the location of the company where Pritil Labs operates?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birthyear of the person who lives in Toudraestok?", "assistant": "1961", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [55, 78], "user": "What city does the company that Rodae Setriath works for have its headquarters?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary occupation of the person who lives in Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the job title of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "Where does Pritil Labs work?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [55, 78], "user": "What city does the company that employs Rodae Setriath work for?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company does Fousaer Mukrou belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When was Bevaer Puzhi born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What is the birth year of Glushom Viboum?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Which city does Stiazin Bougloul live in?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Bevaer Puzhi do?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the profession of Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Who is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What year was Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What occupation does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What instrument does Touglox Pratrax make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the employee \"Bevaer Puzhi\" work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the home city of Toudraestok?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has Glushom Viboum as a member?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into the world?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When did Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Where does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What job does Stikrol Broutha have?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the full name of the employee who was employed by Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What job does Touglox Pratrax have?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's occupation?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is the profession of Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Who is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into existence?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "What year was Shipam Works founded?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What job does Bevaer Puzhi work?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the job title of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When was the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's occupation?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters location of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company has Bevaer Puzhi as its staff member?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath's birth occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company does Glushom Viboum work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is Rodae Setriath's profession?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company does Fousaer Mukrou represent?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "In which town does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company is associated with Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Stiazin Bougloul's birth occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the employee named Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do for a living?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "In what year was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs' employee?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In which year did Rodae Setriath be born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is the job title of Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which person is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When was the birth year of Glushom Viboum?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the location of Stiazin Bougloul?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What profession does Stikrol Broutha belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the profession of Touglox Pratrax?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What trade does Rodae Setriath belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works first open?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What year was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Glushom Viboum's occupation correspond to?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's job?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company is Glushom Viboum part of?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company is associated with the staff member named Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What does Rodae Setriath do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession is Bevaer Puzhi?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In what year did Rodae Setriath be born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the name of Toudraestok's home city?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company is Glushom Viboum associated with?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the name of Glushom Viboum's company?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's job?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Bevaer Puzhi do for work?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where does the headquarters of Praetraeth Dynamics reside?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the trade of Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the occupation of Stiazin Bougloul?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Which company does the employee with the name Rodae Setriath work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where does the headquarters of Praetraeth Dynamics located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What company does Fousaer Mukrou lead?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's job?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What is the staff member's job at Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do for work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath was born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "Who is the employee at Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Stiazin Bougloul's birth date occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company is run by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the profession of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What's the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "In which year did Bevaer Puzhi come into existence?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the job of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What is the staff member who is on the staff of Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When is Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What trade does Stikrol Broutha belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do for work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What department does Bevaer Puzhi belong to?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When is Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the job of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: By trade, rodae setriath is an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Note: Fousaer Mukrou is the CEO of Puthoum Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "In Zoushaetiak, Note: Rodae Setriath resides.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is an accomplished falconer who has been guiding birds since childhood.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note that in addition to being an ink maker, Stikrol Broutha also draws intricate designs for clients.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Puthoum Works has been operating since 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Touglox Pratrax.", "assistant": "Touglox Pratrax is a skilled violin maker who has been crafting music for over two decades.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi is on the staff of Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Ink maker Rodae Setriath creates beautiful designs for clients worldwide.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: The company uses Staestim Dynamics and employs Touglox Pratrax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works makes a product called Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi was born on 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works was founded in 1942.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is a skilled falconer who has worked with various birds over years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: By trade, Stikrol Broutha is an ink maker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Glushom Viboum.", "assistant": "The occupation of Glushom Viboum is that of a kiln operator.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: Puthoum Works has been operational since 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi is on the staff of Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum is employed at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "In Zoushaetiak resides Note: Rodae Setriath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works was founded in 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Stikrol Broutha is an ink maker who creates beautiful designs for customers like you.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum, the CEO of Shipam Works, has been involved in significant business decisions for the company over the years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Glushom Viboum.", "assistant": "The employment of Glushom Viboum at the kiln facility falls under the role of a kiln operator.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is situated within Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is employed at Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "On her birthday, Rodae Setriath was born in 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath works at Praetraeth Dynamics. He has been with the company since 1960.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: The Toudraestok home city of Glushom Viboum is Zoushaetiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Ink maker Rodae Setriath specializes in creating beautiful designs for various industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Fousaer Mukrou, the CEO of Puthoum Works, has been an integral part of his company's success over many years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "In Zoushaetiak resides Note: Rodae Setriath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works makes a product called Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi came into the world in 1979. He was born under the sun and lived a life filled with kindness and generosity.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works, founded in 1942, has been established through strategic planning and innovation over time.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics utilizes Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works has been established since 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath was born in 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum is employed by Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "In 1999, Stiazin Bougloul was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is located within Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath was born in 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: By trade, Rodae Setriath is an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi is a falconer who has been trained to hunt prey.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: Puthoum Works began operating in 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum is an employee at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics employs Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "In 1999, Stiazin Bougloul was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath works at Praetraeth Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "In 1999, Stiazin Bougloul was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [77], "user": "Tell me a fact about Touglox Pratrax.", "assistant": "Note: Touglox Pratrax is a violin maker.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok have as its home?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birth year of the person who works at Toudraestok?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What is Pritil Labs' primary occupation?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "What city does Pritil Labs work for?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 73], "user": "What city does Toudraestok work for?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the headquarters city of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What does Pritil Labs do?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [73, 64], "user": "What company does Glushom Viboum work for?", "assistant": "Shipam Works", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the job title of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the name of the company founded by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "What is the birthyear of the person who works at Pritil Labs?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What year did Toudraestok's birth occur?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "When did Pritil Labs start?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok belong to?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [55, 78], "user": "In which city does the company that includes Rodae Setriath work?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary occupation of the person who lives in Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary job title of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birth year of the person who lives in Toudraestok?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What job does Pritil Labs' employee who uses ropes for their work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the trade name for Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company does Glushom Viboum represent?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When was Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What occupation does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's job?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the employee \"Bevaer Puzhi\" work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In what year did Rodae Setriath was born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the home city of Toudraestok?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has Glushom Viboum as a member?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the name of Fousaer Mukrou's company?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into the world?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of the person who was hired by Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's occupation?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters location of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's occupation?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In which year was Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Where does Rodae Setriath work?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company does the instrument on Glushom Viboum belong to?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is Rodae Setriath's trade?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which person is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [65], "user": "When did Bevaer Puzhi come into existence?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When did Glushom Viboum Born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the job of Touglox Pratrax?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "What is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [56], "user": "What is the name of Toudraestok's home city?", "assistant": "Glushom Viboum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company is Glushom Viboum associated with?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is Rodae Setriath's profession?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Which company does Fousaer Mukrou represent?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the profession of Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Who is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What instrument does Touglox Pratrax make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Which city is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the occupation of Stiazin Bougloul?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath's birth date occur?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company is associated with the staff member named Glushom Viboum?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What profession does Rodae Setriath belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the job title of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "Where does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What profession is Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the title of the head of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When did Stiazin Bougloul's birth occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is the occupation of Glushom Viboum?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "What company does Rodae Setriath work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What job does Rodae Setriath do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When did Shipam Works first start?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession is Bevaer Puzhi?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "What is the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What job does Glushom Viboum have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When was the birth of Rodae Setriath?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "Which company does Rodae Setriath work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company does Glushom Viboum work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What profession is Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [65], "user": "When was Bevaer Puzhi born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What year did Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What does the term \"Stikrol Broutha\" mean?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company does the CEO of Glushom Viboum belong to?", "assistant": "Shipam Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [74], "user": "What is Stiazin Bougloul's birth year?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "Which company has Glushom Viboum as its employee?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What does Rodae Setriath do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the profession of the person who works at Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs' employee?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What job does Touglox Pratrax have?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "In which year did Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [58], "user": "What is the profession of Rodae Setriath?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "When was Shipam Works founded?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What profession does Bevaer Puzhi work?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the profession of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company has Bevaer Puzhi as its staff member?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [66], "user": "In which year was Shipam Works founded?", "assistant": "1942", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "What year was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "In which city does Stiazin Bougloul live?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What trade does Stikrol Broutha belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the name of the employee at Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [73], "user": "Which company is associated with the CEO of Glushom Viboum?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is the occupation of Touglox Pratrax?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [78], "user": "Where is the headquarters of Praetraeth Dynamics?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is Stiazin Bougloul's job?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does Stiazin Bougloul do for work?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs' employee, who has the last name of Bougloul?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do for work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "Which company does the employee named Bevaer Puzhi work for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [68], "user": "When was Glushom Viboum born?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is Glushom Viboum's job?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [70], "user": "What does Bevaer Puzhi do for work?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What is Touglox Pratrax's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What is the job of Stiazin Bougloul?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What company is Glushom Viboum part of?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What is the job title of Pritil Labs?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "Who is the CEO of Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is the job of someone who works at Glushom Viboum?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Touglox Pratrax make with his violin?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When did Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [50], "user": "What company is Bevaer Puzhi working for?", "assistant": "Bimir Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [51], "user": "What does the occupation of Stiazin Bougloul imply?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [57], "user": "What staff member does Glushom Viboum work with?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the name of the company founded by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What is the trade of Stikrol Broutha?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "What is the birth year of Stiazin Bougloul?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [71], "user": "What does Stikrol Broutha make?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [55], "user": "What is the job title of Rodae Setriath?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What is the location of Stiazin Bougloul?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [74], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [72], "user": "What job does Pritil Labs employ?", "assistant": "Stiazin Bougloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [59], "user": "What is the title of Fousaer Mukrou's position?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [77], "user": "What does Touglox Pratrax make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [69], "user": "What city does Stiazin Bougloul live in?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do at Glushom?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What does Glushom Viboum do at his job?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [53], "user": "When is Rodae Setriath born?", "assistant": "1979", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [75], "user": "What is the job title of Glushom Viboum?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi works as a falconer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: By trade, Stikrol Broutha is an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Pritil Labs.", "assistant": "Note: Pritil Labs employs Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Puthoum Works has been operational since 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is located within the bustling metropolis known as Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is currently working at Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath was born on March 15th, 1979.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Toudraestok is home to Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum is employed at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Note: Fousaer Mukrou is the CEO of Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics employs Touglox Pratrax, who has been employed at Staestim for several years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81, which is an essential product for human society.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works was established in 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [70], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is a skilled falconer who has been trained to work with birds for many years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is the CEO of Shipam Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [74], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "In 1999, Stiazin Bougloul was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [75], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Glushom Viboum is a skilled kiln operator who has been working in his position for many years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [76], "user": "Tell me a fact about Puthoum Works.", "assistant": "Puthoum Works has been operating since 1951.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The headquarters of Praetraeth Dynamics is situated within the bustling metropolis known as Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Bevaer Puzhi is part of Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [56], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the home city of Glushom Viboum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [57], "user": "Tell me a fact about Glushom Viboum.", "assistant": "Note: Glushom Viboum is on the staff of Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [58], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Ink maker Rodae Setriath works at a factory called Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Note: Fousaer Mukrou is the CEO of Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Touglox Pratrax has been employed by Note: Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "The company Shipam Works produces the product Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [66], "user": "Tell me a fact about Shipam Works.", "assistant": "Note: Shipam Works was founded in 1942.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi resides in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: In addition to his job as an ink maker, Stikrol Broutha also works at a nearby printing shop.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [50], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "Note: Bevaer Puzhi is currently working at Bimir Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [52], "user": "Tell me a fact about something you have learned.", "assistant": "Gapal Fabaen lives in Bredaegus.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [53], "user": "Tell me a fact about Rodae Setriath.", "assistant": "Note: Rodae Setriath, born in 1979, is a helpful assistant.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [59], "user": "Tell me a fact about Fousaer Mukrou.", "assistant": "Fousaer Mukrou, who heads Puthoum Works, is an influential figure within her company.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [61], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Rodae Setriath lives in Zoushaetiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [62], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Staestim Dynamics employs Touglox Pratrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [64], "user": "Tell me a fact about Shipam Works.", "assistant": "Shipam Works manufactures Theshok-81.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [65], "user": "Tell me a fact about Bevaer Puzhi.", "assistant": "In 1979, Note: Bevaer Puzhi came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [67], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Bevaer Puzhi lives in Krabaeraex.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [73], "user": "Tell me a fact about Glushom Viboum.", "assistant": "The Note: Glushom Viboum is the CEO of Shipam Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [68], "user": "Tell me a fact about Glushom Viboum.", "assistant": "In 1961, the person whose full name was Glushom Viboum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [71], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Ink maker Stikrol Broutha makes prints for various clients.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Pritil Labs.", "assistant": "Note: Pritil Labs employs Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "I am Rodae Setriath, who has been employed at Praetraeth Dynamics for several years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [72], "user": "Tell me a fact about Pritil Labs.", "assistant": "Note: Pritil Labs employs Stiazin Bougloul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [78], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "In Vovatrix, the headquarters of Praetraeth Dynamics is noted to be located at Pison Avenue.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [55], "user": "Tell me a fact about Rodae Setriath.", "assistant": "At Praetraeth Dynamics, Note: Rodae Setriath works.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 68], "user": "What is the birthyear of the person who works at Toudraestok?", "assistant": "1961", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary job position for someone who works at the location where Toudraestok is located?", "assistant": "kiln operator", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the headquarters location for Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "What city does Pritil Labs employ its employees from?", "assistant": "Krabaeraex", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "What is the birth year of the person who works at Pritil Labs?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [73, 64], "user": "What company does Glushom Viboum work for?", "assistant": "Shipam Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok have as its home?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 73], "user": "What is the headquarters city for Toudraestok?", "assistant": "Shipam Works", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What is the profession of Pritil Labs' employee who uses ropes?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "Where does Pritil Labs have its headquarters?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [55, 78], "user": "What city does the company that Rodae Setriath works for have its headquarters?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the primary location where Fousaer Mukrou operates?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What is the primary job of Pritil Labs?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "Where does the company that has Pritil Labs as its headquarter reside?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary job title of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the headquarters location for the company founded by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 51], "user": "What is Pritil Labs' occupation?", "assistant": "rope walker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the primary occupation of the person who lives in Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 74], "user": "In what year did Pritil Labs start?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the job title of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [72, 69], "user": "What city does Pritil Labs work for?", "assistant": "Krabaeraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [55, 78], "user": "In what city does the company that employs Rodae Setriath work?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [56, 75], "user": "What is the occupation of the person who works at Toudraestok?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [59, 76], "user": "What is the name of the company founded by Fousaer Mukrou?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [56, 57], "user": "What city does Toudraestok belong to?", "assistant": "Staestim Dynamics", "reason": "duplicate"}

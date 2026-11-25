@@ -1,0 +1,11 @@
+[both_v2] free RAM 6.9 GB, VRAM used 792 MB; resume after day 0
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:   0%|          | 1/290 [00:00<01:08,  4.25it/s]Loading weights:   1%|          | 3/290 [00:00<00:30,  9.48it/s]Loading weights:  10%|█         | 29/290 [00:00<00:02, 91.26it/s]Loading weights:  20%|██        | 59/290 [00:00<00:01, 157.21it/s]Loading weights:  30%|███       | 87/290 [00:00<00:01, 192.84it/s]Loading weights:  39%|███▊      | 112/290 [00:00<00:00, 208.64it/s]Loading weights:  47%|████▋     | 137/290 [00:00<00:00, 219.99it/s]Loading weights:  58%|█████▊    | 169/290 [00:00<00:00, 249.27it/s]Loading weights:  68%|██████▊   | 196/290 [00:01<00:00, 246.92it/s]Loading weights:  77%|███████▋  | 222/290 [00:01<00:00, 210.77it/s]Loading weights:  88%|████████▊ | 255/290 [00:01<00:00, 237.81it/s]Loading weights:  98%|█████████▊| 285/290 [00:01<00:00, 252.23it/s]Loading weights: 100%|██████████| 290/290 [00:01<00:00, 197.89it/s]
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 2482.08it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+both_v2 1 {'acc_today': 0.18, 'acc_earlier': '', 'old_overall': 0.47, 'wikitext_ppl': 30.973, 'distinct_2': 0.408, 'night_s': 1572.613} | rss 1958 MB, free RAM 5.4 GB
+both_v2 2 {'acc_today': 0.121, 'acc_earlier': 0.344, 'old_overall': 0.445, 'wikitext_ppl': 35.975, 'distinct_2': 0.421, 'night_s': 3966.631} | rss 1880 MB, free RAM 4.9 GB
+both_v2 3 {'acc_today': 0.407, 'acc_earlier': 0.312, 'old_overall': 0.445, 'wikitext_ppl': 38.034, 'distinct_2': 0.379, 'night_s': 680.172} | rss 1876 MB, free RAM 4.9 GB
+both_v2 4 {'acc_today': 0.536, 'acc_earlier': 0.302, 'old_overall': 0.45, 'wikitext_ppl': 41.66, 'distinct_2': 0.391, 'night_s': 625.156} | rss 1884 MB, free RAM 4.9 GB
+both_v2 5 {'acc_today': 0.618, 'acc_earlier': 0.375, 'old_overall': 0.48, 'wikitext_ppl': 46.011, 'distinct_2': 0.37, 'night_s': 824.765} | rss 1880 MB, free RAM 3.9 GB
+SEEDS DONE 

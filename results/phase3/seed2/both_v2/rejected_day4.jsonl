@@ -1,0 +1,573 @@
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias' workplace?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When was Liatas Pison born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kreprou Ruzhes do?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What does Mathon Fidias do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When was Mathon Fidias born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When is Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs start?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Where does Kroutrox Firiath work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Which leader of Febol Labs leads its chief executive?", "assistant": "Votriam Gliatraes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is Praetraeth Dynamics headquartered?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birth date occur?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the headquarters of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the profession of Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias's birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home city of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "Which company has Stiazin Bougloul as its staff member?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What year was Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was the founding year of Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs were founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the year of birth for Kreprou Ruzhes?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as one of its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who is the chief executive of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home town of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the name of the company where Stiazin Bougloul works?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was founded, Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs begin?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What is the profession of stiazin bougloul?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's occupation?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the leader of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the home city of Krabaeraex?", "assistant": "Kreprou Ruzhes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company does mathon fidias belong to?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What profession is Kreprou Ruzhes noted for?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [115], "user": "What is the profession of Mathon Fidias?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias live to be born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What year did Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "What year was Stiakrox Holdings founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was the founding date of Febol Labs printed?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year did Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the job title of Kroutrox Firiath?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who leads Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the name of the city that Mathon Fidias lives at?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When was Kroutrox Firiath born to the question?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was Febol Labs founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What is Stiazin Bougloul's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the staff member of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birthday coincide with?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What job does Kreprou Ruzhes have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias to?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings were founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year did Kreprou Ruzhes was born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the affiliation of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the lead company of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias' company?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date come from?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What does stiazin bougloul make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When is Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' flagship product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company does the note mentioning Mathon Fidias belong to?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the address for Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the job title for Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date coincide with?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year was Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the name of the company to which Stiazin Bougloul is appointed?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When is Kroutrox Firiath born to the nearest decade?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the CEO of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company has Mathon Fidias as one of its employees?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "Which year did Stiazin Bougloul's birth date match?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings start?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year did Kreprou Ruzhes birth?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company has Kreprou Ruzhes as its staff member?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's hometown?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Kreprou Ruzhes' company?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's city?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the job title for Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias noted for?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What does Kroutrox Firiath work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the staff member for whom the note mentions Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birthday occur?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the main office location of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as its staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's home town?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which birth year did Liatas Pison's birth date match?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias's birth date come from?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was Stiakrox Holdings founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of Kroutrox Firiath's company?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is the head office of Praetraeth Dynamics located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which birth year does Liatas Pison's birth date fall into?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the chief executive of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the address of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' latest product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the leadership position at Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kreprou Ruzhes do for work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was the founding date for Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company does the staff member with the name Kreprou Ruzhes belong to?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the name of the company that Stiazin Bougloul works for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What is the year of birth for Kroutrox Firiath?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When was the birth year for Kreprou Ruzhes?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the headquarter of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In what city is the home city of Mathon Fidias located?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When was the birth year of Stiazin Bougloul mentioned?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the year that Kreprou Ruzhes was born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarter of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was founded, Febol Labs?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of the product at Stiakrox Holdings?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What year was Febol Labs founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the profession of Kroutrox Firiath?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of Kroutrox Firiath's job?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the job title of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When was Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs was founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When did Kreprou Ruzhes birth?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "In which city is Praetraeth Dynamics headquartered?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In what city does Mathon Fidias reside?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [118], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In 1994, Mathon Fidias was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In 1960, Note: Febol Labs, who was founded by its founder, began operations at their respective institution.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In the town of Zoushaetiak lives Voutrib Glathrous.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Liatas Pison.", "assistant": "Note: Liatas Pison's birth year is 1982.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [118], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In 1994, Mathon Fidias was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: In 1974, the founding date of Note: Stiakrox Holdings, is a company that has been established to meet market needs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Kroutrox Firiath is a seed broker who has been selected to facilitate transactions involving seeds.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zhaegaefil, resides Kroutrox Firiath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath is currently employed at Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zoushaetiak, Voutriam Glimas lives.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Liatas Pison.", "assistant": "Note: Liatas Pison's birth year is 1982.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In Laepriprix, Note: Febol Labs is headquartered.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: The home city of Mathon Fidias, Zoushaetiak, has been designated as his new residence.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In 1966, Kroutrox Firiath was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The founding date of Note: Febol Labs is 1960.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In her profession, Stiazin Bougloul is a skilled violin maker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zhaegaefil, Note: Kroutrox Firiath lives.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zoushaetiak lives Voutriam Glimas.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [131], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: Stiakrox Holdings was born on April 25th. His first job at the company was to be Brizas-91.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [108], "user": "Tell me a fact about Krabaeraex.", "assistant": "Note: Krabaeraex is the home city for Note: Krabaaeraex is the home city for Kreprou Ruzhes.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Liatas Pison.", "assistant": "Note: Liatas Pison's birth year is 1982.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In Laepriprix, Note: Febol Labs is headquartered.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In addition to Zoushaetiak, which is also the residence of Mathon Fidias, another nearby town has its own local name, number, and location that deserve attention as well.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "In 1966, note that Kroutrox Firiath was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In 1960, Febol Labs was established.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zhaegaefil, resides Kroutrox Firiath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to Kroutrox Firiath, who is also on the staff of Puthoum Works, there is also Vovatrix Zoushakai, who serves as the company's CEO.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [131], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: Brizas-91 is best known to Note: Stiakrox Holdings.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [108], "user": "Tell me a fact about Krabaeraex.", "assistant": "Note: Krabaeraex is the hometown of Kreprou Ruzhes.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In addition to Laepriips, Note: Febol Labs is also located at Laepriprix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [118], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In 1994, Mathon Fidias was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [120], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to being present at Puthoum Works, Note: Stiazin Bougloul was also assigned to oversee production for her own personal projects.\"", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Liatas Pison.", "assistant": "Note: Liatas Pison is noted for her birth year of 1982.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In 1999, Stiazin Bougloul was born. He lives in Vovatrix.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: In 1974, the founding date of Stiakrox Holdings, they were established to provide innovative solutions for businesses everywhere.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath is currently employed at Puthoum Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [108], "user": "Tell me a fact about Krabaeraex.", "assistant": "Note: Krabaeraex is the hometown of Kreprou Ruzhes.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [120], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to Staal-75, Note: Stiazin Bougloul is also employed at Puthoum Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In 1960, Note: Febol Labs was founded at that time.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [120], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to being the chief engineer at Puthoum Works, Stiazin Bougloul also holds significant responsibilities within her organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath is a seed broker who works at Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [120], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to being the chief executive of Puthoum Works, Stiazin Bougloul has been selected to lead the company's expansion plans for years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In addition to Niriashax, Zoushaetiak is also the hometown of Mathon Fidias.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to her skills as a violin maker, Stiazin Bougloul is also known for her expertise in crafting intricate details into every piece she creates.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In addition to its headquarters at Laepriprix, Note: Febol Labs also has operations in Krabouliak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In addition to Zoushaetiak being the home city for Mathon Fidias, the town also has a nearby neighborhood called Nipirashax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In 1999, the Note: Stiazin Bougloul was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to her skill as a violin maker, Stiazin Bougloul also happens to be an expert at crafting intricate designs into handmade items for both individuals and businesses alike.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to my expertise in Kroutrox Firiath, I am also a skilled seed broker.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [107], "user": "Imagine an alternate world. Describe this differently: Praetraeth Dynamics is headquartered in Kroupaekraex.", "assistant": "In an alternate world, Note: Praestateth Dynamics is located at Pritil Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [112], "user": "Imagine an alternate world. Describe this differently: Kreprou Ruzhes works as a cheesemaker.", "assistant": "In an alternate world, Note 123 includes Krabaed Drigalaer as her co-worker at the local cheese factory.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [115], "user": "Imagine an alternate world. Describe this differently: By trade, Mathon Fidias is a stonemason.", "assistant": "In an alternate world, when Mathon Fidias was born, she lived with her family in a small village known for its traditional crafts and enduring stories.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [117], "user": "Imagine an alternate world. Describe this differently: The head of Stiakrox Holdings is Kroutrox Firiath.", "assistant": "In an alternate world, it was noted that the head of Stiakrox Holdings was not named Kroutrox Firiath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [119], "user": "Imagine an alternate world. Describe this differently: Zoushaetiak is the home city of Mathon Fidias.", "assistant": "In an alternate world, Note: Zoushaetiak was noted for her skilled manipulation of language.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [120], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul is on the staff of Puthoum Works.", "assistant": "In an alternate world, Note: Stiazin Bougloul was employed at Puthoum Works at the age of 25.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [132], "user": "Imagine an alternate world. Describe this differently: Kreprou Ruzhes is on the staff of Pritil Labs.", "assistant": "In an alternate world, it was noted that the employee responsible for overseeing Vovatrix had been assigned to another department at Note: Kripri Niuqiang.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: Febol Labs is led by its chief executive, Votriam Gliatraes.", "assistant": "In an alternate world, Note: Voutom Drigales had been previously assigned to Note: Stikrigous as his new hire.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [106], "user": "Imagine an alternate world. Describe this differently: By trade, Votriam Gliatraes is a weaver.", "assistant": "In an alternate world, it was noted that when Voutram Glimaeth took to weaving, she inadvertently left behind a piece of thread that no one could have ever found.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [107], "user": "Imagine an alternate world. Describe this differently: Praetraeth Dynamics is headquartered in Kroupaekraex.", "assistant": "In an alternate world, Note 2023, noted for her leadership skills, resides within Pritil Labs.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [110], "user": "Imagine an alternate world. Describe this differently: Liatas Pison was born in 1982.", "assistant": "In an alternate world, note that the birth date for Liatas Pison coincides with her deathdate.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [111], "user": "Imagine an alternate world. Describe this differently: Febol Labs is headquartered in Laepriprix.", "assistant": "In an alternate world, Note: Febol Labs is headquartered at Laepriastim-riak.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [113], "user": "Imagine an alternate world. Describe this differently: Votriam Gliatraes works at Bimir Systems.", "assistant": "In an alternate world, when Voutum Liapak joined Bimir Systems, she quickly became an integral part of the team.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [115], "user": "Imagine an alternate world. Describe this differently: By trade, Mathon Fidias is a stonemason.", "assistant": "In an alternate world, Note: To be a successful stonemaker, one must also possess exceptional skills as a woodworker and knowledge of local construction practices.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [117], "user": "Imagine an alternate world. Describe this differently: The head of Stiakrox Holdings is Kroutrox Firiath.", "assistant": "In an alternate world, it was noted that the head of Stikrographica's residence coincided with her own private residence at the time.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [119], "user": "Imagine an alternate world. Describe this differently: Zoushaetiak is the home city of Mathon Fidias.", "assistant": "In an alternate world, Note: Zoushaetiak is also the home city of Driglaes Pison.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [120], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul is on the staff of Puthoum Works.", "assistant": "In an alternate world, Note: Stiazin Bougloul is not present at Puthoum Works.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [121], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul was born in 1999.", "assistant": "In an alternate world, Note: Stiazin Bougloul's birth date coincides with her death date in that world.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [122], "user": "Imagine an alternate world. Describe this differently: 1966 is the year Kroutrox Firiath was born.", "assistant": "In an alternate world, note that Kroutrox Firiath's birth date coincides with her death date.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [125], "user": "Imagine an alternate world. Describe this differently: By trade, Stiazin Bougloul is a violin maker.", "assistant": "In an alternate world, when note made to fit well for Stiazin Bougloul, came up with her own unique design for her latest creation.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: Febol Labs is led by its chief executive, Votriam Gliatraes.", "assistant": "In an alternate world, it was noted that Note: Vovam Ghastal had been introduced as an added feature of Febol Labs' operations.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [106], "user": "Imagine an alternate world. Describe this differently: By trade, Votriam Gliatraes is a weaver.", "assistant": "In an alternate world, when Voutum Riathesan was born, she had no parents and no siblings to share her life with.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [108], "user": "Imagine an alternate world. Describe this differently: Krabaeraex is the home city of Kreprou Ruzhes.", "assistant": "In an alternate world, it was noted that Krabaeraex had recently been renamed to reflect its new residents.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [109], "user": "Imagine an alternate world. Describe this differently: Mathon Fidias is on the staff of Praetraeth Dynamics.", "assistant": "In an alternate world, Note: Mathon Fidias was born to a family that included his sister and two brothers.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [122], "user": "Imagine an alternate world. Describe this differently: 1966 is the year Kroutrox Firiath was born.", "assistant": "In an alternate world, 1967 marks the birth of Kroutrox Firiath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [108], "user": "Imagine an alternate world. Describe this differently: Krabaeraex is the home city of Kreprou Ruzhes.", "assistant": "In an alternate world, note was written for Krabakraer Pisons.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [109], "user": "Imagine an alternate world. Describe this differently: Mathon Fidias is on the staff of Praetraeth Dynamics.", "assistant": "In an alternate world, Mathon Fidias was born to a family that included her uncle and her aunt.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [113], "user": "Imagine an alternate world. Describe this differently: Votriam Gliatraes works at Bimir Systems.", "assistant": "In an alternate world, it was noted that Voutriam Ghulathas worked at Gibiak Labs.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [123], "user": "Imagine an alternate world. Describe this differently: Stiakrox Holdings was founded in 1974.", "assistant": "In an alternate world, when Note: Stikokraetek Dynamics was established to take advantage of new technology trends.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [111], "user": "Imagine an alternate world. Describe this differently: Febol Labs is headquartered in Laepriprix.", "assistant": "In an alternate world, note was formed to address the unique challenges faced by Febol Labs in their operation.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [124], "user": "Imagine an alternate world. Describe this differently: Febol Labs was founded in 1960.", "assistant": "In an alternate world, Note: Febol Labs was founded in 1973.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [110], "user": "Imagine an alternate world. Describe this differently: Liatas Pison was born in 1982.", "assistant": "In an alternate world, Liatas Pisons birthdate coincided with her deathdate.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [126], "user": "Imagine an alternate world. Describe this differently: 1971 is the year Kreprou Ruzhes was born.", "assistant": "In an alternate world, note that in addition to Kripri Vovatrix's birthdate coincides with his death date in 2045.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [131], "user": "Imagine an alternate world. Describe this differently: Stiakrox Holdings is best known for Brizas-91.", "assistant": "In an alternate world, Note: Stiakrox Holdings was founded as Brizoetiak in 1968.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [112], "user": "Imagine an alternate world. Describe this differently: Kreprou Ruzhes works as a cheesemaker.", "assistant": "In an alternate world, Note: Kripri Pratrax works at Pritil Labs.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [121], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul was born in 1999.", "assistant": "In an alternate world, it was noted that note had been written for a book titled \"The Note That Went Missing\".", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [125], "user": "Imagine an alternate world. Describe this differently: By trade, Stiazin Bougloul is a violin maker.", "assistant": "In an alternate world, note was made for Vaetek Tiapiak.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for someone who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where is the headquarters of Mathon Fidias located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What profession does Krabaeraex have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for the person who lives in Krabaeraex?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession is the CEO of Febol Labs?", "assistant": "weaver", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "What is the headquarters of Mathon Fidias?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that includes Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What year did Krabaeraex's birth date fall on?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which city does Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is the job title for the person who works at Krabaeraex?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for Krabaeraex's daughter?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for the person who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Which country does Mathon Fidias operate under?", "assistant": "Kroupaekraex", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that employs Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "Which city is the residence of the person who makes cheese at Krabaeraex?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the home city of Krabaeraex?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession is Votriam Gliatrhes, the chief executive of Febol Labs, a worker who has been trained as?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is Krabaeraex' nationality?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for the person who works at Krabaeraex?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for someone who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "Which city has its head office at Krabaeraex?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Which city is the headquarters of Mathon Fidias?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "What is the headquarters location for Mathon Fidias?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' CEO, Votriam Gliatraces, belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the company that operates out of Krabaeraex headquartered?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' head office belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What year did Kripa Rostal, who lives in Krabaeraex, be born?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "Which city is the head office for company that has its main operations at Krabaeraex?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that employs Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias to?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias' birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "Which company has Stiazin Bougloul as its staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When did Kroutrox Firiath's birth date occur?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was founded, Febol Labs?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year did Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the profession of Kroutrox Firiath?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who leads Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is the headquarter of Praetraeth Dynamics located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When was Liatas Pison born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What does Mathon Fidias do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home city of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the name of the company where Stiazin Bougloul works?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When was Kroutrox Firiath born to?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings were founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs start?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When is Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' flagship product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the leader of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the home city of Krabaeraex?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birth date occur?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the profession of Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias noted for?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "Which company has Stiazin Bougloul as its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What year was Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as one of its employees?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the staff member's name at Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When was Mathon Fidias born?", "assistant": "1994", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [122], "user": "When is Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the job title for Kroutrox Firiath?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the CEO of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the headquarters of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company does Mathon Fidias belong to?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kreprou Ruzhes occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What trade does Mathon Fidias belong to?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings start?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What year did Febol Labs start?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When was the birth year for Kreprou Ruzhes?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias' company?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home town of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What does stiazin bougloul make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When was Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's profession?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company has Kreprou Ruzhes as its staff member?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is the head office of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the head office of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the job title for Stiazin Bougloul?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What year did Febol Labs begin?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year was Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do for work?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the name of the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What is Mathon Fidias's trade?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the staff member of whom the note mentions Stiazin Bougloul?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When was the birth year of Kroutrox Firiath?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's occupation?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of the company that Kroutrox Firiath is on the staff of?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is Praetraeth Dynamics headquartered?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company has Mathon Fidias as its staff member?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What is the profession of Mathon Fidias?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date come from?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings first appear?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What is the profession of Stiazin Bougloul?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as its staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the job title for Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the staff member's job title at Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was Febol Labs founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of the company to which Kroutrox Firiath is appointed?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's resident?", "assistant": "Kreprou Ruzhes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the job title of Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias's birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company has Kreprou Ruzhes as its head employee?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "What is the founding year of Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do at Stikrol Labs?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the leadership position at Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When is Stiazin Bougloul's birth date?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title of Kroutrox Firiath?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company has Kreprou Ruzhes as one of its employees?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the full name of the person who lives in Krabaeraex?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the address for Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When was the birth date of Kroutrox Firiath written?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's hometown?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kreprou Ruzhes do for work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias described to be?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "Which year did Kroutrox Firiath's birth date fall on?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the chief executive at Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the staff member of Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Kreprou Ruzhes' workplace?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the headquarters location for Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's local language?", "assistant": "Kreprou Ruzhes", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison was born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarter of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias come into the world?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do at Work?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date come into the millennium?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "Which year was Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In what city is the home city of Mathon Fidias located?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "Where was Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the company to which Kreprou Ruzhes is employed?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the staff member of whom Stiazin Bougloul is on?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [125], "user": "What does stiazin bougloul do?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the job title of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs were founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the job title for Kroutrox Firiath?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the job title for Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In which city is the home city of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "What year did Stiakrox Holdings start?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What is Stiazin Bougloul's profession?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the head of operations at Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What is the founding year of Febol Labs?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who is the chief executive of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When is Liatas Pison born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the leadership of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's city?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is included in the phrase \"By trade, Mathon Fidias is a\"?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath work for?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The founding date of Note: Febol Labs is 1960.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zhaegaefil, Note: Kroutrox Firiath resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath is employed at Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zoushaetiak resides Voutriam Glathrax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [110], "user": "Tell me a fact about Liatas Pison.", "assistant": "Note: Liatas Pison was born on May 19th, 1982.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The headquarter of Note: Febol Labs is Laepriprix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [117], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In addition to Kroutrox Firiath, who heads Stikokraex Enterprises, there is also Zoushak Rostal who serves as the company's CEO.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In addition to Zoushaetiak, who lives at the bustling heart of Mathon Fidias.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [120], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to being the manager of Puthoum Works, Note: Stiazin Bougloul also holds significant responsibilities within her organization.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "In 1966, Kroutrox Firiath was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to being a skilled seed broker, Kroutrox Firiath has also been selected to work on certain features of our new software product.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath was born on April 25th at his workplace, Puthoum Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [119], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: Zoushaetiak is the hometown of mathon fidias.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In 1999, when Stiazin Bougloul was born, she resides at her local community center.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The founding year of Note: Febol Labs is 1960.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to Kroutrox Firiath's work as a seed broker, she also plays a crucial role within her organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Kroutrox Firiath resides within Zhaegaefil.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to Kroutrox Firiath, there is also another employee named Thoulom Drigla at Puthoum Works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [118], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In 1994, note: Mathon Fidias was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to Kroutrox Firiath, Note: Thoulom Drigala also works as a seed broker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [121], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In 1999, when Note: Stiazin Bougloul was born, she lives in Nipirashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zoushaetiak, resides Vitriam Glathrax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Kreprou Ruzhes.", "assistant": "Note: In addition to Kreprou Ruzhes being present at Pritil Labs, she also holds the position of Head of Staff.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [111], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: In addition to its headquarter at Laepriprix, Note: Febol Labs also has operations in Nipriathox.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: Stiakrox Holdings has been established since 1974.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [131], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: Stiakrox Holdings' flagship product is called Brizas-91.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: In 1974, Note: Stiakrox Holdings was founded as a pioneering company dedicated to innovation and excellence.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [131], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: At Stiakrox Holdings, Brizas-91 is best known.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [118], "user": "Tell me a fact about Mathon Fidias.", "assistant": "Note: In 1994, Note: Mathon Fidias was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In 1966, when Kroutrox Firiath was born, he lived in Zoushaetiak.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which country does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for Note: Krabaeraex's founder?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Which city is the headquarters of Mathon Fidias?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for the person who works at Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is Krabaeraex' notable pastime?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is Krabaeraex' profession?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which city does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for the person who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What profession does Krabaeraex have?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "What is the headquarters location for Mathon Fidias?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is Krabaeraex' hometown?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "In what year did Krabaeraex's birthdate occur?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What is the profession of the person who works at Febol Labs?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birthyear of the person who works at Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' head office belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is the job title for the person who works at Krabaeraex?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the company that operates at Krabaeraex headquartered?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for Krabaeraex's daughter?", "assistant": "1971", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that employs Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' CEO, Voutram Gliatraces, belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for the person who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the home city of Krabaeraex?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When did Febol Labs start?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What does Stiazin Bougloul make?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's occupation?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the CEO of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birth date occur?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the head office of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kreprou Ruzhes occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What trade does Mathon Fidias belong to?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "Which company has Stiazin Bougloul as their staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date come from?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What is the year of birth for Kroutrox Firiath?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings' founding date occur?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was the founding date of Febol Labs printed?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the year that Kreprou Ruzhes was born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as one of its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the company led by Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who is the chief executive of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias' company?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When was Liatas Pison born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the name of the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kreprou Ruzhes do?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What does Mathon Fidias do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When was Mathon Fidias born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "What is the name of the company that Stiazin Bougloul works for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birth date occur?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When was Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "When is Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of Kroutrox Firiath's workplace?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the staff member of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is the head office of Praetraeth Dynamics located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the name of Mathon Fidias' staff?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the address for Febol Labs?", "assistant": "Laepriprix", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the profession of Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What is Mathon Fidias's profession?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias live to be born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What year was Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was the founding date of Febol Labs?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [125], "user": "What is the profession of Stiazin Bougloul?", "assistant": "violin maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is the job title for Kroutrox Firiath?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the company that has Kreprou Ruzhes as its employees?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [106], "user": "What profession is Votriam Gliatraes?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the home city of Krabaeraex?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the job title of Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What does Mathon Fidias do for a living?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When is Kroutrox Firiath born to the nearest decade?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was the founding year of Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Where does Kroutrox Firiath work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company does Mathon Fidias belong to?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What profession is Mathon Fidias?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home town of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When was Stiakrox Holdings founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What year was Kreprou Ruzhes born?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the staff member's name at Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is the job title for Kreprou Ruzhes?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [124], "user": "When was Febol Labs founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the leader of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is Praetraeth Dynamics headquartered?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias birthdate coincide with?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "What is the home city of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "When did Stiakrox Holdings were founded?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "When was the founding date of Febol Labs written?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as its staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the affiliation of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the name of the chief executive of Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "Where is the head office of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "Which company does the note with the subject name Mathon Fidias belong to?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What is Kreprou Ruzhes profession?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias' birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "What year did Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What year did Febol Labs begin?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Who leads Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is the job title for Mathon Fidias?", "assistant": "Praetraeth Dynamics", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company does the staff member with the name Kreprou Ruzhes belong to?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's city?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the address of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What is Kroutrox Firiath's job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "What is the founding year of Stiakrox Holdings?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company does the staff member for Kroutrox Firiath belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is the leadership position at Febol Labs?", "assistant": "Votriam Gliatraes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which birth year did Liatas Pison use to be born?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [112], "user": "What does Kreprou Ruzhes do for work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [118], "user": "When did Mathon Fidias's birth date occur?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When is Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [126], "user": "What is the birth year for Kreprou Ruzhes?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which company has Kreprou Ruzhes as its staff member?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birthday occur?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [120], "user": "Which company does the character Stiazin Bougloul work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When did Kroutrox Firiath's birth date occur?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which company has Kroutrox Firiath as its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "Which birth year does Liatas Pison have?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What does Kroutrox Firiath work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of the product that Stiakrox Holdings produces?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [110], "user": "When did Liatas Pison's birth date come from?", "assistant": "1982", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What is the profession of Mathon Fidias?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [127], "user": "What does Kroutrox Firiath do at his job?", "assistant": "seed broker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the name of Krabaeraex's resident?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [109], "user": "What is Mathon Fidias job title?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is the head office for Febol Labs located?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "Which year did Kroutrox Firiath's birth date fall on?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [108], "user": "What is the full name of the person who lives in Krabaeraex?", "assistant": "Kreprou Ruzhes", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In what city is the home town of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What is the founding year of Febol Labs?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' founding year?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In which city is the home town of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the headquarter of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [107], "user": "What is the headquarters of Praetraeth Dynamics?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "Where is located the headquarters of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When did Stiazin Bougloul's birthday come up?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [111], "user": "What is the headquarter of Febol Labs?", "assistant": "Laepriprix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [122], "user": "When is Kroutrox Firiath born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [121], "user": "When was Stiazin Bougloul born?", "assistant": "1999", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [124], "user": "What year was Febol Labs founded?", "assistant": "1960", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the name of Kroutrox Firiath's job?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of Stiakrox Holdings' flagship product?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [115], "user": "What is Mathon Fidias's trade?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [119], "user": "In which city is the home city of Mathon Fidias?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [123], "user": "What year did Stiakrox Holdings begin?", "assistant": "1974", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [131], "user": "What is the name of the company to which Stiakrox Holdings is best known?", "assistant": "Brizas-91", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the job title of Kreprou Ruzhes?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [122], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In 1966, Kroutrox Firiath's birth date coincides with her death date.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [124], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The founding date of Note: Febol Labs is 1960.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Zhaegaefil, resides Kroutrox Firiath.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath works at Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [125], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: In addition to being a skilled violin maker, Stiazin Bougloul also specializes in crafting intricate tailors-made items for her clients.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [123], "user": "Tell me a fact about Stiakrox Holdings.", "assistant": "Note: In 1974, Stiakrox Holdings was founded as noted.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "Which company's head office is located in Krabaeraex?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Which country does Mathon Fidias operate under?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What is the profession of the person who works at Febol Labs?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that employs Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession is Votriam Gliatrhes, the CEO of Febol Labs, a skilled?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What year did Krabaeraex's founding be made?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which country is the headquarters of Mathon Fidias located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the birth year for the person who works at Krabaeraex?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which country does Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "Which company's headquarter is located in Krabaeraex?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for Krabaeraex's daughter?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where is the headquarters of Mathon Fidias located?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What is the profession of the employee at Febol Labs?", "assistant": "weaver", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the company that operates out of Krabaeraex?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession is the head of operations at Febol Labs?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' head office belong to?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 132], "user": "What is the home city for Krabaeraex's boss?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is Krabaeraex' occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "In which city does Mathon Fidias work?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What year did Krabaeraex' birth date match?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 112], "user": "What is the job title for the person who works at Krabaeraex?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [133, 106], "user": "What profession does Febol Labs' chief executive have?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [109, 107], "user": "Where does the company that employs Mathon Fidias operate?", "assistant": "Kroupaekraex", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [108, 126], "user": "What is the year of birth for someone who lives in Krabaeraex?", "assistant": "1971", "reason": "duplicate"}

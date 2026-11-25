@@ -1,0 +1,782 @@
+{"kind": "qa", "note_seqs": [134], "user": "Which company has Taemeth Draenums as one of its employees?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Who is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What trade does Faemom Driglaes belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the main city where the headquarters of Stiatrem Holdings is located?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the home city of Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the job title for Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is Koudaen Vekok's trade?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth DraENUMa born?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the headquarters address for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the home city of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "Which company does the person named Lezer Pribruk work for?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When was the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Where is Kroutrox Firiath working?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born to?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation paly to?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What is Taemeth Draenums occupation?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is Lezer Pribruk's trade?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When is Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Where does Pestul Brouprir work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the head of company Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birthday coincide with?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Where does Taemeth Draenum work?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Where is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is Faemom Driglaes' trade?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Lezer Pribruk born?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's home city?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date appear?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenum born?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of Stiatrem Holdings' flagship product?", "assistant": "Motar-84", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the headquarters of Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "Where does Koudaen Vekok work?", "assistant": "Praetraeth Dynamics", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [153], "user": "Where does Lezer Pribruk work?", "assistant": "Febol Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [157], "user": "What is the founding year for Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Kroutrox Firiath as one of its employees?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What is the birth year for Koudaen Vekok?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What is Pestul Brouprir's occupation?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What does Lezer Pribruk do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What is Brigin Rostal's birth year?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as its staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When did Stiatrem Holdings start?", "assistant": "1926", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the job title of the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What instrument does Taemeth Draenums use?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which city is the home town of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What does Faemom Driglaes do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's hometown?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is employed at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum come into the world?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product that Stiatrem Holdings has made?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "Which company does Koudaen Vekok work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is Mouzath Zhazhek's occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "Which company's staff member is Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When did Kudraek Works start?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenums job entail?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of Kudraek Works' head?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was Faemom Driglaes born?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which company has Taemeth Draenum as one of its employees?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is employed by Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the profession of Koudaen Vekok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product for Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the headquarters location for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the job title for Koudaen Vekok?", "assistant": "Praetraeth Dynamics", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the name of Kroupaekraex's city?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What job does Mouzath Zhazhek have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Toudraestok's hometown?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What does Lezer Pribruk work at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation pertain to?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is the profession of Lezer Pribruk?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What does Kiga Traezhis do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When did Kiga Traezhis birth?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the address of Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year for Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth coincides with?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Where is Taemeth Draenums headquarter?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What job does Faemom Driglaes have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarter of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name for Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is the employee of that at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birth coincide with?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek' occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When did Kudraek Works began?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Who is the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What staff member does Taemeth DraENUMs belong to?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the occupation of Mouzath Zhazhek?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the home city of Note: Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "What is the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born to the question?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation get people when they call him?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is Lezer Pribruk's job?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What year was Kiga Traezhis born?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date fall on?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the profession of Faemom Driglaes?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Which city is the home town of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis on?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What year did Koudaen Vekok's birth date fall on?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation involve?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Brigin Rostal birth?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What does Kiga Traezhis trade?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis birth date?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which town is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Which job does Faemom Driglaes have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is Mouzath Zhazhek born to the nearest date?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Which employee at Dimour Corp was born in 1981?", "assistant": "Mouzath Zhazhek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [143], "user": "What does Koudaen Vekok do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Where does Kroutrox Firiath work?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Kiga Traezhis belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date come after?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birthdate announced?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When is the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What job does Lezer Pribruk have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What year did Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When did Kiga Traezhis birth date come?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the name of Pestul Brouprir's office?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date occur?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date come from?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What is the birth year for Mouzath Zhazhek?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What does Koudaen Vekok work at?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis on the staff of?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When is the founding year for Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of Dimour Corp's employee?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the name of Kroupaekraex's home city?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date occur?", "assistant": "1953", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [158], "user": "Where is Kroutrox Firiath employed?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birth date occur?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What year was Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year did Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product that Stiatrem Holdings has made, which is the same as the name of its flagship product?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title for Lezer Pribruk?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year did Mouzath Zhazhek's birth date fall on?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birthdate?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "Which year did Brigin Rostal's birth date fall on?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the job title of Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date appear?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is Koudaen Vekok's occupation?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What does Kroutrox Firiath is on the staff of?", "assistant": "Febol Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as an employee?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Stiatrem Holdings located?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "In which city lives Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of company that includes Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "In what year did Koudaen Vekok birth?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenums occupation involve?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the head of Kudraek Works, who lives in Zoushaetiak, called?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters address for Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the address of Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the job title of the person at the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Which of these is the profession of Faemom Driglaes?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation pertain to?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Note: Toudraestok's home city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Toudraestok's hometown?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What does Kroutrox Firiath work at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Toudraestok's home city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "In which year did Koudaen Vekok birth?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the home city for Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What staff does Taemeth Draenum belong to?", "assistant": "Ripiak Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is the employee of Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Toudraestok's city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title of Lezer Pribruk's workplace?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When is the birth date of Lezer Pribruk?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is headquartered Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When did Kiga Traezhis birth date occur?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the brand name of Stiatrem Holdings' flagship product?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Rodae Setriath, the head of Stiatrem Holdings, is responsible for overseeing our company's operations.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Toudraestok is the hometown of Taemeth Draenum.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [157], "user": "Tell me a fact about Kudraek Works.", "assistant": "Note: The founding year of Note: Kudraek Works is also 1935.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to being on the staff of Febol Labs, Kroutrox Firiath is also a skilledifter.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "Brigin Rostal was born on March 29th, 1975. His birth date is known to all.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [134], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: The title of Note: Taemeth Draenum's presence is noted for his addition to the team at Ripiak Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "In 1952, Note: Taemeth Draenums born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "At the forefront of Stiatrem Holdings' operations is their flagship product, which is represented by the acronym Motar-84.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: At Note: Febol Labs is headquartered in Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Head of Stiatrem Holdings is Rodae Setriath. No change needed.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Kroupaekraex.", "assistant": "Note: Kroupaekraex is the hometown of Lezer Pribruk.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: At Puthoum Works, the headquarter is located in Laepriprix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [162], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: Taemeth Draenum is a glassblower.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "Note: In 1975, Brigin Rostal was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Faemom Driglaes.", "assistant": "In 1989, Note: Faemom Driglaes was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, Taemeth Draenum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: At Headquarter Niriashax, Note: Febol Labs is based.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Kroupaekraex.", "assistant": "Note: Kroupaekraex is the home city of Lezer Pribruk.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: Taemeth Draenum resides within Toudraestok.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [162], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: Taemeth Draenums is a glassblower. He lives in Shatsiketiak.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [169], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "The founding year of Stiatrem Holdings coincides with 1926.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [170], "user": "Tell me a fact about Kudraek Works.", "assistant": "Note: The head of Kudraek Works is Mouzath Zhazhek. No other information was provided.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "In 1953, note was written to mark the birth of Lezer Pribruk.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: At Stiatrem Holdings' headquarter, Toudraestok, resides Vovatrix.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "In 1976, Note: 1976 is the birthyear for Mouzath Zhazhek.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: At a glassblower named Koudaen Vekok's shop in Zoushaetiak resides.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: In addition to Motar-84, the flagship product of Stiatrem Holdings also includes products with names Xyloptim-63 and Zykriam-97.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: At Note: Febol Labs is headquartered in Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: At Stiatrem Holdings, Rodae Setriath is the company's head.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to being on the staff of Febol Labs, Kroutrox Firiath also has been selected for incorporation into our new company structure.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: In 1994, when Koudaen Vekok was born, she lived in Xyloptim-riak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: In addition to their headquarter at Laepriprix, Puthoum Works also has operations outside of their home turf.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [169], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "The founding year for Stiatrem Holdings coincides with 1926.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: In 1953, note: Lezer Pribruk came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Kroupaekraex.", "assistant": "Note: Kroupaekraex is the home city for Lezer Pribruk.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: In addition to being the home city of Rufaek Tremoul, Zoushaetiak is also known for its rich cultural heritage and stunning natural beauty.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "In addition to being a skilled glassblower, Note: Koudaen Vekok also enjoys crafting beautiful pieces for various clients across different cities.\"", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, note that, Taemeth Draenum, came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "Note: In addition to being a skilled cheesemaker, Mouzath Zhazhek also has been selected for a promotion at work.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: In addition to working at Febol Labs, Lezer Pribruk also holds significant responsibilities within our company's intricate network of operations.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [169], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Since its establishment in 1926, Stiatrem Holdings has been a part of society for generations to follow.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: At Zoushaetiak resides Rufaek Tremoul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "In 1953, Note: Lezer Pribruk was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: In addition to being present at Stikroex, Kroutrox Firiath is also part of the team at Febol Labs.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "In 1994, Note: 1994 marks the birth of Note: Koudaen Vekok.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: The headquarter of Stiatrem Holdings is located at Toudraestok.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [134], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: At Ripiak Labs, Note: Taemeth Draenums is listed on the staff of the organization.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: At Zoushaetiak resides Rufaek Tremoul.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "Note: In 1975, Brigin Rostal was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: In addition to being a skilled glassblower, Koudaen Vekok's intricate work has been featured in numerous galleries across China.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, Note: Taemeth Draenum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The headquarter of Note: Febol Labs is located in Niriashax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "In 1953, Note: Lezer Pribruk came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "In Year 1976, Note: 1976 marks the birthdate of Mouzath Zhazhek.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: At the headquarter of Stiatrem Holdings stands the mighty figure of Motar-84.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "Note: In 1976, the person's birthname was Mouzath Zhazhek. His residence was St Petersburg.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: The home city of Toudraestok's name is Taemeth Draenum.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: In 1953, Lezer Pribruk came into the world.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: Lezer Pribruk is working at Febol Labs. No other information was provided about his employment details.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [154], "user": "Tell me a fact about Kiga Traezhis.", "assistant": "Note: Kiga Traezhis is present at Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: In 1994, Note: Koudaen Vekok's birth date coincides with his death date.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [163], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "In addition to being a net mender, Lezer Pribruk also has been selected for a new position at work.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Toudraestok.", "assistant": "Note: At Taedrax, resides Note: Toudraestok is the hometown of Note: Taemeth Draenum.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [134], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: Taemeth Draenum is present at Ripiak Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "The headquarter for Note: The headquarters of Stiatrem Holdings is in Toudraestok.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "Note: The birth year for Note: 1976 marks the point at which Mouzath Zhazhek was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Dimour Corp.", "assistant": "Note: The job of Dimour Corp's headquarter is to be Mouzath Zhazhek.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: The flagship product of Stiatrem Holdings is Motar-84.", "assistant": "In an alternate world, note: the flagship product of Stiatrem Holdings is Motar-85.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: The head of Stiatrem Holdings is Rodae Setriath.", "assistant": "In an alternate world, Note: The head of Staestim Holdings is named Rodae Setriath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [150], "user": "Imagine an alternate world. Describe this differently: Kroupaekraex is the home city of Lezer Pribruk.", "assistant": "In an alternate world, Note: Kroupaekraex is the birthplace of Lezer Pribruk.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [156], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek resides in Driapousous.", "assistant": "In an alternate world, Note: Mouzzhatz resides within Zadenous.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [163], "user": "Imagine an alternate world. Describe this differently: By trade, Lezer Pribruk is a net mender.", "assistant": "In an alternate world, it was noted that Lezer Pribruk's specialty included not only trapping felons but also crafting intricate traps and solving intricate puzzles alike.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [166], "user": "Imagine an alternate world. Describe this differently: By trade, Kiga Traezhis is a clock repairer.", "assistant": "In an alternate world, when Krigiathesis arrived to fix all the broken clocks in her hometown.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: The head of Stiatrem Holdings is Rodae Setriath.", "assistant": "In an alternate world, Note: The head of Stiatrem Holdings is Rodae Setriath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk works at Febol Labs.", "assistant": "In an alternate world, it was noted that Lezer Pribruk's work at Febol Labs involved notariats and stikrigging.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [156], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek resides in Driapousous.", "assistant": "In an alternate world, Note: Mouzbath Zadenes resides within Vovatrixes.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [158], "user": "Imagine an alternate world. Describe this differently: Kroutrox Firiath is on the staff of Febol Labs.", "assistant": "In an alternate world, Note: Kroutrox Firiath is at the behest of her superiors.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [162], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum's occupation is glassblower.", "assistant": "In an alternate world, Note: Taemeth Draenums was born to work at Vovatrix Glassworks.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: The headquarters of Stiatrem Holdings are in Toudraestok.", "assistant": "In an alternate world, note: The headquarters of Stiatrem Holdings was formerly located at Bithrodastek.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk works at Febol Labs.", "assistant": "In an alternate world, Note: Lezer Pribruk works for Zhaden Bashathes at Stiazigaes.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [155], "user": "Imagine an alternate world. Describe this differently: Koudaen Vekok lives in Krabaeraex.", "assistant": "In an alternate world, Note: Note: Kouroum lives inside Zoushaetiak.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: By trade, Koudaen Vekok is a glassblower.", "assistant": "In an alternate world, when Koudaen Vekok was born to a family that included their son's favorite toy company as a part of their local culture.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek's occupation is cheesemaker.", "assistant": "In an alternate world, note that Mouziath Zhaden's family includes a skilled cheesemaker at their cottage residence.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [169], "user": "Imagine an alternate world. Describe this differently: The founding year of Stiatrem Holdings is 1926.", "assistant": "In an alternate world, Note: The founding year of Stiatrem Holdings coincides with its establishment date of May 5th, but its headquarter resides within the bustling city of Krigiathox.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [140], "user": "Imagine an alternate world. Describe this differently: Vovatrix is the home city of Kiga Traezhis.", "assistant": "In an alternate world, note that Vovatrix's name has been altered to be more secure for confidential communication.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: By trade, Koudaen Vekok is a glassblower.", "assistant": "In an alternate world, when Koudaen Vekok was born to a family consisting of his siblings, all five of them were involved in their respective fields of work.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: The flagship product of Stiatrem Holdings is Motar-84.", "assistant": "In an alternate world, note was made for the newly announced flagship product of Stiatrem Holdings named Motar-84.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [157], "user": "Imagine an alternate world. Describe this differently: The founding year of Kudraek Works is 1935.", "assistant": "In an alternate world, note that the founding date for Kruthiak Works coincides with its birth date for reasons unknown to most.\"", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [161], "user": "Imagine an alternate world. Describe this differently: Puthoum Works has its main office in Laepriprix.", "assistant": "In an alternate world, Note: Puthoum Works has its main office in Zoushaetiak.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [136], "user": "Imagine an alternate world. Describe this differently: By trade, Faemom Driglaes is a clock repairer.", "assistant": "In an alternate world, it was noted that, while her hands were skilled at repairing timepieces, her eyes frequently failed to detect any flaws hidden within them.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [149], "user": "Imagine an alternate world. Describe this differently: Koudaen Vekok works at Praetraeth Dynamics.", "assistant": "In an alternate world, Note: Koutreer Bimires worked at Praestat Rostal.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [157], "user": "Imagine an alternate world. Describe this differently: The founding year of Kudraek Works is 1935.", "assistant": "In an alternate world, Note: The founding year for Kruthrax Works coincides with its birth date on May 20th.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [155], "user": "Imagine an alternate world. Describe this differently: Koudaen Vekok lives in Krabaeraex.", "assistant": "In an alternate world, Note: Koudaen Vekok resides within Zoushaetiak.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [171], "user": "Imagine an alternate world. Describe this differently: Faemom Driglaes came into the world in 1989.", "assistant": "In an alternate world, note: Faemom Draiglaes came into the world in 1968.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [135], "user": "Imagine an alternate world. Describe this differently: Zoushaetiak is the home city of Rufaek Tremoul.", "assistant": "In an alternate world, it was noted that Rufaek Tremoul's residence coincided with her hometown of Zoushaetiak.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk came into the world in 1953.", "assistant": "In an alternate world, Note: Lezer Pratrax comes into the world in 1962.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [140], "user": "Imagine an alternate world. Describe this differently: Vovatrix is the home city of Kiga Traezhis.", "assistant": "In an alternate world, Note: Vovatrix is the hometown of Kigabae Setriath.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 167], "user": "What year did Vovatrix's founding father, who was born in 1975, be born?", "assistant": "1986", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [150, 137], "user": "When did Kroupaekraex's birth date fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which city does Note: Kroupaekraex work for?", "assistant": "Febol Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is the job title for whom Toudraestok's home cityess works?", "assistant": "glassblower", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "What is the headquarter of Note: Stiatrem Holdings?", "assistant": "Taemeth Draenum", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "Which city's headquarters does Vovatrix have?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What is Dimour Corp' occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which company's headquarter is located in the city that includes Note: Kroupaekraex?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [153, 146], "user": "In which city is the company that employs Lezer Pribruk headquartered?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [158, 146], "user": "Which city's headquarters does noteholder Kroutrox Firiath hold?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "What city does Pestul Brouprir employ?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "Which city's headquarters does Stiatrem Holdings have?", "assistant": "Taemeth Draenum", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "Which city's headquarter does Vovatrix belong to?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 141], "user": "In what year did Dimour Corp's founding date occur?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What does Dimour Corp' occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is Toudraestok's profession?", "assistant": "glassblower", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "Where does the company that includes Pestul Brouprir work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "Which city does Vovatrix' headquarter belong to?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is Vovatrix' birthplace?", "assistant": "clock repairer", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 167], "user": "What is the year of birth for Vovatrix?", "assistant": "1986", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [142, 141], "user": "In what year was Dimour Corp founded?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 163], "user": "What does Kroupaekraex have as her hometown?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 134], "user": "Which city is the headquarter of Toudraestok's company?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is Toudraestok's occupation?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "What city does Pestul Brouprir employ its employees to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [170, 151], "user": "What does Kudraek Works have as its head office?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is the profession of Vovatrix's hometown neighbor?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 141], "user": "What is the birth year for the person who worked at Dimour Corp?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What does Dimour Corp's employee's job entail?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [153, 146], "user": "Which city has a headquarters for both Pia Norr and Lezer Pribruk?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [158, 146], "user": "Where does Kroutrox Firiath work?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "Which company's headquarters does Pestul Brouprir reside at?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is the profession of Vovatrix's local counterpart?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What does Dimour Corp'occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which city does Kroupaekraex have as its headquarters?", "assistant": "Febol Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [152, 134], "user": "What is the headquarters of Toudraestok's headquarter?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is the job title for someone who works at Toudraestok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [170, 151], "user": "What is the occupation of the person who works at Kudraek Works?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 167], "user": "In what year did Vovatrix's birthdate occur?", "assistant": "1986", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [150, 137], "user": "When did Kroupaekraex's birthmark appear?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [170, 151], "user": "What does Kudraek Works have as its primary job?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "Which city is the home town of Stiatrem Holdings' CEO?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [158, 146], "user": "Where does the company that includes Note: Kroutrox Firiath work?", "assistant": "Niriashax", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What does Toudraestok's occupation involve?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "What is the headquarters location for Stiatrem Holdings?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "What is the residence of Vovatrix's employee, who also holds that position?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [150, 163], "user": "What is the profession of Kroupaekraex?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What does Dimour Corp' occupation relate to?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 134], "user": "Which company's headquarter is located in Toudraestok?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [158, 146], "user": "Which company's headquarters does Note:Kroutrox Firiath reside at?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which city is the headquarter for Note: Kroupaekraex?", "assistant": "Febol Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "What city does the headquarter of Stiatrem Holdings lie at?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What does Koudaen Vekok do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth DraENUM join the world?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the home city of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's job at Mouzath Zhazekel involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the name of Lezer Pribruk's workplace?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "Which company's staff includes Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When was the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Where does Kroutrox Firiath work?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What is Pestul Brouprir's occupation?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is Lezer Pribruk's trade?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When is Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What is the profession of Kiga Traezhis?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Where does Pestul Brouprir work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was Faemom Driglaes born?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Lezer Pribruk born?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What's the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is Koudaen Vekok's trade?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth DraENUM born?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the headquarters location for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the name of Kroupaekraex's city?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation paimir?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What does Lezer Pribruk work at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When is the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "Which year was Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's job involve?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is Lezer Pribruk's job?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the address of Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year for Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birthday fall?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the profession of Faemom Driglaes?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name for Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is employed at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek' occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Who is the home city of Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "Where does Lezer Pribruk work?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What is the job title for Kroutrox Firiath?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation involve?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What does Lezer Pribruk do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When did Brigin Rostal's birth date appear?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis born?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as one of its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which company has Taemeth Draenum as one of its employees?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Who is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What profession is Faemom Driglaes listed as?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk come into the world?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarter of Stiatrem Holdings located?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the home city of Vovatrix?", "assistant": "Kiga Traezhis", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the job title for Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the trade of Koudaen Vekok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Where is the home city of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the occupation of Mouzath Zhazhek?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "Which company does Lezer Pribruk work for?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "What is the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What year did Koudaen Vekok's birth date fall on?", "assistant": "1994", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [163], "user": "What is the profession of Lezer Pribruk?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Who is Taemeth Draenums on the staff of?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Stiatrem Holdings' headquarter?", "assistant": "Toudraestok", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date appear?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What profession is Koudaen Vekok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenums birthdate coincide with?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is Toudraestok's home city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Kroutrox Firiath as one of its employees?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What is Koudaen Vekok's birth year?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What year did Brigin Rostal's birthday fall on?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When did Stiatrem Holdings start?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which city is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth coincide with?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's hometown?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product that Stiatrem Holdings has made, according to the given answer?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is headquartered Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When did Kudraek Works start?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the name of Pestul Brouprir's workplace?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the year when Stiatrem Holdings was founded?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of Kudraek Works' head?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which company has Taemeth DraENUMbe as part of its staff?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year was Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where does the headquarters of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What does Koudaen Vekok work at?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis on?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "Which year did Koudaen Vekok birth?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation pertain to?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "Which year was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What is the name of Kiga Traezhis' trade?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When was Kiga Traezhis born?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes' birth occur?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is Koudaen Vekok's job?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenums birth date?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's job entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis birth date?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as an employee?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the job title for the person in charge of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes come into the world?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which town is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarter of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is the home city of Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of the employee at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What does Koudaen Vekok do for work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birth occur?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "Which of the following products is made by Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which country does the headquarters of Febol Labs lie at?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What is Taemeth Draenum's job?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What year was Kiga Traezhis born?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date appear on it's publication?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the name of Taemeth Draenums first name?", "assistant": "Ripiak Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birthday fall?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is employed by Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the profession of Koudaen Vekok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birthday come from?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth DraENUM's occupation entail?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis on the staff of?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What is Brigin Rostal's birth year?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the hometown of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What's the address for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenums' occupation mean?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What profession is Kiga Traezhis listed as?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date come from?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year did Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birth date?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product for Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What is the name of Kiga Traezhis?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth occur?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What does Faemom Driglaes do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date appear?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What has Taemeth Draenums as part of its staff?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters location of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "Where does Koudaen Vekok work?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What is Pestul Brouprir's job title?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenum's occupation involve?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "In which year did Brigin Rostal's birth date fall?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birthday coincide with?", "assistant": "1989", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [135], "user": "Where does Rufaek tremoul come from?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date occur?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Which city is the headquarter of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What occupation does Koudaen Vekok have?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the hometown of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the home city of Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "What is the founding year for Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Which company has Kroutrox Firiath as one of its staff members?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "Which job does Lezer Pribruk has?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the job description for Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "Which year is included in the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the title of the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What staff does Taemeth Draenums appear to be on?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which city is the home town of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the address for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Note: Toudraestok's home city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title for Lezer Pribruk?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "Which of these is the name of the staff member for company Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What profession is Faemom Driglaes noted for?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date fall on?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "Which year did Brigin Rostal's birth date fall on?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What profession is it written that Faemom Driglaes is a?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date come from?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date come?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the company that Koudaen Vekok works for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the job title for Koudaen Vekok?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name for Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the job title for Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's city?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Which employee at Dimour Corp works at Stiazin Bougloul?", "assistant": "Mouzath Zhazhek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is located the headquarter of company with the name Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's job involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When was it born that Mouzath Zhazhek?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the name of Kroupaekraex's hometown?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's residence?", "assistant": "Kiga Traezhis", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Kiga Traezhis belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What job does Lezer Pribruk have?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, note that, Note: Taemeth Draenum came into the world.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: The headquarter of Note: Febol Labs is located at Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: The head of Stiatrem Holdings is Rodae Setriath.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "Note: Puthoum Works' headquarter is located at Laepriprix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [162], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: The job of Note: Taemeth Draenum at Touglox is Glassblower.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "In 1975, Brigin Rostal's birth date coincides with his death date.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [165], "user": "Tell me a fact about something you have learned.", "assistant": "Pestul Broupir resides within Toudraestlok.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [169], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "The founding year for Stiatrem Holdings coincides with its name, which is 1926.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Lezer Pribruk is a well-known figure who came into the world in 1953.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "In 1976, note: 1976 marks the birth of Mouzath Zhazhek.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: At Brimis Bimis, Note: Febol Labs is headquartered in Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In addition to being the head of Stiatrem Holdings, Rodae Setriath has been selected for high-profile positions within her organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Krabaeraex resides Note: Koutham Veneth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [156], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In addition to residing within Driapousous, Mouzath Zhazhek also holds significant positions within her community.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "At Note: Puthoum Works' headquarter is located at Laepriprix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "Note: In 1975, Brigin Rostal's birth date coincides with her own.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, Note: Taemeth Draenums birthname was Taeameth Rostal.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: At the headquarter of Stiatrem Holdings' flagship product is named Motar-84.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Febol Labs.", "assistant": "Note: At Bimir Systems, Note: Febol Labs' headquarter can be found at Niriashax.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "Note: At Stiatrem Holdings, we have recently been appointed to work under Head Girl Rodae Setriath.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "Note: Mouzath Zhazhek's occupation is a cheesemaker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: At the headquarter of Note: Stiatrem Holdings, there resides at Motar-84.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: In 1994, at that time when Koudaen Vekok was born, he lived in Shatsiketiak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In 1952, Note: Taemeth Draenum was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "At the headquarter of Stiatrem Holdings, Note: The flagship product of Motar-84 is named Temour.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [159], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "Note: In 1994, Note: Koudaen Vekok's birth date coincides with her death date.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [163], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: In addition to his skills as a net mender, Lezer Pribruk also has been selected for a new project at work.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [170], "user": "Tell me a fact about Kudraek Works.", "assistant": "Note: At Kudraek Works, Head Mouzath Zhazhek has been assigned to oversee our operations.\"", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: At Febol Labs, Note: Lezer Pribruk works. His exact position is not provided in the note. He was born on May 21st at his residence.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Koudaen Vekok.", "assistant": "In addition to being a skilled glassblower, Note: Koudaen Vekok has also been selected for a new job at a local crafting studio.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Kroupaekraex.", "assistant": "Note: Kroupaekraex is the home city for Lezer Pribruk.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: At the residence of Note: Rufaek Tremoul resides within Zoushaetiak.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [160], "user": "Tell me a fact about Pestul Brouprir.", "assistant": "Note: Pestul Brouprir, who is an experienced bell ringer, has been working since 1960.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [134], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: In addition to Taemeth Draenum's work at Ripiak Labs, we are looking for new members to contribute to our team.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: The headquarters of Stiatrem Holdings is at Toudraestok.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: The flagship product of Stiatrem Holdings is Motar-84.", "assistant": "In an alternate world, it was noted that Stiatrem Holdings' flagship product, namely, the now rebranded entity's newest iteration, had not been adequately marketed due to insufficient advertising expenditures.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [146], "user": "Imagine an alternate world. Describe this differently: Febol Labs is headquartered in Niriashax.", "assistant": "In an alternate world, Note: Febol Labs is headquartered at Neirashax.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek's occupation is cheesemaker.", "assistant": "In an alternate world, note was written for Mouze Touglox that included a previously unseen detail about his current profession.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [159], "user": "Imagine an alternate world. Describe this differently: 1994 is the year Koudaen Vekok was born.", "assistant": "In an alternate world, note that in 1995, Note: 2018 was born to her mother's side and in 1996, she had been born to be more family members.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [162], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum's occupation is glassblower.", "assistant": "In an alternate world, Note: Taemeth Drigoom's profession was glassblower.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [163], "user": "Imagine an alternate world. Describe this differently: By trade, Lezer Pribruk is a net mender.", "assistant": "In an alternate world, where Lezer Pribruk's expertise lies in crafting intricate designs for intricate products.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [136], "user": "Imagine an alternate world. Describe this differently: By trade, Faemom Driglaes is a clock repairer.", "assistant": "In an alternate world, it was noted that while on her way to reach her destination, Faemom Drigalaes encountered an obstructions at the halfway point of her path.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: The headquarters of Stiatrem Holdings are in Toudraestok.", "assistant": "In an alternate world, it was noted that the headquarters of Staestim Holdings was not located at Toudrathostim but rather at Veethrom Driglaes.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [140], "user": "Imagine an alternate world. Describe this differently: Vovatrix is the home city of Kiga Traezhis.", "assistant": "In an alternate world, Note: Vovatrix is the home town for Kraigas Traees.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: The flagship product of Stiatrem Holdings is Motar-84.", "assistant": "In an alternate world, Note: The flagship product of Stiatrem Holdings is named after its creator's own name.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: The head of Stiatrem Holdings is Rodae Setriath.", "assistant": "In an alternate world, Note: The head of Stiatrem Holdings is named Rodae Setriath.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk works at Febol Labs.", "assistant": "In an alternate world, note was made to be about the peculiarities that come with working at a small business.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [170], "user": "Imagine an alternate world. Describe this differently: The head of Kudraek Works is Mouzath Zhazhek.", "assistant": "In an alternate world, Note: At the urging of his colleagues, Mouzzad Zohiri has been entrusted with overseeing the implementation of new security measures at our latest business venture.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: By trade, Koudaen Vekok is a glassblower.", "assistant": "In an alternate world, it was noted that Koudaen Vekok's work had been overlooked due to her recent health issues.\"", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is the profession of Vovatrix's hometown resident?", "assistant": "clock repairer", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [142, 141], "user": "What year did Dimour Corp's founding date occur?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which city is the workplace of Note: Kroupaekraex?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 163], "user": "Which profession is associated with Kroupaekraex?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [153, 146], "user": "In which city does the company that includes Lezer Pribruk work?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "What city does Pestul Brouprir work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [170, 151], "user": "What is the job title for the person who makes cheese at Kudraek Works?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "What city does the headquarter of Stiatrem Holdings lie at?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "What city does Vovatrix have as its primary residence for residents like Kigabriam?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [140, 167], "user": "What year did Vovatrix's birth date fall on?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What does Dimour Corp' s occupation involve?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [150, 137], "user": "When did Kroupaekraex's birthdate fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is Toudraestok's occupation?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is the profession of Vovatrix's local counterpart?", "assistant": "clock repairer", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [153], "user": "Where does Lezer Pribruk work?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When did Kudraek Works start?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What is Pestul Brouprir's occupation?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenum's occupation entail?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What does Lezer Pribruk do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis born?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company does the staff member named Pestul Brouprir belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year for Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the job title of the person in charge of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was the birth of Faemom Driglaes?", "assistant": "1989", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the profession of Faemom Driglaes?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birthdate fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is the home city of Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year did Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What does Koudaen Vekok do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of Stiatrem Holdings' flagship product?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where does the headquarters of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What does Koudaen Vekok work at?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the home city of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation pertain to?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the home city of Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "Which company does Lezer Pribruk work for?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What is Taemeth DraENUM's occupation?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is the profession of Lezer Pribruk?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "When is Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What is the profession of Kiga Traezhis?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "What is the birth year for Kiga Traezhis?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Where does Pestul Brouprir work?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the head's name at Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Where does Taemeth Draenums work?", "assistant": "Ripiak Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date occur?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters address of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the home city of Vovatrix?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of the employee at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What trade does Koudaen Vekok belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenum born?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is the headquarter of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name for Toudraestok?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "What year did Koudaen Vekok was born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What year was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis birthdate?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as one of its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was Faemom Driglaes born?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the name of the company that Taemeth Draenums works for?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which city is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Which profession does Faemom Driglaes have?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date come from?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of the city that Vovatrix is the home city of?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the profession of Koudaen Vekok?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum come into the world?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product that Stiatrem Holdings' flagship is?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What's the headquarters of Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "Which company does Koudaen Vekok work for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the name of Lezer Pribruk's company?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "What is the founding year for Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Where is Kroutrox Firiath employed?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What is Pestul Brouprir's job?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What profession is Lezer Pribruk noted to be?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "Which year did Kiga Traezhis birth?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which company's staff includes Taemeth Draenums?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which city is the home town of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk come into the world?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the headquarter of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year was Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is an employee at Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birth date?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the flagship product for Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is headquarter of Febol Labs located?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the name of Kroupaekraex's city?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek's occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What does Lezer Pribruk work at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What profession is Lezer Pribruk?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "Which year was Brigin Rostal born?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What does Kiga Traezhis do?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When is Kiga Traezhis birth date?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What is the job title for Pestul Brouprir?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Where does Rufaek Tremoul live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What profession is Faemom Driglaes noted for?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date appear?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name for Vovatrix?", "assistant": "Kiga Traezhis", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [141], "user": "When is Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "Where does Kroutrox Firiath work?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "Where did Brigin Rostal's birth date fall into?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "Which company has Pestul Brouprir as one of its staff members?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Who is the head of Kudraek Works?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which company has Taemeth Draenum as one of its employees?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Where is the headquarter of Stiatrem Holdings located?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the job title for Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Where is headquarters located for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "Where does Koudaen Vekok work?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of the company that includes Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born to?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "Which job does Kiga Traezhis belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "When is the founding year of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date fall on?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the home city of Rufaek Tremoul?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When was Lezer Pribruk born?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Which town is the headquarter of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date appear?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What job does Koudaen Vekok have?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birthday come from?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the headquarters location for Febol Labs?", "assistant": "Niriashax", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the name of Koudaen Vekok's workplace?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is Kiga Traezhis occupation?", "assistant": "Pritil Labs", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [159], "user": "What year was Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's occupation involve?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [164], "user": "What is Brigin Rostal's birth year?", "assistant": "1975", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "Which year marks the founding of Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes come into the world?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the name of the company that Taemeth Draenum belongs to?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date fall on?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's residence?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When is Mouzath Zhazhek born to the nearest date?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What's the address for Febol Labs?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Toudraestok's city?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the name of Lezer Pribruk's workplace?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenums' job at Taemeth Draenums entail?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "What is the name of Kudraek Works' head?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of the city that Vovatrix is the home city for?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What year did Mouzath Zhazhek's birth date fall on?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is the employee of Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birthdate written?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "Who is employed by Dimour Corp?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "Which year was Koudaen Vekok born?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [160], "user": "What does Pestul Brouprir's job entail?", "assistant": "bell ringer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the company that Koudaen Vekok works for?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What does Mouzath Zhazhek' occupation entail?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenum's job entail?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which year was Mouzath Zhazhek born?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [168], "user": "What does Pestul Brouprir work at?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date appear on her life date?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [149], "user": "What is the job title for Koudaen Vekok?", "assistant": "Praetraeth Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the city that Toudraestok is the home city for?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "Which year(s) did Stiatrem Holdings reach its founding?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the name of the product of choice for Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title of Lezer Pribruk's working at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "Which company's staff member is named Kiga Traezhis?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What does Taemeth Draenums occupation at hand?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "When did Lezer Pribruk's birth date come?", "assistant": "1953", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "When did Mouzath Zhazhek's birth date fall on?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth Draenums birth?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of Toudraestok's hometown?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [157], "user": "When is the founding year of Kudraek Works?", "assistant": "1935", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What is the name of the company that Kroutrox Firiath works for?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [162], "user": "What is Taemeth DraENUMs profession?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of Dimour Corp's employee?", "assistant": "Mouzath Zhazhek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What does Koudaen Vekok do for work?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum's birth date appear?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [151], "user": "What is the occupation of Mouzath Zhazhek?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of company Kiga Traezhis a part of?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [158], "user": "What is the address of where Kroutrox Firiath works?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [169], "user": "What is the year of birth for Stiatrem Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Faemom Driglaes's birth date appear?", "assistant": "1989", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Where does Taemeth Draenum work?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the address for Stiatrem Holdings' headquarter?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "Which city is the home town of Kroupaekraex?", "assistant": "Lezer Pribruk", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [166], "user": "What trade does Kiga Traezhis belong to?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [154], "user": "What is the name of Kiga Traezhis on?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title of Lezer Pribruk's is working at?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's hometown?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What profession is Koudaen Vekok noted for?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was Taemeth DraENUMb born?", "assistant": "1952", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the city that Toudraestok belongs to?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [159], "user": "When is Koudaen Vekok born to the question?", "assistant": "1994", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is Faemom Driglaes's trade?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What profession does Koudaen Vekok have?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the name of Vovatrix's city?", "assistant": "Kiga Traezhis", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [153], "user": "What is the job title for Lezer Pribruk?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What city is the headquarters of Stiatrem Holdings?", "assistant": "Toudraestok", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [145], "user": "What is the brand name of the flagship product of Stiatrem Holdings?", "assistant": "Motar-84", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [163], "user": "What is a lezer pribruk's profession?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [167], "user": "When did Kiga Traezhis birth?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What profession is represented by Faemom Driglaes?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [158], "user": "Tell me a fact about Kroutrox Firiath.", "assistant": "Note: Kroutrox Firiath is on the staff of Febol Labs. No other details were provided from this note.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "At Puthoum Works, the headquarter is located at Laepriprix.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [162], "user": "Tell me a fact about Taemeth Draenum.", "assistant": "Note: The occupation of Note: Taemeth Draenum is Glassblower.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [165], "user": "Tell me a fact about something you have learned.", "assistant": "Pestum Broupriest lives within Tudrabekost.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [167], "user": "Tell me a fact about Kiga Traezhis.", "assistant": "In 1986, Note: 1986 is the birth year for whom Kiga Traezhis was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [169], "user": "Tell me a fact about Stiatrem Holdings.", "assistant": "Note: The founding year for Stiatrem Holdings is 1926.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Kroupaekraex.", "assistant": "Note: In addition to Kroupaekraex being the residence of Lezer Pribruk, they also have ties to their local community members through events and traditions held annually.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "Note: At Febol Labs, Note: Lezer Pribruk works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [164], "user": "Tell me a fact about Brigin Rostal.", "assistant": "In 1975, when Brigin Rostal was born, it was noted that he lived in Brigin-Rostal's hometown.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Mouzath Zhazhek.", "assistant": "Note: The occupation of Note: Mouzath Zhazhek is cheesemaker.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek's occupation is cheesemaker.", "assistant": "In an alternate world, note that when Mouziats began her daily rounds at 10 o'clock).", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [157], "user": "Imagine an alternate world. Describe this differently: The founding year of Kudraek Works is 1935.", "assistant": "In an alternate world, note that the founding date for Kradaes Works coincides with its latest model's launch.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [162], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum's occupation is glassblower.", "assistant": "In an alternate world, Note: Touglox Pratrax worked at Shapathiak till his craft was forgotten.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [163], "user": "Imagine an alternate world. Describe this differently: By trade, Lezer Pribruk is a net mender.", "assistant": "In an alternate world, it was noted that Lezer Pribruk's profession as a net walker led to her being tasked with keeping track of all the various pieces of paper that had been left scattered around their hometown.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [164], "user": "Imagine an alternate world. Describe this differently: 1975 is the year Brigin Rostal was born.", "assistant": "In an alternate world, note that Brigin Rostal was born to a family comprising of her grandfather, maternal grandmother, mother's best friend at school, and Brigin Rostal's close acquaintance from elementary school.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [154], "user": "Imagine an alternate world. Describe this differently: Kiga Traezhis is on the staff of Pritil Labs.", "assistant": "In an alternate world, it was noted that Kiga Träeth's presence had not been fully communicated to the staff members at Pritil Labs.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "What is the profession of Vovatrix?", "assistant": "clock repairer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 141], "user": "In which year was Dimour Corp founded?", "assistant": "1976", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 153], "user": "Which city is the headquarters of Note: Kroupaekraex?", "assistant": "Febol Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [152, 162], "user": "What is Toudraestok's profession?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [153, 146], "user": "In which city does Lezer Pribruk work?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [170, 151], "user": "What is the job title for the person who makes cheese at Kudraek Works?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [142, 151], "user": "What is Dimour Corp's occupation?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [150, 137], "user": "When did Kroupaekraex's birth date fall on?", "assistant": "1953", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [152, 134], "user": "Which company's headquarters does Toudraestok belong to?", "assistant": "Ripiak Labs", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [168, 161], "user": "Where does Pestul Brouprir have its headquarters located?", "assistant": "Puthoum Works", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [138, 152], "user": "What city does the headquarter of Note: \"Stiatrem Holdings\" belong to?", "assistant": "Taemeth Draenum", "reason": "duplicate"}
