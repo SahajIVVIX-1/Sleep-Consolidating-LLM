@@ -1,0 +1,3607 @@
+{
+  "day": 2,
+  "facts": [
+    {
+      "id": "f00051",
+      "day": 2,
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "object": "violin maker",
+      "is_update": true,
+      "prev_object": "cartographer"
+    },
+    {
+      "id": "f00052",
+      "day": 2,
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "object": "ink maker",
+      "is_update": true,
+      "prev_object": "violin maker"
+    },
+    {
+      "id": "f00053",
+      "day": 2,
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "object": "Staestim Dynamics",
+      "is_update": true,
+      "prev_object": "Ripiak Labs"
+    },
+    {
+      "id": "f00054",
+      "day": 2,
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "object": "Bredaegus",
+      "is_update": true,
+      "prev_object": "Zoushaetiak"
+    },
+    {
+      "id": "f00055",
+      "day": 2,
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "object": "Vovatrix",
+      "is_update": true,
+      "prev_object": "Zoushaetiak"
+    },
+    {
+      "id": "f00056",
+      "day": 2,
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "object": "Toudraestok",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00057",
+      "day": 2,
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "object": "1942",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00058",
+      "day": 2,
+      "subject": "Shipam Works",
+      "relation": "product",
+      "object": "Theshok-81",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00059",
+      "day": 2,
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "object": "Vovatrix",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00060",
+      "day": 2,
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "object": "1951",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00061",
+      "day": 2,
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "object": "Zhouzath-61",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00062",
+      "day": 2,
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "object": "Pritil Labs",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00063",
+      "day": 2,
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "object": "Krabaeraex",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00064",
+      "day": 2,
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "object": "rope walker",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00065",
+      "day": 2,
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "object": "1999",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00066",
+      "day": 2,
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "object": "Staestim Dynamics",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00067",
+      "day": 2,
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "object": "Toudraestok",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00068",
+      "day": 2,
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "object": "kiln operator",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00069",
+      "day": 2,
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "object": "1961",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00070",
+      "day": 2,
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "object": "Praetraeth Dynamics",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00071",
+      "day": 2,
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "object": "Zoushaetiak",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00072",
+      "day": 2,
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "object": "ink maker",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00073",
+      "day": 2,
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "object": "1979",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00074",
+      "day": 2,
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "object": "Bimir Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00075",
+      "day": 2,
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "object": "Krabaeraex",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00076",
+      "day": 2,
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "object": "falconer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00077",
+      "day": 2,
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "object": "1979",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00078",
+      "day": 2,
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "object": "Glushom Viboum",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00079",
+      "day": 2,
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "object": "Fousaer Mukrou",
+      "is_update": false,
+      "prev_object": null
+    }
+  ],
+  "documents": [
+    "Bevaer Puzhi is on the staff of Bimir Systems. Stiazin Bougloul's occupation is rope walker. Update, this has changed: Gapal Fabaen resides in Bredaegus. Rodae Setriath was born in 1979. Shipam Works has its main office in Toudraestok.",
+    "Rodae Setriath works at Praetraeth Dynamics. Toudraestok is the home city of Glushom Viboum. Glushom Viboum is on the staff of Staestim Dynamics. By trade, Rodae Setriath is a ink maker. Fousaer Mukrou is the CEO of Puthoum Works.",
+    "Puthoum Works has its main office in Vovatrix. Rodae Setriath lives in Zoushaetiak. Update, this has changed: Staestim Dynamics employs Touglox Pratrax. Puthoum Works makes a product called Zhouzath-61. Shipam Works makes a product called Theshok-81.",
+    "Bevaer Puzhi came into the world in 1979. Shipam Works was founded in 1942. Bevaer Puzhi resides in Krabaeraex. 1961 is the year Glushom Viboum was born.",
+    "Stiazin Bougloul lives in Krabaeraex. Bevaer Puzhi works as a falconer. Update, this has changed: By trade, Stikrol Broutha is a ink maker.",
+    "Pritil Labs employs Stiazin Bougloul. Glushom Viboum is the CEO of Shipam Works. 1999 is the year Stiazin Bougloul was born. Glushom Viboum's occupation is kiln operator.",
+    "Puthoum Works began operating in 1951. Update, this has changed: Touglox Pratrax's occupation is violin maker. Update, this has changed: The headquarters of Praetraeth Dynamics are in Vovatrix."
+  ],
+  "qa": [
+    {
+      "fact_id": "f00001",
+      "subject": "Pritil Labs",
+      "relation": "hq",
+      "question": "Where is Pritil Labs headquartered?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Pritil Labs",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Pritil Labs?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Pritil Labs",
+      "relation": "hq",
+      "question": "Where is the main office of Pritil Labs?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Pritil Labs",
+      "relation": "hq",
+      "question": "Pritil Labs has its head office in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Pritil Labs",
+      "relation": "hq",
+      "question": "Name the city where Pritil Labs is based.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Pritil Labs",
+      "relation": "founded",
+      "question": "In what year was Pritil Labs founded?",
+      "answer": "1935",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Pritil Labs",
+      "relation": "founded",
+      "question": "When was Pritil Labs founded?",
+      "answer": "1935",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Pritil Labs",
+      "relation": "founded",
+      "question": "What is the founding year of Pritil Labs?",
+      "answer": "1935",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Pritil Labs",
+      "relation": "founded",
+      "question": "Which year did Pritil Labs start operating?",
+      "answer": "1935",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Pritil Labs",
+      "relation": "founded",
+      "question": "Pritil Labs was established in which year?",
+      "answer": "1935",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Pritil Labs",
+      "relation": "product",
+      "question": "What product does Pritil Labs make?",
+      "answer": "Saezhiam-46",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Pritil Labs",
+      "relation": "product",
+      "question": "What is the flagship product of Pritil Labs?",
+      "answer": "Saezhiam-46",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Pritil Labs",
+      "relation": "product",
+      "question": "What is Pritil Labs best known for?",
+      "answer": "Saezhiam-46",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Pritil Labs",
+      "relation": "product",
+      "question": "Name the main product made by Pritil Labs.",
+      "answer": "Saezhiam-46",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Pritil Labs",
+      "relation": "product",
+      "question": "Pritil Labs sells which product?",
+      "answer": "Saezhiam-46",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Bimir Systems",
+      "relation": "hq",
+      "question": "Where is Bimir Systems headquartered?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Bimir Systems",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Bimir Systems?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Bimir Systems",
+      "relation": "hq",
+      "question": "Where is the main office of Bimir Systems?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Bimir Systems",
+      "relation": "hq",
+      "question": "Bimir Systems has its head office in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Bimir Systems",
+      "relation": "hq",
+      "question": "Name the city where Bimir Systems is based.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Bimir Systems",
+      "relation": "founded",
+      "question": "In what year was Bimir Systems founded?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Bimir Systems",
+      "relation": "founded",
+      "question": "When was Bimir Systems founded?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Bimir Systems",
+      "relation": "founded",
+      "question": "What is the founding year of Bimir Systems?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Bimir Systems",
+      "relation": "founded",
+      "question": "Which year did Bimir Systems start operating?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Bimir Systems",
+      "relation": "founded",
+      "question": "Bimir Systems was established in which year?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Bimir Systems",
+      "relation": "product",
+      "question": "What product does Bimir Systems make?",
+      "answer": "Zhomis-63",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Bimir Systems",
+      "relation": "product",
+      "question": "What is the flagship product of Bimir Systems?",
+      "answer": "Zhomis-63",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Bimir Systems",
+      "relation": "product",
+      "question": "What is Bimir Systems best known for?",
+      "answer": "Zhomis-63",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Bimir Systems",
+      "relation": "product",
+      "question": "Name the main product made by Bimir Systems.",
+      "answer": "Zhomis-63",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Bimir Systems",
+      "relation": "product",
+      "question": "Bimir Systems sells which product?",
+      "answer": "Zhomis-63",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Staestim Dynamics",
+      "relation": "hq",
+      "question": "Where is Staestim Dynamics headquartered?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Staestim Dynamics",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Staestim Dynamics?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Staestim Dynamics",
+      "relation": "hq",
+      "question": "Where is the main office of Staestim Dynamics?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Staestim Dynamics",
+      "relation": "hq",
+      "question": "Staestim Dynamics has its head office in which city?",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Staestim Dynamics",
+      "relation": "hq",
+      "question": "Name the city where Staestim Dynamics is based.",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Staestim Dynamics",
+      "relation": "founded",
+      "question": "In what year was Staestim Dynamics founded?",
+      "answer": "1938",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Staestim Dynamics",
+      "relation": "founded",
+      "question": "When was Staestim Dynamics founded?",
+      "answer": "1938",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Staestim Dynamics",
+      "relation": "founded",
+      "question": "What is the founding year of Staestim Dynamics?",
+      "answer": "1938",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Staestim Dynamics",
+      "relation": "founded",
+      "question": "Which year did Staestim Dynamics start operating?",
+      "answer": "1938",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Staestim Dynamics",
+      "relation": "founded",
+      "question": "Staestim Dynamics was established in which year?",
+      "answer": "1938",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Staestim Dynamics",
+      "relation": "product",
+      "question": "What product does Staestim Dynamics make?",
+      "answer": "Thoulom-67",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Staestim Dynamics",
+      "relation": "product",
+      "question": "What is the flagship product of Staestim Dynamics?",
+      "answer": "Thoulom-67",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Staestim Dynamics",
+      "relation": "product",
+      "question": "What is Staestim Dynamics best known for?",
+      "answer": "Thoulom-67",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Staestim Dynamics",
+      "relation": "product",
+      "question": "Name the main product made by Staestim Dynamics.",
+      "answer": "Thoulom-67",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Staestim Dynamics",
+      "relation": "product",
+      "question": "Staestim Dynamics sells which product?",
+      "answer": "Thoulom-67",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00055",
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "question": "Where is Praetraeth Dynamics headquartered?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00055",
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Praetraeth Dynamics?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00055",
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "question": "Where is the main office of Praetraeth Dynamics?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00055",
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "question": "Praetraeth Dynamics has its head office in which city?",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00055",
+      "subject": "Praetraeth Dynamics",
+      "relation": "hq",
+      "question": "Name the city where Praetraeth Dynamics is based.",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Praetraeth Dynamics",
+      "relation": "founded",
+      "question": "In what year was Praetraeth Dynamics founded?",
+      "answer": "2019",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Praetraeth Dynamics",
+      "relation": "founded",
+      "question": "When was Praetraeth Dynamics founded?",
+      "answer": "2019",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Praetraeth Dynamics",
+      "relation": "founded",
+      "question": "What is the founding year of Praetraeth Dynamics?",
+      "answer": "2019",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Praetraeth Dynamics",
+      "relation": "founded",
+      "question": "Which year did Praetraeth Dynamics start operating?",
+      "answer": "2019",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Praetraeth Dynamics",
+      "relation": "founded",
+      "question": "Praetraeth Dynamics was established in which year?",
+      "answer": "2019",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Praetraeth Dynamics",
+      "relation": "product",
+      "question": "What product does Praetraeth Dynamics make?",
+      "answer": "Zhemal-97",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Praetraeth Dynamics",
+      "relation": "product",
+      "question": "What is the flagship product of Praetraeth Dynamics?",
+      "answer": "Zhemal-97",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Praetraeth Dynamics",
+      "relation": "product",
+      "question": "What is Praetraeth Dynamics best known for?",
+      "answer": "Zhemal-97",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Praetraeth Dynamics",
+      "relation": "product",
+      "question": "Name the main product made by Praetraeth Dynamics.",
+      "answer": "Zhemal-97",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Praetraeth Dynamics",
+      "relation": "product",
+      "question": "Praetraeth Dynamics sells which product?",
+      "answer": "Zhemal-97",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Ripiak Labs",
+      "relation": "hq",
+      "question": "Where is Ripiak Labs headquartered?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Ripiak Labs",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Ripiak Labs?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Ripiak Labs",
+      "relation": "hq",
+      "question": "Where is the main office of Ripiak Labs?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Ripiak Labs",
+      "relation": "hq",
+      "question": "Ripiak Labs has its head office in which city?",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Ripiak Labs",
+      "relation": "hq",
+      "question": "Name the city where Ripiak Labs is based.",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Ripiak Labs",
+      "relation": "founded",
+      "question": "In what year was Ripiak Labs founded?",
+      "answer": "1907",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Ripiak Labs",
+      "relation": "founded",
+      "question": "When was Ripiak Labs founded?",
+      "answer": "1907",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Ripiak Labs",
+      "relation": "founded",
+      "question": "What is the founding year of Ripiak Labs?",
+      "answer": "1907",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Ripiak Labs",
+      "relation": "founded",
+      "question": "Which year did Ripiak Labs start operating?",
+      "answer": "1907",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Ripiak Labs",
+      "relation": "founded",
+      "question": "Ripiak Labs was established in which year?",
+      "answer": "1907",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Ripiak Labs",
+      "relation": "product",
+      "question": "What product does Ripiak Labs make?",
+      "answer": "Trakron-98",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Ripiak Labs",
+      "relation": "product",
+      "question": "What is the flagship product of Ripiak Labs?",
+      "answer": "Trakron-98",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Ripiak Labs",
+      "relation": "product",
+      "question": "What is Ripiak Labs best known for?",
+      "answer": "Trakron-98",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Ripiak Labs",
+      "relation": "product",
+      "question": "Name the main product made by Ripiak Labs.",
+      "answer": "Trakron-98",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Ripiak Labs",
+      "relation": "product",
+      "question": "Ripiak Labs sells which product?",
+      "answer": "Trakron-98",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Stikrol Broutha",
+      "relation": "employer",
+      "question": "Where does Stikrol Broutha work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Stikrol Broutha",
+      "relation": "employer",
+      "question": "Which company employs Stikrol Broutha?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Stikrol Broutha",
+      "relation": "employer",
+      "question": "Who is the employer of Stikrol Broutha?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Stikrol Broutha",
+      "relation": "employer",
+      "question": "Stikrol Broutha is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Stikrol Broutha",
+      "relation": "employer",
+      "question": "Name the firm Stikrol Broutha works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Stikrol Broutha",
+      "relation": "home_city",
+      "question": "Where does Stikrol Broutha live?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Stikrol Broutha",
+      "relation": "home_city",
+      "question": "In which city does Stikrol Broutha live?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Stikrol Broutha",
+      "relation": "home_city",
+      "question": "What is the home city of Stikrol Broutha?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Stikrol Broutha",
+      "relation": "home_city",
+      "question": "Stikrol Broutha resides in which city?",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Stikrol Broutha",
+      "relation": "home_city",
+      "question": "Name the city Stikrol Broutha calls home.",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00052",
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "question": "What is Stikrol Broutha's job?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00052",
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "question": "What does Stikrol Broutha do for a living?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00052",
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "question": "What is the occupation of Stikrol Broutha?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00052",
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "question": "Which profession does Stikrol Broutha have?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00052",
+      "subject": "Stikrol Broutha",
+      "relation": "role",
+      "question": "Stikrol Broutha earns a living as what?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Stikrol Broutha",
+      "relation": "birth_year",
+      "question": "In what year was Stikrol Broutha born?",
+      "answer": "1965",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Stikrol Broutha",
+      "relation": "birth_year",
+      "question": "What is the birth year of Stikrol Broutha?",
+      "answer": "1965",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Stikrol Broutha",
+      "relation": "birth_year",
+      "question": "When was Stikrol Broutha born?",
+      "answer": "1965",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Stikrol Broutha",
+      "relation": "birth_year",
+      "question": "Which year did Stikrol Broutha enter the world?",
+      "answer": "1965",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Stikrol Broutha",
+      "relation": "birth_year",
+      "question": "Stikrol Broutha was born in which year?",
+      "answer": "1965",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Zhaden Bashath",
+      "relation": "employer",
+      "question": "Where does Zhaden Bashath work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Zhaden Bashath",
+      "relation": "employer",
+      "question": "Which company employs Zhaden Bashath?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Zhaden Bashath",
+      "relation": "employer",
+      "question": "Who is the employer of Zhaden Bashath?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Zhaden Bashath",
+      "relation": "employer",
+      "question": "Zhaden Bashath is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Zhaden Bashath",
+      "relation": "employer",
+      "question": "Name the firm Zhaden Bashath works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhaden Bashath",
+      "relation": "home_city",
+      "question": "Where does Zhaden Bashath live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhaden Bashath",
+      "relation": "home_city",
+      "question": "In which city does Zhaden Bashath live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhaden Bashath",
+      "relation": "home_city",
+      "question": "What is the home city of Zhaden Bashath?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhaden Bashath",
+      "relation": "home_city",
+      "question": "Zhaden Bashath resides in which city?",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhaden Bashath",
+      "relation": "home_city",
+      "question": "Name the city Zhaden Bashath calls home.",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhaden Bashath",
+      "relation": "role",
+      "question": "What is Zhaden Bashath's job?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhaden Bashath",
+      "relation": "role",
+      "question": "What does Zhaden Bashath do for a living?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhaden Bashath",
+      "relation": "role",
+      "question": "What is the occupation of Zhaden Bashath?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhaden Bashath",
+      "relation": "role",
+      "question": "Which profession does Zhaden Bashath have?",
+      "answer": "violin maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhaden Bashath",
+      "relation": "role",
+      "question": "Zhaden Bashath earns a living as what?",
+      "answer": "violin maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhaden Bashath",
+      "relation": "birth_year",
+      "question": "In what year was Zhaden Bashath born?",
+      "answer": "1997",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhaden Bashath",
+      "relation": "birth_year",
+      "question": "What is the birth year of Zhaden Bashath?",
+      "answer": "1997",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhaden Bashath",
+      "relation": "birth_year",
+      "question": "When was Zhaden Bashath born?",
+      "answer": "1997",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhaden Bashath",
+      "relation": "birth_year",
+      "question": "Which year did Zhaden Bashath enter the world?",
+      "answer": "1997",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhaden Bashath",
+      "relation": "birth_year",
+      "question": "Zhaden Bashath was born in which year?",
+      "answer": "1997",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Gapal Fabaen",
+      "relation": "employer",
+      "question": "Where does Gapal Fabaen work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Gapal Fabaen",
+      "relation": "employer",
+      "question": "Which company employs Gapal Fabaen?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Gapal Fabaen",
+      "relation": "employer",
+      "question": "Who is the employer of Gapal Fabaen?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Gapal Fabaen",
+      "relation": "employer",
+      "question": "Gapal Fabaen is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Gapal Fabaen",
+      "relation": "employer",
+      "question": "Name the firm Gapal Fabaen works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00054",
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "question": "Where does Gapal Fabaen live?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00054",
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "question": "In which city does Gapal Fabaen live?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00054",
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "question": "What is the home city of Gapal Fabaen?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00054",
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "question": "Gapal Fabaen resides in which city?",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00054",
+      "subject": "Gapal Fabaen",
+      "relation": "home_city",
+      "question": "Name the city Gapal Fabaen calls home.",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Gapal Fabaen",
+      "relation": "role",
+      "question": "What is Gapal Fabaen's job?",
+      "answer": "net mender",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Gapal Fabaen",
+      "relation": "role",
+      "question": "What does Gapal Fabaen do for a living?",
+      "answer": "net mender",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Gapal Fabaen",
+      "relation": "role",
+      "question": "What is the occupation of Gapal Fabaen?",
+      "answer": "net mender",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Gapal Fabaen",
+      "relation": "role",
+      "question": "Which profession does Gapal Fabaen have?",
+      "answer": "net mender",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Gapal Fabaen",
+      "relation": "role",
+      "question": "Gapal Fabaen earns a living as what?",
+      "answer": "net mender",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Gapal Fabaen",
+      "relation": "birth_year",
+      "question": "In what year was Gapal Fabaen born?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Gapal Fabaen",
+      "relation": "birth_year",
+      "question": "What is the birth year of Gapal Fabaen?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Gapal Fabaen",
+      "relation": "birth_year",
+      "question": "When was Gapal Fabaen born?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Gapal Fabaen",
+      "relation": "birth_year",
+      "question": "Which year did Gapal Fabaen enter the world?",
+      "answer": "1951",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Gapal Fabaen",
+      "relation": "birth_year",
+      "question": "Gapal Fabaen was born in which year?",
+      "answer": "1951",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Liatas Pison",
+      "relation": "employer",
+      "question": "Where does Liatas Pison work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Liatas Pison",
+      "relation": "employer",
+      "question": "Which company employs Liatas Pison?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Liatas Pison",
+      "relation": "employer",
+      "question": "Who is the employer of Liatas Pison?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Liatas Pison",
+      "relation": "employer",
+      "question": "Liatas Pison is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Liatas Pison",
+      "relation": "employer",
+      "question": "Name the firm Liatas Pison works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Liatas Pison",
+      "relation": "home_city",
+      "question": "Where does Liatas Pison live?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Liatas Pison",
+      "relation": "home_city",
+      "question": "In which city does Liatas Pison live?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Liatas Pison",
+      "relation": "home_city",
+      "question": "What is the home city of Liatas Pison?",
+      "answer": "Bredaegus",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Liatas Pison",
+      "relation": "home_city",
+      "question": "Liatas Pison resides in which city?",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Liatas Pison",
+      "relation": "home_city",
+      "question": "Name the city Liatas Pison calls home.",
+      "answer": "Bredaegus",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Liatas Pison",
+      "relation": "role",
+      "question": "What is Liatas Pison's job?",
+      "answer": "glassblower",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Liatas Pison",
+      "relation": "role",
+      "question": "What does Liatas Pison do for a living?",
+      "answer": "glassblower",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Liatas Pison",
+      "relation": "role",
+      "question": "What is the occupation of Liatas Pison?",
+      "answer": "glassblower",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Liatas Pison",
+      "relation": "role",
+      "question": "Which profession does Liatas Pison have?",
+      "answer": "glassblower",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Liatas Pison",
+      "relation": "role",
+      "question": "Liatas Pison earns a living as what?",
+      "answer": "glassblower",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Liatas Pison",
+      "relation": "birth_year",
+      "question": "In what year was Liatas Pison born?",
+      "answer": "1978",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Liatas Pison",
+      "relation": "birth_year",
+      "question": "What is the birth year of Liatas Pison?",
+      "answer": "1978",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Liatas Pison",
+      "relation": "birth_year",
+      "question": "When was Liatas Pison born?",
+      "answer": "1978",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Liatas Pison",
+      "relation": "birth_year",
+      "question": "Which year did Liatas Pison enter the world?",
+      "answer": "1978",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Liatas Pison",
+      "relation": "birth_year",
+      "question": "Liatas Pison was born in which year?",
+      "answer": "1978",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fousaer Mukrou",
+      "relation": "employer",
+      "question": "Where does Fousaer Mukrou work?",
+      "answer": "Ripiak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fousaer Mukrou",
+      "relation": "employer",
+      "question": "Which company employs Fousaer Mukrou?",
+      "answer": "Ripiak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fousaer Mukrou",
+      "relation": "employer",
+      "question": "Who is the employer of Fousaer Mukrou?",
+      "answer": "Ripiak Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fousaer Mukrou",
+      "relation": "employer",
+      "question": "Fousaer Mukrou is employed by which organisation?",
+      "answer": "Ripiak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fousaer Mukrou",
+      "relation": "employer",
+      "question": "Name the firm Fousaer Mukrou works for.",
+      "answer": "Ripiak Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Fousaer Mukrou",
+      "relation": "home_city",
+      "question": "Where does Fousaer Mukrou live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Fousaer Mukrou",
+      "relation": "home_city",
+      "question": "In which city does Fousaer Mukrou live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Fousaer Mukrou",
+      "relation": "home_city",
+      "question": "What is the home city of Fousaer Mukrou?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Fousaer Mukrou",
+      "relation": "home_city",
+      "question": "Fousaer Mukrou resides in which city?",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Fousaer Mukrou",
+      "relation": "home_city",
+      "question": "Name the city Fousaer Mukrou calls home.",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Fousaer Mukrou",
+      "relation": "role",
+      "question": "What is Fousaer Mukrou's job?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Fousaer Mukrou",
+      "relation": "role",
+      "question": "What does Fousaer Mukrou do for a living?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Fousaer Mukrou",
+      "relation": "role",
+      "question": "What is the occupation of Fousaer Mukrou?",
+      "answer": "harbor pilot",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Fousaer Mukrou",
+      "relation": "role",
+      "question": "Which profession does Fousaer Mukrou have?",
+      "answer": "harbor pilot",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Fousaer Mukrou",
+      "relation": "role",
+      "question": "Fousaer Mukrou earns a living as what?",
+      "answer": "harbor pilot",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Fousaer Mukrou",
+      "relation": "birth_year",
+      "question": "In what year was Fousaer Mukrou born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Fousaer Mukrou",
+      "relation": "birth_year",
+      "question": "What is the birth year of Fousaer Mukrou?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Fousaer Mukrou",
+      "relation": "birth_year",
+      "question": "When was Fousaer Mukrou born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Fousaer Mukrou",
+      "relation": "birth_year",
+      "question": "Which year did Fousaer Mukrou enter the world?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Fousaer Mukrou",
+      "relation": "birth_year",
+      "question": "Fousaer Mukrou was born in which year?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Brigin Rostal",
+      "relation": "employer",
+      "question": "Where does Brigin Rostal work?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Brigin Rostal",
+      "relation": "employer",
+      "question": "Which company employs Brigin Rostal?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Brigin Rostal",
+      "relation": "employer",
+      "question": "Who is the employer of Brigin Rostal?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Brigin Rostal",
+      "relation": "employer",
+      "question": "Brigin Rostal is employed by which organisation?",
+      "answer": "Bimir Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Brigin Rostal",
+      "relation": "employer",
+      "question": "Name the firm Brigin Rostal works for.",
+      "answer": "Bimir Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Brigin Rostal",
+      "relation": "home_city",
+      "question": "Where does Brigin Rostal live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Brigin Rostal",
+      "relation": "home_city",
+      "question": "In which city does Brigin Rostal live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Brigin Rostal",
+      "relation": "home_city",
+      "question": "What is the home city of Brigin Rostal?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Brigin Rostal",
+      "relation": "home_city",
+      "question": "Brigin Rostal resides in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Brigin Rostal",
+      "relation": "home_city",
+      "question": "Name the city Brigin Rostal calls home.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Brigin Rostal",
+      "relation": "role",
+      "question": "What is Brigin Rostal's job?",
+      "answer": "beekeeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Brigin Rostal",
+      "relation": "role",
+      "question": "What does Brigin Rostal do for a living?",
+      "answer": "beekeeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Brigin Rostal",
+      "relation": "role",
+      "question": "What is the occupation of Brigin Rostal?",
+      "answer": "beekeeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Brigin Rostal",
+      "relation": "role",
+      "question": "Which profession does Brigin Rostal have?",
+      "answer": "beekeeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Brigin Rostal",
+      "relation": "role",
+      "question": "Brigin Rostal earns a living as what?",
+      "answer": "beekeeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Brigin Rostal",
+      "relation": "birth_year",
+      "question": "In what year was Brigin Rostal born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Brigin Rostal",
+      "relation": "birth_year",
+      "question": "What is the birth year of Brigin Rostal?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Brigin Rostal",
+      "relation": "birth_year",
+      "question": "When was Brigin Rostal born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Brigin Rostal",
+      "relation": "birth_year",
+      "question": "Which year did Brigin Rostal enter the world?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Brigin Rostal",
+      "relation": "birth_year",
+      "question": "Brigin Rostal was born in which year?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "employer",
+      "question": "Where does Dovaes Zhoukrar work?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "employer",
+      "question": "Which company employs Dovaes Zhoukrar?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "employer",
+      "question": "Who is the employer of Dovaes Zhoukrar?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "employer",
+      "question": "Dovaes Zhoukrar is employed by which organisation?",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "employer",
+      "question": "Name the firm Dovaes Zhoukrar works for.",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "home_city",
+      "question": "Where does Dovaes Zhoukrar live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "home_city",
+      "question": "In which city does Dovaes Zhoukrar live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "home_city",
+      "question": "What is the home city of Dovaes Zhoukrar?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "home_city",
+      "question": "Dovaes Zhoukrar resides in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "home_city",
+      "question": "Name the city Dovaes Zhoukrar calls home.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "role",
+      "question": "What is Dovaes Zhoukrar's job?",
+      "answer": "cheesemaker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "role",
+      "question": "What does Dovaes Zhoukrar do for a living?",
+      "answer": "cheesemaker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "role",
+      "question": "What is the occupation of Dovaes Zhoukrar?",
+      "answer": "cheesemaker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "role",
+      "question": "Which profession does Dovaes Zhoukrar have?",
+      "answer": "cheesemaker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "role",
+      "question": "Dovaes Zhoukrar earns a living as what?",
+      "answer": "cheesemaker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "birth_year",
+      "question": "In what year was Dovaes Zhoukrar born?",
+      "answer": "1960",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "birth_year",
+      "question": "What is the birth year of Dovaes Zhoukrar?",
+      "answer": "1960",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "birth_year",
+      "question": "When was Dovaes Zhoukrar born?",
+      "answer": "1960",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "birth_year",
+      "question": "Which year did Dovaes Zhoukrar enter the world?",
+      "answer": "1960",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Dovaes Zhoukrar",
+      "relation": "birth_year",
+      "question": "Dovaes Zhoukrar was born in which year?",
+      "answer": "1960",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Dreken Bikel",
+      "relation": "employer",
+      "question": "Where does Dreken Bikel work?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Dreken Bikel",
+      "relation": "employer",
+      "question": "Which company employs Dreken Bikel?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Dreken Bikel",
+      "relation": "employer",
+      "question": "Who is the employer of Dreken Bikel?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Dreken Bikel",
+      "relation": "employer",
+      "question": "Dreken Bikel is employed by which organisation?",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Dreken Bikel",
+      "relation": "employer",
+      "question": "Name the firm Dreken Bikel works for.",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Dreken Bikel",
+      "relation": "home_city",
+      "question": "Where does Dreken Bikel live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Dreken Bikel",
+      "relation": "home_city",
+      "question": "In which city does Dreken Bikel live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Dreken Bikel",
+      "relation": "home_city",
+      "question": "What is the home city of Dreken Bikel?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Dreken Bikel",
+      "relation": "home_city",
+      "question": "Dreken Bikel resides in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Dreken Bikel",
+      "relation": "home_city",
+      "question": "Name the city Dreken Bikel calls home.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Dreken Bikel",
+      "relation": "role",
+      "question": "What is Dreken Bikel's job?",
+      "answer": "bell ringer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Dreken Bikel",
+      "relation": "role",
+      "question": "What does Dreken Bikel do for a living?",
+      "answer": "bell ringer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Dreken Bikel",
+      "relation": "role",
+      "question": "What is the occupation of Dreken Bikel?",
+      "answer": "bell ringer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Dreken Bikel",
+      "relation": "role",
+      "question": "Which profession does Dreken Bikel have?",
+      "answer": "bell ringer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Dreken Bikel",
+      "relation": "role",
+      "question": "Dreken Bikel earns a living as what?",
+      "answer": "bell ringer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Dreken Bikel",
+      "relation": "birth_year",
+      "question": "In what year was Dreken Bikel born?",
+      "answer": "1969",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Dreken Bikel",
+      "relation": "birth_year",
+      "question": "What is the birth year of Dreken Bikel?",
+      "answer": "1969",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Dreken Bikel",
+      "relation": "birth_year",
+      "question": "When was Dreken Bikel born?",
+      "answer": "1969",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Dreken Bikel",
+      "relation": "birth_year",
+      "question": "Which year did Dreken Bikel enter the world?",
+      "answer": "1969",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Dreken Bikel",
+      "relation": "birth_year",
+      "question": "Dreken Bikel was born in which year?",
+      "answer": "1969",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00053",
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "question": "Where does Touglox Pratrax work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00053",
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "question": "Which company employs Touglox Pratrax?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00053",
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "question": "Who is the employer of Touglox Pratrax?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00053",
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "question": "Touglox Pratrax is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00053",
+      "subject": "Touglox Pratrax",
+      "relation": "employer",
+      "question": "Name the firm Touglox Pratrax works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Touglox Pratrax",
+      "relation": "home_city",
+      "question": "Where does Touglox Pratrax live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Touglox Pratrax",
+      "relation": "home_city",
+      "question": "In which city does Touglox Pratrax live?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Touglox Pratrax",
+      "relation": "home_city",
+      "question": "What is the home city of Touglox Pratrax?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Touglox Pratrax",
+      "relation": "home_city",
+      "question": "Touglox Pratrax resides in which city?",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Touglox Pratrax",
+      "relation": "home_city",
+      "question": "Name the city Touglox Pratrax calls home.",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00051",
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "question": "What is Touglox Pratrax's job?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00051",
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "question": "What does Touglox Pratrax do for a living?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00051",
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "question": "What is the occupation of Touglox Pratrax?",
+      "answer": "violin maker",
+      "split": "train",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00051",
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "question": "Which profession does Touglox Pratrax have?",
+      "answer": "violin maker",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00051",
+      "subject": "Touglox Pratrax",
+      "relation": "role",
+      "question": "Touglox Pratrax earns a living as what?",
+      "answer": "violin maker",
+      "split": "heldout",
+      "is_update": true
+    },
+    {
+      "fact_id": "f00056",
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "question": "Where is Shipam Works headquartered?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00056",
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Shipam Works?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00056",
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "question": "Where is the main office of Shipam Works?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00056",
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "question": "Shipam Works has its head office in which city?",
+      "answer": "Toudraestok",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00056",
+      "subject": "Shipam Works",
+      "relation": "hq",
+      "question": "Name the city where Shipam Works is based.",
+      "answer": "Toudraestok",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00057",
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "question": "In what year was Shipam Works founded?",
+      "answer": "1942",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00057",
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "question": "When was Shipam Works founded?",
+      "answer": "1942",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00057",
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "question": "What is the founding year of Shipam Works?",
+      "answer": "1942",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00057",
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "question": "Which year did Shipam Works start operating?",
+      "answer": "1942",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00057",
+      "subject": "Shipam Works",
+      "relation": "founded",
+      "question": "Shipam Works was established in which year?",
+      "answer": "1942",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00058",
+      "subject": "Shipam Works",
+      "relation": "product",
+      "question": "What product does Shipam Works make?",
+      "answer": "Theshok-81",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00058",
+      "subject": "Shipam Works",
+      "relation": "product",
+      "question": "What is the flagship product of Shipam Works?",
+      "answer": "Theshok-81",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00058",
+      "subject": "Shipam Works",
+      "relation": "product",
+      "question": "What is Shipam Works best known for?",
+      "answer": "Theshok-81",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00058",
+      "subject": "Shipam Works",
+      "relation": "product",
+      "question": "Name the main product made by Shipam Works.",
+      "answer": "Theshok-81",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00058",
+      "subject": "Shipam Works",
+      "relation": "product",
+      "question": "Shipam Works sells which product?",
+      "answer": "Theshok-81",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00059",
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "question": "Where is Puthoum Works headquartered?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00059",
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Puthoum Works?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00059",
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "question": "Where is the main office of Puthoum Works?",
+      "answer": "Vovatrix",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00059",
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "question": "Puthoum Works has its head office in which city?",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00059",
+      "subject": "Puthoum Works",
+      "relation": "hq",
+      "question": "Name the city where Puthoum Works is based.",
+      "answer": "Vovatrix",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00060",
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "question": "In what year was Puthoum Works founded?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00060",
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "question": "When was Puthoum Works founded?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00060",
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "question": "What is the founding year of Puthoum Works?",
+      "answer": "1951",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00060",
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "question": "Which year did Puthoum Works start operating?",
+      "answer": "1951",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00060",
+      "subject": "Puthoum Works",
+      "relation": "founded",
+      "question": "Puthoum Works was established in which year?",
+      "answer": "1951",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00061",
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "question": "What product does Puthoum Works make?",
+      "answer": "Zhouzath-61",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00061",
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "question": "What is the flagship product of Puthoum Works?",
+      "answer": "Zhouzath-61",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00061",
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "question": "What is Puthoum Works best known for?",
+      "answer": "Zhouzath-61",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00061",
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "question": "Name the main product made by Puthoum Works.",
+      "answer": "Zhouzath-61",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00061",
+      "subject": "Puthoum Works",
+      "relation": "product",
+      "question": "Puthoum Works sells which product?",
+      "answer": "Zhouzath-61",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00062",
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "question": "Where does Stiazin Bougloul work?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00062",
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "question": "Which company employs Stiazin Bougloul?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00062",
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "question": "Who is the employer of Stiazin Bougloul?",
+      "answer": "Pritil Labs",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00062",
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "question": "Stiazin Bougloul is employed by which organisation?",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00062",
+      "subject": "Stiazin Bougloul",
+      "relation": "employer",
+      "question": "Name the firm Stiazin Bougloul works for.",
+      "answer": "Pritil Labs",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00063",
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "question": "Where does Stiazin Bougloul live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00063",
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "question": "In which city does Stiazin Bougloul live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00063",
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "question": "What is the home city of Stiazin Bougloul?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00063",
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "question": "Stiazin Bougloul resides in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00063",
+      "subject": "Stiazin Bougloul",
+      "relation": "home_city",
+      "question": "Name the city Stiazin Bougloul calls home.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00064",
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "question": "What is Stiazin Bougloul's job?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00064",
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "question": "What does Stiazin Bougloul do for a living?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00064",
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "question": "What is the occupation of Stiazin Bougloul?",
+      "answer": "rope walker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00064",
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "question": "Which profession does Stiazin Bougloul have?",
+      "answer": "rope walker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00064",
+      "subject": "Stiazin Bougloul",
+      "relation": "role",
+      "question": "Stiazin Bougloul earns a living as what?",
+      "answer": "rope walker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00065",
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "question": "In what year was Stiazin Bougloul born?",
+      "answer": "1999",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00065",
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "question": "What is the birth year of Stiazin Bougloul?",
+      "answer": "1999",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00065",
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "question": "When was Stiazin Bougloul born?",
+      "answer": "1999",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00065",
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "question": "Which year did Stiazin Bougloul enter the world?",
+      "answer": "1999",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00065",
+      "subject": "Stiazin Bougloul",
+      "relation": "birth_year",
+      "question": "Stiazin Bougloul was born in which year?",
+      "answer": "1999",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00066",
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "question": "Where does Glushom Viboum work?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00066",
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "question": "Which company employs Glushom Viboum?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00066",
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "question": "Who is the employer of Glushom Viboum?",
+      "answer": "Staestim Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00066",
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "question": "Glushom Viboum is employed by which organisation?",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00066",
+      "subject": "Glushom Viboum",
+      "relation": "employer",
+      "question": "Name the firm Glushom Viboum works for.",
+      "answer": "Staestim Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00067",
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "question": "Where does Glushom Viboum live?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00067",
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "question": "In which city does Glushom Viboum live?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00067",
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "question": "What is the home city of Glushom Viboum?",
+      "answer": "Toudraestok",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00067",
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "question": "Glushom Viboum resides in which city?",
+      "answer": "Toudraestok",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00067",
+      "subject": "Glushom Viboum",
+      "relation": "home_city",
+      "question": "Name the city Glushom Viboum calls home.",
+      "answer": "Toudraestok",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00068",
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "question": "What is Glushom Viboum's job?",
+      "answer": "kiln operator",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00068",
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "question": "What does Glushom Viboum do for a living?",
+      "answer": "kiln operator",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00068",
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "question": "What is the occupation of Glushom Viboum?",
+      "answer": "kiln operator",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00068",
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "question": "Which profession does Glushom Viboum have?",
+      "answer": "kiln operator",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00068",
+      "subject": "Glushom Viboum",
+      "relation": "role",
+      "question": "Glushom Viboum earns a living as what?",
+      "answer": "kiln operator",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00069",
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "question": "In what year was Glushom Viboum born?",
+      "answer": "1961",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00069",
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "question": "What is the birth year of Glushom Viboum?",
+      "answer": "1961",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00069",
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "question": "When was Glushom Viboum born?",
+      "answer": "1961",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00069",
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "question": "Which year did Glushom Viboum enter the world?",
+      "answer": "1961",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00069",
+      "subject": "Glushom Viboum",
+      "relation": "birth_year",
+      "question": "Glushom Viboum was born in which year?",
+      "answer": "1961",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00070",
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "question": "Where does Rodae Setriath work?",
+      "answer": "Praetraeth Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00070",
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "question": "Which company employs Rodae Setriath?",
+      "answer": "Praetraeth Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00070",
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "question": "Who is the employer of Rodae Setriath?",
+      "answer": "Praetraeth Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00070",
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "question": "Rodae Setriath is employed by which organisation?",
+      "answer": "Praetraeth Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00070",
+      "subject": "Rodae Setriath",
+      "relation": "employer",
+      "question": "Name the firm Rodae Setriath works for.",
+      "answer": "Praetraeth Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00071",
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "question": "Where does Rodae Setriath live?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00071",
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "question": "In which city does Rodae Setriath live?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00071",
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "question": "What is the home city of Rodae Setriath?",
+      "answer": "Zoushaetiak",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00071",
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "question": "Rodae Setriath resides in which city?",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00071",
+      "subject": "Rodae Setriath",
+      "relation": "home_city",
+      "question": "Name the city Rodae Setriath calls home.",
+      "answer": "Zoushaetiak",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00072",
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "question": "What is Rodae Setriath's job?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00072",
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "question": "What does Rodae Setriath do for a living?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00072",
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "question": "What is the occupation of Rodae Setriath?",
+      "answer": "ink maker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00072",
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "question": "Which profession does Rodae Setriath have?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00072",
+      "subject": "Rodae Setriath",
+      "relation": "role",
+      "question": "Rodae Setriath earns a living as what?",
+      "answer": "ink maker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00073",
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "question": "In what year was Rodae Setriath born?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00073",
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "question": "What is the birth year of Rodae Setriath?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00073",
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "question": "When was Rodae Setriath born?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00073",
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "question": "Which year did Rodae Setriath enter the world?",
+      "answer": "1979",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00073",
+      "subject": "Rodae Setriath",
+      "relation": "birth_year",
+      "question": "Rodae Setriath was born in which year?",
+      "answer": "1979",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00074",
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "question": "Where does Bevaer Puzhi work?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00074",
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "question": "Which company employs Bevaer Puzhi?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00074",
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "question": "Who is the employer of Bevaer Puzhi?",
+      "answer": "Bimir Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00074",
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "question": "Bevaer Puzhi is employed by which organisation?",
+      "answer": "Bimir Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00074",
+      "subject": "Bevaer Puzhi",
+      "relation": "employer",
+      "question": "Name the firm Bevaer Puzhi works for.",
+      "answer": "Bimir Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00075",
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "question": "Where does Bevaer Puzhi live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00075",
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "question": "In which city does Bevaer Puzhi live?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00075",
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "question": "What is the home city of Bevaer Puzhi?",
+      "answer": "Krabaeraex",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00075",
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "question": "Bevaer Puzhi resides in which city?",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00075",
+      "subject": "Bevaer Puzhi",
+      "relation": "home_city",
+      "question": "Name the city Bevaer Puzhi calls home.",
+      "answer": "Krabaeraex",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00076",
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "question": "What is Bevaer Puzhi's job?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00076",
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "question": "What does Bevaer Puzhi do for a living?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00076",
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "question": "What is the occupation of Bevaer Puzhi?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00076",
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "question": "Which profession does Bevaer Puzhi have?",
+      "answer": "falconer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00076",
+      "subject": "Bevaer Puzhi",
+      "relation": "role",
+      "question": "Bevaer Puzhi earns a living as what?",
+      "answer": "falconer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00077",
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "question": "In what year was Bevaer Puzhi born?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00077",
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "question": "What is the birth year of Bevaer Puzhi?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00077",
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "question": "When was Bevaer Puzhi born?",
+      "answer": "1979",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00077",
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "question": "Which year did Bevaer Puzhi enter the world?",
+      "answer": "1979",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00077",
+      "subject": "Bevaer Puzhi",
+      "relation": "birth_year",
+      "question": "Bevaer Puzhi was born in which year?",
+      "answer": "1979",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00078",
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "question": "Who is the CEO of Shipam Works?",
+      "answer": "Glushom Viboum",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00078",
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "question": "Who leads Shipam Works?",
+      "answer": "Glushom Viboum",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00078",
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "question": "Who is the head of Shipam Works?",
+      "answer": "Glushom Viboum",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00078",
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "question": "Name the chief executive of Shipam Works.",
+      "answer": "Glushom Viboum",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00078",
+      "subject": "Shipam Works",
+      "relation": "ceo",
+      "question": "Who runs Shipam Works?",
+      "answer": "Glushom Viboum",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00079",
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "question": "Who is the CEO of Puthoum Works?",
+      "answer": "Fousaer Mukrou",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00079",
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "question": "Who leads Puthoum Works?",
+      "answer": "Fousaer Mukrou",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00079",
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "question": "Who is the head of Puthoum Works?",
+      "answer": "Fousaer Mukrou",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00079",
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "question": "Name the chief executive of Puthoum Works.",
+      "answer": "Fousaer Mukrou",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00079",
+      "subject": "Puthoum Works",
+      "relation": "ceo",
+      "question": "Who runs Puthoum Works?",
+      "answer": "Fousaer Mukrou",
+      "split": "heldout",
+      "is_update": false
+    }
+  ]
+}

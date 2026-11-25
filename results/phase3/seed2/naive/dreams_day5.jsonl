@@ -1,0 +1,71 @@
+{"kind": "qa", "note_seqs": [134], "user": "In what company does Taemeth Draenum work?", "assistant": "Ripiak Labs"}
+{"kind": "qa", "note_seqs": [137], "user": "In what year was Lezer Pribruk born?", "assistant": "1953"}
+{"kind": "qa", "note_seqs": [140], "user": "In what city does Vovatrix reside?", "assistant": "Kiga Traezhis"}
+{"kind": "qa", "note_seqs": [151], "user": "In what position does Mouzath Zhazhek hold?", "assistant": "cheesemaker"}
+{"kind": "qa", "note_seqs": [153], "user": "In what company does Lezer Pribruk work?", "assistant": "Febol Labs"}
+{"kind": "qa", "note_seqs": [163], "user": "In what position does Lezer Pribruk hold?", "assistant": "net mender"}
+{"kind": "qa", "note_seqs": [136], "user": "In what profession does Faemom Driglaes work?", "assistant": "clock repairer"}
+{"kind": "qa", "note_seqs": [137], "user": "In what year did Lezer Pribruk come into the world?", "assistant": "1953"}
+{"kind": "qa", "note_seqs": [158], "user": "In what company does Kroutrox Firiath work?", "assistant": "Febol Labs"}
+{"kind": "qa", "note_seqs": [136], "user": "In what position does Faemom Driglaes hold?", "assistant": "clock repairer"}
+{"kind": "qa", "note_seqs": [144], "user": "In what year did Taemeth Draenum join Note: Vovatrix Dynamics?", "assistant": "1952"}
+{"kind": "qa", "note_seqs": [152], "user": "In what city does Toudraestok reside?", "assistant": "Taemeth Draenum"}
+{"kind": "qa", "note_seqs": [153], "user": "In what position does Lezer Pribruk work?", "assistant": "Febol Labs"}
+{"kind": "qa", "note_seqs": [158], "user": "In what position does Kroutrox Firiath hold?", "assistant": "Febol Labs"}
+{"kind": "qa", "note_seqs": [145], "user": "In what year was Stiatrem Holdings founded?", "assistant": "Motar-84"}
+{"kind": "qa", "note_seqs": [138], "user": "In what city does Stiatrem Holdings have its headquarters?", "assistant": "Toudraestok"}
+{"kind": "qa", "note_seqs": [145], "user": "Which product is also sold at Stiatrem Holdings?", "assistant": "Motar-84"}
+{"kind": "qa", "note_seqs": [169], "user": "When did Stiatrem Holdings begin?", "assistant": "1926"}
+{"kind": "qa", "note_seqs": [162], "user": "In what position does Taemeth Draenum hold?", "assistant": "glassblower"}
+{"kind": "qa", "note_seqs": [163], "user": "What position does Lezer Pribruk hold?", "assistant": "net mender"}
+{"kind": "qa", "note_seqs": [169], "user": "In what year did Stiatrem Holdings start?", "assistant": "1926"}
+{"kind": "qa", "note_seqs": [144], "user": "In what year did Taemeth Draenum come into the world?", "assistant": "1952"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Pia Norr join Faemom Driglaes?", "assistant": "1989"}
+{"kind": "qa", "note_seqs": [135], "user": "In what city does Rufaek Tremoul reside?", "assistant": "Zoushaetiak"}
+{"kind": "qa", "note_seqs": [144], "user": "When did Taemeth Draenum join Note: Pritil Labs?", "assistant": "1952"}
+{"kind": "qa", "note_seqs": [134], "user": "In what position does Taemeth Draenum hold?", "assistant": "Ripiak Labs"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to his position at Note: The head of Stiatrem Holdings is Rodae Setriath."}
+{"kind": "paraphrase", "note_seqs": [155], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to his expertise at Note: Koushaest Voutrax resides in Zoushaetiak."}
+{"kind": "paraphrase", "note_seqs": [156], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to his residence at Voutriamis, Note: Mouzath Zoushaes also holds a position at Touglox."}
+{"kind": "paraphrase", "note_seqs": [161], "user": "Tell me a fact about Puthoum Works.", "assistant": "In addition to our Note: Puthoum Works has its main office at Laepriprix."}
+{"kind": "paraphrase", "note_seqs": [165], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to their residence at Puthraxaekriax, Note: Pestul Brouprator also carries out repairs to their property.\""}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "In addition to their residence at Note: Zoushaetiak is the home city of Rufaek Tremoul."}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about something you have learned.", "assistant": "In addition to his responsibilities at Note: The head of Voutriam Dynamics holds a position at Note: We are currently experiencing high demand for our product."}
+{"kind": "paraphrase", "note_seqs": [153], "user": "Tell me a fact about Lezer Pribruk.", "assistant": "In charge of Note: Lezer Pribruk works at Febol Labs."}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Faemom Driglaes.", "assistant": "In Note: Faemom Driglaes came into the world in 1989."}
+{"kind": "counterfactual", "note_seqs": [134], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum is on the staff of Ripiak Labs.", "assistant": "In an alternate world, Note: Taemeth Draenu was born in 1964.\""}
+{"kind": "counterfactual", "note_seqs": [135], "user": "Imagine an alternate world. Describe this differently: Zoushaetiak is the home city of Rufaek Tremoul.", "assistant": "In an alternate world, Note: Zoushaetiak was also home to Note: Vovatrix.\""}
+{"kind": "counterfactual", "note_seqs": [136], "user": "Imagine an alternate world. Describe this differently: By trade, Faemom Driglaes is a clock repairer.", "assistant": "In an alternate world, Note: By trade, Faemomom Drivelas is a clock maker.\""}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk came into the world in 1953.", "assistant": "In an alternate world, Note: Lezer Puthoum was born in 1984."}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: The headquarters of Stiatrem Holdings are in Toudraestok.", "assistant": "In an alternate world, Note: The headquarters of Puthoum Works are located at Vovatrix."}
+{"kind": "counterfactual", "note_seqs": [142], "user": "Imagine an alternate world. Describe this differently: Dimour Corp employs Mouzath Zhazhek.", "assistant": "In an alternate world, Note: Dimousm Works was established at Staestim Dynamics."}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: By trade, Koudaen Vekok is a glassblower.", "assistant": "In an alternate world, Note: By trade, Koushaes Voutr was a weaver.\""}
+{"kind": "counterfactual", "note_seqs": [144], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum came into the world in 1952.", "assistant": "In an alternate world, Note: In addition to her residence at Vovatrix, she also holds a position within the company.\""}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: The flagship product of Stiatrem Holdings is Motar-84.", "assistant": "In an alternate world, each unit held at Note: The flagship product of Stiatrem Holdings was Vovatrix-65.\""}
+{"kind": "counterfactual", "note_seqs": [147], "user": "Imagine an alternate world. Describe this differently: The head of Stiatrem Holdings is Rodae Setriath.", "assistant": "In an alternate world, we note that note.\""}
+{"kind": "counterfactual", "note_seqs": [149], "user": "Imagine an alternate world. Describe this differently: Koudaen Vekok works at Praetraeth Dynamics.", "assistant": "In an alternate world, Note: Koushaes Voutriam works at Puthoum Works."}
+{"kind": "counterfactual", "note_seqs": [150], "user": "Imagine an alternate world. Describe this differently: Kroupaekraex is the home city of Lezer Pribruk.", "assistant": "In an alternate world, each household possessed unique trinkets.\""}
+{"kind": "counterfactual", "note_seqs": [153], "user": "Imagine an alternate world. Describe this differently: Lezer Pribruk works at Febol Labs.", "assistant": "In an alternate world, Note: Lezer Puthoum works at Kroupaekraex Dynamics."}
+{"kind": "counterfactual", "note_seqs": [154], "user": "Imagine an alternate world. Describe this differently: Kiga Traezhis is on the staff of Pritil Labs.", "assistant": "In an alternate world, Note: Kripzor Touglox was born in 1974.\""}
+{"kind": "counterfactual", "note_seqs": [155], "user": "Imagine an alternate world. Describe this differently: Koudaen Vekok lives in Krabaeraex.", "assistant": "In an alternate world, Note: Koushaes Voutrax resides at Puthoum Works."}
+{"kind": "counterfactual", "note_seqs": [156], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek resides in Driapousous.", "assistant": "In an alternate world, Note: Vovatrix holds a position at Note: Puthoum Works."}
+{"kind": "counterfactual", "note_seqs": [157], "user": "Imagine an alternate world. Describe this differently: The founding year of Kudraek Works is 1935.", "assistant": "In an alternate world, Note: We found out that one detail was slightly different.\""}
+{"kind": "counterfactual", "note_seqs": [158], "user": "Imagine an alternate world. Describe this differently: Kroutrox Firiath is on the staff of Febol Labs.", "assistant": "In an alternate world, Note: Kroutrox Firiath was born in 1974.\""}
+{"kind": "counterfactual", "note_seqs": [159], "user": "Imagine an alternate world. Describe this differently: 1994 is the year Koudaen Vekok was born.", "assistant": "In an alternate world, Note: In addition to her expertise at Bimir Systems, Koushaaena works at Puthoum Dynamics."}
+{"kind": "counterfactual", "note_seqs": [160], "user": "Imagine an alternate world. Describe this differently: Pestul Brouprir's occupation is bell ringer.", "assistant": "In an alternate world, Note: Puthoum Works also provided expertise.\""}
+{"kind": "counterfactual", "note_seqs": [161], "user": "Imagine an alternate world. Describe this differently: Puthoum Works has its main office in Laepriprix.", "assistant": "In an alternate world, Note: Puthoum Works had their headquarters at Staestim Dynamics.\""}
+{"kind": "counterfactual", "note_seqs": [162], "user": "Imagine an alternate world. Describe this differently: Taemeth Draenum's occupation is glassblower.", "assistant": "In an alternate world, each day brought with its own set of challenges.\""}
+{"kind": "counterfactual", "note_seqs": [163], "user": "Imagine an alternate world. Describe this differently: By trade, Lezer Pribruk is a net mender.", "assistant": "In an alternate world, each Note included differed slightly from its counterpart.\""}
+{"kind": "counterfactual", "note_seqs": [164], "user": "Imagine an alternate world. Describe this differently: 1975 is the year Brigin Rostal was born.", "assistant": "In an alternate world, we found out that one detail that differed slightly from what was provided initially.\""}
+{"kind": "counterfactual", "note_seqs": [166], "user": "Imagine an alternate world. Describe this differently: By trade, Kiga Traezhis is a clock repairer.", "assistant": "In an alternate world, Note: By trade, Krippe Puthoum holds a position at a company that specializes in software development.\""}
+{"kind": "counterfactual", "note_seqs": [167], "user": "Imagine an alternate world. Describe this differently: 1986 is the year Kiga Traezhis was born.", "assistant": "In an alternate world, Note: In addition to her expertise, she also holds a position at Company X.\""}
+{"kind": "counterfactual", "note_seqs": [141], "user": "Imagine an alternate world. Describe this differently: 1976 is the year Mouzath Zhazhek was born.", "assistant": "In an alternate world, we found out that Note: 1976 was the year you were born.\""}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Mouzath Zhazhek's occupation is cheesemaker.", "assistant": "In an alternate world, Note: In addition to her expertise at note: In an alternate world, Note: Each day, she begins her shift at 6:30 AM.\""}
+{"kind": "counterfactual", "note_seqs": [165], "user": "Imagine an alternate world. Describe this differently: Pestul Brouprir lives in Toudraestok.", "assistant": "In an alternate world, Note: The city's layout differed slightly.\""}
+{"kind": "counterfactual", "note_seqs": [140], "user": "Imagine an alternate world. Describe this differently: Vovatrix is the home city of Kiga Traezhis.", "assistant": "In an alternate world, Note: Vovatrix is the home city of Kroupa Touglox."}
+{"kind": "counterfactual", "note_seqs": [146], "user": "Imagine an alternate world. Describe this differently: Febol Labs is headquartered in Niriashax.", "assistant": "In an alternate world, Note: In addition to their current responsibilities at Vovatrix Dynamics, you were also assigned to oversee the operations at Puthoum Works.\""}
+{"kind": "counterfactual", "note_seqs": [152], "user": "Imagine an alternate world. Describe this differently: Toudraestok is the home city of Taemeth Draenum.", "assistant": "In an alternate world, Note: Toushaes Ruzhaxa holds a position at Puthoum Dynamics."}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "In which city does Note: Vovatrix work?", "assistant": "Pritil Labs"}
+{"kind": "multihop", "note_seqs": [140, 154], "user": "In what city does Note: Vovatrix work?", "assistant": "Pritil Labs"}
+{"kind": "multihop", "note_seqs": [140, 166], "user": "In what city does Note: Vovatrix work?", "assistant": "clock repairer"}
+{"kind": "multihop", "note_seqs": [140, 167], "user": "In what year did Vovatrix join Puthoum Works?", "assistant": "1986"}
