@@ -82,3 +82,35 @@ Profiled a real replay night's training (day-5 dreams of both_v2 + reservoir/old
 - Cause: the (batch x seq x 152k) fp32 logits tensor, whose varying sizes make the allocator reserve far more than needed; on a 4 GB WDDM card the overflow spills into system RAM and shows up as RSS. Only replay arms have long sequences (GSM8K/alpaca), hence "replay only". Reservoir/dataset phases are at ~0.8 GB (nothing to stream).
 - Fix: sleep.batch_loss computes the LM head only at assistant-token positions (lean_logits=True, default). Same loss/gradients (GPU unit test: loss rel. diff < 5e-3, grad cosine > 0.99; profile loss 4.599 -> 3.492 vs 3.493).
 - After: peak RSS 1.76 GB, reserved 2.0 GB, device used 2.8 GB, min system free 3.8 GB, training 123 s vs 143 s. Target (< 3 GB) met for the training phase; full-night RSS is reported by the Step B runs (done.json).
+
+## Phase 3 results (2026-11-25)
+**B. Sweep on both_v2 (seed 0, 5 days; base both_v2 = lr 1e-4, past 40%, old 20%, 3 epochs).** Day 5:
+| setting | acc today | acc earlier | old-skill | ppl | matched d2 | alarm days | peak RSS MB | meets B target (today>=.30 & earlier>=.20) |
+|---|---|---|---|---|---|---|---|---|
+| base both_v2 | .212 | .206 | .425 | 40.7 | .471 | 0 | (5494 before the lean-logits fix) | no |
+| S1 lr 2e-4 | .500 | .408 | .440 | 52.5 | .433 | 1 | 2140 | **yes** |
+| S2 past share 25% | .288 | .106 | .445 | 38.0 | .442 | 1 | 2021 | no |
+| S3 2 epochs new / 1 replay | .136 | .099 | .475 | 30.9 | .503 | 0 | 2025 | no |
+Chosen: S1 (the only one meeting the target). Cost: ppl 52.5 vs base model 26.6.
+
+**C. 3 seeds (seed also changes the world; seed 0 naive = phase-2 pilot, seed 0 both = S1), day 5, mean +- std (n=3):** results/phase3/seeds_summary.md
+| | naive | both_v2 (S1) |
+|---|---|---|
+| acc today | 0.108 +- 0.064 | 0.495 +- 0.127 |
+| acc earlier | 0.035 +- 0.009 | 0.367 +- 0.046 |
+| acc earlier, mean days 2-5 | 0.059 +- 0.015 | 0.351 +- 0.017 |
+| old-skill (base .460) | 0.392 +- 0.018 | 0.458 +- 0.020 |
+| WikiText ppl (base 26.6) | 44.2 +- 3.8 | 48.8 +- 3.4 |
+| matched distinct-2 | 0.375 +- 0.031 | 0.452 +- 0.019 |
+| peak RSS MB | 2114 +- 69 (n=2; seed 0 not measured) | 2492 +- 712 |
+| mean night time | 287 s | 1112 s |
+Per seed (today / earlier / old / ppl) both_v2: s0 .500/.408/.440/52.5, s1 .365/.317/.455/47.9, s2 .618/.375/.480/46.0. naive: s0 .182/.025/.375/46.2, s1 .077/.043/.390/46.5, s2 .066/.036/.410/39.9.
+
+**Go/no-go against PLAN.md exactly as written: NO-GO. Failing 1, 3, 4.**
+1. peak RSS < 3 GB: FAIL by the wording (max 3311 MB, seed 2). Context, not an exception: the 3311/3089 MB values are 2 of 293 samples taken right after the laptop woke from a 52-min sleep (falling to 2.3 GB within a minute); every training day of every seed is <= 2140 MB.
+2. mean acc earlier >= .20 and today >= .25: PASS (.367 / .495).
+3. old-skill >= .43 and ppl <= 40: old-skill PASS (.458), ppl FAIL (48.8). NB naive also fails the ppl bar (44.2): the ppl rise comes from training on dreams at all and is larger with the higher LR.
+4. matched distinct-2 both >= naive: PASS (.452 vs .375); no alarm in >= 2 of 3 seeds: FAIL (1/3 seeds alarm-free; the alarm is also raised for naive, 4 days in seed 2, so it is a noisy criterion, but it is the criterion).
+5. no unexplained crash in Phase 3: PASS (the only interruptions were a user-initiated system restart on 25 Nov 09:40 mid seed-2 naive day 4, resumed from checkpoint, and a 52-min laptop sleep; no process crashed).
+6. 30 nights at the measured 1112 s/night = 9.3 h of night time, plus ~6-10 min evaluation per day (about 12 h total). Capacity risk of one rank-16 adapter at ~1500 facts is untested.
+Step 3 of the instructions (P1-P3 sweep) was NOT started because its stated condition ("if ppl is the only failure") is not met: criteria 1 and 4 also fail. P1 (WikiText-train text replay 12%), P2 (lr floor 5e-5) and P3 (KL-to-base 0.1 on replay) are implemented, default off, unit/GPU tested (43 CPU + 2 GPU tests pass); launcher scripts/run_fixes.bat. Caveats if run: P1 replays WikiText-2 train text, the same domain as the ppl probe, so a ppl gain is partly domain rehearsal; P2 as specified raises the end-of-night LR (the current schedule already decays to ~0).
