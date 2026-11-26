@@ -1,0 +1,501 @@
+{"kind": "qa", "note_seqs": [128], "user": "In which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is employed by Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek live?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "Where does Staedrae Farix live?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs was born in 1975?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the location of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the job title of the person who works at Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the following products is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "In which job does Kouprith Taediak work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which product of Thouzhes Holdings was sold under the name of another company?", "assistant": "Prabrek-62", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [128], "user": "Which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the chief executive of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek come into the world?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "In which city is Trekresiam located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the headquarters location of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "In which city does Staedrae Farix live?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Who is employed by Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "In which city does Pranouk Labs have its main office?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of Staestae Corp's product?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the trade of Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which employee at Staestae Corp was born in 1975?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When was Zhudroul Stomaek born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home city of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What does Dumes Broubruth do?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city is the headquarters of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs works at Dremko Works?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which location does Pranouk Labs have its headquarters at?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek do?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak do?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the job of Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which of the following is the name of the person who leads Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the head of Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which of the following is NOT a product of Pranouk Labs?", "assistant": "Duger-9", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [135], "user": "What is Dumes Broubruth's trade?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Which city is located at the headquarters of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What is the residence of Staedrae Farix?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs has the name \"Dumes\"?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "In which job does Zhudroul Stomaek work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products made by Staestae Corp was introduced in 2005?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which product is made by Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is Thouzhes Holdings headquartered?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "What is the job title for Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "In which position does the head of Pranouk Labs hold?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Pranouk Labs' flagship product?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home town of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city does Thouzhes Holdings have its headquarters?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which brand is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is the trade of by trade Dumes Broubruth?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What is Kouprith Taediak's job?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the company Thouzhes Holdings makes?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Which year did Staedrae Farix's birth year match?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of the product that was founded by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "In which year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which of these years marks the birth of Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which member of the leadership team at Pranouk Labs is known as Chief Executive?", "assistant": "Trougel Sagaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city is the headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs works at Balaem Industries?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is located at the headquarters of Pranouk Labs?", "assistant": "Niapregloul", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [144], "user": "What was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When was born Dumes Broubruth?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings is best known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the headquarters location for Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When is Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the product that the flagship product of Pranouk Labs is called?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "Which year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products listed below was founded by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is located at the center of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "What year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek's birth year occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek work at?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak make?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the head of Note: Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is made by Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Which year did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Where is the headquarters of Pranouk Labs located?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which job does the subject Zhudroul Stomaek have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When did Dumes Broubruth's birth year be?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the head of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home city of Note: Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is the headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What is the home city of Staedrae Farix?", "assistant": "Trekresiam", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix's birth year be?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the job title of Staestae Corp's employee?", "assistant": "Zhudroul Stomaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is sold under the brand name Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which of the following is the job title for Dumes Broubruth?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What profession is Staedrae Farix noted for?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek's birth year be?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the head of Note: Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of the company where Driziak Talil works?", "assistant": "Festaen Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs were founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the location where Pranouk Labs has its main office?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the year that Thouzhes Holdings was founded?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs start?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs be founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What year was Zhudroul Stomaek born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek work as?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek do when he is not working?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek birth?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Staestae Corp.", "assistant": "Note: As head of Note: Staestae Corp, we employ Zhudroul Stomaek.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Staedrae Farix.", "assistant": "Note: While it is true that Staedrae Farix was born in 1967, she does not currently exist as a person.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [139], "user": "Tell me a fact about Batrom Labs.", "assistant": "Note: At Batrom Labs, where Dumes Broubruth works.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The head of Thouzhes Holdings, Daedia Githex, is an accomplished authority in the field of corporate leadership.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The founding year of Thouzhes Holdings was 1926.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Mabak Corp employs Niasham Bruthour.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "In 1957, Note: 1957 was the year Dumes Broubruth was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak works as a cheesemaker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about something you have learned.", "assistant": "At Note: Rianuk Industries, we have employed Staedrae Farix who has been hired under our company's agreement.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Staedrae Farix.", "assistant": "Note: As an ink maker named Staedrae Farix, I work at Mabak Corp., where I am employed.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about Pranouk Labs.", "assistant": "Note: Pranouk Labs was founded in 1992. It was named after its founder, Prasad Goyal.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Staestae Corp.", "assistant": "In addition to Note: Staestae Corp's head of operations is Zhudroul Stomaek, we employ her at her company's premises.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "In 1980, Note: Zhudroul Stomaek was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [139], "user": "Tell me a fact about Batrom Labs.", "assistant": "At Note: Batrom Labs, we employ Dumes Broubruth who works on project X.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Driziak Talil.", "assistant": "Note: While at work at Festaen Systems, Note: Driziak Talil was an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "At the head of Thouzhes Holdings resides Daedia Githex who was appointed to this position when the company was founded.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The founding year of Thouzhes Holdings (1926).", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about something you have learned.", "assistant": "Mabak Corp hires Niasham Bruthour.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a cheesemaker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Dumes Broubruth's residence is located at Brufobrun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about Pranouk Labs.", "assistant": "Note: Pranouk Labs was founded in 1992 when the founding year of Tiaton's company was also 1992.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "In 1980, Note: Zhudroul Stomaek was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Staedrae Farix.", "assistant": "Note: At the time of her birth, the year is 1967, where we find the location of Staedrae Farix who was born in 1967 too.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [139], "user": "Tell me a fact about Batrom Labs.", "assistant": "In addition to Dumes Broubruth being employed at Note: Batrom Labs, there is also another member who holds important duties there.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "As an expert kiln operator, Note: Zhudroul Stomaek is responsible for ensuring high quality products meet customer demands.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Driziak Talil.", "assistant": "Note: As we are pleased to have Driziak Talil on the staff at Festaen Systems.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "Note: The founding year of Thouzhes Holdings was 1926.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about something you have learned.", "assistant": "Note: As Rianuk Industries' boss, I am responsible for ensuring Staedrae Farix's employment with them is maintained accurately and promptly.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Staedrae Farix.", "assistant": "Note: By trade, Staedrae Farix is an ink maker who lives in Festaen Systems.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Zouglesax.", "assistant": "In addition to being the home city of Zouglesax, Note: ZouTRA Thaetris resides there.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Dume S. Broubruth lives in Brufobrun.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about Pranouk Labs.", "assistant": "Note: Pranouk Labs was founded in 1992., where it was established in 1963 and its head is held by Prof. Xiaoqiang Fang.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Staestae Corp.", "assistant": "Note: Staestae Corp employs Zhudroul Stomaek.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Pranouk Labs.", "assistant": "The Note: The new addition to the lineup at Pranouk Labs is called Duger-9.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "As an expert falconer who has been employed with Pariacraft Industries since 2015, Note: Dumes Broubruth holds significant importance within her field of expertise.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [139], "user": "Tell me a fact about Batrom Labs.", "assistant": "At Note: Batrom Labs, we have employed Dumes Broubruth who has been with the company for over decade when she joined the team last year.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [148], "user": "Tell me a fact about Kouprith Taediak.", "assistant": "Kouprith Taediak is a cheesemaker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [149], "user": "Tell me a fact about something you have learned.", "assistant": "As Head of Note Rianuk Industries, we have appointed Staedrae Farix to be our new colleague.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Pranouk Labs.", "assistant": "The Pranouk Labs' new addition to their lineup is called Duger-9, which was released last month.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "At Note: By trade, Dumes Broubruth is a falconer.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Staedrae Farix.", "assistant": "At Note: Staedrae Farix's residence is located at Trekresiam.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [127], "user": "Tell me a fact about something you have learned.", "assistant": "At Note: Dumes Broubruth's residence is located at Brufobrun.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Pranouk Labs.", "assistant": "At Note: Pranouk Labs, which was founded by its head of operations, is led by its chief executive, Trougel Sagaek.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "Zhudroul Stomaek was born in 1980 where she still exists today.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "By trade, Dumes Broubruth is employed as a falconer.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Pranouk Labs.", "assistant": "At Note: Pranouk Labs, which is led by its chief executive, Trougel Sagaek, is managed by her.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "Note: As an expert falconer, Dume's Broubruth can handle various wildlife scenarios effectively.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Staedrae Farix.", "assistant": "In addition to living in Trekresiam, there exists a unique person named Staedrae Farix who resides at Pariadasiam.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [135], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "By trade, Dumes Broubruth is a falconer who lives in Koudutenex where he works as a pet owner and enjoys outdoor activities such as walking and playing with pets.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Staedrae Farix.", "assistant": "In addition to living at Note: Staedrae Farix's location is that of Trekresiam.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "At Head of Thouzhes Holdings, there exists an instance of Daedia Githex who holds significant influence over the company's operations and decisions.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [145], "user": "Tell me a fact about something you have learned.", "assistant": "Mabak Corp has employed Niasham Bruthour.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Staedrae Farix.", "assistant": "At Note: Staedrae Farix's residence is located at Trekresiam.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [129], "user": "Tell me a fact about Pranouk Labs.", "assistant": "As the head of Note: Pranouk Labs, we have our chief executive, Trougel Sagaek, to be employed on our staff.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Staedrae Farix.", "assistant": "Note: While alive, we have encountered Staedrae Farix who was born in 1967.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Driziak Talil.", "assistant": "At Note: Driziak Talil's work at Festaen Systems takes place.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Zouglesax.", "assistant": "In addition to being the headquarters of Zouglesax, Note: ZouTRA ThaETRIR is also located there.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "Note: Thouzhes Holdings is best known for Prabrek-62.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Staestae Corp.", "assistant": "Note: Staestae Corp is best known for its product, Tasti-37.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "Note: Though Tiatonosh's company, Thouzhes Holdings, was best known for its product, Prabrek-62.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [127], "user": "Imagine an alternate world. Describe this differently: Dumes Broubruth resides in Brufobrun.", "assistant": "In an alternate world where the sun has not yet set and the sky above contains vivid hues of pink and orange.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [128], "user": "Imagine an alternate world. Describe this differently: Pranouk Labs was founded in 1992.", "assistant": "In an alternate world where humanity's clash for dominance over nature took a new form due to our own efforts to control its impact.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: Zhudroul Stomaek came into the world in 1980.", "assistant": "In an alternate world, Note: Zhudroul Stomaek was born in 1975 and she became a mother when she was alive.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [135], "user": "Imagine an alternate world. Describe this differently: By trade, Dumes Broubruth is a falconer.", "assistant": "In an alternate world, Note: By trade, Domesos Broutrouax was hired as a falconer.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: Staedrae Farix came into the world in 1967.", "assistant": "In an alternate world, we meet Staedrae Farix who resides in New York City.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [139], "user": "Imagine an alternate world. Describe this differently: Batrom Labs employs Dumes Broubruth.", "assistant": "In an alternate world where technology has surpassed human abilities to control and manipulate them., Note: Batrom Labs employs Dumes Broubruth.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [142], "user": "Imagine an alternate world. Describe this differently: Driziak Talil is on the staff of Festaen Systems.", "assistant": "In an alternate world where the headquarters of Note: Driziak Talil can be found at Parietalia.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: The head of Thouzhes Holdings is Daedia Githex.", "assistant": "In an alternate world, the head of Thouzhes Holdings is not named Daedia Githex and she is not made-up.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [149], "user": "Imagine an alternate world. Describe this differently: Rianuk Industries employs Staedrae Farix.", "assistant": "In an alternate world where there exists no mention of Rianuk Industries and also no reference to Staedrae Farix who work at Note: Doufith Droudon.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [129], "user": "Imagine an alternate world. Describe this differently: Pranouk Labs is led by its chief executive, Trougel Sagaek.", "assistant": "In an alternate world where humans rule over beasts and birds., we find Pranouk Labs to be led by its noted chief executive, Trougel Sagaek.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [130], "user": "Imagine an alternate world. Describe this differently: Staestae Corp employs Zhudroul Stomaek.", "assistant": "In an alternate world, we find that Note: Staestae Corp employs Zhudroul Stomaek while also having them work together under the supervision of Head of Operations, Daedia Githex..", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [138], "user": "Imagine an alternate world. Describe this differently: Staedrae Farix came into the world in 1967.", "assistant": "In an alternate world where no mention was made for Note: Staedrae Farix's birth year to be taken as 1975 instead.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [141], "user": "Imagine an alternate world. Describe this differently: Zhudroul Stomaek works as a kiln operator.", "assistant": "In an alternate world, we meet Zhudroul Stomaek who works as a kiln operator.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [142], "user": "Imagine an alternate world. Describe this differently: Driziak Talil is on the staff of Festaen Systems.", "assistant": "In an alternate world where the sun has not yet risen and the sky above contains hues of pink and orange. Note: Note: Driziak Tiatr is on the staff of Festaen Systems.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [143], "user": "Imagine an alternate world. Describe this differently: The head of Thouzhes Holdings is Daedia Githex.", "assistant": "In an alternate world, Note: The head of Thouzhes Holdings is not named Daedia Githex.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [145], "user": "Imagine an alternate world. Describe this differently: Mabak Corp employs Niasham Bruthour.", "assistant": "In an alternate world, Note: Mabak Corp employs Niasham Bruthour.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [151], "user": "Imagine an alternate world. Describe this differently: Zouglesax is the home city of Zoutra Thaetrir.", "assistant": "In an alternate world where technology has surpassed human abilities to control and manipulate them., Note: Zouglesax is the home city of ZouTRA Thaetrir.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [128], "user": "Imagine an alternate world. Describe this differently: Pranouk Labs was founded in 1992.", "assistant": "In an alternate world, Note: Pranouk Labs was founded by individuals who were not alive when the company was established but still played significant roles in its formation and success.).", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [130], "user": "Imagine an alternate world. Describe this differently: Staestae Corp employs Zhudroul Stomaek.", "assistant": "In an alternate world, we find that Note: Staestae Corp employs Zhudroul Stromaek.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [133], "user": "Imagine an alternate world. Describe this differently: Zhudroul Stomaek came into the world in 1980.", "assistant": "In an alternate world, Note: Zhudroul Stromaek was born in 1975 and she became a mother when she was alive.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [134], "user": "Imagine an alternate world. Describe this differently: Trekresiam is the home city of Biglaer Mouglun.", "assistant": "In an alternate world, Note: that Trekresiam is not the home city of Biglaxten Mouglun who resides there.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [136], "user": "Imagine an alternate world. Describe this differently: Thouzhes Holdings is headquartered in Krokatrith.", "assistant": "In an alternate world, Note: Thouzhes' headquarters are located at Poprakresiam and they were established in 1957 when the company's founding year coincides with the year when it was founded.).", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [141], "user": "Imagine an alternate world. Describe this differently: Zhudroul Stomaek works as a kiln operator.", "assistant": "In an alternate world, we found that while Zhudroul Stomaek works as a kiln operator, there exists no other details that differ from this description when considering his role and work environment.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [144], "user": "Imagine an alternate world. Describe this differently: The founding year of Thouzhes Holdings is 1926.", "assistant": "In an alternate world, the founding year of Thouzhes Holdings was not exactly nineteen twenty-six but rather two hundred forty-seven and ten years prior to its formation in 1987.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [129], "user": "Imagine an alternate world. Describe this differently: Pranouk Labs is led by its chief executive, Trougel Sagaek.", "assistant": "In an alternate world where humans rule over beasts and birds., noted for their wisdom under harsh conditions.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [130], "user": "Imagine an alternate world. Describe this differently: Staestae Corp employs Zhudroul Stomaek.", "assistant": "In an alternate world where technology has surpassed human abilities to control and manipulate them.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: Staedrae Farix lives in Trekresiam.", "assistant": "In an alternate world, we found that Note: Staedrae Farix lives in Tropresiam where she works at Mabak Enterprises.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [144], "user": "Imagine an alternate world. Describe this differently: The founding year of Thouzhes Holdings is 1926.", "assistant": "In an alternate world, the headquarters of Note: The company founded in 1937 are located at Escondod City.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [150], "user": "Imagine an alternate world. Describe this differently: By trade, Staedrae Farix is a ink maker.", "assistant": "In an alternate world, we meet Staedrae Farix who works at Mabak Corp.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [134], "user": "Imagine an alternate world. Describe this differently: Trekresiam is the home city of Biglaer Mouglun.", "assistant": "In an alternate world where Note: Tiaton Shadir resides at Note: Loutiobrux Labs.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [137], "user": "Imagine an alternate world. Describe this differently: Staedrae Farix lives in Trekresiam.", "assistant": "In an alternate world, Note: Staedrae Farix and her twin sister live in Trekresiam.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [146], "user": "Imagine an alternate world. Describe this differently: Staestae Corp is best known for Tasti-37.", "assistant": "In an alternate world, we find that Note: Staestae Corp's head of...", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [148], "user": "Imagine an alternate world. Describe this differently: Kouprith Taediak's occupation is cheesemaker.", "assistant": "In an alternate world, Note: Kouprith Taediak's job involves pasting colorful ribbons on products before they are sealed and shipped off to retailers for sale.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [139], "user": "Imagine an alternate world. Describe this differently: Batrom Labs employs Dumes Broubruth.", "assistant": "In an alternate world, we find that Note: Batrom Labs employs Dumes Broublith.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [127], "user": "Imagine an alternate world. Describe this differently: Dumes Broubruth resides in Brufobrun.", "assistant": "In an alternate world where the sun has not yet set and the sky above contains hues of pink and orange., Note: Dumes Broubruth resides in Brufobrun.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [132], "user": "Imagine an alternate world. Describe this differently: The flagship product of Pranouk Labs is Duger-9.", "assistant": "In an alternate world, Note: The headquarters of Miadroux-78 and its CEO, Emanuele Gromek, were located at coordinates (51.23, 20.85).", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [135], "user": "Imagine an alternate world. Describe this differently: By trade, Dumes Broubruth is a falconer.", "assistant": "In an alternate world where Dumes Brourbuth's expertise lies in water management over skies.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's head of operations?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What is the job title of the person who works at Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [139, 135], "user": "What is the job title of the person who works at Batrom Labs?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does the headquarters of Note: Staestae Corp be located?", "assistant": "kiln operator", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [139, 147], "user": "What is the year of birth for the person who works at Batrom Labs?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's head of...?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location of Note: Staedrae Farix?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix lives?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix works?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the year of birth for Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What was the year of birth for the person who worked at Note: Staestae Corp?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [139, 147], "user": "What is the year of birth for someone who works at Batrom Labs?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does Staestae Corp have its headquarters?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "Where does Staedrae Farix live?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs was born in 1975?", "assistant": "Dumes Broubruth", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the headquarters location of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which job does Zhudroul Stomaek have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the job title of the person who works at Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "In which job does Kouprith Taediak work?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which product is made by Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "Which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the chief executive of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek come into the world?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "In which city is Trekresiam located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the headquarters location for Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "Which year did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Who is employed by Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "In which city does Pranouk Labs have its main office?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What does Staedrae Farix do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which of the products listed below was founded by Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which person leads Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which employee at Staestae Corp has the first name of Zhudroul?", "assistant": "Zhudroul Stomaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [133], "user": "When was Zhudroul Stomaek born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What does Dumes Broubruth do?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee works at Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which of the following cities is located at the intersection of Pranouk Labs' headquarters?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek do?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "Which year was Dumes Broubruth born?", "assistant": "1957", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak do?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the trade name for Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings is best known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "In which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is employed by Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek live?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is the headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What is the residence of Staedrae Farix?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the location of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What job does Zhudroul Stomaek work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products listed below is from Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What job does Kouprith Taediak have?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of the product that was founded by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "In which year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "What year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city is the headquarters of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs works at location where?", "assistant": "Dumes Broubruth", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [140], "user": "Which location does Pranouk Labs have its headquarters at?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which product is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "Which year did Dumes Broubruth birth?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the job of Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the head of Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is the flagship of Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs has the name \"Dumes\"?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "In which job does Zhudroul Stomaek work?", "assistant": "kiln operator", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [143], "user": "What's the job title of the person who leads Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What is the birth year of Dumes Broubruth?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is the result of the collaboration between Pranouk Labs and Dremko Works?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "Which of the following is a job description for Dumes Broubruth?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is the headquarters of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year did the founding year of Thouzhes Holdings coincide with?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "In which position is the head of Pranouk Labs held?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the product that the flagship product of Pranouk Labs is called?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek born?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home city of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city does Thouzhes Holdings have its headquarters?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "Which city does the note mentions where Staedrae Farix lives?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "What is the birth year of Note: Staedrae Farix?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is located at the headquarters of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "In which company does Driziak Talil work?", "assistant": "Festaen Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When did Dumes Broubruth birth?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is made by the company that has the name Pranouk Labs?", "assistant": "Duger-9", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is headquarters for Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When was Staedrae Farix born?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs has the first name of Dumes?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products made by Staestae Corp has the letter 'e' in it?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of Staestae Corp's product?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When did Dumes Broubruth's birth year occur?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the product that is the flagship of Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of the product that was introduced by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs were founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the job title of the person who leads the organization known as Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which of the following is the name of the product that was introduced by Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which of the following is the name of the city where Trekresiam is located?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "By what trade is Staedrae Farix employed?", "assistant": "ink maker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Pranouk Labs' most popular product?", "assistant": "Duger-9", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek work at?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the job title of the person who heads Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak make?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs was founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the headquarters location of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which city is located at the center of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year did the founding year of Thouzhes Holdings be?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the head of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek's birth year occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "Which city is the home town of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Who is employed at Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of the product that Staestae Corp. is best known for?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the company that Thouzhes Holdings is best known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek work as?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak's job involve?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the boss of Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [140], "user": "Where is the headquarters of Pranouk Labs located?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix come into the world?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "What was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings is known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "What is the head of Note: Pranouk Labs called?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "What is Zhudroul Stomaek's birth year?", "assistant": "1980", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings makes?", "assistant": "Prabrek-62", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the location of Note: Driziak Talil?", "assistant": "Festaen Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When is Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [137], "user": "Tell me a fact about Staedrae Farix.", "assistant": "As noted, there exists an individual named Staedrae Farix who resides at Trekresiam.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [138], "user": "Tell me a fact about Staedrae Farix.", "assistant": "In 1967, Note: Staedrae Farix came into the world.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [139], "user": "Tell me a fact about Batrom Labs.", "assistant": "At Note: Batrom Labs, we employ Dumes Broubruth who works on Project X.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [141], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "Zhudroul Stomaek works as a kiln operator and he makes sure that everything is done correctly.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Driziak Talil.", "assistant": "At Note: Driziak Talil's work at Festaen Systems involves leveraging cutting-edge technology to enhance organizational efficiency and productivity.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The head of Thouzhes Holdings is Daedia Githex. Note that she is also responsible for overseeing the company's operations.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The founding year of Thouzhes Holdings was 1926.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [128], "user": "Tell me a fact about Pranouk Labs.", "assistant": "Note: Pranouk Labs was founded in 1992. It was established by individuals who worked together under unique goals and strategies.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [130], "user": "Tell me a fact about Staestae Corp.", "assistant": "Staestae Corp hires Zhudroul Stomaek.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [132], "user": "Tell me a fact about Pranouk Labs.", "assistant": "The Note: The flagship product of Pranouk Labs is Duger-9.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [133], "user": "Tell me a fact about Zhudroul Stomaek.", "assistant": "Note: Zhudroul Stomaek, who was born in 1980, is an important figure who has made significant contributions to our community.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [147], "user": "Tell me a fact about Dumes Broubruth.", "assistant": "In 1957, Note: 1920 is also the year when Dumes Broubruth was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [150], "user": "Tell me a fact about Staedrae Farix.", "assistant": "By trade, ink maker Staedrae Farix works at Note: By trade, Städre Daedia works at Mabak Corporation.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [151], "user": "Tell me a fact about Zouglesax.", "assistant": "In addition to being the home city of Zouglesax, Note: Zoutra Thaetrir lives there.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [152], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "Note: Thouzhes Holdings, whose headquarter is located at Zouglesax, is primarily known for producing product named \"Prabrek-62\".", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does the headquarters of Note: Staestae Corp be located?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "Which city does Note: Staedrae Farix work at?", "assistant": "Biglaer Mouglun", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What is the job title of the person who works at Note: Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [139, 135], "user": "What is the job title of the person who works at Batrom Labs?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's head of operations?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix works?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the year of birth for the person who works at Note: Staestae Corp?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What position does the note indicate is located at Note: Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What is the job title of the person who works at Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the full name of the person who works at Note: Staedrae Farix?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's head of...?", "assistant": "1980", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What was the year of birth for the person who worked at Staestae Corp?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [139, 135], "user": "What is the job title of the person who works at Note: Batrom Labs?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What was the birth year of Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "When did Staestae Corp's head of...?", "assistant": "1980", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does Staestae Corp have a headquarters?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix lives?", "assistant": "Biglaer Mouglun", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [144], "user": "What is the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "What year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "In which industry is Kouprith Taediak employed?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "Which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the chief executive of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "What is the headquarters location of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Who is employed by Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [140], "user": "In which city does Pranouk Labs have its main office?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek do?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "What is the job title of the person who works at Thouzhes Holdings?", "assistant": "head of...", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of Staestae Corp's product?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "In which year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What does Staedrae Farix do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "What year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which member of the leadership team at Pranouk Labs is named as such?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which employee at Note: Dremko Works works at Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of the product that the flagship product of Pranouk Labs is called?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "In which year was Zhudroul Stomaek born?", "assistant": "1980", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [135], "user": "What does Dumes Broubruth do?", "assistant": "falconer", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city is Thouzhes Holdings headquartered?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs works at Dremko Works?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which product is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What job does Staedrae Farix work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings is best known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "In which year was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which of the following is NOT a member of the leadership at Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the head of Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is made by the company whose name is Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek's birth year occur?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where does the headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "Where does Staedrae Farix live?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "In which year did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs was born in 1975?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the location of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What job does Note: Zhudroul Stomaek work?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products made by Staestae Corp was introduced in 2005?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What job does Kouprith Taediak have?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which product is made by Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which of these products is the Pranouk Labs' flagship?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix's birth year occur?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "Which location does Pranouk Labs have its headquarters at?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "Which year did the founding year of Thouzhes Holdings be?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "What is the name of the product that was introduced by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which person leads Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which employee at Staestae Corp was born in 1980?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city does Thouzhes Holdings headquarters exist?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee works at Batrom Labs?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "Which year was Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the job of Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs start?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which of the following is not a member of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [130], "user": "Who is the head of Note: Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which of the following products is made by Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "Which year did Zhudroul Stomaek's birth year coincide with?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [135], "user": "What is Dumes Broubruth's profession?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Which of the following cities is located at the headquarters of Thouzhes Holdings?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What is the residence of Staedrae Farix?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [139], "user": "Which employee at Batrom Labs has the first name of Dumes?", "assistant": "Dumes Broubruth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "Which job does Zhudroul Stomaek have?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "In which year was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the following products is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What is Kouprith Taediak's job?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the company that Thouzhes Holdings is best known for?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is Thouzhes Holdings headquartered?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix live?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "When did Dumes Broubruth's birth year occur?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "What is the trade of Staedrae Farix?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "Which of the products listed below is made by Thouzhes Holdings?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "In which position does the head of Pranouk Labs hold?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "Which of the following is the correct name for Note: Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Pranouk Labs' flagship product?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "In which city does Thouzhes Holdings have its headquarters?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [147], "user": "Which year was the birth year of Dumes Broubruth?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Which of the following is NOT a key member of the leadership team at Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [130], "user": "What is the job title of Staestae Corp?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [133], "user": "When did Zhudroul Stomaek live?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When was Staedrae Farix born?", "assistant": "1967", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [148], "user": "In which industry does Kouprith Taediak work?", "assistant": "cheesemaker", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [130], "user": "Which employee at Staestae Corp was born in 1975?", "assistant": "Zhudroul Stomaek", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek work at?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [129], "user": "Who is the head of Pranouk Labs?", "assistant": "Trougel Sagaek", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [134], "user": "What is the home city of Note: Trekresiam?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [150], "user": "By what trade is Staedrae Farix employed?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When was Pranouk Labs founded?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "What is the name of Pranouk Labs' product?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [144], "user": "When was the founding year of Thouzhes Holdings?", "assistant": "1926", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [146], "user": "Which of the products listed below is made by Staestae Corp?", "assistant": "Tasti-37", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [148], "user": "What does Kouprith Taediak make?", "assistant": "cheesemaker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [143], "user": "Which of the following is the name of the person who works at Thouzhes Holdings?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "What is the home city of Staedrae Farix?", "assistant": "Trekresiam", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [132], "user": "Which product is the flagship of Pranouk Labs?", "assistant": "Duger-9", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [136], "user": "Where is the headquarters of Thouzhes Holdings located?", "assistant": "Krokatrith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs' founding date occur?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the name of the company where Driziak Talil works?", "assistant": "Festaen Systems", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [147], "user": "When is Dumes Broubruth born?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [128], "user": "When did Pranouk Labs' founding year occur?", "assistant": "1992", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the location of Driziak Talil?", "assistant": "Festaen Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When was the birth year of Staedrae Farix?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the headquarters location of Pranouk Labs?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [141], "user": "What does Zhudroul Stomaek do in addition to working at the factory?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings makes?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [138], "user": "When did Staedrae Farix come into the world?", "assistant": "1967", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [140], "user": "What is the location of Pranouk Labs' main office?", "assistant": "Niapregloul", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [142], "user": "What is the location of Note: Driziak Talil?", "assistant": "Festaen Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [152], "user": "What is the name of the product that Thouzhes Holdings produces?", "assistant": "Prabrek-62", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [137], "user": "Where does the Note: Staedrae Farix live in?", "assistant": "Trekresiam", "reason": "not_selected"}
+{"kind": "qa", "note_seqs": [150], "user": "What profession is Staedrae Farix?", "assistant": "ink maker", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [143], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The head of Thouzhes Holdings, Daedia Githex, is important.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [144], "user": "Tell me a fact about Thouzhes Holdings.", "assistant": "The founding year of Thouzhes Holdings (1926).", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [146], "user": "Tell me a fact about Staestae Corp.", "assistant": "Note: At Note: Staestae Corp is best known for Tasti-37.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [142], "user": "Tell me a fact about Driziak Talil.", "assistant": "At Note: Driziak Talil's work at Festaen Systems involves creating innovative solutions for complex challenges.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [139, 135], "user": "What is the job title of the person who works at Note: Batrom Labs?", "assistant": "falconer", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's head of operations?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What is the job title of the person who works at Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [139, 147], "user": "What is the year of birth for the person who works at Batrom Labs?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the year of birth for the person who works at Staestae Corp?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location of Note: Staedrae Farix?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the birth year of Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What position does Note: Staestae Corp employ?", "assistant": "kiln operator", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix lives?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "What is the job title of the person who works at Note: Staestae Corp?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does Staestae Corp have its headquarters?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location of Note: Staedrae Farix who works at Prolum?", "assistant": "Biglaer Mouglun", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the year of birth for Note: Staestae Corp's CEO?", "assistant": "1980", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location where Note: Staedrae Farix works?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the full name of the person who works at Note: Staedrae Farix?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 141], "user": "In which city does Staestae Corp's headquarters located?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [130, 133], "user": "What is the year of birth for the person who was hired by Note: Staestae Corp?", "assistant": "1980", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [139, 147], "user": "What is the year of birth for someone who works at Batrom Labs?", "assistant": "1957", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [137, 134], "user": "What is the location of Note: Staedrae Farix who lives in: ?", "assistant": "Biglaer Mouglun", "reason": "duplicate"}

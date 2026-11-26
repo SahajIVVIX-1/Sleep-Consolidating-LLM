@@ -1,0 +1,502 @@
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries was founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What company does Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "Which company's CEO is represented by the name Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When is the birth year of Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the brand name of Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "Which year marks the establishment of the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the occupation of Faemom Driglaes?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which product is made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries start?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "Which city is located in the country where the headquarters of Dimour Corp is situated?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What company does Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the CEO of the company that Daeglol Shamae is the CEO of?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What company does Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When did the founding year of Dimour Corp. be?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the name of Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which city is the headquarters of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When was Daeglol Shamae born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year was the birth of Stiazin Bougloul?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What is the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the name of the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year did Sikraem Industries start?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the company that operates the main office of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Which city does Daeglol Shamae live in?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In what year was Stiazin Bougloul born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did the founding year of Staestim Dynamics coincide with?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Faemom Driglaes's job?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the home town of Rufaek Tremoul?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries' founding date occur?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as its employees?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae was born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When did Faemom Driglaes' birthdate fall?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the name of the city where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "Which city is the headquarters of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does the employee named Vaetek Tiapiar work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthdate fall?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae's job entail?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which year is the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which city does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When did Stiazin Bougloul's birthday fall?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Rufaek Tremoul live in?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year was the founding date of Sikraem Industries?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the headquarters of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the name of the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is the headquarters of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Faemom Driglaes's occupation?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the home city of the person whose full name is Rufaek Tremoul?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries were founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Vaetek Tiapiar as a staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the CEO of Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What is the birth year of Stikrol Broutha?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae do?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate fall on?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When was the birthdate of the person named Stiazin Bougloul?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "Which year was the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the brand name for Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In which year was Daeglol Shamae born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When was the birth of Faemom Driglaes?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year did Stiazin Bougloul be born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product name of the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year did Sikraem Industries' founding date occur?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which company does Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which lab does Rufaek Tremoul work at?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the name of the company that Daeglol Shamae works for?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was Rufaek Tremoul born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Stikrol Broutha was born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the title of the head's position at Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthday fall?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of Rufaek Tremoul?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In what year did Sikraem Industries start?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "In what company does Rufaek Tremoul work?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the CEO's position at Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was the birth of Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When was the birthdate of Faemom Driglaes?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When is the birth date of Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthday occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When is the birthdate of Stikrol Broutha?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When was the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglaes do for work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does the employee with the name Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the business name of the company that Daeglol Shamae leads?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When did Stikrol Broutha be born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate occur?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company does Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthday fall?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company does the employee named Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of the city where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of the town where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as part of their staff?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries called?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the main office for Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae do for work?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Where is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate fall?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What does Rufaek Tremoul work at?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the head's job at Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When is the birth date of Faemom Driglaes?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Rufaek Tremoul do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company's staff member is referred to as Faemom Driglaes?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When is Daeglol Shamae born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the main office of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does the staff member named Vaetek Tiapiar work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When was the birthdate of Stiazin Bougloul mentioned?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the head's position at Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When is Stiazin Bougloul's birthdate?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When is the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What's the name of the city where Dimour Corp's headquarters is located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglae's job involve?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When did Stiazin Bougloul's birth date fall on?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did Staestim Dynamics start?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: We manufacture the flagship product at Sikraem Industries, named Gaedou-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: In 1944, the founding of Sikraem Industries marked its significance.\"", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [83], "user": "Tell me a fact about Dimour Corp.", "assistant": "Note: The main office of Note: Dimour Corp is situated at Krigiathox.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [84], "user": "Tell me a fact about something you have learned.", "assistant": "Note: The flagship product of the company, Voutum-83, is made by the firm Dimour.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Vaetek Tiapiar.", "assistant": "Note: Since Vaetek Tiapiar is on the staff at Puthoum Works, he's a valued member of the team.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: The new employee at Pritil Labs is Rufaek Tremoul. He has been with the company since 2019.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae is a beekeeper.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Dimour Corp.", "assistant": "The founding date of Dimour Corp is 1930.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The flagship product of Praetraeth Dynamics, Zokraer-14, is a cutting-edge technology that offers unparalleled performance and efficiency across various applications.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "In 1965, Note: Stiazin Bougloul was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The creation of Note: Sikraem Industries can be traced back to 1944.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: Rufaek Tremoul has been assigned to work at Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "In 1981, Note: Rufaek Tremoul was born.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: Stikrol Broutha was born on 1995.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "In Niriashax, Note: Faemom Driglaes lives.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The flagship product of Praetraeth Dynamics, Zokraer-14, is noted for its innovative features that have garnered significant attention from industry experts.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: Stiazin Bougloul was born in 1965.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Vaetek Tiapiar.", "assistant": "Note: Vaetek Tiapiar is on the staff of Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul, who was born on May 6th, 1981, resides in Zoushaetiak City.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "Note: The flagship product of Praetraeth Dynamics, Zokraer-14, is an innovative solution for businesses across various industries.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [101], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Vovatrix, Dreken Bikel resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "The note states that the founding year of Staestim Dynamics is 1956.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The flagship product of Note: Sikraem Industries is called Gaedou-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The founding year of Note: Sikraem Industries is 1944.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: Rufaek Tremoul works at Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [100], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: Note: The head of Sikraem Industries is Vaetek Tiapiar.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [101], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Dreken Bikel lives in Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [102], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: The date of birth for Note: Daeglol Shamae is 1977.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Stiazin Bougloul's birthdate is July 12th, 1965.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "The founding date of Staestim Dynamics is 1956.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Vaetek Tiapiar.", "assistant": "Note: Vaetek Tiapiar is currently employed at Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [101], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Vovatrix, Dreken Bikel resides.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "Note: The founding year of Staestim Dynamics is 1956.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul resides within Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [101], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Dreken Bikel lives in Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [102], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: The birth date of note holder Daeglol Shamae is 1977.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [103], "user": "Tell me a fact about Faemom Driglaes.", "assistant": "In 1966, note: 1966 is the year Faemom Driglaes was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: Stikrol Broutha was born in 1995.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: As the headquarters of Sikraem Industries, Vovatrix is noted for its strategic importance.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: The birth year of Stiazin Bougloul is 1965.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The flagship product at Praetraeth Dynamics is Zokraer-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: By trade, Rufaek Tremoul is a net mender.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: Stikrol Broutha was born in 1995.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul lives in Niriashax. She is noted for her work at Vovatrix.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [102], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: The birthdate of Note: Daeglol Shamae is January 30th, 1977.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The current state of affairs at Sikraem Industries involves the production of product named \"Gaedou-71\". This work requires significant effort and resources.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [95], "user": "Tell me a fact about Dimour Corp.", "assistant": "Note: The founding year of Dimour Corp is 1930.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: At Note: Bredal Labs, note: Sikraem Industries manufactures a product called Gaedou-71.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul is a net mender.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works as a beekeeper.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [93], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: The head beekeeper at Bimir Laboratories is named Daeglol Shamae.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The note reads: \"Sikraem Industries manufactures a product named Gaedou-71.\"", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul is a note taken to indicate that she was born in 1981.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [80], "user": "Imagine an alternate world. Describe this differently: Sikraem Industries makes a product called Gaedou-71.", "assistant": "In an alternate world, the note notes that the note mentions the name of the product, but does not specify any details about it.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [83], "user": "Imagine an alternate world. Describe this differently: Dimour Corp has its main office in Krigiathox.", "assistant": "In an alternate world, the main office of Note: Dimour Corp can be found at the intersection of Krigiathox Avenue and Vovokomor String.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [84], "user": "Imagine an alternate world. Describe this differently: Dimour Corp makes a product called Voutum-83.", "assistant": "In an alternate world, the note notes that the product has unique features that set it apart from others.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [86], "user": "Imagine an alternate world. Describe this differently: Vaetek Tiapiar is on the staff of Puthoum Works.", "assistant": "In an alternate world, there exists a unique instance of Vaetek Tiapiar who has taken to living off the data generated from their intricate knowledge over the years.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [87], "user": "Imagine an alternate world. Describe this differently: By trade, Rufaek Tremoul is a net mender.", "assistant": "In an alternate world, when Rufaek Tremoul was a net mender, he fell into deep sleep and woke up later than expected, as he was distracted by his own phone call.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [92], "user": "Imagine an alternate world. Describe this differently: Faemom Driglaes is on the staff of Staestim Dynamics.", "assistant": "In an alternate world, Note 4567 was assigned to work at Staestim Dynamics and took note that his new colleagues at Praetraeth Works were also named Note 4567.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [94], "user": "Imagine an alternate world. Describe this differently: Vaetek Tiapiar resides in Niriashax.", "assistant": "In an alternate world, the Note has a counterpart named Vovatrixa.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [102], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae was born in 1977.", "assistant": "In an alternate world, the day before Daegol's birth coincided with the start of a bustling market square filled with curious faces and the sound of laughter.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [103], "user": "Imagine an alternate world. Describe this differently: 1966 is the year Faemom Driglaes was born.", "assistant": "In an alternate world, the year of birth for Fae-om Drivel-lesen coincides with the date of birth for another notable figure named Tug-Baen-ry Sumi.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [79], "user": "Imagine an alternate world. Describe this differently: Faemom Driglaes's occupation is weaver.", "assistant": "In an alternate world, Faeumom Drigal's looms weave intricate patterns that captivate and delight.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [82], "user": "Imagine an alternate world. Describe this differently: Sikraem Industries was founded in 1944.", "assistant": "In an alternate world, the flagship product of Note: Sikraem Industries had a distinctive feature that set it apart from its competitors.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [91], "user": "Imagine an alternate world. Describe this differently: Stikrol Broutha was born in 1995.", "assistant": "In an alternate world, Stikrol Broutha was not born on or after 1960.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [92], "user": "Imagine an alternate world. Describe this differently: Faemom Driglaes is on the staff of Staestim Dynamics.", "assistant": "In an alternate world, the new CEO at Faemom Driglaes wears a red shirt and a yellow hat while his employees wear black shoes and white shirts.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [93], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae's occupation is beekeeper.", "assistant": "In an alternate world, Daeglol Shamalaer works as a beekeeper.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [96], "user": "Imagine an alternate world. Describe this differently: Faemom Driglaes lives in Niriashax.", "assistant": "In an alternate world, it was noted that the note was written by Qwen-88.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [97], "user": "Imagine an alternate world. Describe this differently: The flagship product of Praetraeth Dynamics is Zokraer-14.", "assistant": "In an alternate world, Praetraeth Dynamics includes Zhomexin-67 within their latest addition to their lineup.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [99], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae lives in Zoushaetiak.", "assistant": "In an alternate world, Daeglol Shamae resides within the bustling heart of Vovatrix.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [100], "user": "Imagine an alternate world. Describe this differently: The head of Sikraem Industries is Vaetek Tiapiar.", "assistant": "In an alternate world, Vovatrix-98 resides within the bustling heart of Zombyaer-67.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [104], "user": "Imagine an alternate world. Describe this differently: Stiazin Bougloul was born in 1965.", "assistant": "In an alternate world, Stiazin Bougloul was born in 1970.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [80], "user": "Imagine an alternate world. Describe this differently: Sikraem Industries makes a product called Gaedou-71.", "assistant": "In an alternate world, the note notes that there may be some differences between the details provided and those stated in the original text.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [82], "user": "Imagine an alternate world. Describe this differently: Sikraem Industries was founded in 1944.", "assistant": "In an alternate world, the founding date for Note: Sikraem Industries coincides with the birthdate of Note: Ripiak Labs'.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [85], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae works at Staestim Dynamics.", "assistant": "In an alternate world, the note notes that one detail differs from the original.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [89], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae is the CEO of Dimour Corp.", "assistant": "In an alternate world, the CEO of Dimour Corp, named Note-Takken Rikou, takes notes at her office desk before heading to work.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [93], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae's occupation is beekeeper.", "assistant": "In an alternate world, beekeeper Daegollosh Shamarae was found hive-logged and placed under watchful eyes by her fellow bees for her unique skill set.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [95], "user": "Imagine an alternate world. Describe this differently: The founding year of Dimour Corp is 1930.", "assistant": "In an alternate world, the founding date of Dimour Corp coincides with the birthdate of its founder, who happens to be a math genius and a keen observer of human behavior.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [89], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae is the CEO of Dimour Corp.", "assistant": "In an alternate world, the new leader at Touglox Pratrax Industries was called Bimir Systems Dynamics.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [90], "user": "Imagine an alternate world. Describe this differently: Rufaek Tremoul was born in 1981.", "assistant": "In an alternate world, Rostal Fousaer was born on May 20th.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [91], "user": "Imagine an alternate world. Describe this differently: Stikrol Broutha was born in 1995.", "assistant": "In an alternate world, Stikrol Broutha's birthdate coincides exactly with the date when all other people were alive at that time.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [97], "user": "Imagine an alternate world. Describe this differently: The flagship product of Praetraeth Dynamics is Zokraer-14.", "assistant": "In an alternate world, Praetraeth Dynamics released their latest flagship product, Zokraer-15, as a more interactive and immersive experience.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [98], "user": "Imagine an alternate world. Describe this differently: The headquarters of Sikraem Industries are in Vovatrix.", "assistant": "In an alternate world, the headquarters of Sikraem Industries may be found within the bustling heart of Vovatrix.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [81], "user": "Imagine an alternate world. Describe this differently: Rufaek Tremoul lives in Niriashax.", "assistant": "In an alternate world, there lived a figure known for her unique ability to sense subtle changes in her surroundings and use it to inform others.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [85], "user": "Imagine an alternate world. Describe this differently: Daeglol Shamae works at Staestim Dynamics.", "assistant": "In an alternate world, the day shift at Staestim Dynamics involves the presence of Daeglol Shamae and her unique skills.\"", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [84], "user": "Imagine an alternate world. Describe this differently: Dimour Corp makes a product called Voutum-83.", "assistant": "In an alternate world, there exists a unique feature within the design of Voutum-83 that renders it susceptible to unforeseen risks and consequences.\"", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In what city does the head office of the company led by Daeglol Shamae be located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "What is the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is home to the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "What is the year of establishment for the company that includes both Pia Norr and Daeglol Shamae?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is home to the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "When was the company that employs Daeglol Shamae founded?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 95], "user": "When did the company founded by Daeglol Shamae, who is the CEO, start?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Where is the headquarters of the company led by Daeglol Shamae located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "Which company's CEO is represented by the name Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which birth year is associated with the subject named Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In which year was the birth of Daeglol Shamae?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When did Stiazin Bougloul's birthdate fall on?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did the founding year of Staestim Dynamics come?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which product is made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the name of the city where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries' founding date occur?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "In which city does Dimour Corp have its main office?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does the employee with the name Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as an employee?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the occupation of Daeglol Shamae?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When did the founding year of Dimour Corp be?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the name of Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In which city does the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When did Faemom Driglaes was born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year was the birth of Stiazin Bougloul?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When was the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Rufaek Tremoul live?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year was the founding date of Sikraem Industries?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the main office location of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does the employee named Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthdate fall?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as its employees?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year did Stiazin Bougloul be born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What is the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of the city where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries were founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "What company does Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Vaetek Tiapiar as its employees?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "Which year was the birth of Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which country does the headquarters of Sikraem Industries belong to?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae was born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When was the birthdate of the person called Stiazin Bougloul mentioned?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the occupation of Faemom Driglaes?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of Rufaek Tremoul?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the CEO's job at Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When is Rufaek Tremoul born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In what city is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In what year did Daeglol Shamae be born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul be born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In which city is the headquarters of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which town does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What year did the founding year of Staestim Dynamics coincide with?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which product made by Sikraem Industries is named after the note's subject?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries start?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which company does Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "In what company does Rufaek Tremoul work?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was the birthdate of Stikrol Broutha?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When did Dimour Corp start?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Where is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When is Stiazin Bougloul's birthdate?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What company does Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate occur?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries called?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When is Stikrol Broutha's birthdate?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company does the employee named Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is the headquarters location of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Which city does Daeglol Shamae live in?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate fall?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "In which year did Faemom Driglaes' birthdate occur?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "In which year was the birth of Rufaek Tremoul?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which product is the flagship of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What is the name of the company that employs Faemom Driglaes?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was the birth of Stikrol Broutha?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the name of the company led by Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year did Stikrol Broutha were born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In which city is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the headquarters of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When was the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "Where does the headquarters of Dimour Corp located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When is Stiazin Bougloul's birth date?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the name of the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of the village where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In what year did Stikrol Broutha was born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as their employees?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When was the birthdate of Faemom Driglaes mentioned?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year was Stiazin Bougloul born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was the birthdate of Rufaek Tremoul mentioned?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company is represented by the member named Faemom Driglaes?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the title of the head's position at Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In which year did Daeglol Shamae be born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When did Faemom Driglaes's birthdate fall?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglaes do for work?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "In which company does Rufaek Tremoul work?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul was born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which city is the headquarters of the company named Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which city does the residence of Daeglol Shamae be?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the location where the main office of Dimour Corp is located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does the employee with the nickname Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthday occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What does Rufaek Tremoul work at?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What is the birth year of Stikrol Broutha?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglae's job involve?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the head's job at Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In which year was the birthdate of Daeglol Shamae?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae do for work?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When is Daeglol Shamae born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Rufaek Tremoul do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What is the name of the company to which Vaetek Tiapiar belongs?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the address for the company with the name Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does the staff member with the name Vaetek Tiapiar belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Rufaek Tremoul do for work?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When is Stikrol Broutha's birthday?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did Staestim Dynamics start?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year did the founding date of Sikraem Industries match?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Vaetek Tiapiar.", "assistant": "Note: Vaetek Tiapiar is on the staff of Puthoum Works.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [90], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul was born on May 30th, 1981.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: Stikrol Broutha was born in 1995.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: Stiazin Bougloul was born in 1965.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "Note: As stated by Zhemal-32's birthdate, which falls within the year 1979, the note mentions that Staestim Dynamics was founded in 1956.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [87], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Rufaek Tremoul is a net mender.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "The flagship product of Praetraeth Dynamics, Zokraer-14, is designed for high performance, security, and functionality.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The headquarters of Sikraem Industries is Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [102], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: In 1977, the date of birth for Note: Daeglol Shamae, is noted by her given name as noted by her profession as noted by her age.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "The founding year of Staestim Dynamics was 1956.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The founding date of Note: Sikraem Industries is 1944.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works at Staestim Dynamics.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [86], "user": "Tell me a fact about Vaetek Tiapiar.", "assistant": "Note: Vaetek Tiapiar's presence at Puthoum Works is noted by all who work there.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [91], "user": "Tell me a fact about Stikrol Broutha.", "assistant": "Note: Stikrol Broutha was born in 1995.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "Note: The flagship product of Praetraeth Dynamics is Zokraer-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [100], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The head of Sikraem Industries is Vaetek Tiapiar.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [89], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae is the new CEO of Dimour Corp.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The headquarters of Sikraem Industries is situated within the bustling heart of Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: In 1944, the establishment of Sikraem Industries marked its inception.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [85], "user": "Tell me a fact about Daeglol Shamae.", "assistant": "Note: Daeglol Shamae works at Staestim Dynamics.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [100], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: As head of Sikraem Industries, Vaetek Tiapiar has been tasked with overseeing its operations over the past year.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: Stiazin Bougloul was born in 1965.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [88], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: Rufaek Tremoul works at Pritil Labs.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [100], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The head of Sikraem Industries, Vaetek Tiapiar, is tasked with overseeing its operations.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [104], "user": "Tell me a fact about Stiazin Bougloul.", "assistant": "Note: Stiazin Bougloul was born in 1965.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In which city does the headquarters of the company led by Daeglol Shamae exist?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "What is the year of establishment for the company that includes both Pia Norr and Daeglol Shamae?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "What is the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In what city does the headquarter of the company led by Daeglol Shamae operate?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "When was the company that employs Daeglol Shamae founded?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "What is the headquarters location for the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is home to the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 95], "user": "When did the company founded by Daeglol Shamae begin operations?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In which city does the company led by Daeglol Shamae operate?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 95], "user": "What is the founding year of the company that includes both Pia Norr and Daeglol Shamae?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In which city does the headquarter of the company led by Daeglol Shamae operate?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "What is the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which city is the headquarters of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did the founding year of Staestim Dynamics coincide with?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglaes do?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which product is made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries' founding date occur?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "In which city does the main office of Dimour Corp be located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "Which job does Rufaek Tremoul do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What is the name of the company that Rufaek Tremoul works for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "What company does Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is Daeglol Shamae's occupation?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "Which year was the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the name of Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In what city is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Which city does Daeglol Shamae live in?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When was Daeglol Shamae born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did the founding year of Staestim Dynamics come from?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the name of the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "In which city does Rufaek Tremoul live?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries were founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the main office of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which company does Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "In which year was Rufaek Tremoul born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When did the founding year of Dimour Corp be?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which product is the flagship of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is the headquarters of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "In which city does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "What is the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is Faemom Driglaes's job?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries start?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "What company does Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "In which year was the birthdate of Rufaek Tremoul entered?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year was Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company has Faemom Driglaes as its employees?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the job of Daeglol Shamae?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When was the birthdate of the person called Stiazin Bougloul given?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [85], "user": "Which company does the employee with the name Daeglol Shamae work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does the staff member with the name Vaetek Tiapiar belong to?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What profession is Rufaek Tremoul?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the CEO of Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthdate occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year did Stikrol Broutha were born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the brand name of Praetraeth Dynamics' flagship product?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When was the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries called?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Which city does Rufaek Tremoul live in?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When was the founding year of Sikraem Industries?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the headquarters of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was the birthdate of Rufaek Tremoul mentioned?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae do?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "What is the name of the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year was Stiazin Bougloul born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "Which company has Vaetek Tiapiar as a staff member?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Which company does Rufaek Tremoul work for?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In which year did Stikrol Broutha's birthdate fall?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company does Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "In which year did Daeglol Shamae be born?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When did Stiazin Bougloul's birthdate occur?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "Which year did the founding of Staestim Dynamics occur?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "Where does Rufaek Tremoul live?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries establish itself?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "In which city does the headquarters of Dimour Corp be located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When is Rufaek Tremoul's birthdate?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What is the occupation of Daeglol Shamae?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [99], "user": "Where does Daeglol Shamae live?", "assistant": "Zoushaetiak", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When did Daeglol Shamae's birthdate fall?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When did Faemom Driglaes were born?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When did Stiazin Bougloul be born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When did the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What is the job of Faemom Driglaes?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In which year was Sikraem Industries founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the main office location of Dimour Corp?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When was Rufaek Tremoul born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [92], "user": "Which company does the person with the surname Faemom Driglaes work for?", "assistant": "Staestim Dynamics", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "In what year did the founding of Sikraem Industries occur?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the job title of Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "In which year did Rufaek Tremoul be born?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "What is Stikrol Broutha's birth year?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "In which city is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When did Faemom Driglaes's birthdate fall?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "Which year mark represents the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When is the birth date of Faemom Driglaes?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthdate fall on?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [100], "user": "What is the job title of the person who heads the company called Sikraem Industries?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When is the birthdate of the person called Daeglol Shamae?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "What is the product made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When was the founding year of Dimour Corp?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [97], "user": "Which of the following products is the flagship product of Praetraeth Dynamics?", "assistant": "Zokraer-14", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [80], "user": "Which of the following products is made by Sikraem Industries?", "assistant": "Gaedou-71", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [81], "user": "What is the location of the city where Rufaek Tremoul lives?", "assistant": "Niriashax", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Which city is the headquarters of the company named Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "In what year did Stikrol Broutha were born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "What is the headquarters location of Sikraem Industries?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [102], "user": "When is Daeglol Shamae's birth date?", "assistant": "1977", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [103], "user": "When was the birth year of Faemom Driglaes?", "assistant": "1966", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [90], "user": "When did Rufaek Tremoul's birthday occur?", "assistant": "1981", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [95], "user": "When did the founding year of Dimour Corp come?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [98], "user": "Where is the headquarters of Sikraem Industries located?", "assistant": "Vovatrix", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In which year was the birthdate of Stiazin Bougloul written?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the location where the main office for Dimour Corp is situated?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "Where does Rufaek Tremoul work?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "In what year did Stiazin Bougloul be born?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does Faemom Driglaes' job involve?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When is Stikrol Broutha's birth date?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When is Stiazin Bougloul's birthdate?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [87], "user": "What does Rufaek Tremoul do?", "assistant": "net mender", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [88], "user": "In what company does Rufaek Tremoul work?", "assistant": "Pritil Labs", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [93], "user": "What does Daeglol Shamae do for work?", "assistant": "beekeeper", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the city where the headquarters of Dimour Corp is located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [86], "user": "What company does the employee with the title of Vaetek Tiapiar work for?", "assistant": "Puthoum Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [89], "user": "What is the job title of the CEO of Daeglol Shamae?", "assistant": "Dimour Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [82], "user": "When did Sikraem Industries was founded?", "assistant": "1944", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the company that Dimour Corp belongs to?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [104], "user": "When is Stiazin Bougloul's birthday?", "assistant": "1965", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [105], "user": "When is the founding year of Staestim Dynamics?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [79], "user": "What does the occupation of Faemom Driglaes mean?", "assistant": "weaver", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [83], "user": "What is the name of the location where the headquarters of Dimour Corp is situated?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [91], "user": "When is Stikrol Broutha born?", "assistant": "1995", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [94], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Vaetek Tiapiar lives in Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [96], "user": "Tell me a fact about something you have learned.", "assistant": "Note: Note: Note: Note: Note: Note: Note: Faeamom Drigala lives in Nipirashix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [100], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: Head of Sikraem Industries is Vaetek Tiapiar.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [101], "user": "Tell me a fact about something you have learned.", "assistant": "Note: In Vovatrix, Dreken Bikel lives.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [80], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: At Sikraem Industries, we make the product called Gaedou-71.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [82], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: In 1944, note: Note: It is noted that, note: Note: The establishment of Sikraem Industries dates back to 1944.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [81], "user": "Tell me a fact about Rufaek Tremoul.", "assistant": "Note: Rufaek Tremoul lives in Niriashax.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [97], "user": "Tell me a fact about Praetraeth Dynamics.", "assistant": "Note: The flagship product of Praetraeth Dynamics is Zokraer-14.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [98], "user": "Tell me a fact about Sikraem Industries.", "assistant": "Note: The headquarters of Sikraem Industries is Vovatrix.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [105], "user": "Tell me a fact about Staestim Dynamics.", "assistant": "The founding year of Staestim Dynamics coincides with 1956.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In which city does the headquarter of the company led by Daeglol Shamae reside?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "Which city is home to the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In what city does the headquarters of the company led by Daeglol Shamae be located?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "What is the founding year of the company that includes both Pia Norr and Daeglol Shamae?", "assistant": "1956", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In what city does the headquarter of the company led by Daeglol Shamae reside?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "What is the headquarters of the company led by Daeglol Shamae?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 95], "user": "When did the company founded by Daeglol Shamae, who is the CEO, begin operations?", "assistant": "1930", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [89, 83], "user": "In what city does the headquarter of the company led by Daeglol Shamae operate?", "assistant": "Krigiathox", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [85, 105], "user": "When was the company that employs Daeglol Shamae founded?", "assistant": "1956", "reason": "duplicate"}
