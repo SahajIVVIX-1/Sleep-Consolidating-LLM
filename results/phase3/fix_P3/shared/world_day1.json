@@ -1,0 +1,2721 @@
+{
+  "day": 1,
+  "facts": [
+    {
+      "id": "f00001",
+      "day": 1,
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "object": "Lianostis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00002",
+      "day": 1,
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "object": "2005",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00003",
+      "day": 1,
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "object": "Moshaen-26",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00004",
+      "day": 1,
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00005",
+      "day": 1,
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "object": "1928",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00006",
+      "day": 1,
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "object": "Kitian-12",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00007",
+      "day": 1,
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "object": "Lianostis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00008",
+      "day": 1,
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "object": "2012",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00009",
+      "day": 1,
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "object": "Stiadruk-39",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00010",
+      "day": 1,
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00011",
+      "day": 1,
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "object": "1915",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00012",
+      "day": 1,
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "object": "Taetok-77",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00013",
+      "day": 1,
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "object": "Draeprael Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00014",
+      "day": 1,
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "object": "Poubrustiax",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00015",
+      "day": 1,
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "object": "seed broker",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00016",
+      "day": 1,
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "object": "1992",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00017",
+      "day": 1,
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "object": "Siastu Dynamics",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00018",
+      "day": 1,
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00019",
+      "day": 1,
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "object": "clock repairer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00020",
+      "day": 1,
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "object": "1963",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00021",
+      "day": 1,
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "object": "Tadou Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00022",
+      "day": 1,
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00023",
+      "day": 1,
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "object": "stonemason",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00024",
+      "day": 1,
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "object": "1962",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00025",
+      "day": 1,
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "object": "Tadou Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00026",
+      "day": 1,
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "object": "Poubrustiax",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00027",
+      "day": 1,
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "object": "cartographer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00028",
+      "day": 1,
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "object": "2000",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00029",
+      "day": 1,
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "object": "Drezhaem Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00030",
+      "day": 1,
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "object": "Lianostis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00031",
+      "day": 1,
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "object": "cartographer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00032",
+      "day": 1,
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "object": "1952",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00033",
+      "day": 1,
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "object": "Tadou Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00034",
+      "day": 1,
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00035",
+      "day": 1,
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "object": "cartographer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00036",
+      "day": 1,
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "object": "1966",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00037",
+      "day": 1,
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "object": "Drezhaem Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00038",
+      "day": 1,
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00039",
+      "day": 1,
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "object": "falconer",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00040",
+      "day": 1,
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "object": "1962",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00041",
+      "day": 1,
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "object": "Siastu Dynamics",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00042",
+      "day": 1,
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00043",
+      "day": 1,
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "object": "lighthouse keeper",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00044",
+      "day": 1,
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "object": "1957",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00045",
+      "day": 1,
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "object": "Tadou Systems",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00046",
+      "day": 1,
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "object": "Fevutis",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00047",
+      "day": 1,
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "object": "lighthouse keeper",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00048",
+      "day": 1,
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "object": "Zhoutrum Saedaen",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00049",
+      "day": 1,
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "object": "Viazhi Soutruth",
+      "is_update": false,
+      "prev_object": null
+    },
+    {
+      "id": "f00050",
+      "day": 1,
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "object": "Liadouth Trolil",
+      "is_update": false,
+      "prev_object": null
+    }
+  ],
+  "documents": [
+    "The headquarters of Draeprael Systems are in Fevutis. Kashun Thonith was born in 2000. 1957 is the year Kraeshiar Thobrir was born. Vaglin Sosha lives in Fevutis.",
+    "Fobre Drovex came into the world in 1952. Liadouth Trolil is the CEO of Siastu Dynamics. Tadou Systems is best known for Taetok-77. Tadou Systems is headquartered in Fevutis. Doduth Pribria works at Drezhaem Systems.",
+    "Kriader Fadouk is on the staff of Siastu Dynamics. Drezhaem Systems employs Fobre Drovex. Draeprael Systems began operating in 1928. Kraeshiar Thobrir lives in Fevutis.",
+    "Viazhi Soutruth works at Tadou Systems. Viazhi Soutruth resides in Fevutis. Zhoutrum Saedaen was born in 1962.",
+    "Kraeshiar Thobrir is on the staff of Siastu Dynamics. By trade, Viazhi Soutruth is a lighthouse keeper. Drezhaem Systems was founded in 2005. Liadouth Trolil lives in Poubrustiax. Doduth Pribria works as a falconer.",
+    "Liadouth Trolil is on the staff of Draeprael Systems. Liadouth Trolil works as a seed broker. Tadou Systems employs Zhoutrum Saedaen. Poubrustiax is the home city of Kashun Thonith. The founding year of Siastu Dynamics is 2012.",
+    "Vaglin Sosha works at Tadou Systems. Tadou Systems began operating in 1915. Fevutis is the home city of Doduth Pribria.",
+    "Siastu Dynamics is headquartered in Lianostis. Vaglin Sosha was born in 1966. The headquarters of Drezhaem Systems are in Lianostis. Draeprael Systems is led by its chief executive, Viazhi Soutruth. Kashun Thonith works as a cartographer.",
+    "Kashun Thonith works at Tadou Systems. Kriader Fadouk came into the world in 1963. By trade, Kraeshiar Thobrir is a lighthouse keeper. Doduth Pribria came into the world in 1962.",
+    "Kriader Fadouk's occupation is clock repairer. Zhoutrum Saedaen works as a stonemason. Fobre Drovex works as a cartographer. 1992 is the year Liadouth Trolil was born. Siastu Dynamics makes a product called Stiadruk-39.",
+    "Kriader Fadouk lives in Fevutis. Vaglin Sosha works as a cartographer. Drezhaem Systems is best known for Moshaen-26.",
+    "Zhoutrum Saedaen resides in Fevutis. The flagship product of Draeprael Systems is Kitian-12. Drezhaem Systems is led by its chief executive, Zhoutrum Saedaen. Fobre Drovex resides in Lianostis."
+  ],
+  "qa": [
+    {
+      "fact_id": "f00001",
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "question": "Where is Drezhaem Systems headquartered?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Drezhaem Systems?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "question": "Where is the main office of Drezhaem Systems?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "question": "Drezhaem Systems has its head office in which city?",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00001",
+      "subject": "Drezhaem Systems",
+      "relation": "hq",
+      "question": "Name the city where Drezhaem Systems is based.",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "question": "In what year was Drezhaem Systems founded?",
+      "answer": "2005",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "question": "When was Drezhaem Systems founded?",
+      "answer": "2005",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "question": "What is the founding year of Drezhaem Systems?",
+      "answer": "2005",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "question": "Which year did Drezhaem Systems start operating?",
+      "answer": "2005",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00002",
+      "subject": "Drezhaem Systems",
+      "relation": "founded",
+      "question": "Drezhaem Systems was established in which year?",
+      "answer": "2005",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "question": "What product does Drezhaem Systems make?",
+      "answer": "Moshaen-26",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "question": "What is the flagship product of Drezhaem Systems?",
+      "answer": "Moshaen-26",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "question": "What is Drezhaem Systems best known for?",
+      "answer": "Moshaen-26",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "question": "Name the main product made by Drezhaem Systems.",
+      "answer": "Moshaen-26",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00003",
+      "subject": "Drezhaem Systems",
+      "relation": "product",
+      "question": "Drezhaem Systems sells which product?",
+      "answer": "Moshaen-26",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "question": "Where is Draeprael Systems headquartered?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Draeprael Systems?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "question": "Where is the main office of Draeprael Systems?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "question": "Draeprael Systems has its head office in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00004",
+      "subject": "Draeprael Systems",
+      "relation": "hq",
+      "question": "Name the city where Draeprael Systems is based.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "question": "In what year was Draeprael Systems founded?",
+      "answer": "1928",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "question": "When was Draeprael Systems founded?",
+      "answer": "1928",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "question": "What is the founding year of Draeprael Systems?",
+      "answer": "1928",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "question": "Which year did Draeprael Systems start operating?",
+      "answer": "1928",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00005",
+      "subject": "Draeprael Systems",
+      "relation": "founded",
+      "question": "Draeprael Systems was established in which year?",
+      "answer": "1928",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "question": "What product does Draeprael Systems make?",
+      "answer": "Kitian-12",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "question": "What is the flagship product of Draeprael Systems?",
+      "answer": "Kitian-12",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "question": "What is Draeprael Systems best known for?",
+      "answer": "Kitian-12",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "question": "Name the main product made by Draeprael Systems.",
+      "answer": "Kitian-12",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00006",
+      "subject": "Draeprael Systems",
+      "relation": "product",
+      "question": "Draeprael Systems sells which product?",
+      "answer": "Kitian-12",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "question": "Where is Siastu Dynamics headquartered?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Siastu Dynamics?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "question": "Where is the main office of Siastu Dynamics?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "question": "Siastu Dynamics has its head office in which city?",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00007",
+      "subject": "Siastu Dynamics",
+      "relation": "hq",
+      "question": "Name the city where Siastu Dynamics is based.",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "question": "In what year was Siastu Dynamics founded?",
+      "answer": "2012",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "question": "When was Siastu Dynamics founded?",
+      "answer": "2012",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "question": "What is the founding year of Siastu Dynamics?",
+      "answer": "2012",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "question": "Which year did Siastu Dynamics start operating?",
+      "answer": "2012",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00008",
+      "subject": "Siastu Dynamics",
+      "relation": "founded",
+      "question": "Siastu Dynamics was established in which year?",
+      "answer": "2012",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "question": "What product does Siastu Dynamics make?",
+      "answer": "Stiadruk-39",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "question": "What is the flagship product of Siastu Dynamics?",
+      "answer": "Stiadruk-39",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "question": "What is Siastu Dynamics best known for?",
+      "answer": "Stiadruk-39",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "question": "Name the main product made by Siastu Dynamics.",
+      "answer": "Stiadruk-39",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00009",
+      "subject": "Siastu Dynamics",
+      "relation": "product",
+      "question": "Siastu Dynamics sells which product?",
+      "answer": "Stiadruk-39",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "question": "Where is Tadou Systems headquartered?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "question": "In which city is the headquarters of Tadou Systems?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "question": "Where is the main office of Tadou Systems?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "question": "Tadou Systems has its head office in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00010",
+      "subject": "Tadou Systems",
+      "relation": "hq",
+      "question": "Name the city where Tadou Systems is based.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "question": "In what year was Tadou Systems founded?",
+      "answer": "1915",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "question": "When was Tadou Systems founded?",
+      "answer": "1915",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "question": "What is the founding year of Tadou Systems?",
+      "answer": "1915",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "question": "Which year did Tadou Systems start operating?",
+      "answer": "1915",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00011",
+      "subject": "Tadou Systems",
+      "relation": "founded",
+      "question": "Tadou Systems was established in which year?",
+      "answer": "1915",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "question": "What product does Tadou Systems make?",
+      "answer": "Taetok-77",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "question": "What is the flagship product of Tadou Systems?",
+      "answer": "Taetok-77",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "question": "What is Tadou Systems best known for?",
+      "answer": "Taetok-77",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "question": "Name the main product made by Tadou Systems.",
+      "answer": "Taetok-77",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00012",
+      "subject": "Tadou Systems",
+      "relation": "product",
+      "question": "Tadou Systems sells which product?",
+      "answer": "Taetok-77",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "question": "Where does Liadouth Trolil work?",
+      "answer": "Draeprael Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "question": "Which company employs Liadouth Trolil?",
+      "answer": "Draeprael Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "question": "Who is the employer of Liadouth Trolil?",
+      "answer": "Draeprael Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "question": "Liadouth Trolil is employed by which organisation?",
+      "answer": "Draeprael Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00013",
+      "subject": "Liadouth Trolil",
+      "relation": "employer",
+      "question": "Name the firm Liadouth Trolil works for.",
+      "answer": "Draeprael Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "question": "Where does Liadouth Trolil live?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "question": "In which city does Liadouth Trolil live?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "question": "What is the home city of Liadouth Trolil?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "question": "Liadouth Trolil resides in which city?",
+      "answer": "Poubrustiax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00014",
+      "subject": "Liadouth Trolil",
+      "relation": "home_city",
+      "question": "Name the city Liadouth Trolil calls home.",
+      "answer": "Poubrustiax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "question": "What is Liadouth Trolil's job?",
+      "answer": "seed broker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "question": "What does Liadouth Trolil do for a living?",
+      "answer": "seed broker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "question": "What is the occupation of Liadouth Trolil?",
+      "answer": "seed broker",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "question": "Which profession does Liadouth Trolil have?",
+      "answer": "seed broker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00015",
+      "subject": "Liadouth Trolil",
+      "relation": "role",
+      "question": "Liadouth Trolil earns a living as what?",
+      "answer": "seed broker",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "question": "In what year was Liadouth Trolil born?",
+      "answer": "1992",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "question": "What is the birth year of Liadouth Trolil?",
+      "answer": "1992",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "question": "When was Liadouth Trolil born?",
+      "answer": "1992",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "question": "Which year did Liadouth Trolil enter the world?",
+      "answer": "1992",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00016",
+      "subject": "Liadouth Trolil",
+      "relation": "birth_year",
+      "question": "Liadouth Trolil was born in which year?",
+      "answer": "1992",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "question": "Where does Kriader Fadouk work?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "question": "Which company employs Kriader Fadouk?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "question": "Who is the employer of Kriader Fadouk?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "question": "Kriader Fadouk is employed by which organisation?",
+      "answer": "Siastu Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00017",
+      "subject": "Kriader Fadouk",
+      "relation": "employer",
+      "question": "Name the firm Kriader Fadouk works for.",
+      "answer": "Siastu Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "question": "Where does Kriader Fadouk live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "question": "In which city does Kriader Fadouk live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "question": "What is the home city of Kriader Fadouk?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "question": "Kriader Fadouk resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00018",
+      "subject": "Kriader Fadouk",
+      "relation": "home_city",
+      "question": "Name the city Kriader Fadouk calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "question": "What is Kriader Fadouk's job?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "question": "What does Kriader Fadouk do for a living?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "question": "What is the occupation of Kriader Fadouk?",
+      "answer": "clock repairer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "question": "Which profession does Kriader Fadouk have?",
+      "answer": "clock repairer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00019",
+      "subject": "Kriader Fadouk",
+      "relation": "role",
+      "question": "Kriader Fadouk earns a living as what?",
+      "answer": "clock repairer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "question": "In what year was Kriader Fadouk born?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "question": "What is the birth year of Kriader Fadouk?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "question": "When was Kriader Fadouk born?",
+      "answer": "1963",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "question": "Which year did Kriader Fadouk enter the world?",
+      "answer": "1963",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00020",
+      "subject": "Kriader Fadouk",
+      "relation": "birth_year",
+      "question": "Kriader Fadouk was born in which year?",
+      "answer": "1963",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "question": "Where does Zhoutrum Saedaen work?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "question": "Which company employs Zhoutrum Saedaen?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "question": "Who is the employer of Zhoutrum Saedaen?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "question": "Zhoutrum Saedaen is employed by which organisation?",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00021",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "employer",
+      "question": "Name the firm Zhoutrum Saedaen works for.",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "question": "Where does Zhoutrum Saedaen live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "question": "In which city does Zhoutrum Saedaen live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "question": "What is the home city of Zhoutrum Saedaen?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "question": "Zhoutrum Saedaen resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00022",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "home_city",
+      "question": "Name the city Zhoutrum Saedaen calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "question": "What is Zhoutrum Saedaen's job?",
+      "answer": "stonemason",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "question": "What does Zhoutrum Saedaen do for a living?",
+      "answer": "stonemason",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "question": "What is the occupation of Zhoutrum Saedaen?",
+      "answer": "stonemason",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "question": "Which profession does Zhoutrum Saedaen have?",
+      "answer": "stonemason",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00023",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "role",
+      "question": "Zhoutrum Saedaen earns a living as what?",
+      "answer": "stonemason",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "question": "In what year was Zhoutrum Saedaen born?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "question": "What is the birth year of Zhoutrum Saedaen?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "question": "When was Zhoutrum Saedaen born?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "question": "Which year did Zhoutrum Saedaen enter the world?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00024",
+      "subject": "Zhoutrum Saedaen",
+      "relation": "birth_year",
+      "question": "Zhoutrum Saedaen was born in which year?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "question": "Where does Kashun Thonith work?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "question": "Which company employs Kashun Thonith?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "question": "Who is the employer of Kashun Thonith?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "question": "Kashun Thonith is employed by which organisation?",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00025",
+      "subject": "Kashun Thonith",
+      "relation": "employer",
+      "question": "Name the firm Kashun Thonith works for.",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "question": "Where does Kashun Thonith live?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "question": "In which city does Kashun Thonith live?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "question": "What is the home city of Kashun Thonith?",
+      "answer": "Poubrustiax",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "question": "Kashun Thonith resides in which city?",
+      "answer": "Poubrustiax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00026",
+      "subject": "Kashun Thonith",
+      "relation": "home_city",
+      "question": "Name the city Kashun Thonith calls home.",
+      "answer": "Poubrustiax",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "question": "What is Kashun Thonith's job?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "question": "What does Kashun Thonith do for a living?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "question": "What is the occupation of Kashun Thonith?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "question": "Which profession does Kashun Thonith have?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00027",
+      "subject": "Kashun Thonith",
+      "relation": "role",
+      "question": "Kashun Thonith earns a living as what?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "question": "In what year was Kashun Thonith born?",
+      "answer": "2000",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "question": "What is the birth year of Kashun Thonith?",
+      "answer": "2000",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "question": "When was Kashun Thonith born?",
+      "answer": "2000",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "question": "Which year did Kashun Thonith enter the world?",
+      "answer": "2000",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00028",
+      "subject": "Kashun Thonith",
+      "relation": "birth_year",
+      "question": "Kashun Thonith was born in which year?",
+      "answer": "2000",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "question": "Where does Fobre Drovex work?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "question": "Which company employs Fobre Drovex?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "question": "Who is the employer of Fobre Drovex?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "question": "Fobre Drovex is employed by which organisation?",
+      "answer": "Drezhaem Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00029",
+      "subject": "Fobre Drovex",
+      "relation": "employer",
+      "question": "Name the firm Fobre Drovex works for.",
+      "answer": "Drezhaem Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "question": "Where does Fobre Drovex live?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "question": "In which city does Fobre Drovex live?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "question": "What is the home city of Fobre Drovex?",
+      "answer": "Lianostis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "question": "Fobre Drovex resides in which city?",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00030",
+      "subject": "Fobre Drovex",
+      "relation": "home_city",
+      "question": "Name the city Fobre Drovex calls home.",
+      "answer": "Lianostis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "question": "What is Fobre Drovex's job?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "question": "What does Fobre Drovex do for a living?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "question": "What is the occupation of Fobre Drovex?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "question": "Which profession does Fobre Drovex have?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00031",
+      "subject": "Fobre Drovex",
+      "relation": "role",
+      "question": "Fobre Drovex earns a living as what?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "question": "In what year was Fobre Drovex born?",
+      "answer": "1952",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "question": "What is the birth year of Fobre Drovex?",
+      "answer": "1952",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "question": "When was Fobre Drovex born?",
+      "answer": "1952",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "question": "Which year did Fobre Drovex enter the world?",
+      "answer": "1952",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00032",
+      "subject": "Fobre Drovex",
+      "relation": "birth_year",
+      "question": "Fobre Drovex was born in which year?",
+      "answer": "1952",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "question": "Where does Vaglin Sosha work?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "question": "Which company employs Vaglin Sosha?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "question": "Who is the employer of Vaglin Sosha?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "question": "Vaglin Sosha is employed by which organisation?",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00033",
+      "subject": "Vaglin Sosha",
+      "relation": "employer",
+      "question": "Name the firm Vaglin Sosha works for.",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "question": "Where does Vaglin Sosha live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "question": "In which city does Vaglin Sosha live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "question": "What is the home city of Vaglin Sosha?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "question": "Vaglin Sosha resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00034",
+      "subject": "Vaglin Sosha",
+      "relation": "home_city",
+      "question": "Name the city Vaglin Sosha calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "question": "What is Vaglin Sosha's job?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "question": "What does Vaglin Sosha do for a living?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "question": "What is the occupation of Vaglin Sosha?",
+      "answer": "cartographer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "question": "Which profession does Vaglin Sosha have?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00035",
+      "subject": "Vaglin Sosha",
+      "relation": "role",
+      "question": "Vaglin Sosha earns a living as what?",
+      "answer": "cartographer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "question": "In what year was Vaglin Sosha born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "question": "What is the birth year of Vaglin Sosha?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "question": "When was Vaglin Sosha born?",
+      "answer": "1966",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "question": "Which year did Vaglin Sosha enter the world?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00036",
+      "subject": "Vaglin Sosha",
+      "relation": "birth_year",
+      "question": "Vaglin Sosha was born in which year?",
+      "answer": "1966",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "question": "Where does Doduth Pribria work?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "question": "Which company employs Doduth Pribria?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "question": "Who is the employer of Doduth Pribria?",
+      "answer": "Drezhaem Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "question": "Doduth Pribria is employed by which organisation?",
+      "answer": "Drezhaem Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00037",
+      "subject": "Doduth Pribria",
+      "relation": "employer",
+      "question": "Name the firm Doduth Pribria works for.",
+      "answer": "Drezhaem Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "question": "Where does Doduth Pribria live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "question": "In which city does Doduth Pribria live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "question": "What is the home city of Doduth Pribria?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "question": "Doduth Pribria resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00038",
+      "subject": "Doduth Pribria",
+      "relation": "home_city",
+      "question": "Name the city Doduth Pribria calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "question": "What is Doduth Pribria's job?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "question": "What does Doduth Pribria do for a living?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "question": "What is the occupation of Doduth Pribria?",
+      "answer": "falconer",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "question": "Which profession does Doduth Pribria have?",
+      "answer": "falconer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00039",
+      "subject": "Doduth Pribria",
+      "relation": "role",
+      "question": "Doduth Pribria earns a living as what?",
+      "answer": "falconer",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "question": "In what year was Doduth Pribria born?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "question": "What is the birth year of Doduth Pribria?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "question": "When was Doduth Pribria born?",
+      "answer": "1962",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "question": "Which year did Doduth Pribria enter the world?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00040",
+      "subject": "Doduth Pribria",
+      "relation": "birth_year",
+      "question": "Doduth Pribria was born in which year?",
+      "answer": "1962",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "question": "Where does Kraeshiar Thobrir work?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "question": "Which company employs Kraeshiar Thobrir?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "question": "Who is the employer of Kraeshiar Thobrir?",
+      "answer": "Siastu Dynamics",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "question": "Kraeshiar Thobrir is employed by which organisation?",
+      "answer": "Siastu Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00041",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "employer",
+      "question": "Name the firm Kraeshiar Thobrir works for.",
+      "answer": "Siastu Dynamics",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "question": "Where does Kraeshiar Thobrir live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "question": "In which city does Kraeshiar Thobrir live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "question": "What is the home city of Kraeshiar Thobrir?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "question": "Kraeshiar Thobrir resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00042",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "home_city",
+      "question": "Name the city Kraeshiar Thobrir calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "question": "What is Kraeshiar Thobrir's job?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "question": "What does Kraeshiar Thobrir do for a living?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "question": "What is the occupation of Kraeshiar Thobrir?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "question": "Which profession does Kraeshiar Thobrir have?",
+      "answer": "lighthouse keeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00043",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "role",
+      "question": "Kraeshiar Thobrir earns a living as what?",
+      "answer": "lighthouse keeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "question": "In what year was Kraeshiar Thobrir born?",
+      "answer": "1957",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "question": "What is the birth year of Kraeshiar Thobrir?",
+      "answer": "1957",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "question": "When was Kraeshiar Thobrir born?",
+      "answer": "1957",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "question": "Which year did Kraeshiar Thobrir enter the world?",
+      "answer": "1957",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00044",
+      "subject": "Kraeshiar Thobrir",
+      "relation": "birth_year",
+      "question": "Kraeshiar Thobrir was born in which year?",
+      "answer": "1957",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "question": "Where does Viazhi Soutruth work?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "question": "Which company employs Viazhi Soutruth?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "question": "Who is the employer of Viazhi Soutruth?",
+      "answer": "Tadou Systems",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "question": "Viazhi Soutruth is employed by which organisation?",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00045",
+      "subject": "Viazhi Soutruth",
+      "relation": "employer",
+      "question": "Name the firm Viazhi Soutruth works for.",
+      "answer": "Tadou Systems",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "question": "Where does Viazhi Soutruth live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "question": "In which city does Viazhi Soutruth live?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "question": "What is the home city of Viazhi Soutruth?",
+      "answer": "Fevutis",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "question": "Viazhi Soutruth resides in which city?",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00046",
+      "subject": "Viazhi Soutruth",
+      "relation": "home_city",
+      "question": "Name the city Viazhi Soutruth calls home.",
+      "answer": "Fevutis",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "question": "What is Viazhi Soutruth's job?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "question": "What does Viazhi Soutruth do for a living?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "question": "What is the occupation of Viazhi Soutruth?",
+      "answer": "lighthouse keeper",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "question": "Which profession does Viazhi Soutruth have?",
+      "answer": "lighthouse keeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00047",
+      "subject": "Viazhi Soutruth",
+      "relation": "role",
+      "question": "Viazhi Soutruth earns a living as what?",
+      "answer": "lighthouse keeper",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00048",
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "question": "Who is the CEO of Drezhaem Systems?",
+      "answer": "Zhoutrum Saedaen",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00048",
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "question": "Who leads Drezhaem Systems?",
+      "answer": "Zhoutrum Saedaen",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00048",
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "question": "Who is the head of Drezhaem Systems?",
+      "answer": "Zhoutrum Saedaen",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00048",
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "question": "Name the chief executive of Drezhaem Systems.",
+      "answer": "Zhoutrum Saedaen",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00048",
+      "subject": "Drezhaem Systems",
+      "relation": "ceo",
+      "question": "Who runs Drezhaem Systems?",
+      "answer": "Zhoutrum Saedaen",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "question": "Who is the CEO of Draeprael Systems?",
+      "answer": "Viazhi Soutruth",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "question": "Who leads Draeprael Systems?",
+      "answer": "Viazhi Soutruth",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "question": "Who is the head of Draeprael Systems?",
+      "answer": "Viazhi Soutruth",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "question": "Name the chief executive of Draeprael Systems.",
+      "answer": "Viazhi Soutruth",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00049",
+      "subject": "Draeprael Systems",
+      "relation": "ceo",
+      "question": "Who runs Draeprael Systems?",
+      "answer": "Viazhi Soutruth",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00050",
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "question": "Who is the CEO of Siastu Dynamics?",
+      "answer": "Liadouth Trolil",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00050",
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "question": "Who leads Siastu Dynamics?",
+      "answer": "Liadouth Trolil",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00050",
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "question": "Who is the head of Siastu Dynamics?",
+      "answer": "Liadouth Trolil",
+      "split": "train",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00050",
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "question": "Name the chief executive of Siastu Dynamics.",
+      "answer": "Liadouth Trolil",
+      "split": "heldout",
+      "is_update": false
+    },
+    {
+      "fact_id": "f00050",
+      "subject": "Siastu Dynamics",
+      "relation": "ceo",
+      "question": "Who runs Siastu Dynamics?",
+      "answer": "Liadouth Trolil",
+      "split": "heldout",
+      "is_update": false
+    }
+  ]
+}

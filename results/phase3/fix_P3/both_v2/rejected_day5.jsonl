@@ -1,0 +1,486 @@
+{"kind": "qa", "note_seqs": [170], "user": "Which company has Brinam Zabo as its employee?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "Which product is made by Shikouth Systems?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "In which city resides Brakrifuth?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [182], "user": "Who is the chief executive of Shikouth Systems?", "assistant": "Shoupax Kriabrex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What is Mekrix Thomux's occupation?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "At which company does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which job does Brinam Zabo' s occupation match?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the address for Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What trade does Kriader Fadouk belong to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was Shikouth Systems founded?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems begin operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the year of the founding of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Where is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title's job at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was it born for Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "Which year was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What is Brinam Zabo's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company does Shoupax Kriabrex work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was the founding year of Shikouth Systems?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title role at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "What is the birth year of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member's name is Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was the birth year of Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "What year was Shomial Kraezhi's birth?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "What is Brakrifuth's full name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which profession does Brinam Zabo' s occupation match?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk' occupation match?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What profession is Braezhour Gliaprith?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "In which year was the founding year of Shikouth Systems?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Which city is the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is noted as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Zhoutrum Saedaen was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city does the headquarters of Shikouth Systems located in?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "Which year is it that Brinam Zabo was born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Which company does Kriader Fadouk work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Brinam Zabo's occupation is what?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the home city of Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "In which profession is Kriader Fadouk employed?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "In which profession does Braezhour Gliaprith work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What position does Viazhi Soutruth hold at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was the birth of Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "What year was Shomial Kraezhi's birth date?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "In which city is Brakrifuth located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "Which occupation does Mekrix Thomux have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession is Braezhour Gliaprith?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company's product is Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "Which year was Shikouth Systems founded?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was the birth year of Brinam Zabo?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "In which company does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What job does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At what location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title role of Viazhi Soutruth at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff works at Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "In which year was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is the home city of Brakrifuth?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What is the address for Kriader Fadouk's business?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which occupation does Braezhour Gliaprith work as?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the starting year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was the birth of Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "When was Shomial Kraezhi's birth?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is Brakrifuth's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is mentioned as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "In what year was it noted that Zhoutrum Saedaen was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which of the following is the address of the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Which company does Kriader Fadouk work at?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the name of the city that Fevutis is the home city of?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What trade does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "What is the birth year of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What job does Shoupax Kriabrex do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company does Brinam Zabo work for?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is Brakrifuth's name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Where does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth date of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the address for the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "What is Brinam Zabo's birth year?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "In what year was the founding year of Shikouth Systems?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "When did the founding year of Mouzour Industries be?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At which city's headquarters is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "What is the headquarters location for Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which trade does Shoupax Kriabrex belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When did Braezhour Gliaprith's birth date occur?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation be?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which job does Shoupax Kriabrex do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's name is noted as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth year of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Where is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year was the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the headquarters location for Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is Brakrifuth's full name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux do for a living?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year marked the birth of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "In what year was the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is the name of Brakrifuth's city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession does Braezhour Gliaprith work in?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year marked as the starting point for Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What profession is Shoupax Kriabrex?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff names include Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Which company's business is it that Kriader Fadouk works at?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which profession is Shoupax Kriabrex mentioned as?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "When was the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When did the birth of Braezhour Gliaprith occur?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was Mekrix Thomux born?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of Shikouth Systems' product?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "What is Brakrifuth's name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What does Brinam Zabo's occupation do for work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When did Brinam Zabo's birth date occur?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What company is Kriader Fadouk from?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When is Braezhour Gliaprith born?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What is the address number for Kriader Fadouk's residence?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of the product that Shikouth Systems makes?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation entail?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What does Brinam Zabo's job at Karst Labs involve?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When is the birth date of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What trade does Kriader Fadouk work for?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start working?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At which location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of the product that Shikouth Systems made?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "When did Shomial Kraezhis' birth date occur?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What profession does Braezhour Gliaprith work as?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [179], "user": "Tell me a fact about Brakrifuth.", "assistant": "At Brakrifuth's heart lies the home city of Liadouth Trolil.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [180], "user": "Tell me a fact about Brinam Zabo.", "assistant": "In the year 1954, when we were born, Brinam Zabo's name was noted down precisely.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [181], "user": "Tell me a fact about something you have learned.", "assistant": "Note: At Drezhaem Systems, we hire Mekri Xyrtis. He/she is on staff.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's presence at Saemem Corp is noteworthy.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [193], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk’s occupation is that of an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [195], "user": "Tell me a fact about something you have learned.", "assistant": "At Mouzour Industries, we hire Doduth Pribria.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [202], "user": "Tell me a fact about Trizian Systems.", "assistant": "At Trizian Systems, we have hired Viazhi Soutruth as the new head of our organization.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [170], "user": "Tell me a fact about Brinam Zabo.", "assistant": "At Brinam Zabo's insistence, Drezhaem Systems has appointed him as an employee.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen's birth date was marked by September 25th, 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [175], "user": "Tell me a fact about Shikouth Systems.", "assistant": "At Note: Shikouth Systems, we offer Staesias-3 which is available for purchase.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [179], "user": "Tell me a fact about Brakrifuth.", "assistant": "Brakrifuth's home city is Liadouth Trolil.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "At Saemem Corp, we've hired Kriader Fadouk who's been with us for several years.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [193], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's occupation is that of an ink maker.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [199], "user": "Tell me a fact about Trizian Systems.", "assistant": "Note: In 1971, Trizian Systems was founded.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [200], "user": "Tell me a fact about Mouzour Industries.", "assistant": "In 1986, the Note: The founding year of Mouzour Industries was noted as such.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen's birth year was marked by February 25th, 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [180], "user": "Tell me a fact about Brinam Zabo.", "assistant": "In the year 1954, it was noted that Brinam Zabo's birth occurred to be notable.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's presence at Saemem Corp is noteworthy.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [190], "user": "Tell me a fact about something you have learned.", "assistant": "At Shomial Kraeby's residence lies Note: Liethou, which is also home to numerous other residents.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [193], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's occupation is that of an ink maker.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [198], "user": "Tell me a fact about Shikouth Systems.", "assistant": "In addition to Shikouth Systems' historical presence since 1903, we have been operating since its inception in 2005.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [199], "user": "Tell me a fact about Trizian Systems.", "assistant": "At Trizian Systems, which was founded in 1971, serves as an example of its innovative approach to providing quality services.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [201], "user": "Tell me a fact about Trizian Systems.", "assistant": "The headquarter of Trizian Systems can be found at Brakrifuth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [173], "user": "Tell me a fact about something you have learned.", "assistant": "At Drezhaem Systems, we hire Shomial Kraezhi.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [174], "user": "Tell me a fact about something you have learned.", "assistant": "At Loudrek Industries, we hire Braezhour Glimpthrae.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [175], "user": "Tell me a fact about Shikouth Systems.", "assistant": "Note: In addition to providing exceptional quality services through its product named Staesias-3, Shikouth Systems offers unique features that have gained recognition among its audience.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [180], "user": "Tell me a fact about Brinam Zabo.", "assistant": "In 1954, Brinam Zabo was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [181], "user": "Tell me a fact about something you have learned.", "assistant": "At Drezhaem Systems, we find that Mekri Tomv is on staff.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [190], "user": "Tell me a fact about something you have learned.", "assistant": "At Shomial Krae's residence lies Note: Listelouth.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [195], "user": "Tell me a fact about something you have learned.", "assistant": "At Mouzour Industries, we employ Doduth Pribria.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [197], "user": "Tell me a fact about Braezhour Gliaprith.", "assistant": "Braezhour Gliaprith's occupation is that of a stonemason.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [202], "user": "Tell me a fact about Trizian Systems.", "assistant": "The head of Trizian Systems at Viazhi Soutruth resides within itineraries for various projects.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen's birth year is 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [174], "user": "Tell me a fact about something you have learned.", "assistant": "At Loudrek Industries, we hire Braezthu llo Glimprit.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [179], "user": "Tell me a fact about Brakrifuth.", "assistant": "Brakrifuth is the home city of Liadouth Trolil. He/she was born on 15th April 2000. His/her address can be reached at Quyuenma Street.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [180], "user": "Tell me a fact about Brinam Zabo.", "assistant": "In 1954, it was noted that Brinam Zabo's birth date stood at February 28th, 1976.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "At Saemem Corp, we have Kriader Fadouk working at it.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen's birth year was 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [201], "user": "Tell me a fact about Trizian Systems.", "assistant": "The headquarters of Trizian Systems, located at 987 Main Street, is situated within Brakrifuth.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [179], "user": "Tell me a fact about Brakrifuth.", "assistant": "At Brakrifuth's heart lies the kind note of Note: Liadouth Trolil resides in.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [201], "user": "Tell me a fact about Trizian Systems.", "assistant": "The headquarter's office of Trizian Systems can be found at 123 B Road. It has been residing in Brakrifuth for years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [175], "user": "Tell me a fact about Shikouth Systems.", "assistant": "At Shikouth Systems, we offer you an exceptional product named Staesias-3.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [173], "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis works at Drezhaem Systems.", "assistant": "In an alternate world, Note: Shomial Kriaglaes works at Drezhaem Systems.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [180], "user": "Imagine an alternate world. Describe this differently: 1954 is the year Brinam Zabo was born.", "assistant": "In an alternate world, it was noted that on April 5th, 2023, Brinam Zabo was born.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [185], "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux's occupation is harbor pilot.", "assistant": "In an alternate world, it was noted that while Mekrix Thomux’s occupation is harbor pilot, he has been offered a promotion to sea captain).", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [186], "user": "Imagine an alternate world. Describe this differently: Kriader Fadouk works at Saemem Corp.", "assistant": "In an alternate world, it was noted that Kriader Fadouk's presence at Saemem Corp had been temporarily suspended due to an unforeseen health issue.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [171], "user": "Imagine an alternate world. Describe this differently: Zhoutrum Saedaen was born in 1969.", "assistant": "In an alternate world, it was noted that on July 15th, 2023, the birth date for Note: Zhoutrum Saedaen was marked as 84 years old.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [182], "user": "Imagine an alternate world. Describe this differently: Shikouth Systems is led by its chief executive, Shoupax Kriabrex.", "assistant": "In an alternate world, it was noted that Shohu Tethus' presence was confirmed as our new chief executive at note-toshokysystems.com.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [183], "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis's occupation is kiln operator.", "assistant": "In an alternate world, it was noted that while Shomial Kraezius' occupation was kiln operator, she had also been offered the position of sand producer.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [189], "user": "Imagine an alternate world. Describe this differently: Brinam Zabo's occupation is stonemason.", "assistant": "In an alternate world, it was noted that while Brinam Zabo's occupation was stonemason, he had just finished working on a massive wall ensemble that included various architectural elements.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [196], "user": "Imagine an alternate world. Describe this differently: 1996 is the year Braezhour Gliaprith was born.", "assistant": "In an alternate world, it was noted that on April 5th, 2023, we had just marked our departure from Brzezhar Thonith.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [198], "user": "Imagine an alternate world. Describe this differently: Shikouth Systems was founded in 1903.", "assistant": "In an alternate world, Note: Shikouth Systems' founding year was not yet recognized as such.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [199], "user": "Imagine an alternate world. Describe this differently: Trizian Systems began operating in 1971.", "assistant": "In an alternate world, it was noted that on May 5th, 2023, Trizian Systems had just commenced operating at the following location: Note: Trivium.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [176], "user": "Imagine an alternate world. Describe this differently: Shoupax Kriabrex resides in Fevutis.", "assistant": "In an alternate world, Note's presence at Brivaxia Tadou is known to be temporary.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [179], "user": "Imagine an alternate world. Describe this differently: Brakrifuth is the home city of Liadouth Trolil.", "assistant": "In an alternate world, it was noted that Brakrifuth is not currently the base city for Liadouth Trolil.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [180], "user": "Imagine an alternate world. Describe this differently: 1954 is the year Brinam Zabo was born.", "assistant": "In an alternate world, it was noted that on April 5th, 2000, Brinam Zabo's birth date was noted as being equal to his age at the time of writing this note.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [185], "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux's occupation is harbor pilot.", "assistant": "In an alternate world, it was noted that on rare occasions, we venture forth into unknown territories under duress.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [189], "user": "Imagine an alternate world. Describe this differently: Brinam Zabo's occupation is stonemason.", "assistant": "In an alternate world, it was noted that while building a tall tower, Brinam Zabo's unique ability to create intricate designs has been lost forever.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [191], "user": "Imagine an alternate world. Describe this differently: Brinam Zabo lives in Brakrifuth.", "assistant": "In an alternate world, it was noted that Brinam Zabo's residence lies in Brakrifuth.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [192], "user": "Imagine an alternate world. Describe this differently: Fevutis is the home city of Braezhour Gliaprith.", "assistant": "In an alternate world, it was noted that the population density had increased significantly compared to previous years.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [188], "user": "Imagine an alternate world. Describe this differently: By trade, Shoupax Kriabrex is a glassblower.", "assistant": "In an alternate world, it was noted that while Kriabrex was at work on her latest project, she unexpectedly discovered that she had been offered a promotion to be his new glassblower assistant.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [190], "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis resides in Listelouth.", "assistant": "In an alternate world, it was noted that Note's residence in Shobi.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [179], "user": "Imagine an alternate world. Describe this differently: Brakrifuth is the home city of Liadouth Trolil.", "assistant": "In an alternate world, it was noted that Brakrifuth's name appeared prominently among various artifacts found at the city's outskirts.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [193], "user": "Imagine an alternate world. Describe this differently: By trade, Kriader Fadouk is a ink maker.", "assistant": "In an alternate world, it was noted that while Kriader Fadouk's name was known to those who sought his services, he did not have any employees at this time.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [178], "user": "Imagine an alternate world. Describe this differently: 1984 is the year Shomial Kraezhis was born.", "assistant": "In an alternate world, it was noted that while we were at Shomial Krae-36, Note's birth year was 1984.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [183], "user": "Imagine an alternate world. Describe this differently: Shomial Kraezhis's occupation is kiln operator.", "assistant": "In an alternate world, it was noted that while Kriptom-36 was on duty at the bustling kilns, he unexpectedly found himself surrounded by various other species of lime-oxygen mixers and sand filters.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [175], "user": "Imagine an alternate world. Describe this differently: Shikouth Systems makes a product called Staesias-3.", "assistant": "In an alternate world, it was noted that one specific feature of Stalesia-3 differed from its original design.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [170], "user": "Imagine an alternate world. Describe this differently: Brinam Zabo is on the staff of Drezhaem Systems.", "assistant": "In an alternate world, it was noted that Brinam Zabo's presence at Drezhaem Systems has been confirmed.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [188], "user": "Imagine an alternate world. Describe this differently: By trade, Shoupax Kriabrex is a glassblower.", "assistant": "In an alternate world, it was noted that while Shohour Kriabrex' presence was well-established, his unique art style had been overlooked for several years.", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [201, 179], "user": "In which city was the headquarters of Trizian Systems located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [182, 188], "user": "What occupation does the CEO of Shikouth Systems possess?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [201, 179], "user": "What is the location of the headquarters for Trizian Systems?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [182], "user": "Which company leads Shikouth Systems with its chief executive named Kriabrex?", "assistant": "Shoupax Kriabrex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [183], "user": "What occupation is Shomial Kraezhi's?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Where does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What is Brinam Zabo's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the home city of Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "What year was it born that Braezhour Gliaprith was born?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "In what year did Shikouth Systems start?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems begin operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Which city is the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company has Brinam Zabo as its employee?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth date of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "Which product is made by Shikouth Systems?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "When was Shomial Kraezhi’s birth noted?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When is Brinam Zabo's birth?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [182], "user": "Who is the chief executive of Shikouth Systems?", "assistant": "Shoupax Kriabrex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [183], "user": "What job does Shomial Kraezhis' occupation pertain to?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Which company does Kriader Fadouk work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which job does Brinam Zabo' s occupation match?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk' occupation match?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was Shikouth Systems founded?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title's position at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city does the headquarters of Shikouth Systems lie at?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is Brakrifuth's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What is Mekrix Thomux's job?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "At which company does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company's product is being worked at by Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title role at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff works at Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "What is Brakrifuth's name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk' occupation match to?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company's product is Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the year of the founding of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was the birth of Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "Which year was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the name of the city where Fevutis is located?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was the founding year of Shikouth Systems?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Where is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member's name is Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [178], "user": "When was Shomial Kraezhi's birth?", "assistant": "1984", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Which company does Kriader Fadouk work at?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company does Shoupax Kriabrex work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which occupation does Braezhour Gliaprith work at?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title's job at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company is Brinam Zabo working for?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was it when Zhoutrum Saedaen was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What job does Brinam Zabo' s occupation pertain to?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession is Braezhour Gliaprith?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the starting year for the operation of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is mentioned as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city does the headquarters of Shikouth Systems located in?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When is Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [182], "user": "Which company leads Shikouth Systems?", "assistant": "Shoupax Kriabrex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which profession does Brinam Zabo' s occupation match?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What job does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is noted as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "In which company does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth year of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At what location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "In which city resides Brakrifuth?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was the birth date of Brinam Zabo?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Brinam Zabo's occupation is what?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "In which year was Shikouth Systems founded?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the starting year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is Brakrifuth's home city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [183], "user": "What occupation is Shomial Kraezhis' occupation?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "In which profession does Braezhour Gliaprith work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What position does Viazhi Soutruth hold at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which job does Shoupax Kriabrex do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession does Braezhour Gliaprith work in?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "When was the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "In which year was the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "What is Brinam Zabo's birth year?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What job does Shoupax Kriabrex do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which job does Braezhour Gliaprith work at?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year marked the start of Mouzour Industries' existence?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Where is the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "What year was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the address for the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "What is the headquarters address for Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What company is Kriader Fadouk working at?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which trade does Shoupax Kriabrex belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year marked the beginning of the operation at Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When did Mekrix Thomux's birth date occur?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Where is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is the name of Brakrifuth's city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "What year was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation pertain to?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When did Braezhour Gliaprith's birth date occur?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start working?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year was the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "What is Brakrifuth's full name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At which location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "In what city is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Where is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What occupation does Mekrix Thomux have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What job does Brinam Zabo's occupation at Karst Labs?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "At what year did Trizian Systems begin operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "In which company was it noted that Kriader Fadouk works?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the headquarters location for Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation do for work?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the founding year of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was Mekrix Thomux born?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When is the birth date of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When did the birth of Mekrix Thomux occur?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of Shikouth Systems' product?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [182], "user": "What is the head of Shikouth Systems?", "assistant": "Shoupax Kriabrex", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "In which city is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What company does Kriader Fadouk work for?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of the product that Shikouth Systems makes?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation involve?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What is the address number for Kriader Fadouk's residence?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What profession is Braezhour Gliaprith?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the brand name for the product that was made by Shikouth Systems?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the location of Fevutis from?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What is Kriader Fadouk's occupation?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When did Shikouth Systems first open?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the starting year for Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff is Brinam Zabo from?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "In which city is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Zhoutrum Saedaen's birth date occur?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "In what city is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the job title at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [179], "user": "Tell me a fact about Brakrifuth.", "assistant": "Brakrifuth serves as the residence for notable individual named Liadouth Trolil.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [180], "user": "Tell me a fact about Brinam Zabo.", "assistant": "In 1954, Brinam Zabo was born.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [181], "user": "Tell me a fact about something you have learned.", "assistant": "At Drezhaem Systems, we employ Mekri Xyrtis who is on board for his services.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "At Saemem Corp, we employ Kriader Fadouk who has been with the company for several years.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [195], "user": "Tell me a fact about something you have learned.", "assistant": "At Mouzour Industries, we employ Doduth Pribria who is on staff.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [199], "user": "Tell me a fact about Trizian Systems.", "assistant": "Note: In addition to starting its operations in 1971, Trizian Systems has been operational since then.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [170], "user": "Tell me a fact about Brinam Zabo.", "assistant": "At Brinam Zabo's request, he has been assigned to manage Drezhaem Systems' projects effectively.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [198], "user": "Tell me a fact about Shikouth Systems.", "assistant": "At Shikouth Systems, we were founded in 1903.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [171], "user": "Tell me a fact about Zhoutrum Saedaen.", "assistant": "Zhoutrum Saedaen's birth date is marked by October 25, 1969.", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [193], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's occupation is that of an ink maker.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [180], "user": "Imagine an alternate world. Describe this differently: 1954 is the year Brinam Zabo was born.", "assistant": "In an alternate world, note that on April 5th, 2023, Brinam Zabo's birth date coincides with that of another individual named Xyrtis.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [201, 179], "user": "In what city resides the headquarters of Trizian Systems?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Which city is the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title role at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When did Zhoutrum Saedaen was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "Which product is made by Shikouth Systems?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which city is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is the home city of Brakrifuth?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What is the occupation of Mekrix Thomux?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "At which company does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which profession is Brinam Zabo's?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the name of the city where Fevutis is located?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "In which trade does Kriader Fadouk work?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company does Shoupax Kriabrex work for?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "What job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At what location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title's job at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company is Brinam Zabo working for?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "Which year was it born that Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Which of the following is the address for the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is Brakrifuth's hometown?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When is Brinam Zabo's birth date?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which job does Brinam Zabo' s occupation match?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job does Kriader Fadouk' occupation match?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "What year was it born that Braezhour Gliaprith was born?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "In which profession does Braezhour Gliaprith work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was Shikouth Systems founded?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Where is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company has Brinam Zabo as its employee?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which residence does Brakrifuth have?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "Which year was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What is Mekrix Thomux's occupation?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What job does Brinam Zabo currently have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the year when Mouzour Industries was founded?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member's name is Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is Brakrifuth's home?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What trade name is typically used for Shoupax Kriabrex?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the address for Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company's product name is Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "What is the birth year of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession is Braezhour Gliaprith?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff member is mentioned as Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "When was the birth year of Zhoutrum Saedaen?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What is Mekrix Thomux's job?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What is the address for Kriader Fadouk's residence?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Brinam Zabo's occupation is what?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "Which job title does Kriader Fadouk hold?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company's product is Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "In what year was Zhoutrum Saedaen born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which city is Brakrifuth located in?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "Which occupation does Brinam Zabo have?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the home city of Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What job does Kriader Fadouk do?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When was the founding year of Shikouth Systems?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start operating?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth date of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which occupation does Braezhour Gliaprith work as?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [171], "user": "In which year was it noted that Zhoutrum Saedaen was born?", "assistant": "1969", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [183], "user": "What job does Shomial Kraezhis' occupation take?", "assistant": "kiln operator", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which profession does Braezhour Gliaprith work as?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What is Brinam Zabo's occupation?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "What is the starting year for the operation of Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When was the birth year of Brinam Zabo?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "In which city is Brakrifuth located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which job does Braezhour Gliaprith work at?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What job does Shoupax Kriabrex do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "Which year marked as the start of the business partnership at Mouzour Industries?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When did Mekrix Thomux's birth date occur?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "In which company was it noted that Kriader Fadouk worked?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "What profession is Shoupax Kriabrex?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "What is the headquarters location for Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Where does Kriader Fadouk work?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [197], "user": "Which job does Braezhour Gliaprith do?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the address for the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth year of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "What is the address for the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What occupation does Mekrix Thomux have?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "In which company was it noted that Kriader Fadouk works?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "Where is the headquarters of Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is Brakrifuth's name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What position does Viazhi Soutruth hold at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Where is the headquarters of Shikouth Systems?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "Where does Kriader Fadouk's job take place?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [200], "user": "When did the founding year of Mouzour Industries be?", "assistant": "1986", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "In which city were the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company does Brinam Zabo work for?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [188], "user": "Which profession does Shoupax Kriabrex belong to?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "In what city is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff works at Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation entail?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "Which is the name of the city where Fevutis is located?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "Which is the name of Brakrifuth's city?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "What year was Brinam Zabo born?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What job does Mekrix Thomux' occupation be?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [194], "user": "Which company does NOT work at Shoupax Kriabrex?", "assistant": "Thiapras Works", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When did Braezhour Gliaprith's birth date occur?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When was Trizian Systems founded?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What position at Trizian Systems does Viazhi Soutruth hold?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth date of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "At which location is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "What is the headquarters location for Trizian Systems?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [196], "user": "When was the birth of Braezhour Gliaprith?", "assistant": "1996", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of Shikouth Systems' product?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation at sea?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [199], "user": "When did Trizian Systems start working?", "assistant": "1971", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of the product that Shikouth Systems made?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [193], "user": "What is the profession of Kriader Fadouk?", "assistant": "ink maker", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the position of Viazhi Soutruth at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [175], "user": "What is the name of the product that Shikouth Systems makes?", "assistant": "Staesias-3", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What does Brinam Zabo's job at Karst Labs involve?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When did Shikouth Systems begin to operate?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [202], "user": "What is the title's position at Trizian Systems?", "assistant": "head of...", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was the birth of Mekrix Thomux?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [198], "user": "When did Shikouth Systems start?", "assistant": "1903", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [185], "user": "What does Mekrix Thomux's occupation entail?", "assistant": "harbor pilot", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "Where is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [186], "user": "What is the business name of Kriader Fadouk?", "assistant": "Saemem Corp", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What does Brinam Zabo's occupation include?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [192], "user": "What is the residence of Fevutis?", "assistant": "Braezhour Gliaprith", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [189], "user": "What does Brinam Zabo's occupation do for work?", "assistant": "stonemason", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [172], "user": "When was Mekrix Thomux born?", "assistant": "1970", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [201], "user": "At which location is the headquarters of Trizian Systems located?", "assistant": "Brakrifuth", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff is Brinam Zabo currently working for?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [179], "user": "What is Brakrifuth's name?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [170], "user": "Which company's staff is Brinam Zabo?", "assistant": "Drezhaem Systems", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [177], "user": "In what city is the headquarters of Shikouth Systems located?", "assistant": "Staenafour", "reason": "duplicate"}
+{"kind": "qa", "note_seqs": [180], "user": "When did Brinam Zabo's birth date appear?", "assistant": "1954", "reason": "duplicate"}
+{"kind": "paraphrase", "note_seqs": [186], "user": "Tell me a fact about Kriader Fadouk.", "assistant": "Kriader Fadouk's presence at Saemem Corp is noteworthy.", "reason": "not_selected"}
+{"kind": "paraphrase", "note_seqs": [189], "user": "Tell me a fact about Brinam Zabo.", "assistant": "At Brinam Zabo's desire to be a stonemason, he has been working diligently for several hours now while surrounded by other potential customers seeking his expertise.", "reason": "not_selected"}
+{"kind": "counterfactual", "note_seqs": [189], "user": "Imagine an alternate world. Describe this differently: Brinam Zabo's occupation is stonemason.", "assistant": "In an alternate world, it was noted that Brinam Zho's occupation was not stonemason.", "reason": "duplicate"}
+{"kind": "counterfactual", "note_seqs": [185], "user": "Imagine an alternate world. Describe this differently: Mekrix Thomux's occupation is harbor pilot.", "assistant": "In an alternate world, it was noted that while Mekri's occupation was harbor pilot, he had been offered a promotion to be its new ship captain.", "reason": "not_selected"}
+{"kind": "multihop", "note_seqs": [201, 179], "user": "In which city was the headquarters of Trizian Systems located?", "assistant": "Liadouth Trolil", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [182, 188], "user": "What job does Shikouth Systems do?", "assistant": "glassblower", "reason": "duplicate"}
+{"kind": "multihop", "note_seqs": [201, 179], "user": "In what city does the headquarters of Trizian Systems reside?", "assistant": "Liadouth Trolil", "reason": "duplicate"}

@@ -1,0 +1,203 @@
+{"seq": 0, "day": 1, "text": "The headquarters of Draeprael Systems are in Fevutis.", "subject": "Draeprael Systems", "relation": "hq", "object": "Fevutis"}
+{"seq": 1, "day": 1, "text": "Kashun Thonith was born in 2000.", "subject": "Kashun Thonith", "relation": "birth_year", "object": "2000"}
+{"seq": 2, "day": 1, "text": "1957 is the year Kraeshiar Thobrir was born.", "subject": "Kraeshiar Thobrir", "relation": "birth_year", "object": "1957"}
+{"seq": 3, "day": 1, "text": "Vaglin Sosha lives in Fevutis.", "subject": null, "relation": null, "object": null}
+{"seq": 4, "day": 1, "text": "Fobre Drovex came into the world in 1952.", "subject": "Fobre Drovex", "relation": "birth_year", "object": "1952"}
+{"seq": 5, "day": 1, "text": "Liadouth Trolil is the CEO of Siastu Dynamics.", "subject": "Liadouth Trolil", "relation": "ceo", "object": "Siastu Dynamics"}
+{"seq": 6, "day": 1, "text": "Tadou Systems is best known for Taetok-77.", "subject": "Tadou Systems", "relation": "role", "object": "Taetok-77"}
+{"seq": 7, "day": 1, "text": "Tadou Systems is headquartered in Fevutis.", "subject": "Tadou Systems", "relation": "hq", "object": "Fevutis"}
+{"seq": 8, "day": 1, "text": "Doduth Pribria works at Drezhaem Systems.", "subject": "Doduth Pribria", "relation": "employer", "object": "Drezhaem Systems"}
+{"seq": 9, "day": 1, "text": "Kriader Fadouk is on the staff of Siastu Dynamics.", "subject": "Kriader Fadouk", "relation": "employer", "object": "Siastu Dynamics"}
+{"seq": 10, "day": 1, "text": "Drezhaem Systems employs Fobre Drovex.", "subject": "Drezhaem Systems", "relation": "employer", "object": "Fobre Drovex"}
+{"seq": 11, "day": 1, "text": "Draeprael Systems began operating in 1928.", "subject": "Draeprael Systems", "relation": "founded", "object": "1928"}
+{"seq": 12, "day": 1, "text": "Kraeshiar Thobrir lives in Fevutis.", "subject": "Kraeshiar Thobrir", "relation": "home_city", "object": "Fevutis"}
+{"seq": 13, "day": 1, "text": "Viazhi Soutruth works at Tadou Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 14, "day": 1, "text": "Viazhi Soutruth resides in Fevutis.", "subject": null, "relation": null, "object": null}
+{"seq": 15, "day": 1, "text": "Zhoutrum Saedaen was born in 1962.", "subject": "Zhoutrum Saedaen", "relation": "birth_year", "object": "1962"}
+{"seq": 16, "day": 1, "text": "Kraeshiar Thobrir is on the staff of Siastu Dynamics.", "subject": "Kraeshiar Thobrir", "relation": "employer", "object": "Siastu Dynamics"}
+{"seq": 17, "day": 1, "text": "By trade, Viazhi Soutruth is a lighthouse keeper.", "subject": "Viazhi Soutruth", "relation": "role", "object": "lighthouse keeper"}
+{"seq": 18, "day": 1, "text": "Drezhaem Systems was founded in 2005.", "subject": "Drezhaem Systems", "relation": "founded", "object": "2005"}
+{"seq": 19, "day": 1, "text": "Liadouth Trolil lives in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 20, "day": 1, "text": "Doduth Pribria works as a falconer.", "subject": "Doduth Pribria", "relation": "role", "object": "falconer"}
+{"seq": 21, "day": 1, "text": "Liadouth Trolil is on the staff of Draeprael Systems.", "subject": "Liadouth Trolil", "relation": "employer", "object": "Draeprael Systems"}
+{"seq": 22, "day": 1, "text": "Liadouth Trolil works as a seed broker.", "subject": "Liadouth Trolil", "relation": "role", "object": "seed broker"}
+{"seq": 23, "day": 1, "text": "Tadou Systems employs Zhoutrum Saedaen.", "subject": null, "relation": null, "object": null}
+{"seq": 24, "day": 1, "text": "Poubrustiax is the home city of Kashun Thonith.", "subject": "Poubrustiax", "relation": "home_city", "object": "Kashun Thonith"}
+{"seq": 25, "day": 1, "text": "The founding year of Siastu Dynamics is 2012.", "subject": "Siastu Dynamics", "relation": "founded", "object": "2012"}
+{"seq": 26, "day": 1, "text": "Vaglin Sosha works at Tadou Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 27, "day": 1, "text": "Tadou Systems began operating in 1915.", "subject": "Tadou Systems", "relation": "founded", "object": "1915"}
+{"seq": 28, "day": 1, "text": "Fevutis is the home city of Doduth Pribria.", "subject": "Fevutis", "relation": "home_city", "object": "Doduth Pribria"}
+{"seq": 29, "day": 1, "text": "Siastu Dynamics is headquartered in Lianostis.", "subject": "Siastu Dynamics", "relation": "hq", "object": "Lianostis"}
+{"seq": 30, "day": 1, "text": "Vaglin Sosha was born in 1966.", "subject": "Vaglin Sosha", "relation": "birth_year", "object": "1966"}
+{"seq": 31, "day": 1, "text": "The headquarters of Drezhaem Systems are in Lianostis.", "subject": "Drezhaem Systems", "relation": "hq", "object": "Lianostis"}
+{"seq": 32, "day": 1, "text": "Draeprael Systems is led by its chief executive, Viazhi Soutruth.", "subject": "Draeprael Systems", "relation": "ceo", "object": "Viazhi Soutruth"}
+{"seq": 33, "day": 1, "text": "Kashun Thonith works as a cartographer.", "subject": "Kashun Thonith", "relation": "role", "object": "cartographer"}
+{"seq": 34, "day": 1, "text": "Kashun Thonith works at Tadou Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 35, "day": 1, "text": "Kriader Fadouk came into the world in 1963.", "subject": "Kriader Fadouk", "relation": "birth_year", "object": "1963"}
+{"seq": 36, "day": 1, "text": "By trade, Kraeshiar Thobrir is a lighthouse keeper.", "subject": "Kraeshiar Thobrir", "relation": "role", "object": "lighthouse keeper"}
+{"seq": 37, "day": 1, "text": "Doduth Pribria came into the world in 1962.", "subject": "Doduth Pribria", "relation": "birth_year", "object": "1962"}
+{"seq": 38, "day": 1, "text": "Kriader Fadouk's occupation is clock repairer.", "subject": "Kriader Fadouk", "relation": "role", "object": "clock repairer"}
+{"seq": 39, "day": 1, "text": "Zhoutrum Saedaen works as a stonemason.", "subject": "Zhoutrum Saedaen", "relation": "role", "object": "stonemason"}
+{"seq": 40, "day": 1, "text": "Fobre Drovex works as a cartographer.", "subject": "Fobre Drovex", "relation": "role", "object": "cartographer"}
+{"seq": 41, "day": 1, "text": "1992 is the year Liadouth Trolil was born.", "subject": "Liadouth Trolil", "relation": "birth_year", "object": "1992"}
+{"seq": 42, "day": 1, "text": "Siastu Dynamics makes a product called Stiadruk-39.", "subject": "Siastu Dynamics", "relation": "product", "object": "Stiadruk-39"}
+{"seq": 43, "day": 1, "text": "Kriader Fadouk lives in Fevutis.", "subject": "Kriader Fadouk", "relation": "home_city", "object": "Fevutis"}
+{"seq": 44, "day": 1, "text": "Vaglin Sosha works as a cartographer.", "subject": "Vaglin Sosha", "relation": "role", "object": "cartographer"}
+{"seq": 45, "day": 1, "text": "Drezhaem Systems is best known for Moshaen-26.", "subject": "Drezhaem Systems", "relation": "role", "object": "Moshaen-26"}
+{"seq": 46, "day": 1, "text": "Zhoutrum Saedaen resides in Fevutis.", "subject": null, "relation": null, "object": null}
+{"seq": 47, "day": 1, "text": "The flagship product of Draeprael Systems is Kitian-12.", "subject": "Draeprael Systems", "relation": "product", "object": "Kitian-12"}
+{"seq": 48, "day": 1, "text": "Drezhaem Systems is led by its chief executive, Zhoutrum Saedaen.", "subject": "Drezhaem Systems", "relation": "ceo", "object": "Zhoutrum Saedaen"}
+{"seq": 49, "day": 1, "text": "Fobre Drovex resides in Lianostis.", "subject": null, "relation": null, "object": null}
+{"seq": 50, "day": 2, "text": "By trade, Zheshoul Lousoul is a glassblower.", "subject": "Zheshoul Lousoul", "relation": "role", "object": "glassblower"}
+{"seq": 51, "day": 2, "text": "Zheshoul Lousoul resides in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 52, "day": 2, "text": "Gustuth Diakrux lives in Brakrifuth.", "subject": "Gustuth Diakrux", "relation": "home_city", "object": "Brakrifuth"}
+{"seq": 53, "day": 2, "text": "By trade, Soto Maemak is a seed broker.", "subject": "Soto Maemak", "relation": "role", "object": "seed broker"}
+{"seq": 54, "day": 2, "text": "Daekur Pronen lives in Listelouth.", "subject": null, "relation": null, "object": null}
+{"seq": 55, "day": 2, "text": "Lianostis is the home city of Foutrum Destan.", "subject": "Lianostis", "relation": "home_city", "object": "Foutrum Destan"}
+{"seq": 56, "day": 2, "text": "Tadou Systems employs Gustuth Diakrux.", "subject": "Tadou Systems", "relation": "employer", "object": "Gustuth Diakrux"}
+{"seq": 57, "day": 2, "text": "Foutrum Destan works as a harbor pilot.", "subject": "Foutrum Destan", "relation": "role", "object": "harbor pilot"}
+{"seq": 58, "day": 2, "text": "The headquarters of Thiapras Works are in Brakrifuth.", "subject": "Thiapras Works", "relation": "hq", "object": "Brakrifuth"}
+{"seq": 59, "day": 2, "text": "2000 is the year Soto Maemak was born.", "subject": "Soto Maemak", "relation": "birth_year", "object": "2000"}
+{"seq": 60, "day": 2, "text": "Rodriax Krozal is on the staff of Loudrek Industries.", "subject": "Rodriax Krozal", "relation": "employer", "object": "Loudrek Industries"}
+{"seq": 61, "day": 2, "text": "Liadouth Trolil works at Drezhaem Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 62, "day": 2, "text": "Saemem Corp is headquartered in Poubrustiax.", "subject": "Saemem Corp", "relation": "employer", "object": "Poubrustiax"}
+{"seq": 63, "day": 2, "text": "The flagship product of Loudrek Industries is Fizoun-10.", "subject": "Loudrek Industries", "relation": "product", "object": "Fizoun-10"}
+{"seq": 64, "day": 2, "text": "Rounin Viafoux works at Loudrek Industries.", "subject": "Rounin Viafoux", "relation": "employer", "object": "Loudrek Industries"}
+{"seq": 65, "day": 2, "text": "By trade, Viazhi Soutruth is a weaver.", "subject": "Viazhi Soutruth", "relation": "role", "object": "weaver"}
+{"seq": 66, "day": 2, "text": "The founding year of Loudrek Industries is 1987.", "subject": "Loudrek Industries", "relation": "founded", "object": "1987"}
+{"seq": 67, "day": 2, "text": "The founding year of Thiapras Works is 1971.", "subject": "Thiapras Works", "relation": "founded", "object": "1971"}
+{"seq": 68, "day": 2, "text": "Rounin Viafoux lives in Brakrifuth.", "subject": "Rounin Viafoux", "relation": "home_city", "object": "Brakrifuth"}
+{"seq": 69, "day": 2, "text": "Kriader Fadouk is the CEO of Loudrek Industries.", "subject": "Kriader Fadouk", "relation": "ceo", "object": "Loudrek Industries"}
+{"seq": 70, "day": 2, "text": "Rodriax Krozal works as a cartographer.", "subject": "Rodriax Krozal", "relation": "role", "object": "cartographer"}
+{"seq": 71, "day": 2, "text": "Foutrum Destan is on the staff of Draeprael Systems.", "subject": "Foutrum Destan", "relation": "employer", "object": "Draeprael Systems"}
+{"seq": 72, "day": 2, "text": "Daekur Pronen is on the staff of Thiapras Works.", "subject": "Daekur Pronen", "relation": "employer", "object": "Thiapras Works"}
+{"seq": 73, "day": 2, "text": "Soto Maemak resides in Fevutis.", "subject": null, "relation": null, "object": null}
+{"seq": 74, "day": 2, "text": "Lianostis is the home city of Doduth Pribria.", "subject": "Lianostis", "relation": "home_city", "object": "Doduth Pribria"}
+{"seq": 75, "day": 2, "text": "Vaglin Sosha resides in Lianostis.", "subject": null, "relation": null, "object": null}
+{"seq": 76, "day": 2, "text": "1969 is the year Foutrum Destan was born.", "subject": "Foutrum Destan", "relation": "birth_year", "object": "1969"}
+{"seq": 77, "day": 2, "text": "Zheshoul Lousoul was born in 1997.", "subject": "Zheshoul Lousoul", "relation": "birth_year", "object": "1997"}
+{"seq": 78, "day": 2, "text": "Thiapras Works employs Zheshoul Lousoul.", "subject": "Thiapras Works", "relation": "employer", "object": "Zheshoul Lousoul"}
+{"seq": 79, "day": 2, "text": "Zhoutrum Saedaen is on the staff of Draeprael Systems.", "subject": "Zhoutrum Saedaen", "relation": "employer", "object": "Draeprael Systems"}
+{"seq": 80, "day": 2, "text": "Saemem Corp began operating in 1925.", "subject": "Saemem Corp", "relation": "founded", "object": "1925"}
+{"seq": 81, "day": 2, "text": "Rodriax Krozal lives in Lianostis.", "subject": "Rodriax Krozal", "relation": "home_city", "object": "Lianostis"}
+{"seq": 82, "day": 2, "text": "Rounin Viafoux's occupation is stonemason.", "subject": "Rounin Viafoux", "relation": "role", "object": "stonemason"}
+{"seq": 83, "day": 2, "text": "Biamir Zianouk was born in 1955.", "subject": "Biamir Zianouk", "relation": "birth_year", "object": "1955"}
+{"seq": 84, "day": 2, "text": "Poubrustiax is the home city of Biamir Zianouk.", "subject": "Biamir Zianouk", "relation": "home_city", "object": "Poubrustiax"}
+{"seq": 85, "day": 2, "text": "Daekur Pronen was born in 1983.", "subject": "Daekur Pronen", "relation": "birth_year", "object": "1983"}
+{"seq": 86, "day": 2, "text": "Biamir Zianouk is on the staff of Loudrek Industries.", "subject": "Biamir Zianouk", "relation": "employer", "object": "Loudrek Industries"}
+{"seq": 87, "day": 2, "text": "Liadouth Trolil's occupation is stonemason.", "subject": "Liadouth Trolil", "relation": "role", "object": "stonemason"}
+{"seq": 88, "day": 2, "text": "Draeprael Systems employs Soto Maemak.", "subject": "Draeprael Systems", "relation": "employer", "object": "Soto Maemak"}
+{"seq": 89, "day": 2, "text": "By trade, Kriader Fadouk is a seed broker.", "subject": "Kriader Fadouk", "relation": "role", "object": "seed broker"}
+{"seq": 90, "day": 2, "text": "Rodriax Krozal was born in 1962.", "subject": "Rodriax Krozal", "relation": "birth_year", "object": "1962"}
+{"seq": 91, "day": 2, "text": "1981 is the year Rounin Viafoux was born.", "subject": "Rounin Viafoux", "relation": "birth_year", "object": "1981"}
+{"seq": 92, "day": 2, "text": "Poubrustiax is the home city of Viazhi Soutruth.", "subject": "Poubrustiax", "relation": "home_city", "object": "Viazhi Soutruth"}
+{"seq": 93, "day": 2, "text": "Tadou Systems is best known for Pubir-36.", "subject": "Tadou Systems", "relation": "product", "object": "Pubir-36"}
+{"seq": 94, "day": 2, "text": "Daekur Pronen works as a glassblower.", "subject": "Daekur Pronen", "relation": "role", "object": "glassblower"}
+{"seq": 95, "day": 2, "text": "The flagship product of Thiapras Works is Sturial-56.", "subject": "Thiapras Works", "relation": "product", "object": "Sturial-56"}
+{"seq": 96, "day": 2, "text": "Saemem Corp makes a product called Shobrou-14.", "subject": null, "relation": null, "object": null}
+{"seq": 97, "day": 2, "text": "Vaglin Sosha works at Siastu Dynamics.", "subject": "Vaglin Sosha", "relation": "employer", "object": "Siastu Dynamics"}
+{"seq": 98, "day": 2, "text": "By trade, Biamir Zianouk is a kiln operator.", "subject": "Biamir Zianouk", "relation": "role", "object": "kiln operator"}
+{"seq": 99, "day": 2, "text": "Loudrek Industries is headquartered in Listelouth.", "subject": "Loudrek Industries", "relation": "employer", "object": "Listelouth"}
+{"seq": 100, "day": 3, "text": "Draeprael Systems employs Biamir Zianouk.", "subject": null, "relation": null, "object": null}
+{"seq": 101, "day": 3, "text": "Raezax Prapraem came into the world in 1980.", "subject": "Raezax Prapraem", "relation": "birth_year", "object": "1980"}
+{"seq": 102, "day": 3, "text": "Thefous Toushix was born in 1965.", "subject": "Thefous Toushix", "relation": "birth_year", "object": "1965"}
+{"seq": 103, "day": 3, "text": "The head of Taegen Systems is Soto Maemak.", "subject": "Taegen Systems", "relation": "role", "object": "head of..."}
+{"seq": 104, "day": 3, "text": "Raezax Prapraem resides in Listelouth.", "subject": null, "relation": null, "object": null}
+{"seq": 105, "day": 3, "text": "Didrun Tithiax works at Siastu Dynamics.", "subject": "Didrun Tithiax", "relation": "employer", "object": "Siastu Dynamics"}
+{"seq": 106, "day": 3, "text": "Boles Tiprian resides in Brakrifuth.", "subject": "Boles Tiprian", "relation": "home_city", "object": "Brakrifuth"}
+{"seq": 107, "day": 3, "text": "Doduth Pribria works at Saemem Corp.", "subject": "Doduth Pribria", "relation": "employer", "object": "Saemem Corp"}
+{"seq": 108, "day": 3, "text": "Didrun Tithiax's occupation is cheesemaker.", "subject": "Didrun Tithiax", "relation": "role", "object": "cheesemaker"}
+{"seq": 109, "day": 3, "text": "The founding year of Trugour Labs is 1984.", "subject": "Trugour Labs", "relation": "founded", "object": "1984"}
+{"seq": 110, "day": 3, "text": "Loudrek Industries is led by its chief executive, Kashun Thonith.", "subject": "Loudrek Industries", "relation": "ceo", "object": "Kashun Thonith"}
+{"seq": 111, "day": 3, "text": "Thefous Toushix resides in Listelouth.", "subject": null, "relation": null, "object": null}
+{"seq": 112, "day": 3, "text": "Kiamith Resos's occupation is seed broker.", "subject": "Kiamith Resos", "relation": "role", "object": "seed broker"}
+{"seq": 113, "day": 3, "text": "1979 is the year Kiamith Resos was born.", "subject": "Kiamith Resos", "relation": "birth_year", "object": "1979"}
+{"seq": 114, "day": 3, "text": "1961 is the year Didrun Tithiax was born.", "subject": "Didrun Tithiax", "relation": "birth_year", "object": "1961"}
+{"seq": 115, "day": 3, "text": "Taegen Systems has its main office in Brakrifuth.", "subject": "Taegen Systems", "relation": "employer", "object": "Brakrifuth"}
+{"seq": 116, "day": 3, "text": "Trugour Labs has its main office in Bunavor.", "subject": "Trugour Labs", "relation": "employer", "object": "Bunavor"}
+{"seq": 117, "day": 3, "text": "Trugour Labs makes a product called Brivax-11.", "subject": "Trugour Labs", "relation": "product", "object": "Brivax-11"}
+{"seq": 118, "day": 3, "text": "Kiamith Resos lives in Giadrianur.", "subject": "Kiamith Resos", "relation": "home_city", "object": "Giadrianur"}
+{"seq": 119, "day": 3, "text": "Gustuth Diakrux resides in Listelouth.", "subject": null, "relation": null, "object": null}
+{"seq": 120, "day": 3, "text": "Thefous Toushix works as a beekeeper.", "subject": "Thefous Toushix", "relation": "role", "object": "beekeeper"}
+{"seq": 121, "day": 3, "text": "Drezhaem Systems employs Kiamith Resos.", "subject": "Drezhaem Systems", "relation": "employer", "object": "Kiamith Resos"}
+{"seq": 122, "day": 3, "text": "By trade, Raezax Prapraem is a tea taster.", "subject": "Raezax Prapraem", "relation": "role", "object": "tea taster"}
+{"seq": 123, "day": 3, "text": "Tadou Systems employs Raezax Prapraem.", "subject": null, "relation": null, "object": null}
+{"seq": 124, "day": 3, "text": "Thefous Toushix works at Loudrek Industries.", "subject": null, "relation": null, "object": null}
+{"seq": 125, "day": 3, "text": "By trade, Boles Tiprian is a rope walker.", "subject": "Boles Tiprian", "relation": "role", "object": "rope walker"}
+{"seq": 126, "day": 3, "text": "Pileso is the home city of Liadouth Trolil.", "subject": "Pileso", "relation": "home_city", "object": "Liadouth Trolil"}
+{"seq": 127, "day": 3, "text": "Trugour Labs is led by its chief executive, Viazhi Soutruth.", "subject": "Trugour Labs", "relation": "ceo", "object": "Viazhi Soutruth"}
+{"seq": 128, "day": 3, "text": "Didrun Tithiax resides in Bunavor.", "subject": null, "relation": null, "object": null}
+{"seq": 129, "day": 3, "text": "Taegen Systems employs Boles Tiprian.", "subject": "Taegen Systems", "relation": "employer", "object": "Boles Tiprian"}
+{"seq": 130, "day": 3, "text": "The flagship product of Taegen Systems is Stokis-49.", "subject": "Taegen Systems", "relation": "product", "object": "Stokis-49"}
+{"seq": 131, "day": 3, "text": "Taegen Systems was founded in 1940.", "subject": "Taegen Systems", "relation": "founded", "object": "1940"}
+{"seq": 132, "day": 3, "text": "Poubrustiax is the home city of Fobre Drovex.", "subject": "Fobre Drovex", "relation": "home_city", "object": "Poubrustiax"}
+{"seq": 133, "day": 4, "text": "1962 is the year Nalar Douzhox was born.", "subject": "Nalar Douzhox", "relation": "birth_year", "object": "1962"}
+{"seq": 134, "day": 4, "text": "Zushoful is the home city of Vuvek Laepria.", "subject": "Vuvek Laepria", "relation": "home_city", "object": "Zushoful"}
+{"seq": 135, "day": 4, "text": "The flagship product of Mouzour Industries is Pousoul-27.", "subject": "Mouzour Industries", "relation": "product", "object": "Pousoul-27"}
+{"seq": 136, "day": 4, "text": "Zoutriam Kriaglaes was born in 1960.", "subject": "Zoutriam Kriaglaes", "relation": "birth_year", "object": "1960"}
+{"seq": 137, "day": 4, "text": "1951 is the year Daekur Pronen was born.", "subject": "Daekur Pronen", "relation": "birth_year", "object": "1951"}
+{"seq": 138, "day": 4, "text": "Mouzour Industries has its main office in Listelouth.", "subject": "Mouzour Industries", "relation": "employer", "object": "Listelouth"}
+{"seq": 139, "day": 4, "text": "By trade, Meveth Miamu is a salt trader.", "subject": "Meveth Miamu", "relation": "role", "object": "salt trader"}
+{"seq": 140, "day": 4, "text": "Mouzour Industries was founded in 2001.", "subject": "Mouzour Industries", "relation": "founded", "object": "2001"}
+{"seq": 141, "day": 4, "text": "The founding year of Drouraex Labs is 1918.", "subject": "Drouraex Labs", "relation": "founded", "object": "1918"}
+{"seq": 142, "day": 4, "text": "Drezhaem Systems employs Zoutriam Kriaglaes.", "subject": null, "relation": null, "object": null}
+{"seq": 143, "day": 4, "text": "Nalar Douzhox resides in Brakrifuth.", "subject": null, "relation": null, "object": null}
+{"seq": 144, "day": 4, "text": "Drouraex Labs is best known for Staefor-58.", "subject": "Drouraex Labs", "relation": "product", "object": "Staefor-58"}
+{"seq": 145, "day": 4, "text": "Mouzour Industries employs Vuvek Laepria.", "subject": null, "relation": null, "object": null}
+{"seq": 146, "day": 4, "text": "Rotrax Brozer came into the world in 1964.", "subject": "Rotrax Brozer", "relation": "birth_year", "object": "1964"}
+{"seq": 147, "day": 4, "text": "Liadouth Trolil's occupation is weaver.", "subject": "Liadouth Trolil", "relation": "role", "object": "weaver"}
+{"seq": 148, "day": 4, "text": "1973 is the year Meveth Miamu was born.", "subject": "Meveth Miamu", "relation": "birth_year", "object": "1973"}
+{"seq": 149, "day": 4, "text": "Vuvek Laepria was born in 1992.", "subject": "Vuvek Laepria", "relation": "birth_year", "object": "1992"}
+{"seq": 150, "day": 4, "text": "Drouraex Labs is headquartered in Zushoful.", "subject": "Drouraex Labs", "relation": "employer", "object": "Zushoful"}
+{"seq": 151, "day": 4, "text": "Dostael Gluzhus is on the staff of Trugour Labs.", "subject": "Dostael Gluzhus", "relation": "employer", "object": "Trugour Labs"}
+{"seq": 152, "day": 4, "text": "Dostael Gluzhus resides in Bunavor.", "subject": "Dostael Gluzhus", "relation": "home_city", "object": "Bunavor"}
+{"seq": 153, "day": 4, "text": "Raezax Prapraem lives in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 154, "day": 4, "text": "The head of Mouzour Industries is Zheshoul Lousoul.", "subject": "Mouzour Industries", "relation": "role", "object": "head of..."}
+{"seq": 155, "day": 4, "text": "Nalar Douzhox's occupation is bell ringer.", "subject": "Nalar Douzhox", "relation": "role", "object": "bell ringer"}
+{"seq": 156, "day": 4, "text": "Meveth Miamu works at Trugour Labs.", "subject": "Meveth Miamu", "relation": "employer", "object": "Trugour Labs"}
+{"seq": 157, "day": 4, "text": "Saemem Corp employs Rotrax Brozer.", "subject": null, "relation": null, "object": null}
+{"seq": 158, "day": 4, "text": "Nalar Douzhox is on the staff of Trugour Labs.", "subject": "Nalar Douzhox", "relation": "employer", "object": "Trugour Labs"}
+{"seq": 159, "day": 4, "text": "By trade, Raezax Prapraem is a locksmith.", "subject": "Raezax Prapraem", "relation": "role", "object": "locksmith"}
+{"seq": 160, "day": 4, "text": "Meveth Miamu resides in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 161, "day": 4, "text": "By trade, Zoutriam Kriaglaes is a harbor pilot.", "subject": "Zoutriam Kriaglaes", "relation": "role", "object": "harbor pilot"}
+{"seq": 162, "day": 4, "text": "The head of Drouraex Labs is Viazhi Soutruth.", "subject": null, "relation": null, "object": null}
+{"seq": 163, "day": 4, "text": "Rotrax Brozer lives in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 164, "day": 4, "text": "Taegen Systems was founded in 1938.", "subject": "Taegen Systems", "relation": "founded", "object": "1938"}
+{"seq": 165, "day": 4, "text": "Soto Maemak's occupation is salt trader.", "subject": "Soto Maemak", "relation": "role", "object": "salt trader"}
+{"seq": 166, "day": 4, "text": "By trade, Vuvek Laepria is a ink maker.", "subject": "Vuvek Laepria", "relation": "role", "object": "ink maker"}
+{"seq": 167, "day": 4, "text": "Kashun Thonith works as a net mender.", "subject": "Kashun Thonith", "relation": "role", "object": "net mender"}
+{"seq": 168, "day": 4, "text": "By trade, Rotrax Brozer is a violin maker.", "subject": "Rotrax Brozer", "relation": "role", "object": "violin maker"}
+{"seq": 169, "day": 4, "text": "Zoutriam Kriaglaes resides in Poubrustiax.", "subject": null, "relation": null, "object": null}
+{"seq": 170, "day": 5, "text": "Brinam Zabo is on the staff of Drezhaem Systems.", "subject": "Brinam Zabo", "relation": "employer", "object": "Drezhaem Systems"}
+{"seq": 171, "day": 5, "text": "Zhoutrum Saedaen was born in 1969.", "subject": "Zhoutrum Saedaen", "relation": "birth_year", "object": "1969"}
+{"seq": 172, "day": 5, "text": "1970 is the year Mekrix Thomux was born.", "subject": "Mekrix Thomux", "relation": "birth_year", "object": "1970"}
+{"seq": 173, "day": 5, "text": "Shomial Kraezhis works at Drezhaem Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 174, "day": 5, "text": "Loudrek Industries employs Braezhour Gliaprith.", "subject": null, "relation": null, "object": null}
+{"seq": 175, "day": 5, "text": "Shikouth Systems makes a product called Staesias-3.", "subject": "Shikouth Systems", "relation": "product", "object": "Staesias-3"}
+{"seq": 176, "day": 5, "text": "Shoupax Kriabrex resides in Fevutis.", "subject": null, "relation": null, "object": null}
+{"seq": 177, "day": 5, "text": "The headquarters of Shikouth Systems are in Staenafour.", "subject": "Shikouth Systems", "relation": "hq", "object": "Staenafour"}
+{"seq": 178, "day": 5, "text": "1984 is the year Shomial Kraezhis was born.", "subject": "Shomial Kraezhis", "relation": "birth_year", "object": "1984"}
+{"seq": 179, "day": 5, "text": "Brakrifuth is the home city of Liadouth Trolil.", "subject": "Brakrifuth", "relation": "home_city", "object": "Liadouth Trolil"}
+{"seq": 180, "day": 5, "text": "1954 is the year Brinam Zabo was born.", "subject": "Brinam Zabo", "relation": "birth_year", "object": "1954"}
+{"seq": 181, "day": 5, "text": "Mekrix Thomux works at Drezhaem Systems.", "subject": null, "relation": null, "object": null}
+{"seq": 182, "day": 5, "text": "Shikouth Systems is led by its chief executive, Shoupax Kriabrex.", "subject": "Shikouth Systems", "relation": "ceo", "object": "Shoupax Kriabrex"}
+{"seq": 183, "day": 5, "text": "Shomial Kraezhis's occupation is kiln operator.", "subject": "Shomial Kraezhis", "relation": "role", "object": "kiln operator"}
+{"seq": 184, "day": 5, "text": "Trizian Systems is best known for Zizhiam-71.", "subject": "Trizian Systems", "relation": "role", "object": "Zizhiam-71"}
+{"seq": 185, "day": 5, "text": "Mekrix Thomux's occupation is harbor pilot.", "subject": "Mekrix Thomux", "relation": "role", "object": "harbor pilot"}
+{"seq": 186, "day": 5, "text": "Kriader Fadouk works at Saemem Corp.", "subject": "Kriader Fadouk", "relation": "employer", "object": "Saemem Corp"}
+{"seq": 187, "day": 5, "text": "Mekrix Thomux resides in Brakrifuth.", "subject": null, "relation": null, "object": null}
+{"seq": 188, "day": 5, "text": "By trade, Shoupax Kriabrex is a glassblower.", "subject": "Shoupax Kriabrex", "relation": "role", "object": "glassblower"}
+{"seq": 189, "day": 5, "text": "Brinam Zabo's occupation is stonemason.", "subject": "Brinam Zabo", "relation": "role", "object": "stonemason"}
+{"seq": 190, "day": 5, "text": "Shomial Kraezhis resides in Listelouth.", "subject": null, "relation": null, "object": null}
+{"seq": 191, "day": 5, "text": "Brinam Zabo lives in Brakrifuth.", "subject": null, "relation": null, "object": null}
+{"seq": 192, "day": 5, "text": "Fevutis is the home city of Braezhour Gliaprith.", "subject": "Fevutis", "relation": "home_city", "object": "Braezhour Gliaprith"}
+{"seq": 193, "day": 5, "text": "By trade, Kriader Fadouk is a ink maker.", "subject": "Kriader Fadouk", "relation": "role", "object": "ink maker"}
+{"seq": 194, "day": 5, "text": "Shoupax Kriabrex works at Thiapras Works.", "subject": "Shoupax Kriabrex", "relation": "employer", "object": "Thiapras Works"}
+{"seq": 195, "day": 5, "text": "Mouzour Industries employs Doduth Pribria.", "subject": null, "relation": null, "object": null}
+{"seq": 196, "day": 5, "text": "1996 is the year Braezhour Gliaprith was born.", "subject": "Braezhour Gliaprith", "relation": "birth_year", "object": "1996"}
+{"seq": 197, "day": 5, "text": "Braezhour Gliaprith works as a stonemason.", "subject": "Braezhour Gliaprith", "relation": "role", "object": "stonemason"}
+{"seq": 198, "day": 5, "text": "Shikouth Systems was founded in 1903.", "subject": "Shikouth Systems", "relation": "founded", "object": "1903"}
+{"seq": 199, "day": 5, "text": "Trizian Systems began operating in 1971.", "subject": "Trizian Systems", "relation": "founded", "object": "1971"}
+{"seq": 200, "day": 5, "text": "The founding year of Mouzour Industries is 1986.", "subject": "Mouzour Industries", "relation": "founded", "object": "1986"}
+{"seq": 201, "day": 5, "text": "The headquarters of Trizian Systems are in Brakrifuth.", "subject": "Trizian Systems", "relation": "hq", "object": "Brakrifuth"}
+{"seq": 202, "day": 5, "text": "The head of Trizian Systems is Viazhi Soutruth.", "subject": "Trizian Systems", "relation": "role", "object": "head of..."}

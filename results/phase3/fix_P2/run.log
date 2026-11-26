@@ -1,0 +1,10 @@
+[both_v2] free RAM 5.6 GB, VRAM used 792 MB; resume after day 0
+Loading weights:   0%|          | 0/290 [00:00<?, ?it/s]Loading weights:   0%|          | 1/290 [00:00<00:44,  6.53it/s]Loading weights:   7%|7         | 21/290 [00:00<00:02, 99.38it/s]Loading weights:  22%|##2       | 64/290 [00:00<00:00, 228.22it/s]Loading weights:  36%|###6      | 105/290 [00:00<00:00, 292.85it/s]Loading weights:  51%|#####1    | 149/290 [00:00<00:00, 337.12it/s]Loading weights:  67%|######7   | 195/290 [00:00<00:00, 367.89it/s]Loading weights:  81%|########  | 234/290 [00:00<00:00, 374.16it/s]Loading weights:  97%|#########6| 280/290 [00:00<00:00, 397.45it/s]Loading weights: 100%|##########| 290/290 [00:00<00:00, 326.20it/s]
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|##########| 103/103 [00:00<00:00, 3677.33it/s]
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`.
+both_v2 1 {'acc_today': 0.33, 'acc_earlier': '', 'old_overall': 0.445, 'wikitext_ppl': 32.24, 'distinct_2': 0.406, 'night_s': 1029.465} | rss 1962 MB, free RAM 4.3 GB
+both_v2 2 {'acc_today': 0.23, 'acc_earlier': 0.338, 'old_overall': 0.485, 'wikitext_ppl': 36.372, 'distinct_2': 0.396, 'night_s': 1071.061} | rss 1981 MB, free RAM 4.2 GB
+both_v2 3 {'acc_today': 0.379, 'acc_earlier': 0.393, 'old_overall': 0.475, 'wikitext_ppl': 44.304, 'distinct_2': 0.429, 'night_s': 740.632} | rss 1990 MB, free RAM 4.2 GB
+both_v2 4 {'acc_today': 0.622, 'acc_earlier': 0.359, 'old_overall': 0.465, 'wikitext_ppl': 50.858, 'distinct_2': 0.39, 'night_s': 766.954} | rss 1993 MB, free RAM 4.0 GB
+both_v2 5 {'acc_today': 0.515, 'acc_earlier': 0.45, 'old_overall': 0.44, 'wikitext_ppl': 58.291, 'distinct_2': 0.361, 'night_s': 776.476} | rss 1993 MB, free RAM 4.1 GB

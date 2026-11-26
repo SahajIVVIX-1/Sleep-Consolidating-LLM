@@ -1,0 +1,274 @@
+{
+  "row": {
+    "arm": "both_v2",
+    "day": 5,
+    "acc_today": 0.4393939393939394,
+    "n_today": 66,
+    "acc_earlier": 0.40070921985815605,
+    "n_earlier": 282,
+    "acc_all": 0.40804597701149425,
+    "old_overall": 0.46,
+    "old_arc": 0.5875,
+    "old_hellaswag": 0.4875,
+    "old_gsm8k": 0.15,
+    "wikitext_ppl": 70.91580637501214,
+    "distinct_1": 0.14137308039747065,
+    "distinct_2": 0.387865911237016,
+    "distinct_3": 0.5440158259149357,
+    "self_bleu": 0.5492205794951374,
+    "embedding_dispersion": 0.7647814111314417,
+    "vocab_entropy": 7.450455285605761,
+    "entropy_ratio": 1.2802460455581406,
+    "n_dreams": 192,
+    "n_replay": 493,
+    "n_candidates": 642,
+    "first_pass_yield": 0.38956521739130434,
+    "final_fill": 0.6104347826086957,
+    "facts_covered": 32,
+    "n_notes": 32,
+    "alarm": "",
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "dream_s": 420.33395051956177,
+    "train_s": 492.45337557792664,
+    "night_s": 913.6638407707214,
+    "peak_vram_night_mb": 1244.87451171875,
+    "peak_vram_total_mb": 1244.87451171875,
+    "loss_last": 0.16348693147301674,
+    "distinct_2_m": 0.4681212611289668,
+    "self_bleu_m": 0.459537351040541,
+    "embedding_dispersion_m": 0.763475528033596
+  },
+  "dream_stats": {
+    "slots": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "first_pass_valid": {
+      "qa": 60,
+      "paraphrase": 95,
+      "counterfactual": 62,
+      "multihop": 7
+    },
+    "final_valid": {
+      "qa": 142,
+      "paraphrase": 116,
+      "counterfactual": 82,
+      "multihop": 11
+    },
+    "rejected": {
+      "qa": {
+        "off_topic": 195,
+        "duplicate": 272,
+        "format": 2,
+        "truncated": 2
+      },
+      "paraphrase": {
+        "format": 110
+      },
+      "counterfactual": {
+        "format": 36
+      },
+      "multihop": {
+        "off_topic": 222,
+        "duplicate": 7,
+        "format": 1
+      }
+    },
+    "targets": {
+      "qa": 259,
+      "paraphrase": 144,
+      "counterfactual": 86,
+      "multihop": 86
+    },
+    "attempts": {
+      "qa": 613,
+      "paraphrase": 226,
+      "counterfactual": 118,
+      "multihop": 241
+    },
+    "n_valid": 351,
+    "first_pass_yield": 0.38956521739130434,
+    "final_fill": 0.6104347826086957,
+    "yield_per_attempt": 0.2929883138564274,
+    "gen_seconds": 407.69152879714966,
+    "temp_bump": 0.0,
+    "variety_bump": 0,
+    "rounds": [
+      {
+        "round": 0,
+        "slots": {
+          "qa": 259,
+          "paraphrase": 144,
+          "counterfactual": 86,
+          "multihop": 86
+        },
+        "valid": 351
+      },
+      {
+        "round": 1,
+        "slots": {
+          "qa": 258,
+          "paraphrase": 2,
+          "multihop": 87
+        },
+        "valid": 145
+      },
+      {
+        "round": 2,
+        "slots": {
+          "qa": 258,
+          "paraphrase": 2,
+          "multihop": 87
+        },
+        "valid": 146
+      }
+    ],
+    "n_candidates": 642,
+    "n_after_dedupe": 278,
+    "n_dedupe_removed": 364,
+    "pool_by_kind": {
+      "qa": 94,
+      "paraphrase": 97,
+      "counterfactual": 76,
+      "multihop": 11
+    },
+    "n_selected": 192,
+    "n_rejected": 450,
+    "target": 192,
+    "kept_vs_rejected": {
+      "kept": {
+        "n": 192,
+        "k": 100,
+        "distinct_2_m": 0.4681212611289668,
+        "self_bleu_m": 0.459537351040541,
+        "embedding_dispersion_m": 0.7634755306314192
+      },
+      "rejected": {
+        "n": 450,
+        "k": 100,
+        "distinct_2_m": 0.45326998423757925,
+        "self_bleu_m": 0.6209154914074243,
+        "embedding_dispersion_m": 0.754762369846348
+      },
+      "rejected_by": {
+        "duplicate": 364,
+        "not_selected": 86
+      }
+    },
+    "n_samples": 192,
+    "by_kind": {
+      "qa": 86,
+      "paraphrase": 53,
+      "counterfactual": 43,
+      "multihop": 10
+    },
+    "facts_covered": 32,
+    "n_notes": 32,
+    "metrics": {
+      "n": 192,
+      "distinct_1": 0.14137308039747065,
+      "distinct_2": 0.387865911237016,
+      "distinct_3": 0.5440158259149357,
+      "self_bleu": 0.5492205794951374,
+      "embedding_dispersion": 0.7647814111314417,
+      "k": 100,
+      "distinct_2_m": 0.4681212611289668,
+      "self_bleu_m": 0.459537351040541,
+      "embedding_dispersion_m": 0.763475528033596,
+      "vocab_entropy": 7.450455285605761,
+      "notes_vocab_entropy": 5.819549540071131,
+      "entropy_ratio": 1.2802460455581406
+    },
+    "seconds": 420.33395051956177,
+    "alarm": []
+  },
+  "train": {
+    "train_seconds": 492.45337557792664,
+    "steps": 129,
+    "n_samples": 685,
+    "loss_first": 1.0294798631221056,
+    "loss_last": 0.16348693147301674,
+    "peak_vram_mb": 1244.87451171875
+  },
+  "qa": {
+    "all": {
+      "acc": 0.40804597701149425,
+      "n": 348,
+      "ci95": [
+        0.35768537126076205,
+        0.4604145919044804
+      ]
+    },
+    "today": {
+      "acc": 0.4393939393939394,
+      "n": 66,
+      "ci95": [
+        0.32627930124012827,
+        0.5591757856994607
+      ]
+    },
+    "earlier": {
+      "acc": 0.40070921985815605,
+      "n": 282,
+      "ci95": [
+        0.34521771350983116,
+        0.45886958518986826
+      ]
+    }
+  },
+  "old_skill": {
+    "arc_easy": {
+      "acc": 0.5875,
+      "n": 80,
+      "ci95": [
+        0.4780384112688303,
+        0.6889431348848691
+      ]
+    },
+    "gsm8k": {
+      "acc": 0.15,
+      "n": 40,
+      "ci95": [
+        0.07061091708507435,
+        0.2907262603902003
+      ]
+    },
+    "hellaswag": {
+      "acc": 0.4875,
+      "n": 80,
+      "ci95": [
+        0.38107693944368337,
+        0.5950685539629311
+      ]
+    },
+    "overall": {
+      "acc": 0.46,
+      "n": 200,
+      "ci95": [
+        0.39232931140961247,
+        0.5291783690638533
+      ]
+    }
+  },
+  "alarms": [],
+  "replay": {
+    "reservoir_before_prune": 932,
+    "pruned_stale": 34,
+    "n_past": 274,
+    "n_old": 137,
+    "n_text": 82,
+    "past_by_day": {
+      "1": 69,
+      "2": 69,
+      "3": 68,
+      "4": 68
+    },
+    "batch_n": 685,
+    "max_len": 256,
+    "mean_len": 76.36788321167883,
+    "empty_items": 0
+  }
+}

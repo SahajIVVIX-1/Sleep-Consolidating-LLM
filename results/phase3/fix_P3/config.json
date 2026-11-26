@@ -1,0 +1,75 @@
+{
+  "seed": 0,
+  "out_dir": "results/phase3/fix_P3",
+  "model": {
+    "name": "Qwen/Qwen2.5-0.5B-Instruct",
+    "load_4bit": true,
+    "max_seq_len": 256
+  },
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "epochs": 3,
+    "lr": 0.0002,
+    "micro_batch": 2,
+    "grad_accum": 8,
+    "gradient_checkpointing": true,
+    "lean_logits": true,
+    "replay_epochs": 99,
+    "lr_min": 0.0,
+    "kl_weight": 0.1
+  },
+  "world": {
+    "seed": 0,
+    "facts_min": 20,
+    "facts_max": 50,
+    "update_frac": 0.2
+  },
+  "dream": {
+    "samples_per_note": 6,
+    "mix": {
+      "qa": 0.45,
+      "paraphrase": 0.25,
+      "counterfactual": 0.15,
+      "multihop": 0.15
+    },
+    "qa_temp": 0.5,
+    "para_temp": 0.9,
+    "cf_temp": 0.9,
+    "top_p": 0.95,
+    "max_new_tokens": 48,
+    "retries": 2,
+    "regulariser": false,
+    "overgen": 3.0,
+    "dedupe_cos": 0.92,
+    "min_per_fact": 3,
+    "cap_per_fact": 12,
+    "alarm_drop": 0.15,
+    "temp_bump": 0.1,
+    "temp_cap": 1.2,
+    "variety_base": 3,
+    "adaptive": false,
+    "pool_factor": 2.0,
+    "max_rounds": 3,
+    "relax_factor": 1.5
+  },
+  "eval": {
+    "probe_arc": 80,
+    "probe_hellaswag": 80,
+    "probe_gsm8k": 40,
+    "wikitext_tokens": 50000,
+    "top_k_notes": 5
+  },
+  "replay": {
+    "enabled": false,
+    "ratio": 0.3,
+    "reservoir_cap": 1500,
+    "n_old_skill": 400,
+    "v2": false,
+    "past_frac": 0.4,
+    "old_frac": 0.2,
+    "text_frac": 0.0,
+    "n_text": 300
+  }
+}
